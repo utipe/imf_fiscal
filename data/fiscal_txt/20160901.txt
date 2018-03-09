@@ -1,0 +1,777 @@
+       
+
+ 
+GROUP OF TWENTY
+
+GLOBAL PROSPECTS AND POLICY CHALLENGES  
+
+G-20 Leaders’ Summit
+September 4–5
+Hangzhou, China
+
+ 
+
+Prepared by Staff of the
+I N T E R N A T I O N A L M O N E T A R Y F U N D*
+*Does not necessarily reflect the views of the IMF Executive Board.
+
+EXECUTIVE SUMMARY
+The global outlook for growth remains subdued. Financial markets have largely recovered from their
+immediate plunge following the United Kingdom referendum. Recent data, however, show muted
+activity, slower trade growth, and very low inflation, pointing to an even more modest pace of global
+growth this year. Despite record-low interest rates, investment continues to disappoint, reflecting
+demand conditions as well as high corporate sector debt and weak financial sector balance sheets in
+many countries. Weak investment further dampens underlying potential growth, which is already low
+due to dismal productivity trends, and demographic factors.
+Low and falling growth along with rising inequality make for a challenging policy environment.
+The weak outlook can further reduce incentives to invest and slow down trade, adding to demand
+shortfalls and limiting the room for productivity gains going forward. At the same time, income growth
+has not only been meager, it has bypassed low-income earners in many countries, raising anxiety about
+globalization and worsening the political climate for reform. These developments threaten to open
+another negative dynamic, in which political action fails to deliver the structural reforms needed to lift
+growth and instead turns toward inward-looking assaults on free trade.
+The balance of risks remains skewed to the downside. Potential threats to growth include stalled
+reforms and protracted low inflation that dampens inflation expectations further, raises real interest
+rates, and, thereby, lowers incentives to invest. China’s transition to a more balanced growth path could
+face difficulties with potentially significant spillovers. In addition, geopolitical risks and uncertainties
+about the steps to follow the “Brexit” vote continue to threaten the outlook, especially in Europe, where
+financial institutions are facing a number of challenges.
+Sustainably higher and inclusive growth requires more forceful, comprehensive, and wellcommunicated policies, including greater cooperation on the global policy agenda. Given that
+many interconnected factors restrain growth, policymakers must work all necessary levers. At the same
+time, it will be important to explain to the public the benefits of decisive action and, where necessary,
+provide effective support to those who disproportionately shoulder the burden of adjustment. A
+comprehensive approach demands:
+
+
+Reforms to raise underlying growth. Country needs differ, but collectively the G-20 is falling short of
+its ambition to raise GDP by an additional 2 percent by 2018 (“2 in 5”). More progress is urgent. At
+a minimum, countries should strive for swift implementation of all announced measures, but in
+many cases, additional efforts will be needed. These would be most effective when prioritized
+around each country’s reform gaps, level of development, and cyclical position.
+
+
+
+Shorter-term policies to support reforms and contain risks. Where demand is still lacking, fiscal and
+monetary policies can support short-term growth while accelerating the positive impact of
+structural reforms—for example, by allowing new job seekers to find work faster. With policy
+interest rates near or at their effective lower bounds in many countries, fiscal policy has an especially
+vital role to play—including through additional public investment where there is fiscal space,
+making tax-benefit structures more efficient and equitable, and addressing private sector debt
+overhangs and balance sheet problems. Both fiscal and monetary policy will be more effective when
+operating within coherent frameworks that anchor inflation expectations and ensure fiscal
+resiliency, thereby broadening the scope for countercyclical policies where necessary.
+
+
+
+Coordinated action to make the case for growth and adjustment. G-20 leaders should seize the
+opportunity to explain how the right policies can raise growth, ensure that it is widely shared, and
+help those who need to adjust to the changing global economy. At the national level, best practice
+should build worker skills and foster mobility, and can include income policies, among other
+approaches. Globally, promoting trade integration, reducing external imbalances, and managing
+spillovers remain essential.
+
+__________________________________________________________________________________________________________
+
+Prepared by a team from the IMF’s Research Department led by Helge Berger, and including Sweta Saxena, Johannes
+Wiegand, Eric Bang, and Pankhuri Dutt.
+
+RECENT DEVELOPMENTS, OUTLOOK AND RISKS
+The global outlook remains subdued, with unfavorable longer-term growth dynamics and domestic
+income disparities adding to the challenges faced by policymakers. Recent developments—including
+very low inflation, along with slowing investment growth and trade—broadly confirm the modest pace
+of global activity. The decline in investment, exacerbated by private sector debt overhangs and financial
+sector balance sheet issues in many countries, low productivity growth trends, and demographic factors
+weigh on long-term growth prospects, further reducing incentives for investment despite record-low
+interest rates. A period of low growth that has bypassed many low-income earners has raised anxiety
+about globalization and worsened the political climate for reform. Downside risks still dominate.
+
+STILL WEAK OUTLOOK
+1.
+Recent developments broadly confirm the subdued outlook. High frequency data points
+to softer growth this year, especially in G-20 advanced economies, while the performance of emerging
+markets is more mixed. In particular:
+
+
+G-20 Real GDP Growth
+In advanced economies, recent data point to somewhat weaker
+(percent; PPP-weighted; 5-year moving average)
+growth this year. In the United States, the first estimate of second
+G-20 Adv.
+G-20 Emg. ex. China
+quarter GDP growth came in at 1.1 percent (over the first quarter, 7
+China (rhs)
+14
+12
+seasonally adjusted and at an annual rate), less than half the level 6
+10
+5
+of the consensus forecast, reflecting a drag from inventories but
+8
+4
+also growing divergence between buoyant consumer spending 3
+6
+4
+2
+and disappointing business investment. This outturn suggests
+2
+1
+that growth in 2016 will likely be weaker than expected. In 0
+0
+95 97 99 01 03 05 07 09 11 13 15
+contrast, the moderation in euro area and Japanese GDP growth
+Sources: IMF, World Economic Outlook; and IMF
+staff calculations.
+was broadly as expected (with euro area growth coming in
+slightly slower than forecasted). And in the United Kingdom, while second-quarter growth
+surprised on the upside, more recent data foreshadow a sharp slowdown after the referendum.
+Further ahead, the outlook will be affected by the degree to which the future relationship with the
+European Union can preserve the benefits of economic integration and trade.
+
+
+
+Economic performance differs across emerging economies. In China, second-quarter growth
+remained steady at 6.7 percent as rebalancing continued, with stronger growth in consumption
+than investment, and services outperforming industry. In India, high-frequency data suggest
+continuing strong growth, underpinned by private consumption. While there are indications that
+GDP continued to contract throughout the first half of 2016 in Brazil, reflecting, among other
+things, tight financial conditions, the outlook has improved somewhat in recent months, with
+exports and industrial production reacting positively to currency depreciation and business
+confidence beginning to return. In Russia, the economic contraction has reached a bottom, and
+the outlook has improved as a result of declining financing costs and better oil prices. In Turkey,
+
+2
+
+INTERNATIONAL MONETARY FUND
+
+strong growth momentum appears to have been slowing, and recent political events add further
+uncertainty to the outlook.
+2.
+Weak growth is also reflected in low inflation across
+most advanced and emerging economies. New IMF research finds
+that insufficient demand (measured by high cyclical unemployment)
+and reduced commodity prices are the main drivers of low inflation
+since the Great Recession. In addition, excess industrial capacity in
+large exporters also contributes to lower inflation by putting
+downward pressure on prices of tradable goods.1 A prolonged
+period of very low inflation could de-anchor inflation expectations
+and, with the scope for cuts in nominal interest rates limited, raise
+the real cost of borrowing and weigh on investment.
+
+G-20 CPI Inflation
+
+(percent; PPP-weighted; 5-year moving average)
+270
+
+G-20 Emg.
+
+G-20 Adv. (rhs)
+4
+
+190
+110
+
+3
+
+30
+15
+
+2
+
+10
+1
+
+5
+0
+
+0
+95 97 99 01 03 05 07 09 11 13 15
+Sources: IMF, World Economic Outlook; and
+IMF staff calculations.
+
+Stock Market Index
+3.
+Financial markets have largely recovered from their lows
+(index; June 23, 2016=100)
+following the United Kingdom referendum, but potential
+S&P 500 index
+Emerging
+FTSE 250 1/
+Euro banks
+weaknesses remain in the financial sector. While political 120
+Euro n on- banks
+Brexit v ote
+uncertainty remains concerning the development of the relationship 110
+between the United Kingdom and European Union, short-term 100
+90
+turbulence has ebbed. Bank equities remain under pressure, however,
+80
+with particular tensions surrounding Italian banks. The European
+8/24
+70
+Banking Authority’s recent stress test points to possible
+Jan-16
+Mar-16 May-16
+Jul-16
+Source: Bloomberg, L.P.
+vulnerabilities under a stress scenario, including for three globally 1/ Capitalization-weighted index of the 250 most
+highly capitalized companies, outside of the FTSE
+systemic institutions, underscoring challenges to banks’ financial 100, traded on the London Stock Exchange.
+health posed by the large stock of non-performing loan—estimated at about 8 percent of GDP (in
+gross terms) in the euro area in mid-2015—as well as weak growth and low interest rates.
+
+RISKS AND FEEDBACK LOOPS
+4.
+
+Downside risks remain significant, including through global spillovers.2 In particular:
+
+
+
+Financial volatility could return, triggered by geopolitical tensions or risks associated with the
+negotiations after the “Brexit” vote. The global growth outlook could be further undermined by a
+lack of consensus for reform or rising real interest rates triggered by a drop in inflation expectations.
+
+
+
+The growing clout of emerging markets means that developments there can be felt globally.
+Possible risks include turbulent patches in China’s welcome transition to a more sustainable but
+lower growth path, which could generate significant spillovers, most directly through trade and
+commodity-market channels.
+
+1
+
+IMF, forthcoming, World Economic Outlook, Chapter 3, “Global Disinflation in an Era of Low Oil Prices and Constrained
+Monetary Policy.”
+
+2
+
+IMF, forthcoming, World Economic Outlook, Chapter 4, “Spillovers—Transitions and Disruptions.”
+
+INTERNATIONAL MONETARY FUND
+
+3
+
+
+
+Non-economic risks continue to play a significant role as well: these include acts of terrorism,
+contagious diseases, and climate-related shocks, such as droughts. While past experience
+suggests that migration offers potential long-term gains for recipient countries, it can also create
+social tensions and political backlash. The tragedy of large-scale refugee flows entails not only
+these strains, but also the humanitarian challenge of absorbing traumatized populations.
+
+LONGER-TERM PROBLEMS
+5.
+The longer term outlook remains disappointing. After a strong post-crisis recovery, growth
+in emerging market G-20 economies has declined over the past five years. Looking ahead, growth
+rates are projected to evolve broadly in line with the historical (1990–2007) average of around
+5½ percent. At the same time, at around 1½ percent, the medium-term growth outlook of advanced
+G-20 economies is a full percentage point lower than the historical average of 2½ percent. This decline
+reflects some well-known, deeply intertwined forces, including: demographic factors; a persistent
+reduction in productivity growth that set in already before the crisis; and the drop in investment,
+exacerbated by high private corporate sector debt and weak bank balance sheets in many countries.
+In 2016, the level of G-20 advanced economy investment relative to GDP is expected to be about
+2 percentage points lower than on average during 1990–2007. Moreover, in a negative feedback loop,
+the resulting weakness in the global outlook can further lower incentives to invest and slow trade,
+which will, in turn, weigh on underlying potential growth.
+6.
+Widening income gaps add to the challenge. Not only has
+overall income growth declined, in many countries it has continued to
+bypass low-income earners, raising concerns about globalization and
+making the political climate even more challenging for reform. For
+example, during the last 30 years, the income going to top earners has
+been increasing in a number of advanced economies, while it has been
+stagnant for those at the bottom. Rapid increases in income inequality
+have also accompanied the growth and convergence process in many
+emerging economies. Where rising income inequality threatens to
+feed a political climate that rejects reform and favors inward-looking
+policies, another negative dynamic can arise, where needed structural
+reforms stall, global integration is thrown into reverse, and
+opportunities for higher growth are wasted.
+
+G-20 Advanced: Evolution of Average
+Household Income 1/
+
+(2005 PPP dollars; thousands)
+Bottom forty percent
+Middle quintile
+400
+Top decile
+350
+300
+250
+200
+150
+100
+50
+0
+89
+94
+00
+04
+07
+
+10
+
+Sources: Luxembourg Income Survey/New
+York Times Income Distribution Database
+(2014); and IMF staff calculations.
+1/Mean equivalised income of Canada,
+Germany, Italy, United Kingdom, and United
+States.
+
+LACK OF AMBITIOUS REFORMS
+7.
+A lack of structural reforms and public investment, including among G-20 countries, is
+a key reason behind low growth. At the Brisbane Summit in 2014, G-20 leaders pledged to lift their
+collective GDP by an additional 2 percent by 2018 (“2 in 5”), and they committed to additional
+measures during the Antalya Summit and in preparation for their Hangzhou meeting. However, the
+assessment of IMF, OECD, and World Bank suggests that:
+
+4
+
+INTERNATIONAL MONETARY FUND
+
+
+
+Implementation has been modest since Antalya. As of now, only about 55 percent of the Brisbane
+and 45 percent of the Antalya key commitments have been fully implemented.
+
+
+
+Of the new commitments proposed for Hangzhou, about two thirds have been assessed as new.
+Even if fully implemented immediately, however, they would have only a minimal impact by 2018.
+
+
+
+With 2018 drawing closer, the Brisbane goals seem out of reach.
+Overall, the fully implemented measures are estimated to
+increase collective G-20 GDP by close to 1 percent by 2018, well
+short of the “2 in 5” ambition. Even under the extreme
+assumption of full implementation of all outstanding
+commitments, the lasting impact on the level of G-20 GDP
+would be only around 1½ percent. These calculations take into
+account the positive spillovers from the simultaneous
+implementation of measures across all G-20 members. About
+60 percent of the expected increase by 2018 is due to
+commitments by G-20 emerging markets, which represent
+about half of aggregate G-20 GDP.
+
+G-20 Tariffs and Imports
+(simple average)
+
+120
+
+G20 AEs tariffs (1980=100) 1/
+G20 EMs tariffs (1980=100) 1/
+G20 imports (percent of GDP; rhs)
+
+29
+
+100
+
+27
+
+80
+
+25
+23
+
+60
+
+21
+
+40
+
+19
+
+20
+
+17
+
+0
+
+15
+80
+85
+90
+95
+00
+05
+10
+15
+Sources: UNCTAD Trade Analysis and
+Information System; WTO Tariff Dow nload
+Facility; forthcoming Chapter 2, October 2016,
+IMF, World Economic Outlook; and IMF staff
+calculations.
+1/ Index; the level of tariff rates is higher in
+emerging market economies than in advanced
+countries.
+
+8.
+Lack of determined policy action has also contributed to the slowdown in international
+trade—which, in turn, likely has negative effects on growth. Recent IMF research suggests that
+during 2012–15, the growth of goods and services imports slowed in
+Temporary Trade Barriers
+(percent of products)
+most countries. While three-fourths of this drop can be traced to
+3
+Antidumping
+Countervailing duties
+weaker economic activity, notably weak investment, the waning pace
+Safeguards
+of trade liberalization and a recent uptick in protectionist measures
+Temporary trade barriers
+2
+have added to the downward momentum.3 Such reductions in global
+trade can feed back to lower GDP growth. For example, trade allows
+1
+economies to specialize in producing goods and services in which
+they have a comparative advantage, and to exploit economies of
+0
+90
+95
+00
+05
+10
+15
+scale and scope. Moreover, trade can improve productivity at the
+Sources: Bown (2015); World Bank Temporary
+level of individual firms by—among other things—providing
+Trade Barriers Database; forthcoming Chapter 2,
+October 2016, IMF, World Economic Outlook; and
+opportunities for learning, spreading technological innovations, and
+IMF staff calculations.
+increasing the incentives to invest to access new markets. Thus,
+slowing trade risks inhibiting a key growth engine for the global economy. All this would come against
+a backdrop of global external imbalances that widened modestly in 2015, for the first time since 2010.4
+
+3
+
+IMF, forthcoming, World Economic Outlook, Chapter 2, “Global Trade: What’s Behind the Slowdown?”
+
+4
+
+IMF, 2016, External Sector Report.
+
+INTERNATIONAL MONETARY FUND
+
+5
+
+POLICIES
+Sustainably higher and inclusive growth requires more forceful and comprehensive policies. With
+multiple interdependent factors holding back growth, policymakers have to work all necessary levers—
+structural policies (including to promote financial stability and trade), fiscal policies, and monetary
+policy. Depending on country needs, comprehensive action will combine structural reforms with demand
+support, anchored by coherent and well-communicated policy frameworks. Where interest rates are at
+or near their effective lower bounds, fiscal policy must play a larger role. At the same time, policymakers
+can raise confidence by explaining to citizens the benefits of reform and, where necessary, providing
+effective support to those who disproportionately shoulder the burden of adjustment. Efforts to advance
+global trade integration, lower financial stability risks, and address geopolitical spillovers remain vital.
+
+HIGHER INCLUSIVE GROWTH
+9.
+It will take stronger efforts to raise flagging underlying growth rates. While countries’
+reform and public investment needs differ, the G-20 is collectively falling short of its “2 in 5” ambition.
+Hence, more progress is urgent. It will not happen without quick implementation of all announced
+measures and significant additional efforts to boost productivity, especially in advanced economies.
+10.
+Structural reforms—prioritized to maximize impact and combined with complementary
+macroeconomic policies when needed—are essential. Recent IMF research shows that structural
+reforms are most effective when they directly address an economy’s known structural policy gaps and
+take account of its level of development, its position in the business cycle, and the available
+macroeconomic policy space. For example, some labor market reforms benefit employment more
+when demand is already strong—as this helps job seekers find work faster—or when fiscal and
+monetary policies can provide support. Other measures, such as lowering barriers for new firms to
+enter product and services markets, tend to have immediate demand benefits by raising investment
+and are, therefore, less dependent on the state of the business cycle. The IMF prepared detailed
+country-by-county recommendations along these lines on the occasion of the Finance Ministers and
+Central Bank Governors’ Meetings in July 2016.5 A combination of structural reforms and more
+expansionary demand policies in surplus economies can also help reduce global external imbalances.
+11.
+Pushing forward with the right reforms and policies helps ensure that the economy’s
+rewards are widely shared. Important steps include:
+
+
+Targeted measures to achieve higher and more inclusive growth and facilitate adjustment. For
+example, well-chosen public investment in education holds the potential to raise underlying
+growth and, at the same time, increase the human capital and earning potential of low-income
+earners. Public support for re-training and facilitating worker mobility can help those who bear
+
+5
+
+IMF background paper “Priorities for Structural Reforms in G-20 Countries” for the G-20 Surveillance Note for the
+Finance Ministers and Central Bank Governors’ Meetings, July 23–24, 2016, Chengdu, China.
+
+6
+
+INTERNATIONAL MONETARY FUND
+
+the burden of adjusting to reforms or to other changes, such as those related to technology and
+globalization.
+
+
+Reforms that help growth and create fiscal space. Reforms that create fiscal space are particularly
+valuable in this context, as they not only promise to lift growth but also create resources to support
+structural adjustment where necessary. IMF research shows that in the past, product market
+reforms in advanced economies boosted GDP levels enough to reduce debt-to-GDP ratios by an
+average of 4 percentage points. Similarly, better public investment management will make
+government spending more effective and free up resources—for example, rigorous and
+transparent processes for the appraisal, selection, and approval of projects boost public
+investment efficiency, especially in emerging markets.
+
+
+
+Steps to share growth more widely. Where inequality-related strains threaten to reduce the political
+will for necessary structural reforms, changes to the tax-benefit system (including more
+progressive income taxation) and income policies (such as an expansion of the Earned Income Tax
+Credit and higher minimum wages in the United States) can help ensure that growth is more
+inclusive. Strengthening social safety nets can play an especially important role in emerging
+markets. Both tax and expenditure policies need to be carefully calibrated to balance equity and
+efficiency goals—for example, by phasing out income support only gradually with higher income,
+to avoid negative effects on labor market participation.
+
+MACROECONOMIC AND FINANCIAL POLICIES TO SUPPORT DEMAND AND REFORMS
+12.
+Several policies can be deployed now to support reforms and contain risks. Where
+demand is still lacking, there is scope for macroeconomic policies to help short-term growth while
+advancing the impact of structural reforms. In Europe, the resolution of non-performing loans should
+be accelerated through a combination of stricter supervision, insolvency reform, and the facilitation
+of secondary markets in distressed debt. This process will benefit from continuing macroeconomic
+support—including, for example, through the use of tax incentives and by providing protection for
+vulnerable households. Safeguarding banking system stability is also a priority. In Japan, the recently
+announced additional fiscal stimulus is set to boost demand (along with expansionary monetary
+policy), but it also provides an opportunity to accelerate the impact of much-needed structural
+reforms, in particular in the labor market. In many emerging markets, financial market reforms have
+the potential to assist the effective transmission of monetary policies while allowing for sustainable
+credit expansions.
+13.
+Where inflation is still well below targets, monetary policy should remain expansionary,
+using all available instruments—for example, in Japan and the euro area. In the United Kingdom, a
+range of recent monetary and other policy measures by the Bank of England will support the economy
+and thereby mitigate downside risks. In the United States, monetary policy should continue to remain
+data-dependent, while downside risks to the outlook confirm the case for a very gradual upward path
+for the federal funds rate.
+
+INTERNATIONAL MONETARY FUND
+
+7
+
+14.
+Where monetary policy operates near or at the lower bound, growth-friendly fiscal
+policy has an important role to play. Indeed, a strategy of deploying all available tools can counter
+damaging perceptions that the policy space to use individual instruments might be limited. Taking
+advantage of the current low interest rate environment and depending on the availability of fiscal
+space, there is a case for more public investment. Other helpful measures include adjusting the
+composition of spending toward public investment and moving the revenue structure toward indirect
+and other taxes relatively less detrimental to growth. In a number of countries, it may be appropriate
+to devote fiscal resources to reduce private sector debt overhangs and repair financial sector balance
+sheets.
+
+
+For example, in Germany, the room available under the fiscal rules should be used to finance
+identified needs in public investment and growth friendly structural reforms. At the same time,
+centralized investment at the euro area level should be expedited and expanded in order to
+stimulate domestic demand while raising potential growth across all member countries.
+
+
+
+India has recently taken important steps toward a national goods and services tax which, when
+fully implemented, promises to boost tax buoyancy and growth, including by enhancing the
+efficiency of the internal goods and services market.
+
+15.
+Macroeconomic policies are most effective when deployed within coherent frameworks.
+It is crucial that fiscal frameworks limit long-run public sector balance sheet risks, while allowing for
+counter-cyclical demand support and rising deficits when the economy is weak, but ensuring that
+fiscal space is rebuilt when growth is robust. Credible monetary frameworks that anchor long-run
+inflation expectations can accommodate spikes in inflation rates over the short to medium term. In
+this context, the recent formal adoption of a symmetrical inflation target by India should provide a
+robust institutional foundation for maintaining price stability. Where inflation targeting frameworks
+are already established, improving the transparency of instruments and policy objectives can provide
+further assurance that contractionary shocks will be absorbed.
+16.
+Policymakers should also address medium-term financial stability risks. These include
+rising challenges to financial institutions from low growth and interest rates, increased vulnerabilities
+in emerging markets, and greater systemic market liquidity risks. Advanced economies must deal with
+crisis legacy issues by accelerating the resolution of non-performing loans, and take structural
+measures to safeguard banking sector stability. For insurance companies, a more macroprudential
+approach to supervision will help contain risks. Emerging markets should foster a smooth
+deleveraging process for over-leveraged companies, including by strengthening macroprudential and
+supervisory frameworks, encouraging swift and transparent recognition of non-performing loans,
+rebuilding bank buffers, and enhancing insolvency frameworks.
+
+COMMON CAUSES
+17.
+The G-20 should make the positive case for globalization. Domestically, the key to
+sustainably higher and more inclusive growth is to combine structural reforms and demand support
+within coherent policy frameworks, while remaining sensitive to the distributional impact of policies.
+8
+
+INTERNATIONAL MONETARY FUND
+
+At the global level, revitalizing trade can make a critical contribution—by helping to spread knowledge
+and technology, raise productivity, and multiply the incentives for innovation and new product
+development. G-20 leaders can champion this agenda by presenting a clear and persuasive narrative
+showing how the right policies will not only raise growth, but also ensure that it is shared by all,
+including those who shoulder the burden of adjustment to a changing world economy.
+18.
+Restoring the role of trade in supporting economic growth requires a determined global
+policy effort, to further reduce trade costs and roll back the recent increase in temporary trade
+barriers (see Annex). Regional trade agreements can help advance policy in certain “frontier” areas
+(such as regulatory cooperation or investment) and contribute to advancing reform more generally.
+But progress in regional agreements alone is not enough: it is important to move ahead also with an
+ambitious agenda in the World Trade Organization’s (WTO) and its unique reach and well-developed
+legal and institutional structure, to help ensure coherence across the global trading system. To make
+trade work for all and make a convincing case for trade liberalization, policymakers should address
+the concerns of those who are adversely affected, including through effective support for re-training,
+skill building, and occupational and geographic mobility. In addition, tax policy coordination could
+address concerns related to tax base erosion.
+19.
+Another joint task on the global agenda is to manage spillovers. Salient challenges
+include:
+
+
+Coordinating the response to negative geopolitical shocks: The international community has a
+crucial role in facilitating financial and other support for countries most affected by, among other
+important setbacks, epidemics, famines, armed conflicts, and refugee surges.
+
+
+
+Adjusting to migration. Both refugee and economic migration can have a significant impact on
+receiving and sending countries. Swift labor market integration in recipient countries is key for
+harnessing potential growth gains, enhancing migrants’ net contribution to the fiscal accounts,
+and reducing possible social tensions. Depending on the underlying drivers of migration, source
+countries need policies to address “brain drain” and maximize the benefits from remittances and
+diaspora networks.
+
+
+
+Managing economic transition. China’s rebalancing and convergence to more sustainable growth
+will ultimately benefit the global economy. Along this transition, many trading partners will have
+to adapt to structurally lower demand and its impact on commodity prices. China can help,
+including by accepting moderately lower near-term growth, bolstering financial-sector resilience,
+and clearly communicating policy intentions.
+
+
+
+Completing the international regulatory agenda. This task requires a global effort, across both
+advanced and emerging markets. Key outstanding challenges include: improving regulation and
+oversight of nonbanks; ensuring regulators’ capacity to resolve globally systematic financial
+institutions; and strengthening the resilience of central counterparty clearing for derivatives.
+
+INTERNATIONAL MONETARY FUND
+
+9
+
+
+
+10
+
+Strengthening the international financial architecture. Given the high interconnectedness of the
+international financial system, and still excessive external imbalances in some regions,
+policymakers should strive for a better coordinated and adequately resourced global financial
+safety net and strengthen frameworks for preventing and resolving sovereign debt crises.
+
+INTERNATIONAL MONETARY FUND
+
+ANNEX. Reinvigorating Trade to Promote Global
+Economic Growth
+The slowdown in global trade, especially since the global financial crisis, can be explained significantly
+by weak economic growth and investment, but also by a slow pace of global trade reforms—compared
+to the 1990s and early 2000s—compounded by a recent increase in protectionism. Reinvigorating trade
+reform would help to boost productivity and growth, with especially large benefits possible from frontier
+trade policy areas such as services, electronic commerce, regulatory cooperation, and investment and
+trade complementarities. After a decade of stalemate, governments should quickly establish an agenda
+for multilateral trade negotiations that addresses these and other key issues. Finding a way forward may
+require using the diverse alternatives within the WTO including plurilateral agreements. To make trade
+an engine of growth for all, enhanced policies to help those adversely affected are needed.
+Six years after the world economy emerged from a deep recession, a return to broad-based,
+robust global economic growth remains elusive. Getting the global economy back on track
+requires a more potent policy mix across macroeconomic and structural policies. But in trade policy,
+where cooperation is especially critical, far too little has been achieved.
+Global trade growth has fallen significantly. The volume of goods and services trade has grown
+only 3 percent a year since 2012, under half the rate in the two decades before the crisis. Seen
+differently, from the mid-1980s into the 2000s trade grew at double the pace of GDP; in the past four
+years it has barely kept pace. Such prolonged weak trade growth has few precedents.
+The trade slowdown has been broad based. It has occurred in most countries. And while it has
+especially affected trade in goods—falling for 85 percent of product categories, with trade in capital
+and intermediate goods falling most sharply—it has also affected trade in services.
+Forthcoming IMF analysis shows that much of the slowdown since the crisis reflects shifts in
+the level and composition of growth, including weak investment. As highlighted in Chapter 3 of
+the April 2016 WEO, the slow pace of trade and other structural reforms may be one of the reasons
+behind weak investment and growth.
+The analysis also finds that trade has slowed more than can be accounted for by weak growth
+and investment alone. Recent trade growth is 1–1¾ percentage point a year less than would be
+expected based on the historical relationship between trade flows and economic activity. Together
+the prolonged slow pace of trade reform and a recent increase in protectionism may have halted or
+even reversed declines in overall trade costs, and contributed to declining trade growth.
+There is a strong case to revive the virtuous cycle of reducing trade costs and raising trade and
+growth. Trade reforms foster competition, technology transfer, and productivity gains, and augment
+other structural reforms, boosting growth. Reinvigorating trade integration should become a central
+component of the global policy agenda, focusing on trade policy areas most critical to growth and on
+demonstrating to the public the contribution of open trade policy to jobs and prosperity.
+Trade policy cooperation supported increased trade in the past. Developing country reforms and
+such initiatives as the expansion of the European Union and European Economic Area, the Uruguay
+Round (1994) and creation of the WTO, and China’s WTO accession (2001) strengthened the global
+trade policy landscape and contributed to a period of strong growth in trade, productivity, job
+creation, and economic prosperity.
+INTERNATIONAL MONETARY FUND
+
+11
+
+A slow pace of global trade reform in the past decade contrasts with that experience. At the
+same time, new trade restrictions imposed since the global financial crisis are not innocuous, and
+could weigh on global trade if they become more widespread.
+Building public support for trade should be a policy and communications priority. Trade is not
+an objective but a tool to improve lives. G-20 countries can do more to show how trade is bringing
+innovation, higher living standards, more and better jobs, and reduced global poverty. But—and
+where policy may fall short—governments should also help the individuals and communities that face
+the burden of trade adjustment so that they also share in the benefits.
+Addressing “frontier” trade areas would go far in restoring the role of trade in driving global
+growth. Issues such as tariffs and agriculture are vital to many countries and to reach a negotiating
+balance, but some areas have great potential to raise productivity and growth. These include:
+
+
+Regulatory cooperation to reduce trade costs. The large trade frictions that result from regulatory
+differences have led negotiators to begin to bring regulatory cooperation matters into trade
+agreements. Apart from certain areas like financial regulation, where cooperation is being pursued
+through the FSB, IOSCO, and other bodies, there is great scope to build on the provisions in
+regional agreements and to bring them into the multilateral system to be applied more broadly
+on a multilateral or plurilateral basis.
+
+
+
+Investment and trade complementarities. Policy barriers still obstruct much foreign direct
+investment (FDI), despite that trade and investment go together in the operation of global value
+chains. FDI governance is fragmented among some 3000 bilateral investment treaties and other
+agreements, leaving a confusing landscape for investors.
+
+
+
+Services and digital trade. Services comprise two thirds of global GDP and employment, and a
+quarter of global trade (nearly half on a value-added basis), while innovation in electronic
+commerce (e-commerce) has reshaped the trade landscape. Barriers to services trade and to ecommerce remain large, however, and reforms have tremendous potential to promote global
+trade, productivity, and growth.
+
+The WTO is the ideal venue and structure for a trade policy agenda focused on global growth.
+Regional trade agreements (RTAs) have certain advantages and can lead the way on frontier issues,
+but lack the WTO’s institutional and legal framework and near-global membership. Without similarly
+ambitious advances at the global level, a further proliferation of RTAs risks evolving into a system in
+which traditional trade matters are overseen in the multilateral trading system and regulatory and
+other frontier matters are negotiated elsewhere. It is important to integrate into the WTO the many
+advances taking place outside it.
+With further trade integration being key to global economic prospects, there is an urgent need
+to agree on a way forward for global trade. Fifteen years of WTO Doha negotiations suggests that
+alternatives to large-scale ‘single undertakings’ may be needed. Indeed, progress has been made in
+the WTO recently through the Trade Facilitation Agreement, revised Agreement on Government
+Procurement, expanded Information Technology Agreement, and the ministerial decision to eliminate
+farm export subsidies.
+These demonstrate the diverse alternatives within the WTO architecture, including WTO
+plurilateral agreements. Tackling the frontier trade policy issues at the global level, rather than just
+the regional level, may require further use of such flexible approaches.
+
+12
+
+INTERNATIONAL MONETARY FUND
+
+

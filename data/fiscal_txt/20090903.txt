@@ -1,0 +1,3556 @@
+Group of Twenty
+
+Meeting of G-20 Ministers and Deputies
+September 3-4, 2009
+London, United Kingdom
+
+Global Economic Prospects and
+Policy Challenges
+
+Prepared by Staff of the International Monetary Fund
+
+Table of Contents
+Executive Summary .................................................................................................................. 1
+I. Recent Developments, Prospects, and Risks ......................................................................... 3
+A. Recent Developments ...................................................................................................... 3
+B. Short-term Prospects ........................................................................................................ 9
+C. Risks ............................................................................................................................... 12
+II. Policy Implementation and Effectiveness .......................................................................... 14
+A. Financial Sector Policies................................................................................................ 14
+B. Monetary Policy ............................................................................................................. 16
+C. Fiscal Policy ................................................................................................................... 19
+III. Exiting From Extraordinary Public Support ..................................................................... 24
+A. Financial Sector Support................................................................................................ 24
+B. Central Bank Support ..................................................................................................... 25
+C. Fiscal Support................................................................................................................. 27
+Box
+I. Assessing Growth Momentum ............................................................................................. 5
+Figures
+1. Selected Global Economic Indicators....................................................................................4
+2. Financial Developments.........................................................................................................6
+3. Assessing the Effectiveness of Policy Measures .................................................................18
+Tables
+1. Overview of the World Economic Outlook Projections ......................................................10
+2. G-20 Countries: Fiscal Expansion .......................................................................................17
+3. Fiscal Stimulus Implementation Status for G-20 Countries ................................................21
+4. G-20 Countries: Impact of Fiscal Expansion on Growth.....................................................22
+5. Headline Support for Financial and Other Sectors and Upfront Financing Need ...............23
+6. Financial Sector Support: Amount Utilized Relative to Announcement,
+Selected Countries ..........................................................................................................23
+7. Debt Dynamics and Debt Stabilizing Primary Balance.......................................................29
+Appendix Table
+1. General Government Debt and Primary Balance.................................................................32
+
+Executive Summary1
+The global economy is beginning to pull out of its deepest recession since the Great
+Depression, but the recovery is uneven and remains dependent on policy support.
+Following a sharp decline in the first quarter of 2009, output in the second quarter has begun
+to expand in some advanced and many emerging economies—led by Asia—but in much of
+the world activity remains depressed.
+Financial conditions in mature and emerging markets have continued to improve. The
+unprecedented response of both financial and macroeconomic policies and increasing signs
+of a turnaround in global activity have reduced the risk of systemic collapse and helped
+restore market confidence. Nonetheless, the global financial system is far from returning to
+normal, and many markets remain highly dependent on public support. In emerging
+economies, financial pressures have receded but some countries remain vulnerable to
+deleveraging in advanced economies and potential shocks to growth.
+Going forward, the pace of recovery will be sluggish. Policy support and the turn in the
+inventory cycle—which are driving the recovery at the moment—will gradually lose
+impetus. Private demand is likely to be held back for some time by limited credit availability,
+household desire to rebuild balance sheets, and still-rising unemployment.
+Downside risks to the recovery are receding gradually but remain a key concern. The
+overarching risk is that the recovery stalls. Premature exit from accommodative monetary
+and fiscal policies could undermine the nascent recovery. Moreover, financial strains could
+persist or even intensify further, particularly if efforts to restore health to bank balance sheets
+are not followed through forcefully.
+G-20 countries have implemented bold and wide-reaching measures to address the
+financial crisis and global recession, yielding tangible benefits.
+
+
+While financial sector policies have been instrumental in stabilizing market
+conditions, additional measures are needed to restore the financial system to health,
+including further recapitalization and dealing with problems assets.
+
+
+
+Forceful monetary easing, alongside enhanced credit and liquidity support, have
+helped to ease financial stress and support activity. In emerging economies, rising
+
+1
+
+This note was prepared by an inter-departmental team led by Hamid Faruqee and Julie Kozack, with Kevin
+Cheng, Chanpheng Dara, David Reichsfeld, and Marina Rousset (Research Department); Mark Horton,
+Manmohan S. Kumar, Paolo Mauro, Gabriela Dobrescu and Mauricio Villafuerte (Fiscal Affairs Department);
+Elie Canetti (Monetary and Capital Markets Department); and Alison Stuart (Strategy, Policy, and Review
+Department).
+
+2
+asset prices and a vigorous turnaround in economic activity suggest that policy
+tightening may soon be needed in some countries.
+
+
+Fiscal stimulus is well underway in G-20 countries, and will continue to support
+activity through 2010. In general, revenue measures and social transfers have been
+implemented more quickly than infrastructure projects.
+
+Strengthening multilateral coordination to mitigate cross-border strains and distortions
+remains a priority. Notwithstanding announcements about the importance of coordination
+and cooperation in the design and development of crisis strategies, in practice countries have
+adopted policies that appear to be driven largely by national interests. Markets would likely
+respond favorably to a sense that there is an agreed upon set of principles and practices
+related to supervisory actions that all countries have agreed to follow. Moreover, the crisis
+has demonstrated the need for closer cooperation between home and host supervisors and for
+timely information on rollover needs in emerging economies.
+Looking ahead, policymakers will need to bridge from near-term support to mediumterm policy requirements through credible and coherent exit strategies. The key
+challenge is to map a course between unwinding public interventions too early—which
+would jeopardize progress in securing financial stability and economic recovery—and
+withdrawing them too late, which would distort private incentives and create new risks.
+
+
+The pace of exit from financial sector policies will need to be gradual, with the most
+distortionary programs phased out first. Incentives should be put in place to
+encourage healthy banks to progressively reduce their dependence on public support.
+To the extent possible, priority should be given to exiting from programs that have
+the greatest distortionary impact on financial market decisions and/or involve
+considerable contingent liabilities to the government.
+
+
+
+G-20 central banks will need eventually to unwind their degree of conventional and
+unconventional monetary accommodation. Interest rates will need to be raised as
+output gaps are reduced. It may take time to reduce the size of central bank balance
+sheets, and policymakers will need to find ways to withdraw excess bank reserves to
+ensure transmission of tighter monetary conditions to the real economy.
+
+
+
+The scale of fiscal adjustment required to ensure fiscal solvency will be large,
+particularly for advanced economies where debt is rising rapidly. Sizable
+improvements in primary balances will be needed in most advanced and several
+emerging market economies to bring debt-to-GDP ratios back to sustainable paths.
+Medium-term adjustment strategies have yet to be fully articulated.
+
+3
+I. RECENT DEVELOPMENTS, PROSPECTS, AND RISKS
+The world economy is beginning to pull out of its deepest recession since the Great
+Depression, but the recovery is uneven and remains dependent on policy support. Financial
+conditions have improved and recent economic data suggest that the global economy is now
+starting to expand again. Emerging economies—led by a vigorous rebound in Asia—are
+faring better than advanced economies. Nonetheless, the recovery is expected to be gradual,
+as financial systems remain impaired and household balance sheet adjustment is likely to
+hold back consumption.
+A. Recent Developments
+1.
+The global economy is starting to grow again. Following a sharp 6.7 percent
+(annualized) decline in the first quarter of 2009, output increased modestly in the second
+quarter. Real GDP expanded in some advanced economies—notably France, Germany, and
+Japan—while it has fallen at a much more modest pace elsewhere. Emerging economies,
+notably in Asia, are turning around even more strongly. This is well represented by our G20 momentum tracker, which shows “light green shoots” in a number of emerging
+economies—such as Brazil, Korea, and India, as well as a more vigorous rebound in China
+(Box 1). High frequency data for the third quarter suggest that the recovery is spreading,
+although the advanced economies continue to lag as unemployment continues to rise and
+consumers remain cautious (Figure 1).
+2.
+Conditions in mature financial markets have continued to improve, as the
+unprecedented response of both financial and macroeconomic policies has reduced the
+risk of systemic collapse (Figure 2). This, combined with brightening growth prospects and
+stronger corporate earnings (including in the financial sector) have contributed to restoring
+market confidence and a pick-up in risk appetite. Short-term funding markets have begun to
+normalize, as LIBOR-OIS spreads have narrowed significantly. At the same time, corporate
+spreads have continued to narrow and new issuance has surged. As equity markets have
+rallied on improved sentiment, government bond yields have risen to more normal levels.
+Overall, the Fund’s financial stress indices for the major advanced economies have declined
+sharply, although they remain significantly elevated relative to levels prior to the crisis.2
+
+2
+
+These financial stress indices are described in Chapter 4 of the October 2008 World Economic Outlook.
+
+4
+Figure 1. Selected Global Economic Indicators
+
+12
+
+Real Gross Domestic Product
+
+Retail Sales
+
+(Percent;quarter over quarter annualized)
+
+(Percent; 3mma/3mma annualized)
+
+25
+
+10
+
+20
+
+8
+
+15
+
+6
+
+10
+
+4
+2
+
+5
+
+0
+
+0
+
+-2
+-4
+
+World
+
+World
+
+-6
+
+Advanced
+
+Advanced
+
+-8
+
+Emerging
+
+-5
+-10
+
+Emerging
+10Q4
+
+Jun. 09
+
+-10
+05
+
+60
+
+06
+
+07
+
+08
+
+09
+
+05
+
+10
+
+06
+
+07
+
+08
+
+-15
+
+09
+
+Merchandise Exports
+
+Industrial Production
+
+(Percent; 3mma/3mma annualized)
+
+(Percent; 3mma/3mma annualized)
+
+20
+
+40
+
+10
+
+20
+
+0
+
+0
+-20
+-40
+
+-10
+
+World
+
+World
+
+Advanced
+
+Advanced
+
+Emerging
+
+Emerging
+
+-20
+-30
+
+-60
+Jun. 09
+
+Jun. 09
+
+-80
+
+-40
+05
+
+8.5
+
+06
+
+07
+
+08
+
+09
+
+05
+
+06
+
+07
+
+08
+
+Unemployment
+
+Consumer Confidence
+
+(Percent; weighted by labor force)
+
+(January 2005=100)
+
+09
+
+150
+
+8.0
+World
+
+7.5
+
+Advanced
+
+100
+
+Emerging
+
+7.0
+6.5
+
+50
+U.S. (Conf. Board)
+Japan (Econ. and Soc. Res. Inst.)
+Euro area (Eur. Comm.)
+China (NBS)
+Mexico (INEGI)
+Turkey (Cent. Bank)
+
+6.0
+5.5
+5.0
+
+Jul. 09
+
+0
+Jul. 09
+
+4.5
+
+-50
+05
+
+06
+
+07
+
+08
+
+09
+
+05
+
+Sources: IMF, Global Data Source and Bloomberg, L.P.
+
+06
+
+07
+
+08
+
+09
+
+5
+BOX 1: ASSESSING GROWTH MOMENTUM
+
+1/ 2/ 3/ 4/
+
+Sep-08 Oct-08 Nov-08 Dec-08 Jan-09 Feb-09 Mar-09 Apr-09 May-09 Jun-09
+Western Hemisphere
+United States
+Canada
+Mexico
+Brazil
+Argentina
+Asia Pacific
+Japan
+Australia
+Korea
+China
+Indonesia
+India
+European
+Germany
+France
+Italy
+United Kingdom
+Turkey
+Russia
+African
+South Africa
+
+Jul-09 Aug-09
+
+4
+5
+5
+2
+2
+
+5
+4
+5
+4
+2
+
+5
+4
+5
+5
+4
+
+5
+5
+5
+5
+4
+
+5
+5
+5
+5
+4
+
+4
+5
+5
+4
+4
+
+4
+4
+4
+3
+4
+
+4
+4
+4
+3
+4
+
+4
+3
+4
+3
+3
+
+4
+3
+4
+2
+3
+
+4
+3
+4
+3
+2
+
+3
+0
+0
+2
+2
+
+5
+4
+2
+3
+4
+3
+
+4
+4
+5
+4
+5
+4
+
+4
+5
+5
+4
+5
+5
+
+5
+4
+5
+4
+5
+5
+
+5
+4
+5
+4
+3
+4
+
+5
+4
+4
+3
+3
+4
+
+5
+3
+3
+3
+2
+3
+
+4
+4
+2
+2
+2
+3
+
+4
+4
+2
+2
+2
+3
+
+3
+3
+2
+2
+3
+2
+
+2
+3
+2
+1
+3
+2
+
+2
+0
+2
+1
+0
+2
+
+4
+4
+5
+5
+4
+3
+
+4
+5
+5
+4
+5
+5
+
+4
+5
+5
+4
+5
+5
+
+5
+5
+5
+4
+5
+5
+
+5
+4
+4
+4
+4
+5
+
+5
+5
+5
+4
+4
+5
+
+4
+4
+4
+4
+3
+4
+
+4
+4
+4
+4
+4
+4
+
+4
+4
+4
+4
+3
+4
+
+3
+3
+4
+3
+2
+3
+
+3
+3
+4
+3
+2
+3
+
+3
+2
+0
+2
+2
+3
+
+4
+
+4
+
+5
+
+4
+
+4
+
+4
+
+4
+
+5
+
+4
+
+4
+
+4
+
+3
+
+Expans ion and level at or above trend (m ean)
+Expans ion but level below trend (m ean)
+Moving s ideways
+Contraction at a m oderating rate
+Contraction at a increas ing rate
+Data not available
+Sources : Global Data Source; Haver Analytics ; Bloom berg L.P.; and s taff calculations .
+1/ The above chart is bas ed on the four econom ic indicators , including indus trial production (IP), real retail s ales (RS),
+m erchandis e exports (EX), and purchas ing m anagers index (PMI).
+2/ Som e of the ratings —particularly for recent m onths —are bas ed on both actual data as well as projections of the underlying
+variables .
+3/ Saudi Arabia is not included becaus e there is no available data.
+4/ Retail s ales and IP are bas ed on real data, whereas , exports are bas ed on nom inal data and PMI on s urvey data.
+
+Four leading variables are used to construct a composite indicator of recovery momentum. These variables
+include industrial production (IP), real retail sales (RS), merchandise exports (EX), and purchasing managers
+index (PMI). For IP, RS, and EX, observations are based on rate of change of the three-month seasonally adjusted
+moving averages while observations for PMI were based on the current month’s data. Each indicator is rated on
+a scale between one to five, and the total rating is based on the simple average of these individual ratings.
+
+
+Rating of 5 (dark red) suggests contraction at an increasing rate. Specifically, for IP, RS, and EX, the growth
+rate is negative and the current observation is more negative than the previous observation. For PMI, the
+current observation is below 50 and is below its previous observation.
+
+
+
+Rating of 4 (light red) suggests contraction at a moderating rate. Specifically, for IP, RS, and EX, the growth
+rate is negative but the current observation is less negative than the previous observation. For PMI, the
+current observation is below 50 but is above its previous observation.
+
+
+
+Rating of 3 (yellow) suggests the indicators are moving sideways. Specifically, for IP, RS, and EX, the
+growth rate is close to zero (less than 0.5 percent in absolute terms). For PMI, the current observation is
+around 50 (between 49 and 51).
+
+
+
+Rating of 2 (light green) suggests expansion but the levels of the indicators are still below historical trends
+(for IP, RS, and EX) or historical means (for PMI). The trends and means are calculated based on data
+during 2002-07.
+
+
+
+Rating of 1 (dark green) suggests expansion, with the levels of the indicators above historical trends or
+means.
+
+6
+Figure 2. Financial Developments
+Financial Stress Indicators 1/
+
+20
+
+Financial Conditions Indices 2/
+
+U.S.
+Japan
+Germany
+U.K.
+
+15
+
+105
+103
+101
+
+10
+99
+5
+
+97
+
+U.S.
+Japan
+Euro area
+U.K.
+
+0
+
+95
+
+-5
+
+93
+07
+
+08
+
+2500
+
+09
+
+Jun-07
+
+Dec-07
+
+Jun-08
+
+Dec-08
+
+Corporate Spreads
+
+Interbank Markets
+
+(Bps)
+
+(Percent; 3 month Libor minus T-bill rate)
+
+6
+5
+
+2000
+U.S. High Grade
+
+U.S.
+Japan
+Euro area
+
+U.S. High Yield
+
+1500
+
+Europe High Grade
+
+4
+3
+
+Europe High Yield
+1000
+
+2
+500
+
+1
+
+0
+
+0
+07
+
+140
+
+08
+
+09
+
+07
+
+08
+
+09
+
+Equity Markets
+
+10-Year Government Bond Yields
+
+(Index; January 1, 2007 =100)
+
+(Percent)
+
+120
+
+6
+
+5
+
+100
+4
+80
+
+U.S.
+Japan
+U.K.
+Euro area
+Canada
+
+U.S.
+Japan
+Euro area
+U.K.
+Canada
+
+60
+40
+
+3
+
+2
+
+20
+
+1
+07
+
+08
+
+09
+
+07
+
+08
+
+09
+
+Sources: Bloomberg, L.P., Goldman Sachs, Haver Analytics, and IMF staff calculations.
+1/ See Chapter 4 of the October 2008 World Economic Outlook.
+2/ The indices combines real 3-month and long-term interest rates, the real exchange rate, and equity market
+capitalization to GDP.
+
+7
+3.
+Nonetheless, the global financial system is far from normal, and many markets
+remain heavily dependent on public support. Banking systems are still undercapitalized
+and saddled with impaired assets, suggesting that deleveraging pressures will remain a
+constraint on bank credit for some time. Securitization activity remains very limited, despite
+policy efforts. At the same time, large public interventions have transferred risk to sovereign
+balance sheets.
+
+
+Bank capitalization is still a concern and, in the absence of new capital injections,
+banks will need to continue to delever for some time. Solvency fears about
+systemically important U.S. banks have receded following stress test results and
+banks’ success in raising new capital. However, many banks (notably, in Western
+Europe) still lack sufficient capital to support a healthy resumption of credit growth.
+Impaired assets continue to saddle bank balance sheets, despite some progress in
+disposal through sales or simply allowing them to mature. While recent better-thanexpected bank earnings are reducing immediate pressures to cleanse balance sheets,
+there are questions about the sustainability of those earnings, including because they
+have been based on increases in fee income rather than improvements in operating
+margins, despite increased sector concentration. Given the weak economy,
+prospective bank writedowns from credit deterioration are likely to be sizeable across
+all loan categories. European banks remain vulnerable to the risk of further credit
+deterioration on emerging Europe exposures.
+
+
+
+The bank lending channel remains strained despite massive liquidity infusions,
+capital injections, and liability guarantees. Bank lending to the private non-financial
+sector has decelerated rapidly in the euro area and the United States, and briefly
+turned negative in the United Kingdom before stabilizing. Moreover, bank lending
+standards have continued to tighten in the United States and euro area, albeit at a
+slower pace. By contrast, in Japan, lending standards have eased somewhat and bank
+credit to large enterprises continues to expand. Still, in the absence of official
+interventions, it is likely that credit flows would have declined much more.
+
+
+
+Despite supportive policy measures,
+securitization markets remain moribund. In
+the United States, where securitization has
+constituted a key component of the credit
+market, new issuance remains at low levels
+and is in large part supported by the Fed.
+Volumes have stayed low, in part due to
+waning demand, but also because of the stilllacking credibility of securities ratings, an
+overhang of legacy assets, and shrinkage in
+the base of market participants.
+
+Gross Issuance of Private Label
+and Agency ABS
+(billion U.S. dollars)
+A gency M B S
+
+US RM B S & Ho me Equity
+
+US CM B S
+
+US Co nsumer and o ther
+
+Euro pean A B S*
+
+5,000
+4,000
+3,000
+2,000
+1,000
+0
+
+2000
+
+03
+
+06
+
+2009H1
+
+So urce: SIFM A , Tho mpso n Reuters, JP M o rgan, CM SA ,
+Euro pean Securitizatio n Fo rum, Co mmercial M o rtgage A lert.
+In 2008 and 2009, Euro pean A B S were predo minantly
+structured-fo r-repo securities, pledged to central banks.
+
+8
+
+
+Benchmark 10-yr Government Bonds
+
+There is some evidence that markets are
+pricing in increased sovereign credit risk.
+Markets appear to be concerned about both the
+risk that has been transferred from private to
+sovereign balance sheets as well as sovereign
+contingent liabilities related to financial sector
+support. As a result, unlike many other
+markets, advanced economy sovereign spreads
+remain higher than pre-Lehman levels.
+
+(Spreads over German bund, bps)
+France
+
+Spain
+
+Portugal
+
+Ireland
+
+Austria
+
+Greece
+
+350
+300
+250
+200
+150
+100
+50
+0
+
+Jan-07
+
+Jul-07
+
+Jan-08
+
+Jul-08
+
+Jan-09
+
+Jul-09
+
+So urce: B lo o mberg L.P .
+
+4.
+Financial pressures in emerging economies have receded but these economies
+remain vulnerable to deleveraging in mature markets and potential shocks to growth.
+A broad range of economies is benefiting from an easing of financing pressures and
+increasing willingness to take on risk, although cross-country differences related to
+vulnerabilities at the onset of the crisis remain. The introduction of the Fund’s Flexible
+Credit Line and the expansion of its resources have also helped curtail concerns about
+sudden stops. Sovereign and corporate bond spreads have narrowed, equity markets have
+rallied to levels prevailing just prior to the collapse of Lehman Brothers, and market
+issuance has picked up strongly. Cross-border bank flows remain very weak, however, and
+emerging economy corporates with large rollover needs remain vulnerable, particularly in
+emerging Europe.
+Emerging Markets Issuance
+
+Emerging Financial Markets
+(bps)
+1200
+1100
+
+(In billions of U.S. dollars)
+
+(rebased index)
+
+Equity Index
+(US$ , RHS)
+
+1000
+
+160
+
+Equities
+
+140
+
+Bonds
+
+900
+
+120
+
+800
+
+100
+
+Loans
+
+150
+
+80
+
+600
+Co rpo rate bo nd
+spread (LHS)
+
+300
+
+So vereign bo nd
+spread (LHS)
+
+200
+Jan-08 May-08 Sep-08 Jan-09 May-09
+So urce: Datastream.
+
+50
+
+60
+40
+20
+
+0
+2005-Q1
+2005-Q2
+2005-Q3
+2005-Q4
+2006-Q1
+2006-Q2
+2006-Q3
+2006-Q4
+2007-Q1
+2007-Q2
+2007-Q3
+2007-Q4
+2008-Q1
+2008-Q2
+2008-Q3
+2008-Q4
+2009-Q1
+2009-Q2
+
+400
+
+200
+
+100
+
+700
+500
+
+250
+
+So urce: IM F, B o nds Equities Lo ans database.
+
+5.
+Exchange rates are gradually returning to pre-crisis levels in both nominal and
+real effective terms. The U.S. dollar has depreciated in real effective terms in recent
+months as safe haven flows have been gradually unwound, but both the dollar and the euro
+remain somewhat more appreciated than their pre-Lehman levels. By contrast, the Japanese
+yen—which has appreciated significantly in real effective terms—and the U.K. pound—
+which has depreciated substantially—remain far from their pre-Lehman levels. Reflecting
+
+9
+the improvement in commodity prices and reduced risk aversion, many emerging economy
+currencies have appreciated both against the U.S.
+Nominal Exchange Rate Changes
+(Percent change; U.S. dollar per local currency)
+dollar and in real effective terms since September
+Russia
+2008. The Chinese renminbi—which has been
+Brazil
+Mexico
+broadly stable vis-à-vis the U.S. dollar since June
+Turkey
+2008—appreciated modestly in real effective terms
+Indonesia
+South Africa
+over this period and remains substantially
+India
+undervalued relative to medium-term fundamentals.
+Argentina
+In some other major emerging economies—such as
+Jun-08 to Feb-09
+Saudi Arabia
+Mar-09 to Jul-09
+China
+Brazil, Indonesia, and South Africa—recent currency
+-40 -30 -20 -10 0
+10 20 30
+appreciation has almost offset earlier depreciation.
+So urce: IM F, Glo bal Data So urce.
+
+6.
+Commodity prices broadly stabilized in the first quarter of 2009 and staged a
+strong rally in the second quarter, reflecting rising confidence in a turnaround in
+global economic activity. The magnitudes of price
+WTI Oil Price Prospects 1/
+increases varied considerably across commodities,
+(U.S. dollars a barrel)
+250
+with more cyclically-sensitive energy and industrial
+95% co nfidence interval
+metals rebounding more strongly than food
+86% co nfidence interval
+200
+68% co nfidence interval
+commodities. Although financial flows and investor
+Futures
+150
+sentiment have affected price dynamics for
+commodities, there is little evidence to suggest that
+100
+increased financial investment in oil and other
+50
+commodity markets has had a sustained impact on
+0
+price levels. Looking forward, commodity demand
+07
+08
+09
+10
+11
+So urces: B lo o mberg, L.P . and IM F staff calculatio ns.
+will depend increasingly on activity in emerging
+1/ Derived fro m prices o f futures o ptio ns o n A ugust 24,
+economies, given the steady increase in their market 2009.
+shares. However, a good part of the recovery
+already appears to be priced in to oil and metal prices, and substantial spare capacity and
+high inventories should provide buffers against price surges. For food commodities, prices
+are expected to rise only gradually through the global economic recovery due to their
+relatively low sensitivity to the business cycle, although the higher cost of energy and
+increased biofuel usage could pose upward price risks.
+B. Short-term Prospects
+7.
+Going forward, the recovery is expected to be sluggish. Policy support and the turn
+in the inventory cycle—which are driving the recovery at the moment—will gradually lose
+impetus. Some government measures (such as car subsidy programs) will help bring
+purchases forward but with payback (in terms of weaker demand) in later quarters. A
+sustained rebound in private demand is likely to be held back for some time by limited credit
+availability and by household desire to rebuild balance sheets, with still rising unemployment
+adding to consumer concerns. Thus, the Fund’s assessment remains that the recovery will be
+gradual, particularly in the advanced economies. The October 2009 World Economic Outlook
+
+10
+projects that global activity will contract by 1.1 percent in 2009, before expanding by 3.1
+percent in 2010—modest mark-ups relative to the July WEO update. On a fourth-quarterover-fourth quarter basis, real GDP is projected to grow at 0.8 percent during 2009, and
+3.2 percent in 2010.
+Table 1. Overview of World Economic Outlook Projections 1/
+(Percent change)
+Year over Year
+Projections
+2009 2010
+
+Difference from July
+2009 WEO Projections
+2009
+2010
+
+Q4 over Q4 2/
+Projections
+2009
+2010
+
+2007
+
+2008
+
+World output 3/
+Advanced economies
+Euro area
+Emerging and developing economies 4/
+
+5.2
+2.7
+2.7
+8.3
+
+3.0
+0.6
+0.7
+6.0
+
+-1.1
+-3.4
+-4.2
+1.7
+
+3.1
+1.3
+0.3
+5.1
+
+0.3
+0.4
+0.6
+0.2
+
+0.6
+0.7
+0.6
+0.4
+
+0.8
+-1.3
+-2.5
+3.8
+
+3.2
+1.7
+0.9
+5.5
+
+G-20 2/
+Argentina
+Australia
+Brazil
+Canada
+China
+France
+Germany
+India
+Indonesia
+Italy
+Japan
+Korea
+Mexico
+Russia
+Saudi Arabia
+South Africa
+T urkey 5/
+United Kingdom
+United States
+European Union
+
+5.0
+8.7
+4.0
+5.7
+2.5
+13.0
+2.3
+2.5
+9.4
+6.3
+1.6
+2.3
+5.1
+3.3
+8.1
+3.3
+5.1
+4.7
+2.6
+2.1
+3.1
+
+2.8
+6.8
+2.4
+5.1
+0.4
+9.0
+0.3
+1.2
+7.3
+6.1
+-1.0
+-0.7
+2.2
+1.3
+5.6
+4.4
+3.1
+0.9
+0.7
+0.4
+1.0
+
+-1.0
+-2.5
+0.7
+-0.7
+-2.5
+8.5
+-2.4
+-5.3
+5.4
+4.0
+-5.1
+-5.4
+-1.0
+-7.3
+-7.5
+-0.9
+-2.2
+-6.5
+-4.4
+-2.7
+-4.2
+
+3.3
+1.5
+2.0
+3.5
+2.1
+9.0
+0.9
+0.3
+6.4
+4.8
+0.2
+1.7
+3.6
+3.3
+1.5
+4.0
+1.7
+3.7
+0.9
+1.5
+0.5
+
+0.2
+-1.0
+1.2
+0.6
+-0.2
+1.0
+0.6
+0.9
+0.0
+0.5
+0.0
+0.6
+2.0
+0.0
+-1.0
+0.0
+-0.7
+-1.4
+-0.2
+-0.1
+0.5
+
+0.5
+0.8
+0.7
+1.0
+0.5
+0.5
+0.5
+0.9
+-0.1
+0.3
+0.3
+0.0
+1.1
+0.3
+0.0
+0.1
+-0.6
+2.2
+0.7
+0.7
+0.6
+
+1.1
+-5.4
+1.4
+2.2
+-1.5
+10.1
+-0.9
+-2.9
+5.1
+4.2
+-3.2
+-1.3
+4.3
+-4.1
+-2.7
+…
+-2.1
+0.7
+-2.5
+-1.1
+-2.5
+
+3.5
+6.0
+2.8
+3.5
+3.0
+9.2
+1.4
+0.8
+7.0
+5.4
+0.8
+1.4
+3.5
+3.4
+-0.9
+…
+2.9
+2.7
+1.3
+1.9
+1.1
+
+Note: Real effective exchange rates are as s umed to remain cons tant at the levels prevailing during J uly 30-Augus t 27, 2009. Country weights us ed
+to cons truct aggregate gro wth rates for groups o f co untries were revis ed.
+1/ October 2009 World Econo mic Outlook.
+2/ G-20 yearly projectio ns exclude European Unio n and quarterly projections exclude Saudi Arabia and Euro pean Union.
+3/ The quarterly es timates and projections account for 90 percent of the world purchas ing-power-parity weights .
+4/ The quarterly es timates and projections account for approximately 77 percent of the emerging and developing economies .
+5/ Fo r Turkey, the projections reported in the J uly 2009 World Eco nomic Outlo ok were prepared prio r to the releas e of the J une 30 Q1data.
+
+8.
+Activity in the advanced economies is projected to decline by 3.4 percent in 2009,
+followed by a modest rebound in 2010. Deleveraging, limited credit growth, and rising
+unemployment are expected to continue to weigh on domestic demand. Although annual
+projections for 2010 have been revised upward, consistent with the pick-up in momentum
+from the second quarter of 2009, quarterly growth rates in 2010 would still fall short of
+potential until late in the year, implying continuing increases in unemployment.
+
+
+In the United States, growth is expected to turn positive in the second half of 2009,
+given the fiscal stimulus boost, and turns in the inventory and housing cycles.
+However, while financial conditions have improved in recent months, they will
+
+11
+continue to weigh on investment and consumption. Combined with the impact of
+rising unemployment and household balance sheet adjustment, the temporary nature
+of the fiscal stimulus, and subdued partner country growth, growth is expected to
+remain sluggish, reaching only 1.9 percent in 2010 on a fourth-quarter over fourthquarter basis.
+
+
+In the euro area, recovery is now getting underway, particularly in France and
+Germany. That said, the rebound in much of the rest of the euro area so far appears to
+be slower. While financial markets in the region have improved, the largely bank
+based financial system remains undercapitalized and will take time to fully resume its
+intermediation role. The recovery will likely be very slow, as tight credit conditions
+will continue to limit private investment and rising unemployment will weigh on
+consumption, while public support will be gradually withdrawn.
+
+
+
+In Japan, following a dismal first quarter, output expanded in the second quarter on
+the back of strong export growth and fiscal stimulus. Progress in inventory
+adjustment, aggressive fiscal and monetary policies, and strong performance by some
+other Asian economies are expected to provide further support in the coming quarters,
+but underlying momentum remains weak.
+
+9.
+Emerging and developing economies are projected to continue to gather
+momentum during the second half of 2009 and 2010, albeit with notable differences
+across regions. Overall, growth in these economies is projected at 1¾ percent in 2009
+before rebounding to around 5 percent in 2010. The recovery in emerging economies is being
+lead by the strong rebound in Asian economies, fueled mainly by China and India.
+
+
+Emerging Asian economies have rebounded rapidly based on a policy-supported
+strengthening of domestic demand and rebounds in the global manufacturing and
+inventory cycles. As a result, growth projections for the region have been revised
+upward to about 6¼ percent in 2009 and 7¼ percent in 2010. However, the recent
+acceleration in growth may not be maintained unless buttressed by a recovery in
+advanced economies.
+
+
+
+In Latin America, growth projections are broadly unchanged for 2009. Some
+countries were hit much harder in the first half of the year by the global financial
+crisis than initially expected, notably Mexico. However, the region is benefiting from
+rising commodity prices, and economies in this region are expected to grow by almost
+3 percent in 2010.
+
+
+
+Economies in emerging Europe and the Commonwealth of Independent States (CIS)
+are expected to contract by 5 percent and 6¾ percent, respectively, in 2009 before
+growing by 1¾ percent and around 2 percent in 2010. Developments differ
+appreciably across countries, but many have been badly affected by the global
+
+12
+financial crisis and the attendant capital flow reversal and sharp decline in commodity
+exports, although the recent recovery of commodity prices is forecast to raise demand
+in key CIS economies.
+
+
+Countries in Africa and the Middle East are expected to grow by 1¾ percent and
+2 percent in 2009, respectively, before growth picks up to around 4 percent in 2010.
+Both regions have been negatively affected by the drop in global trade, although the
+commodity exporters in the region are expected to benefit from the recent commodity
+rebound.
+
+10.
+Notwithstanding modest upward revisions to growth, output gaps will continue
+to widen and inflation will remain low. Given the sluggish recovery, output gaps will
+widen through the end of 2010, even after taking into account reductions in potential output
+as a result of the crisis.3 As a result, unemployment is likely to continue to rise in the
+advanced economies well into 2010 and inflation pressures should remain subdued,
+notwithstanding the recent upturn in commodity prices. In the advanced economies,
+headline inflation fell below zero in August for the fourth straight month as oil prices
+remained far below levels one year earlier, despite their recent pickup. Core inflation is still
+running around 1½ percent, down from 2 percent one year earlier. Similarly, headline and
+core inflation in the emerging markets have moderated, falling to around 4½ percent and to
+below 1 percent in August, respectively. Risks for sustained deflation are small, as core
+inflation and inflation expectations in most major economies are still holding in the
+1-2 percent range.
+Output Gap
+
+Headline CPI Inflation
+
+(Percent of potential GDP)
+
+4
+
+(Percent; year over year)
+
+Emerging
+
+2
+G-7
+
+A dvanced
+
+10
+
+World
+Advanced
+Emerging
+
+8
+
+0
+
+6
+
+-2
+
+4
+
+-4
+
+2
+
+-6
+
+0
+
+-8
+80
+
+85
+
+90
+
+95
+
+00
+
+05
+
+-2
+00
+
+10
+
+02
+
+04
+
+06
+
+08
+
+10
+
+12
+
+14
+
+So urces: IM F, Glo bal Data So urce and IM F staff estimates.
+
+C. Risks
+11.
+Downside risks to the recovery are receding gradually but remain a key
+concern. The overarching risk is that the recovery stalls. Premature exit from
+3
+
+See Global Economy Beyond the Crisis—Challenges Over the Medium Term, IMF Surveillance Note for the
+G-20 Meetings of Ministers and Deputies, September 3-4, 2009.
+
+13
+accommodative monetary and fiscal policies could undermine the nascent recovery, as the
+policy-induced rebound could be mistaken for the beginning of a strong and durable
+recovery. Renewed downward momentum in still weak economies could be severely
+damaging, especially given limited policy space. Moreover, financial strains could persist or
+even intensify further, particularly if efforts to restore bank balance sheets to health are not
+followed through forcefully.
+12.
+Although the risk of a widespread banking crisis has eased, bank capitalization
+may not be sufficient, notably in Europe. Undercapitalized banks are likely to limit credit
+growth, which could hold back the strength of the recovery. Initiatives on both sides of the
+Atlantic to repair banks’ balance sheets and address impaired assets have proved difficult to
+implement, leaving banks vulnerable to a further deterioration in the quality of these assets
+if the global downturn is deeper than projected. This risk seems greatest for European banks.
+Loss rates are expected to peak later than in the United States, and European banks are less
+advanced in raising capital through private markets than their American counterparts.
+13.
+Rising concern surrounding fiscal sustainability in the face of widening deficits
+and surging public debt could contribute to rising long-term bond yields. Debt is
+projected to rise sharply in major advanced economies, even assuming fiscal consolidation
+(as discussed below). Perceptions that the consolidation process could be blocked could
+drive concerns about the soundness of public finances. Sovereigns in other advanced and
+some emerging economies are also vulnerable to deterioration in sentiment. Combined with
+crowding out by increased sovereign debt issuance by major economies, spreads could
+widen further, limiting these countries’ ability to pursue countercyclical fiscal policies.
+14.
+Emerging market external financing pressures have largely abated, but this
+could prove short-lived. Banks continue to reduce their cross-border positions in emerging
+economies and countries in emerging Europe and the CIS are still exposed to the risk of a
+more abrupt “sudden stop”. While there is evidence that advanced economy parent banks
+have maintained funding to emerging market subsidiaries, funding from non-related banks
+and nonbanks has collapsed. This is placing additional pressures on emerging economies
+with high current account deficits, notably in emerging Europe. Large-scale sovereign
+borrowing by advanced economies could further constrain the supply of private capital or
+undermine confidence in sovereign debt markets. Stress could spill back to advanced
+economies with heavy exposure in emerging Europe, with possible second-round effects. By
+contrast, some emerging economies—notably in Asia—are experiencing rapidly rising
+equity prices on the back of renewed large capital inflows, raising concerns about a possible
+resurgence of asset price booms.
+15.
+There is also upside potential to the outlook. With financial conditions improving
+more rapidly than previously expected, the policy-induced reduction in uncertainty might
+drive a larger-than-expected rebound in consumption and investment, just as the increase in
+uncertainty triggered a larger-than-expected drop in late 2008 and early 2009. Thus, the
+
+14
+gains associated with positive confidence effects could prove to be more significant than
+assumed in the baseline, helping to create the conditions for a self-sustaining virtuous circle
+of sentiment, spending, and growth.
+II. POLICY IMPLEMENTATION AND EFFECTIVENESS
+G-20 economies have implemented bold and wide-reaching measures to address the
+financial crisis and global recession, yielding tangible benefits. This section updates the
+analysis of policy implementation and effectiveness provided in previous notes to the G-20,
+concluding that, while efforts have generally been instrumental in improving conditions,
+additional actions are still required to restore the financial sector to health. Moreover, with
+the recovery still at an early stage, policy support will need to remain in place for some time.
+This analysis sets the stage for the discussion of policies to exit from extraordinary levels of
+public support taken up in the next section.
+A. Financial Sector Policies4
+16.
+Policy responses to the global crisis have helped stabilize confidence and limit
+the threat of further financial instability. Policies have reduced counterparty concerns,
+eased liquidity pressures, and slowed the aggressive withdrawal of funds. Significant public
+injections of capital into financial institutions have been critical in shoring up confidence and
+reducing extreme financial stress. At the same time, bank liability guarantees have helped to
+reassure creditors that their claims on financial institutions would be protected. Recent staff
+analysis suggests that capital injections have been more effective than guarantees on bank
+liabilities in reducing bank credit risk (as measured by a reduction in the average bank CDS
+spread). That said, given the large share of bank debt issued under guarantee schemes, it is
+clear that public guarantees have helped to alleviate bank funding pressures.
+17.
+Nonetheless, restoring the financial system to health will require additional
+policy actions aimed at diagnosing the condition of banks and recapitalizing them as
+needed. Bank stress tests in the United States and the United Kingdom have been helpful in
+identifying capital needs and reducing uncertainty. The priority is now to ensure that losses
+are fully recognized and capital cushions rebuilt.5 It is encouraging that banks in these
+countries have been able to raise over $100 billion and about $35 billion in private capital,
+4
+
+For additional details on the effectiveness of financial sector policies, see Updated Stocking of the G-20
+Responses to the Global Crisis, IMF Surveillance Note for the G-20 Meetings of Ministers and Deputies,
+September 3-4, 2009.
+5
+
+The underlying estimates of losses and income prospects under the Supervisory Capital Assessment Program
+are broadly comparable to those reported in the GFSR, with differences in the headline estimates of capital
+deficiency due mainly to different capital adequacy metrics. See IMF surveillance note on Global Economic
+Prospects and Effectiveness of Policy Response, July 8, 2009, http://www.imf.org/external/np/g20/070809.htm.
+
+15
+respectively, since the report of the stress test results and associated measures to support
+banks’ balance sheets. In the euro area, the ongoing stress test assessments should also be
+used as a base to strengthen confidence in bank soundness by ensuring adequate capital to
+meet identified needs. The Fund is working with countries in emerging Europe to undertake
+a comprehensive exercise aimed at assessing bank capital needs. This work is still at any
+early stage, but ultimately should pave the way for coordinated stress tests, information
+exchange, and improved cooperation. Elsewhere, while banking systems in other emerging
+economies generally appear less vulnerable, authorities should still assess the soundness of
+their banking systems in the context of the deep economic downturn.
+18.
+Policies to deal with impaired assets have had limited success so far. The
+European Union, Germany, the United States, the United Kingdom, and Korea have all
+announced plans for dealing with impaired assets. However, devising programs to price and
+remove troubled assets from private bank balance sheets is proving to be exceedingly
+difficult. In particular, the incentives and willingness of banks to sell assets—particularly
+where loans are currently held above market value—may be limited, especially where markto-market accounting standards have become more flexible. Notwithstanding the difficulties
+involved, progress in addressing troubled assets may be needed to reduce balance sheet
+vulnerability and help pave the way for banks to increase lending, especially if economic
+conditions should deteriorate again.
+19.
+In emerging economies, systemic risks to corporate and bank solvency remain a
+serious concern, particularly in emerging Europe. Comprehensive mechanisms to assess
+bank soundness and deal promptly with weak institutions are needed to reduce systemic
+risks. Countries should also assess their preparedness for dealing with possible bank runs,
+including whether existing mechanisms (such as deposit insurance schemes and banking
+resolution mechanisms) are sufficient or if they need to be bolstered. Legal frameworks for
+corporate insolvencies may need to be put in place or modified to promote efficient and
+predictable resolution of mounting debt problems in the corporate sector. More generally, the
+crisis has demonstrated the need for closer cooperation between home and host supervisors
+and for timely information on rollover needs in emerging economies.
+20.
+Strengthening multilateral coordination to mitigate cross-border strains and
+distortions remains a priority. Notwithstanding announcements about the importance of
+coordination and cooperation in the design and development of crisis strategies, in practice
+countries have adopted policies that appear to be driven largely by national interest. While
+circumstances vary greatly across countries, markets would likely respond favorably to a
+sense that there is an agreed upon set of principles and practices related to supervisory
+actions that all countries have agreed to follow. Moreover, avoiding financial protectionism
+through distortions in favor of domestic institutions and borrowers is essential, as well as
+minimizing disparities in the degree of support afforded to financial institutions. Greater
+consistency of rules applied to the valuation of impaired assets, guarantees, and
+recapitalization would help avoid competitive distortions at the international level.
+
+16
+B. Monetary Policy
+21.
+While approaches have differed, major central banks have acted effectively to
+support economic activity and credit creation. Most major advanced economy central
+banks have reduced policy interest rates to close to the zero interest floor. The Fed has
+signaled that interest rates are likely to remain low for an extended period, while other major
+central banks have indicated that monetary policy would only be tightened once the
+macroeconomic environment improves and the outlook for inflation picks up. Central banks
+have also used a range of instruments, tailored to the circumstances of their economies, to
+support financial intermediation and encourage credit flows.
+22.
+There is evidence that forceful monetary easing, alongside enhanced credit and
+liquidity support, has helped ease financial stress (Figure 3). Notwithstanding conceptual
+difficulties in gauging effectiveness, central bank actions (as well as public interventions)
+have improved the functioning of money, foreign exchange, and commercial paper markets.6
+Libor-OIS spreads have declined sharply, reflecting increased liquidity and lower credit
+risk. Nonetheless, they still remain wider than their pre-crisis levels, partly signifying the
+limits of central bank liquidity operations. Term repo rates have declined in major advanced
+economies, as a result of both policy rate cuts and central bank operations that aided the
+functioning of repo markets. Foreign exchange swap and forward markets have also
+improved, as a result of the Fed’s Term Auction Facility (TAF), central bank currency swap
+arrangements, and effectively unlimited funding from the ECB (up to 1 year) which has
+reduced European bank demand for dollar funding. Commercial paper rates are falling in
+advanced economies, driven in part by major central banks’ direct purchases and liquidity
+operations targeted at short-term corporate financing.
+Efforts by major central banks to lower long-term sovereign bond rates have yielded
+mixed results. Announcements of central bank purchases of long-term government
+securities had some initial impact, but over time yield curves have steepened in major
+advanced economies. The capacity of central banks to reduce yields on a durable basis may
+be limited due to the depth of these markets. Overall, upward pressure on yields on account
+of an improvement in the economic outlook, reduced concerns about a debt-deflation spiral,
+and worries about the increase in Treasury supply has more that offset central bank
+purchases. Further increases in yields could expose central banks to capital losses.
+23.
+Interventions in mortgage and corporate bond markets have had a more
+enduring impact on yields, but care is needed to limit central bank exposure to credit
+6
+
+The difficulties include: (i) complications in isolating the impact of policies; (ii) challenges in assessing the
+counter-factual of what would have happened if particular policies were not put in place; and (iii) the fact that
+some policies are relatively new, not completely implemented, or subject to mid-stream adjustments, and could,
+given time, prove more successful than currently observed.
+
+17
+and market risk. The Fed’s MBS purchases are helping to reduce mortgage rates, compress
+spreads, and support the housing market. Corporate bond purchases by the Bank of England
+(BoE) have contributed modestly to narrowing spreads and improved market functioning,
+although purchases have been small relative to the size of the overall market. However,
+these interventions have exposed central banks to credit and market risk. While some credit
+exposure is unavoidable with direct credit provision, national treasuries should explicitly
+indemnify central bank losses. For instance, comprehensive ex ante indemnity assurances
+from the fiscal authority protect the BoE against risks to its balance sheet under the Asset
+Purchase Facility.
+24.
+Restarting securitization markets is proving more challenging than hoped. The
+Fed’s Term Asset-Backed Loan Facility (TALF) has helped compress secondary market
+spreads for several types of consumer asset-backed securities, but new issuance remains
+limited or non-existent in most sectors and the collapse of the shadow banking system has
+eliminated many traditional buyers. Securitization markets also remain largely frozen in
+Europe outside operations aimed at being funded through the ECB’s and the BOE’s
+liquidity programs. Secondary market spreads remain wide and have not improved
+significantly even despite recent increases in appetite for riskier assets, driven primarily by
+concerns about credit deterioration in the underlying collateral. The ECB’s program to
+purchase covered bonds has gained some traction, although amounts remain small, and such
+operations involve less risk transfer than outright securitization and thus provide less scope
+for credit expansion.
+25.
+In emerging economies, there remains scope to cut policy rates if needed to
+support demand, but rising asset prices and a vigorous turnaround in economic
+activity suggest that policy tightening may be needed in some countries. In China, the
+monetary expansion has quickly fed through to the domestic economy and there may be a
+need to tighten credit conditions in the face of sharply rising credit growth and the potential
+for overinvestment. Following substantial easing in the first half of 2009, several emerging
+economies (including in Brazil, Indonesia, and South Africa) have paused in their monetary
+easing cycles on account of inflation concerns. In emerging Europe, the scope for monetary
+easing has been limited by the risk of exacerbating capital outflows. However, where
+financing conditions are easing and exchange rates have appreciated, there may be scope for
+with limited policy easing to support a resumption of growth
+
+18
+Figure 3. Assessing the Effectiveness of Policy Measures
+Three-month Libor - OIS spreads
+
+400
+
+(Bps)
+
+350
+
+TAF and
+FX swaps
+
+U.S. dollar
+Euro area
+Sterling
+Swiss franc
+
+300
+250
+
+FX Forward Implied US dollar
+Funding Rates 1/ (Percent)
+
+8
+
+FX swaps
+expanded
+
+7
+6
+5
+
+200
+
+4
+
+150
+
+3
+
+100
+
+2
+
+from euro forwards
+from sterling forwards
+from yen forwards
+
+50
+0
+Jun-07
+
+1
+0
+
+Dec-07
+
+Jun-08
+
+Dec-08
+
+700
+
+Bank CDS Spreads
+
+600
+
+(Bps; 5-year)
+Lehman
+collapse
+
+500
+
+Jun-09
+
+SCAP
+announced
+
+PPIP
+
+Jun-07
+
+300
+
+Jun-08
+
+Dec-08
+
+Jun-09
+
+90-day U.S. Commercial Paper
+
+6
+
+(Percent; AA)
+AMLF
+
+Bank
+issue
+guaranteed
+debt
+
+400
+
+Dec-07
+
+CPFF
+
+5
+4
+
+Asset-backed
+
+3
+
+U.S.
+
+200
+
+Financial
+
+2
+
+Non-Financial
+
+1
+
+100
+Euro area
+
+0
+07
+
+300
+250
+200
+
+08
+
+U.K.
+0
+09
+
+U.S. Agency New MBS Issuance and
+Gross Federal Reserve MBS (U.S. billions)
+
+Jan-08
+
+Jul-08
+
+Jan-09
+
+Jul-09
+
+AAA-rated U.S. Asset-backed
+Securities (Spread to Libor)
+Nov. 25 TALF
+announced
+
+Agency MBS
+issuance
+Fed's gross agency
+MBS purchases
+Treasury's gross
+MBS purchases
+
+2500
+
+CMBS
+Mortgage-related ABS
+Credit card ABS
+Auto ABS
+Student Loan ABS
+
+150
+
+3000
+
+2000
+1500
+1000
+
+100
+
+500
+
+50
+0
+
+0
+Jan-09
+
+Feb-09 Mar-09
+
+Apr-09 May-09
+
+Jan-07
+
+Jul-07
+
+Jan-08
+
+Jul-08
+
+Sources: Bloomberg, L.P., Goldman Sachs, Haver Analytics, SIFMA, and IMF staff calculations.
+1/ 3-month US dollar funding implied by FX forward and libor rates.
+
+Jan-09
+
+19
+C. Fiscal Policy
+26.
+The crisis is having a substantial impact on fiscal positions in G-20 countries, as
+noted in previous assessments (Table 2).7 Overall
+deficits are projected to increase by 5½ percentage
+China: Credit Growth and Equities
+(rebased index)
+(yoy percent change)
+points of GDP in 2009 and 2010 from pre-crisis
+450
+40
+Equity Market (LHS)
+Jun. 09
+levels, broadly unchanged from earlier estimates. In 400
+350
+30
+advanced G-20 economies, fiscal deficits in 2009300
+10 are now estimated to be somewhat larger, in
+Credit Grow th (RHS)
+250
+20
+some cases reflecting weaker growth prospects in
+200
+2009 or new budgets (e.g., Australia and United
+150
+10
+Kingdom). By contrast, changes in fiscal balances
+100
+Aug. 09
+are now expected to be smaller in other G-20
+50
+0
+countries, particularly those where commodity
+05
+06
+07
+09
+So urces: Haver A nalytics and B lo o mberg, L.P .
+revenues are important. Crisis-related discretionary
+measures are estimated at 2 percent of GDP in 2009
+and 1.6 percent of GDP in 2010.8 Emerging G-20 countries—notably China, Russia, Saudi
+Arabia, and South Africa—have announced somewhat larger stimulus packages for 2009.
+This reflects smaller automatic stabilizers and substantial fiscal space.
+27.
+A full progress report on the implementation of stimulus measures is difficult,
+given limited specific information and operational challenges.
+
+
+Only a few G-20 countries report stimulus spending systematically.9 The United
+States reports on disbursement of stimulus funding by federal agencies on a weekly
+basis, and execution reports by states are required on a quarterly basis. Other
+countries, such as France, have put in place mechanisms for tracking stimulus
+execution, but have yet to begin regular reporting. However, most of the G-20
+countries are not yet providing comprehensive, high-frequency, quantitative
+
+7
+
+See IMF Note on Global Economic Prospects and Effectiveness of Policy Response, July 8, 2009,
+http://www.imf.org/external/np/g20/070809.htm. For a more detailed discussion, see Horton, Kumar, and
+Mauro, “The State of Public Finances: a Cross-Country Fiscal Monitor,” July 30, 2009, IMF Staff Position Note
+(SPN/09/21).
+8
+
+As most G-20 countries have not yet indicated explicitly their policy intentions for next year, estimates for
+2010 reflect phased implementation of stimulus spending initiated this year and carryover of tax provisions.
+9
+
+These include Australia, Canada, France, and the United States, which maintain dedicated websites to report
+on implementation.
+
+20
+reporting. Tracking implementation involves operational challenges on both the
+revenue and expenditure sides.10
+
+
+Stepped-up efforts to track stimulus implementation would be desirable. Transparent
+monitoring and reporting of implementation would contribute to assessing both
+spending quality and macroeconomic impact, which would help sustain public
+support for discretionary action, including possible stepped-up measures where
+needed. It would also provide useful information to gauge on the winding down of
+stimulus once the recovery is underway, helping limit potential pro-cyclicality.
+
+Table 2. G-20 Countries: Fiscal Expansion
+(in percent of GDP, change with respect to pre-crisis year (2007))
+2009
+of which:
+
+PPP GDP-weighted average
+Advanced countries
+Emerging and Developing G-20
+
+2010
+of which:
+
+Fiscal Expansion
+Change from April WEO
+
+Overall
+Balance
+
+Crisis- Related
+Discretionary
+Measures
+
+Other
+Factors
+
+Overall
+Balance
+
+Crisis- Related
+Discretionary
+Measures
+
+Other
+Factors
+
+2009
+
+2010
+
+-5.5
+-5.9
+-5.0
+
+-2.0
+-1.9
+-2.2
+
+-3.5
+-4.0
+-2.8
+
+-5.5
+-6.2
+-4.4
+
+-1.6
+-1.6
+-1.6
+
+-3.8
+-4.5
+-2.8
+
+0.0
+-0.1
+0.0
+
+-0.1
+-0.2
+0.1
+
+Sources: IMF, World Economic Outlook, July 2009 update; and IMF staff estimates.
+
+28.
+Preliminary results from surveys initiated by the Fund and the U.K. Treasury on
+the implementation of fiscal stimulus packages in G-20 countries point to a wide
+variation in implementation thus far (Table 3). In general, implementation rates are higher
+for revenue measures and social transfers and lower for infrastructure projects. This may
+account for a portion of the cross-country variation in implementation rates, as the
+composition of stimulus differs by country. Cross-country comparability is also affected by
+the lack of a standard definition of implementation, especially for expenditures.11
+
+10
+
+On the revenue side, tracking budgetary impact of tax cuts over time may be difficult, or may be possible
+only with a long lag because of tax filing schedules. On the expenditure side, complications can arise if data do
+not distinguish among the various stages of implementation (e.g. approval, project design, procurement,
+commitment, and payment). Monitoring of implementation rates is also more complicated when spending is
+undertaken at the subnational level, when stimulus programs do not represent a separate item in the budget, or
+when project spending appears in the fiscal accounts only with a (possibly significant) lag.
+
+11
+
+The response to the survey was not complete—responses were not received from about a third of the 19
+countries—while in many cases, the authorities were not in a position to provide quantified estimates of the
+stimulus implementation, particularly on the expenditure side. This reflected, in some countries, lack of specific
+monitoring mechanisms and challenges in separating stimulus measures from the overall budget allocations in
+public financial management systems or difficulties in collecting data from line agencies or subnational
+government units responsible for implementation. Some country authorities indicated in their response that they
+would be reporting later in the year on stimulus execution.
+
+21
+Table 3. Fiscal Stimulus Implementation Status for G-20 Countries
+Argentina
+Australia
+
+Implementation S tatus
+The authorities report that discretionary stimulus spending is not tracked separately from already-in-force spending lines. Reporting will follow existing public
+financial management and accountability provisions.
+The authorities report that nearly 100 percent of individual tax rebates (one-quarter of the total expected stimulus for 2009) had been paid by early August. Small
+business tax breaks will be realized with a lag, due to filing schedules. Nearly all jobs-related transfers to households under the main economic stimulus plan have been
+paid out (one-third of the expected stimulus for 2009). Funding has been approved for investment projects under the plan, however, monitoring is complicated by the
+need for more detailed information from line agencies and state and territory governments.
+
+Brazil
+
+Staff estimate that 40 percent of the planned stimulus for 2009 was likely implemented through end-June. Over 60 percent of tax relief—cuts in personal income taxes
+and in indirect taxes on vehicles and other goods—is estimated to have been delivered, while half of the expected cash transfers to the poor are likely to have gone out.
+No information is available on implementation of the housing support package.
+
+Canada
+
+The authorities report that the steps necessary to have 80 percent of the pledged funds flowing by June have been taken. Tax measures are being administered on an
+ongoing basis, including through lower payroll tax deductions. A third progress report on implementation will be issued this fall.
+
+China
+
+The authorities report that as of end-June, about 40 percent of the central government’s pledged (and already allocated) stimulus spending for 2009 has been approved
+by the planning agency (NDRC).
+
+France
+
+The authorities report that 53 percent of the approved fiscal stimulus for 2009 had been implemented through end-June. Revenue and current spending measures have
+been implemented faster than capital spending (61 percent on revenue measures and 55 percent implementation rate on expenditure measures; among expenditure
+measures, safety net spending has been fastest at 73 percent vs. 35 percent on capital spending). The most recent publicly available information as of end-August has
+the implementation rate at 56 percent.
+
+Germany
+
+The authorities report that ex post analyses of revenue measures have not yet been undertaken due to lags in the filing of income taxes. On the expenditure side, the
+authorities consider disbursements to be on schedule, although a considerable number of measures fall under the responsibility of the Länder, particularly infrastructure
+projects. The Länder should produce quarterly updates on their projects. The car-scrapping bonus was particularly successful and was increased in size.
+
+India
+
+Staff report that a high-level committee of senior officials was set up to ensure that stimulus measures are carried out. The committee and a temporary secretariat have
+established a detailed monitoring framework that not only follows the status of each measure but also assesses preliminary impacts. The authorities report that the full
+stimulus amount has been allocated and released to spending units. However, in India's highly federal system, it is not possible to ensure or monitor that amounts
+allocated have actually been spent at the ground level.
+
+Indonesia
+
+Staff estimate that 36 percent of the 2009 stimulus package was implemented through end-June, reflecting 44 percent of tax measures, 35 percent of energy subsidies,
+and full implementation of anti-poverty programs. Infrastructure spending, which comprises 15 percent of the package, is moving more slowly.
+
+Italy
+
+The authorities launched a National Observatory to monitor anti-crisis interventions introduced since late 2008. While it is still in its initial stages of monitoring the
+stimulus measures, the authorities consider their implementation to be in line with the plans outlined in the related anti-crisis legislation. The focus of the monitoring
+activities so far has been on establishing the status of procedures needed to implement stimulus provisions, most of which are reported to be completed, though
+without further information on actual implementation, with an exception of issues related to providing credit to private sector, particularly via provision of guarantees
+by a newly replenished Guarantee Fund.
+
+Japan
+
+It is difficult to track implementation of stimulus measures separately from regular budgets, although cash transfers have been quickly implemented and public works
+expenditures are intended to be substantially front-loaded. The authorities reported on the initial impact of major measures in July. Staff estimate that about 27 percent
+of the total stimulus budgeted for 2009 had been disbursed through June (FY begins in April).
+
+Korea
+
+The authorities report that by mid-year, about 60 percent of the combined annual original and supplementary budgets had been executed. In this context, staff estimate
+that by mid-year about 37 percent of the announced expenditure measures for 2009 had been implemented while about 34 percent of the estimated revenue costs had
+been incurred. In contrast to other countries, the implementation rate on capital investment projects has been higher than on other stimulus measures, namely, 54
+percent of the committed stimulus for 2009 has been implemented through June.
+
+M exico
+
+Staff report that there is no specific mechanism for tracking stimulus implementation. Some aspects, such as energy price relief, were implemented directly. There has
+reportedly been a high level of approvals for infrastructure spending, and program spending grew strongly in the first semester, although at lower rates than planned in
+the budget. However, with weakening revenue performance, some spending will be reduced in the second semester, lowering the overall stimulus.
+
+Russia
+
+Staff estimate that 37 percent of the pledged annual stimulus had been implemented through end-June. The implementation rate for tax breaks is estimated to be higher,
+at 50 percent, than for spending, at 32 percent (including 18 percent for support for strategic sectors). Expenditure estimates reflect funds made available to spending
+agencies rather than funds paid out.
+
+Saudi
+Arabia
+
+During the Article IV consultation in M ay 2009, the authorities noted that about 45 percent of the US$37 billion capital budget for 2009 had already been implemented
+as of end-M arch.
+
+South
+Africa
+
+The authorities report that discretionary stimulus spending is not tracked separately from other baseline expenditures, although the National Treasury is working with
+agencies to improve performance indicators and the links from additional spending to performance targets.
+
+Turkey
+
+The authorities expect to report on stimulus implementation in the next several weeks in the Annual Program for 2010 under their M edium-Term Program for 2010-12.
+
+United
+Kingdom
+
+The bulk of the stimulus is through revenue measures, all of which have been approved. Tax breaks are expected by the authorities to be realized equally by quarter.
+Information on implementation of expenditure measures is not yet available. For the time being, the authorities estimate equal quarter-by-quarter implementation.
+
+United
+States
+
+Publicly-available data indicate that that 76.6 percent of the expected stimulus for FY 2009 has been made available through early-September, of which 41 percent had
+been paid out—implying that close to one third of the total approved stimulus has been paid out to date. Implementation rates are highest for outlays through the
+Department of Health and Human Services and the Social Security Administration. A large share of the stimulus is being implemented at the state level, where tracking
+is more difficult.
+
+Sources: IM F staff and U.K. Treasury survey. Country coverage reflects responses to surveys and availability of information from public sources.
+
+22
+
+29.
+With considerable stimulus remaining in the pipeline through 2010 for the G-20
+as a whole, the overall growth impact of fiscal expansion—once fully implemented—
+should be sizable. The categories of stimulus that have been implemented most rapidly—tax
+breaks and transfer payments—are those typically found to have lower multipliers. The pace
+of stimulus execution for higher multiplier items is likely to pick up in the second half of
+2009, reflecting lags in new and expanded government spending programs, particularly in
+infrastructure. This suggests that growth and employment impacts could increase further
+during the remainder of the year. Given uncertainty on the size of fiscal multipliers, growth
+impacts are estimated using ranges of multipliers (Table 4).12 Estimates for growth impacts
+range from 1¼ to 4¾ percentage points in 2009 and from less than ¼ to 1 percentage point in
+2010, both with respect to the previous year.
+Table 4. G-20 Countries: Impact of Fiscal Expansion on Growth 1/
+(in percentage points)
+
+Low-high range impact 2/ 3/
+G-20 total
+Advanced G-20 countries
+Emerging market G-20 countries
+
+2009
+
+2010
+
+Average
+
+1.2 - 4.7
+1.3 - 4.4
+1.1 - 5.0
+
+0.1 - 1.0
+0.1 - 1.1
+0.0 - 0.8
+
+0.7 - 2.8
+0.7 - 2.7
+0.6 - 2.9
+
+Source: IMF staff estimates based on the World Economic Outlook, July 2009 update.
+1/ Fiscal expansion and growth are calculated with respect to the previous year. Fiscal expansion is measured as the change in the real overall
+fiscal balance between the two years in relation to real GDP of the previous year.
+2/ The range of growth estimates reflects different assumptions on fiscal multipliers. The low set included a multiplier of 0.3 on revenues, 0.5 on
+capital spending and 0.3 on other spending. The high set included a multiplier of 0.6 on revenues, 1.8 on capital spending and 1 for other
+spending. For calculation of the growth impact of total fiscal expansion a weighted average of current and capital expenditure multipliers was
+used.
+3/ For the calculation of growth impacts, the change of the overall fiscal balance was adjusted: for Russia and Saudi Arabia, the change in non-oil
+revenues was used (rather than total revenues); for Saudi Arabia, the change in discretionary measures was used (rather than total expenditures);
+for the United States and Japan, estimates of losses from financial sector support were excluded.
+
+30.
+Governments and central banks have continued to provide direct support to the
+financial and other sectors.13 However, while support measures have been large, the
+immediate impact on government financing needs has been more limited. Guarantees do not
+require upfront government financing, and institutions providing other support measures are
+generally outside the government sector (central banks, state-owned financial institutions,
+12
+
+These estimates consider the effect of spillovers to other countries (via imports), a key element of the crisis
+response and efforts to pursue coordinated global action. The estimates are broadly consistent with the findings
+of structural models, although they reflect the impact of the full fiscal expansion and not only the discretionary
+stimulus.
+
+13
+
+For details on measures announced or implemented during the fourth quarter of 2008 and the first quarter of
+2009, see http://www.imf.org/external/np/g20/pdf/031909a.pdf.
+
+23
+and special corporations). Upfront government financing needs connected with financial
+support operations are estimated at 5½ percent of GDP for the advanced G-20 countries and
+½ percent of GDP for the emerging G-20 countries (Table 5).
+Table 5. Headline Support for Financial and Other Sectors and Upfront Financing Need
+(As of June, 2009; in percent of 2008 GDP; average using PPP GDP weights)
+Capital Injection
+
+Purchase of Assets
+and Lending by
+Treasury
+
+Guarantees
+
+Liquidity Provision
+and Other Support by
+Central Bank
+
+Upfront Government
+Financing
+
+(A)
+
+(B)
+
+(C)
+
+(D)
+
+(E)
+
+2.2
+3.4
+1,149
+0.2
+22
+
+3.5
+5.3
+1,937
+0.3
+38
+
+8.8
+14.0
+4,646
+0.1
+7
+
+9.3
+6.9
+2,514
+13.6
+1,605
+
+3.6
+5.5
+1,849
+0.4
+47
+
+G-20 Average
+Advanced Economies
+In billions of US$
+Emerging Economies
+In billions of US$
+
+Source: IMF Staff estimates based on official announcement by agencies. Average are based on PPP GDP weights. Columns A, B, C, and E indicate announced or
+pledged amounts, and not actual uptake. Column D indicates the actual changes in central bank balance sheets from June 2007 to April 2009. While these changes are
+mostly related to measures aimed at enhancing market liquidity and providing financial sector support, they may occasionally have other causes, and also may not
+capture other types of support, including that due to changes in regulatory policies.
+
+31.
+Financial sector support provided by governments so far has generally been
+considerably less than originally announced. For example, advanced economies for which
+data are available allocated 3½ percent of GDP on average for capital injection, but the
+amount utilized so far has been just over two-fifths of that (1½ percent of GDP) (Table 6).
+The estimated utilization rate for the purchase of assets and treasury lending is even lower,
+at less than one fifth of the allocated amount. This outcome appears to reflect a variety of
+factors including the precautionary nature of initial announcements, indications of
+increasing stability and improved bank liquidity, and mixed progress in implementation of
+programs for recapitalization and purchase of assets. Central bank credit facilities appear
+also to have been taken up only to a limited extent in many countries, as conditions have
+turned out to be less dire than expected at the time of their announcement.
+Table 6. Financial Sector Support: Amount Utilized Relative to Announcement, Selected Countries
+(in percent of 2008 GDP unless otherwise indicated) 1/ 2/
+Capital Injection
+
+Countries
+G-20 total
+G-20 advanced economies
+In billions of US$
+G-20 emerging economies
+In billions of US$
+Source: IMF staff estimates.
+1/ Based on the latest information available.
+2/ PPP weighted averages.
+
+Purchase of Assets and Lending by
+Treasury
+
+Amount used
+
+In percent of
+announcement
+
+Amount used
+
+In percent of
+announcement
+
+1.1
+1.4
+425
+0.1
+7
+
+41.8
+42.3
+…
+29.6
+…
+
+0.9
+1.1
+333
+0.2
+13
+
+18.9
+18.4
+…
+37.8
+…
+
+24
+III. EXITING FROM EXTRAORDINARY PUBLIC ACTIONS
+Policymakers will need to bridge from extraordinary short-term support to medium-term
+policy requirements through credible and coherent exit strategies. The key challenge is to
+map a course between unwinding public interventions too early—which would jeopardize
+progress in securing financial stability and economic recovery—and withdrawing them too
+late, which would distort private incentives and create new risks. The timing and sequencing
+of actions will need to vary across countries, depending on the pace of recovery and
+financial sector repair as well as available policy space. At the same time, policy
+coordination across countries will be critical to minimize adverse spillovers.
+A. Financial Sector Support
+32.
+Although additional policy actions are still needed to help restore financial
+sector health, policymakers should begin to lay the groundwork for eventual exits.
+Plans to manage the exits from public support for financial operations will need to be
+developed and tailored to specific policy areas to provide assurances to markets that exit can
+be achieved without short-term disruptions while attaining medium-term policy goals.
+Indeed, clearly articulated exit strategies may facilitate bank restructuring by removing
+uncertainty regarding the future environment. At the same time, restarting healthy
+intermediation of credit will also depend on reform of prudential frameworks to ensure
+stronger risk management.14
+33.
+The pace of exit from financial sector policies will need to be gradual, with the
+most distortionary programs phased out first. Incentives should be put in place to
+encourage healthy banks to progressively reduce their dependence on public support. To the
+extent possible, priority should be given to exiting from programs that have the greatest
+distortionary impact on financial market decisions and/or involve considerable contingent
+liabilities to the government.
+
+
+14
+
+Healthy banks should be encouraged to repay public capital injections, issue nonguaranteed debt, and end recourse to asset guarantees as a signal of their viability.
+This process should be encouraged by gradually reducing public subsidies and
+tightening access terms, particularly with respect to reducing banks’ reliance on
+guaranteed debt. As conditions improve, banks may choose to end recourse to asset
+guarantees as a signal of strength and also to avoid paying ongoing guarantee fees.
+Chronically weak institutions should be resolved expeditiously, rather than kept on
+life support.
+
+On reforming the finanical system, see Global Economy Beyond the Crisis—Challenges Over the Medium
+Term, IMF Surveillance Note for the G-20 Meetings of Ministers and Deputies, September 3-4, 2009.
+
+25
+
+
+Governments that have purchased impaired assets to help banks cleanse their
+balance sheets may need to hold them for an extended period. Disposal of these assets
+may need to be a slow process, especially given that investor appetite for complex
+and illiquid assets may not return for some time. Governments should therefore give
+priority to ensuring that assets are well-managed and their value maximized,
+including by taking a long-term view on underlying asset values, restructuring claims
+to improve cash flows and recovery rates, and reselling assets only as market interest
+returns.
+B. Central Bank Support
+
+34.
+G-20 central banks will need eventually to unwind their extraordinary liquidity
+support and withdraw conventional and unconventional monetary accommodation.
+Interest rates will need to be raised as economies recover and output gaps are reduced, but
+the path should take account of the withdrawal of fiscal support. To ensure transmission of
+tighter monetary conditions to the real economy, central banks will also need to withdraw
+excess bank reserves created by their exceptional liquidity provision and unconventional
+measures. Thus, the first challenge is when to raise interest rates and the second is how to
+withdraw excess liquidity.
+35.
+Interest rate hikes will likely be needed sooner in emerging than advanced
+economies, given more favorable growth outlooks and attendant inflation pressures.
+
+
+In advanced G-20 economies, central banks can afford to maintain low interest rates
+for an extended period, as underlying inflation is expected to remain very low. With
+fiscal stimulus gradually receding, a premature tightening of monetary policy could
+undercut the recovery. At the same time, a prolonged period of very low interest rates
+could fuel excessive risk taking. This risk is limited over the near term, as weak
+balance sheets and confidence are likely to weigh on credit availability. Nonetheless,
+once a recovery is firmly underway, as signaled by recovering employment, monetary
+policy will need to be tightened.
+
+
+
+The situation is more varied across emerging G-20 economies, but monetary
+accommodation will likely need to be withdrawn sooner. A number of these
+economies, notably in Asia, are already enjoying relatively vigorous rebounds of
+activity. Accordingly, unemployment is not forecast to be much higher in 2010 than
+before the crisis, which suggests that inflation pressures would be less subdued than
+in the advanced economies. Moreover, some of these economies are again seeing
+significant asset price increases and credit growth in response to low interest rates,
+raising the specter of renewed equity or real estate booms. Some emerging economies
+should consider prudential actions to limit excessive credit creation.
+
+26
+36.
+Conventional monetary tightening will need to
+be accompanied by steps to offset the impact of large
+central bank balance sheets. The recent large
+expansion of central bank balance sheets is mirrored in
+the growth of bank reserves, which will need to be
+mopped up as interest rates are raised to ensure the
+transmission of policy rate changes to the real economy.
+The composition of central bank assets will in part
+determine the approach to be taken.
+
+
+
+
+For central banks that have relied on short-term
+instruments to expand their balance sheets, excess
+reserves can be absorbed by simply letting these
+instruments mature. This unwinding has already
+started to some degree as funding markets improve
+and banks reduce demand for precautionary excess
+reserves. The ECB—which has provided liquidity
+largely through short-term instruments—is well
+placed to reabsorb all excess reserves automatically
+as these instruments mature. For the Fed and the
+BoE, however, the unwinding of their short-term
+instruments will not be sufficient to mop up the full
+extent of excess reserves.
+
+Central Banks Total Assets
+(Index,1/5/2007=100)
+400
+
+Lehman
+B ro thers
+
+350
+B OE
+
+FED
+
+250
+ECB
+B OC
+
+200
+150
+100
+
+B OJ
+
+50
+Jan-07
+
+Jul-07
+
+Jan-08
+
+Jul-08
+
+Jan-09
+
+Jul-09
+
+So urce: Haver analytics.
+
+European Central Bank Assets
+(Percent of 2008 GDP)
+
+45
+
+Credit market interventions
+Liquidity facilities
+Government securities
+Other
+
+40
+35
+30
+25
+20
+15
+10
+5
+0
+
+Jun-08
+
+Sep-08
+
+Dec-08
+
+Mar-09
+
+Jun-09
+
+So urce: Haver A nalytics.
+
+Selling assets associated with credit easing operations in specific markets may prove
+to be more difficult and would need to depend on the state of these markets. There
+may be scope to unwind the stock of government securities on the balance sheets of
+central banks since markets are quite liquid, but the disposal of private or quasisovereign financial instruments may be more problematic. In particular, mortgagebacked securities may need to be held to maturity to continue supporting still
+vulnerable housing markets, unless private interest
+U.S. Federal Reserve Assets
+in such securitization returns.
+(Percent of 2008 GDP)
+
+
+
+300
+
+Beyond reducing the asset side of their balance
+sheets, central banks have several other options for
+withdrawing excess reserves. These include: (i)
+engaging in reverse repurchase operations; (ii)
+raising interest rates on deposits to banks; or (iii)
+issuing their own paper. Less attractive options
+include raising reserve requirements (since this adds
+a distortion) or having treasuries selling government
+paper and depositing the proceeds in central banks.
+
+24
+22
+20
+18
+16
+14
+12
+10
+8
+6
+4
+2
+0
+
+Credit Market Interventions
+Liquidity Facilities
+Government securities
+Other
+
+Jun-08
+
+Sep-08
+
+So urce: B lo o mberg L.P .
+
+Dec-08
+
+Mar-09
+
+Jun-09
+
+27
+37.
+Looking ahead, central banks will need to determine the extent to which
+changes to liquidity facilities in response to the crisis should be made permanent. The
+crisis has made apparent the benefits of a large number of central bank counterparties and a
+broad range of acceptable collateral. However, access to emergency lending must come at
+the price of tighter supervision and regulation. Similarly, central banks can continue to
+accept a broader range of collateral but should apply appropriate pricing and tightening of
+access conditions (for example, larger haircuts) to ensure that such operations are only used
+to address temporary liquidity needs, rather than becoming a normal part of financial
+intermediation.
+C. Fiscal Support15
+38.
+Despite a gradual expected reduction in fiscal deficits over the medium term,
+public debt is expected to rise sharply in advanced G-20 economies.
+
+
+Overall fiscal deficits under current policies are projected to remain higher in 2014,
+compared with 2007, in both advanced and emerging G-20 economies.16 For the
+advanced countries, the larger overall deficits are explained by higher interest
+payments (by 1¾ percentage points of GDP, on average) and higher primary
+expenditures. For the emerging economies, the deterioration is explained by primary
+spending increases, while revenue gains in some countries offset sustained lower
+commodity revenues (from exceptionally high 2007 levels) in others.
+
+
+
+In advanced G-20 economies, debt levels are projected to rise to close to 120 percent
+of GDP, up from about 80 percent of GDP before the crisis on account of higher
+deficits and weak economic growth. In emerging G-20 economies, debt levels are
+expected to decline slightly after the initial post-crisis peak, reflecting smaller deficits
+and stronger projected economic performance relative to advanced economies.
+However, the outlook for debt would be far worse if global growth recovers more
+slowly. In particular, if GDP growth were 1 percentage point lower than baseline in
+2010 and 2 percentage points lower in 2011-14, advanced economy debt levels would
+be some 20 percentage points higher by 2014.
+
+15
+
+For a more detailed discussion, see Horton, Kumar, and Mauro, “The State of Public Finances: a CrossCountry Fiscal Monitor,” July 30, 2009, IMF Staff Position Note (SPN/09/21).
+
+16
+
+Projections through 2014 reflect a substantial narrowing of output gaps—which reduces automatic
+stabilizers—and, for most countries, assume fiscal adjustment, although this may not reflect specified policy
+measures in the outer years.
+
+28
+Outlook for Public Finances
+(Percent of GDP)
+2
+
+140
+
+Fiscal Balance
+
+0
+
+120
+
+-2
+
+100
+
+-4
+
+80
+
+-6
+
+60
+G-20
+
+-8
+
+40
+
+G-20 (Advanced)
+
+-10
+
+Government Debt
+
+G-20
+G-20 (Advanced)
+G-20 (Emerging)
+
+20
+
+G-20 (Emerging)
+
+0
+
+-12
+00
+
+02
+
+04
+
+06
+
+08
+
+10
+
+12
+
+14
+
+00
+
+02
+
+04
+
+06
+
+08
+
+10
+
+12
+
+14
+
+Source: IMF, World Economic Outlook.
+
+39.
+The increase in fiscal deficits and debt raises complicated tradeoffs regarding
+the timing of the withdrawal of stimulus. Policymakers will need to balance two
+competing risks. On the one hand, premature withdrawal of fiscal stimulus would undermine
+the recovery. On the other hand, a delayed withdrawal could fuel investor concerns about
+sustainability, leading to higher interest rates on government paper, undermining the
+recovery and worsening the debt dynamics. At this stage, with the recovery still fragile, fiscal
+adjustment is premature, but is projected to get underway by 2011 in most countries (and
+earlier in some) as fiscal stimulus measures expire and output gaps narrow.
+40.
+Regardless of the timing of adjustment, its necessary scale will be large,
+particularly for high-debt advanced economies. Sizable improvements in primary balances
+will be required in most advanced and several emerging market economies to halt or reverse
+the increase in debt-to-GDP ratios of the general government (Appendix Table 1). To
+illustrate the scale of the task ahead, staff has estimated the potential size of the required
+adjustment for advanced and emerging economies, with the size of the adjustment depending
+on whether countries are projected to have “low” or “high” debt in 2014.17 Although the
+necessary effort for each country will depend on its own circumstances, attaining these
+objectives would require a further improvement in the 2014 primary balance of 5½
+percentage points of GDP for “higher debt” advanced economies and ¾ percentage point of
+
+17
+
+Low debt countries are assumed to be (i) advanced economies whose debt-to-GDP ratios are projected below
+60 percent in 2014, and (ii) emerging market countries whose debt-to-GDP ratios are projected below
+40 percent. The required adjustment was calculated based on stabilization of the debt-to-GDP ratio from 2014
+onward. High debt countries are assumed to be those with debt levels above these thresholds. For these
+countries, the required adjustment was calculated based on a gradual reduction of the debt-to-GDP ratio to 60
+percent by 2029 for the advanced economies (for Japan, the ratio was halved) and to 40 percent for the
+emerging economies.
+
+29
+GDP for “higher debt” emerging economies, on average (Table 7).18 No improvement would
+be needed for advanced or emerging economies in the “lower-debt” groups. However,
+despite the limited need for fiscal adjustment from this standpoint, some emerging economies
+may nevertheless face refinancing challenges in the current global financial environment.
+Table 7. Debt Dynamics and Debt Stabilizing Primary Balance
+(in percent of GDP)
+Pre-crisis WEO projections 1/
+
+Current WEO projections 2/
+
+Debt
+
+Debt
+
+PB
+
+PB
+
+Debt-stabilizing
+PB or PB needed
+to bring debt to
+benchmark level
+2014
+3/
+
+2009
+
+2012
+
+2009
+
+2012
+
+2009
+
+2014
+
+2009
+
+83.6
+23.3
+
+83.1
+22.2
+
+-0.3
+3.0
+
+0.3
+2.9
+
+106.0
+27.6
+
+126.0
+34.4
+
+-9.0
+-2.6
+
+-0.9
+2.2
+
+4.8
+0.3
+
+60.3
+13.6
+
+53.9
+11.1
+
+1.9
+1.1
+
+1.9
+0.9
+
+67.7
+19.1
+
+61.9
+19.0
+
+-1.4
+-3.2
+
+1.3
+0.9
+
+2.0
+0.2
+
+G-20 Advanced economies 4/
+Higher debt 5/
+Lower debt
+G-20 Emerging market economies 4/
+Higher debt 7/
+Lower debt
+
+Sources: IMF, World Economic Outlook, July 2009, and IMF staff calculations.
+1/ IMF, World Economic Outlook, October 2007.
+2/ IMF, World Economic Outlook, July 2009 update.
+3/ Average primary balance needed to stabilize debt at end-2014 level if the respective debt-to-GDP ratio is less than 60 percent for advanced economies or 40
+percent for emerging market economies (lower debt economies); or to bring debt ratio to 60 percent (halve for Japan and reduce to 40 percent for emerging market
+economies) in 2029 (higher debt economies). The analysis is illustrative and makes some simplifying assumptions: in particular, beyond 2014, an interest
+rate–growth rate differential of 1 percent is assumed, regardless of country-specific circumstances; moreover, the projections are "passive" scenarios based on
+constant policies.
+4/ PPP GDP weighted for each respective group.
+5/ Advanced economies are labeled as "higher debt" if the debt/GDP ratio is projected at 60 percent or more in 2014; lower debt otherwise.
+6/ Emerging market economies are labeled as "higher debt" if the debt/GDP ratio is projected at 40 percent or more in 2014; lower debt otherwise.
+
+41.
+Few G-20 countries have so far developed fully fledged medium-term fiscal
+adjustment strategies. Some have announced medium-term targets or have extended the
+horizon of their fiscal projections, but detailed plans on how to achieve deficit objectives
+have not been specified.
+
+
+18
+
+In June, the parliament in Germany adopted a new constitutional fiscal rule for both
+federal and state governments that envisages a gradual move to structural balance
+from 2011. The rule requires the federal government’s structural deficit (the deficit
+adjusted for the effects of the cycle and one-off operations) not to exceed 0.35 percent
+of GDP from 2016, although there would be an escape clause for exceptional
+circumstances. States are required to run structurally balanced budgets from 2020.
+
+The scenario assumes that the real interest is one percentage point higher than the real growth rate from 2014
+onward. The debt/GDP ratio evolves according to the identity: ∆(D/Y)t=(r-g)/(1+g)*(D/Y)t-1 -pb, where D is the
+debt stock, Y is GDP, r is the nominal interest rate, g is the nominal growth rate, pb is the primary fiscal balance
+as a share of GDP. The debt ratio is constant when pb= (D/Y)(r-g)/(1+g).
+
+30
+
+
+In Japan, the authorities have aimed to halve the primary deficit (excluding the social
+security fund) within five years and to achieve primary balance within ten years. The
+authorities have also committed to stabilizing the debt-to-GDP ratio by the middle of
+the next decade and placing it on a downward path during the early 2020s.
+
+
+
+The U.K. authorities project an annual average fiscal consolidation of 1⅓ percentage
+points of GDP from 2010 to 2014, so that debt begins to decline by 2015–16.
+
+
+
+The U.S. authorities have published ten-year fiscal forecasts—a welcome step, though
+underlying projections for growth and interest rates appear optimistic. Congress has
+passed legislation to reintroduce pay-as-you-go provisions for new programs
+(requiring offsetting revenue increases or expenditure cuts for any new program
+introduced) and intense discussions are continuing on health-care reform.
+
+42.
+However, medium-term consolidation policies have yet to be put in place. Where
+they have been proposed, measures have focused on increases in taxation of fuel and on
+making income taxes more progressive, and in some cases on limiting growth of current
+spending or cutting capital expenditure. A revival of tax revenues and a phasing out of
+discretionary spending initiatives may also be expected when conditions improve, although
+some of the revenue base (e.g., from elevated profits in the financial sector or real estate)
+may have been lost permanently. Governments should save revenue overperformance arising
+from faster-than-expected recovery and avoid budgetary slippages unrelated to worsening
+macroeconomic conditions. Finally, in some countries, significant political capital will need
+to be expended to ensure that stimulus measures do not become permanent.
+43.
+Going forward, a strategy to ensure fiscal solvency should be based on: (i) a firm
+commitment and a clear strategy to contain aging-related spending, especially in advanced
+economies;19 (ii) growth-enhancing structural reforms; and (iii) fiscal policies cast within
+medium-term fiscal frameworks (and supportive institutional arrangements) that envisage a
+gradual fiscal correction once economic conditions improve.20
+44.
+Any successful strategy to ensure that public debt is kept on a sustainable path
+will need to include measures to contain aging-related spending. Under current policies,
+spending on pensions and health care is projected to increase substantially over the next two
+decades, especially in the advanced economies. Owing to these pressures, which existed prior
+to the global financial and economic crisis, attaining a given primary surplus presents greater
+challenges than in the past. Entitlement reforms in the areas of pensions and health care will
+play a key role in two respects. First, reforms that reduce the trajectory of aging-related
+19
+
+An early start to entitlement reform would not necessarily undermine the fiscal stimulus. For example, an
+increase in the retirement age would yield savings for the government without reducing aggregate demand.
+20
+
+To this end, the task will be easier if fiscal stimulus packages consist of reversible measures.
+
+31
+spending can contribute to improving prospects for the primary balance, thereby helping to
+contain the debt-to-GDP ratio. Second, the extent to which the projected debt-to-GDP ratio is
+viewed as sustainable depends in part on the outlook for pension and health care expenditures
+over the longer run. Thus, reforms that improve the long-run outlook would, other things
+equal, permit a somewhat less ambitious reduction in the debt-to-GDP ratio over the coming
+years.
+45.
+Medium-term fiscal frameworks can also play a role in recovering from high
+debt positions.21 Explicit medium-term fiscal targets would help provide a clear indication of
+what country authorities perceive as a desirable fiscal policy path. Such targets can help
+anchor market expectations if they are credibly set and buttressed by appropriate institutional
+frameworks (for example, medium-term expenditure frameworks that set multi-year limits at
+the aggregate, ministerial, or program level, in order to translate overall objectives into
+budget decisions). During the crisis, countries with existing fiscal rules have, for the most
+part, retained them—in some cases making use of escape clauses—although the crisis has
+tested their resilience and highlighted the importance of built-in flexibility to avoid tightening
+during recessions. For instance, the EU’s Stability and Growth Pact has been flexible enough
+to accommodate the currently envisaged fiscal responses to the crisis.22
+
+21
+
+A forthcoming IMF study will address the pros and cons of fiscal rules in the post-crisis context.
+
+22
+
+See IMF, Regional Economic Outlook: Europe, May 2009.
+
+32
+Appendix Table 1. General Government Debt and Primary Balance
+(in percent of GDP)
+Pre-crisis WEO projections 1/
+Debt
+
+Advanced countries
+Australia
+Canada
+France
+Germany
+Italy
+Japan
+Korea
+United Kingdom
+United States
+PPP-weighted average
+G-20
+Higher debt
+Lower debt
+Emerging market economies
+Argentina
+Brazil
+China
+India
+Indonesia
+Mexico
+Russia 3/
+Saudi Arabia
+South Africa
+Turkey 4/
+PPP-weighted average
+G-20
+Higher debt
+Lower debt
+
+Current WEO projections
+
+PB
+
+Debt
+
+PB
+
+Debt-stabilizing PB
+or PB needed to
+bring debt to
+benchmark level
+2014
+(shaded) 2/
+
+2009
+
+2012
+
+2009
+
+2012
+
+2009
+
+2014
+
+2009
+
+7.8
+61.0
+63.0
+61.1
+104.1
+194.2
+32.6
+42.9
+63.4
+79.5
+79.5
+83.6
+23.3
+
+6.0
+51.3
+60.5
+59.4
+102.0
+189.6
+31.8
+42.5
+65.8
+78.9
+78.9
+83.1
+22.2
+
+0.9
+1.2
+-0.3
+2.1
+2.5
+-1.8
+4.3
+-0.5
+-0.8
+-0.1
+-0.1
+-0.3
+3.0
+
+0.6
+0.5
+0.8
+2.0
+2.6
+-0.2
+4.3
+0.2
+-0.3
+0.5
+0.5
+0.3
+2.9
+
+13.7
+75.6
+77.4
+79.8
+117.3
+217.4
+35.8
+68.6
+88.8
+100.6
+100.6
+106.0
+27.6
+
+25.9
+65.4
+95.5
+91.4
+132.2
+239.2
+39.4
+99.7
+112.0
+119.7
+119.7
+126.0
+34.4
+
+-4.3
+-3.5
+-5.3
+-2.3
+-0.9
+-9.0
+-1.6
+-10.0
+-12.3
+-8.6
+-8.6
+-9.0
+-2.6
+
+-0.4
+-0.4
+-2.1
+1.9
+0.5
+-5.1
+3.8
+-3.8
+0.3
+-0.6
+-0.6
+-0.9
+2.2
+
+0.3
+1.0
+3.1
+2.8
+5.8
+9.8
+0.4
+3.4
+4.3
+4.5
+4.5
+4.8
+0.3
+
+51.0
+67.7
+13.4
+69.8
+32.8
+40.9
+3.9
+14.8
+24.0
+48.7
+32.5
+32.5
+60.3
+13.6
+
+39.6
+62.7
+11.2
+61.6
+27.7
+41.3
+2.3
+11.4
+18.1
+37.3
+28.4
+28.4
+53.9
+11.1
+
+2.8
+3.4
+-0.4
+0.2
+0.1
+0.9
+1.7
+19.2
+2.5
+6.3
+1.4
+1.4
+1.9
+1.1
+
+2.4
+3.4
+-0.6
+0.5
+0.6
+0.2
+1.5
+16.8
+1.9
+6.3
+1.3
+1.3
+1.9
+0.9
+
+50.4
+70.1
+20.9
+83.7
+31.1
+49.2
+7.3
+14.6
+29.0
+46.9
+38.8
+38.8
+67.7
+19.1
+
+48.4
+62.2
+21.3
+73.4
+28.4
+44.5
+7.2
+9.4
+29.5
+58.1
+36.4
+36.4
+61.9
+19.0
+
+0.5
+1.5
+-3.8
+-4.1
+-0.6
+-1.1
+-4.9
+4.6
+-0.5
+-0.2
+-2.5
+-2.5
+-1.4
+-3.2
+
+2.2
+3.3
+-0.4
+0.7
+0.2
+-0.4
+2.4
+14.0
+0.0
+1.1
+1.1
+1.1
+1.3
+0.9
+
+1.0
+2.0
+0.2
+2.8
+0.3
+0.7
+0.1
+0.1
+0.3
+1.7
+0.9
+0.9
+2.0
+0.2
+
+Sources: IMF, World Economic Outlook, July 2009 update; and IMF staff calculations.
+1/ IMF, World Economic Outlook, October 2007. 2/ Average primary balance needed to stabilize debt at end-2014 level if the
+respective debt-to-GDP ratio is less than 60 percent for advanced economies or 40 percent for emerging market economies (no
+shading); or to bring debt ratio to 60 percent (halve for Japan and reduce to 40 percent for emerging market economies) in 2029
+(shaded entries). The analysis is illustrative and makes some simplifying assumptions: in particular, beyond 2014, an interest
+rate–growth rate differential of 1 percent is assumed, regardless of country-specific circumstances; moreover, the projections are
+passive scenarios based on constant policies; 3/ Debt data in the pre-crisis WEO projections column are for the central government
+only. 4/ Pre-crisis WEO projections are not fully comparable to current WEO projections for Turkey, owing to substantial revisions in
+their GDP series in late 2007 and early 2008, respectively. For Turkey, fiscal projections are based on staff's assessment of the fiscal
+policies and measures identified by the authorities as of July 2009.
+
+

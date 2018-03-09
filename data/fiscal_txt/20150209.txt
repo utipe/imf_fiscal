@@ -1,0 +1,1540 @@
+GROUP OF TWENTY
+
+GLOBAL PROSPECTS AND POLICY CHALLENGES
+G-20 Finance Ministers and Central Bank Governors Meeting
+February 9–10, 2015
+Istanbul, Turkey
+
+Prepared by Staff of the
+I N T E R N A T I O N A L M O N E T A R Y F U N D*
+*Does not necessarily reflect the views of the IMF Executive Board.
+
+EXECUTIVE SUMMARY
+While global growth will receive a boost from the decline in oil prices, the outlook has been
+revised down. The oil price decline, which reflects to an important extent higher supply, mainly a rise in
+production in the United States and OPEC’s decision to maintain current production, will boost global
+growth by lifting private demand. However, this boost is projected to be more than offset by negative
+factors, including the drag in investment associated with diminishing medium term growth prospects.
+Accordingly, global growth in 2015–16 is revised down by a ¼ percentage point to 3.5 and 3.7 percent,
+respectively.
+Market volatility has increased and there have been adjustments in credit and currency markets.
+Currencies have depreciated and spreads have risen in many emerging markets, notably but not only in
+commodity exporters. Spreads on high-yield bonds and products exposed to energy prices have
+widened, but long-term government bond yields have declined in advanced and emerging economies.
+Risks are more balanced than in October. Upside risks arise from the demand boost due to lower oil
+prices, but uncertainty about their future path, which depends on the drivers of the price decline, has
+also increased. Downside risks linked to financial market sentiment—given prospects for U.S. monetary
+normalization—are compounded by potential external and balance sheet vulnerabilities in oil exporters.
+Stagnation and low inflation remain a concern in the euro area and Japan and geopolitical risks
+continue to be high.
+Strong policy action is needed to raise growth and mitigate risks:
+Advanced economies should maintain supportive policies. In most advanced economies substantial
+output gaps and below-target inflation suggest that the boost to demand from lower oil prices is
+welcome, and that the monetary stance should remain accommodative. Where risks of further
+decline in inflation expectations are present—notably the euro area and Japan—continued
+monetary accommodation is needed, and the recent ECB announcement of an asset purchase
+program is welcome. Fiscal policy should be growth friendly, including by moderating the pace of
+consolidation and enhancing infrastructure investment in countries with identified needs, large
+output gaps, and relatively efficient investment processes.
+In many emerging economies, policy space to support growth remains limited. In some, lower oil
+prices will alleviate inflationary pressures, allowing for a more gradual tightening of monetary
+policy. Oil exporters that have accumulated savings and have fiscal space can let fiscal deficits
+increase and allow a more gradual adjustment of public spending. For others with less policy space,
+exchange rate flexibility will be a critical buffer to the shock. Some will have to strengthen their
+policy frameworks to avert persistently higher inflation and adapt to a protracted deterioration in
+terms of trade. Similar to advanced economies, and with the same caveats, infrastructure
+investment is needed to ease supply bottlenecks in some emerging economies.
+Lower oil prices offer an opportunity to reform energy subsidies and taxes in both oil exporters and
+importers. The removal of general energy subsidies should be used toward more targeted transfers
+and to lower budget deficits where relevant.
+There is an urgent need for structural reforms to raise potential output across the G-20 members.
+Labor market reforms in advanced economies undergoing population aging should aim at raising
+labor participation, and actions to increase labor demand and remove impediments to employment
+are also needed in euro area economies and some emerging markets. Reforms to improve the
+functioning of product markets are also needed in Japan and the euro area, and reforms to improve
+productivity and raise potential output are key in many emerging economies. A new momentum is
+needed in the global trade dialogue.
+_______________________________________________________________________________________________________________________________________
+Prepared by a team from the IMF’s research Department, led by Emil Stavrev, Esteban Vesperoni, and Sweta Saxena, and including
+Eric Bang, Ava Yeabin Hong, and Gabi Ionescu.
+
+DEVELOPMENTS, OUTLOOK, AND RISKS
+Global growth will receive a boost from lower oil prices, which reflect to an important extent higher
+supply. However, this boost is projected to be more than offset by negative factors, including the
+drag in investment associated with diminishing medium term growth prospects. Accordingly, global
+growth in 2015–16 is revised down by a ¼ percentage point to 3.5 and 3.7 percent, respectively.
+Risks are more balanced than in October. Upside risks arise from lower oil prices, but the decline has
+also added uncertainty associated with the future path of oil prices. On the downside, risks linked to
+financial market sentiment are compounded by potential external and balance sheet vulnerabilities
+in oil exporters. Stagnation and low inflation in the euro area and Japan remain a concern, and
+geopolitical risks continue to be high.
+1.
+While global growth increased broadly as expected in the third quarter of 2014,
+there were marked growth divergences among major economies. With the exception of the
+United States, economic performance in all other major economies fell short of expectations, with
+lackluster investment—due to a protracted adjustment to diminished expectations about
+medium-term growth—as the main factor behind this weakness. Specifically:
+The recovery in the United States was stronger than
+expected, following the contraction in the first quarter of
+2014. It was driven by consumption amid steady recovery
+in labor markets and consumer confidence, and
+investment, especially non-residential, on the back of
+high levels of capacity utilization.
+In Japan, the economy fell into technical recession in the
+third quarter of 2014. The consumption tax increase in
+the previous quarter had weighted on private domestic
+demand more than anticipated, despite a cushion from
+increased infrastructure spending.
+In the euro area, growth in the third quarter of 2014 was
+modestly weaker than expected, largely on account of
+weak investment. The data releases for December and
+January show deflation for the area as a whole—the first
+negative reading since 2009. Inflation expectations
+declined further, below the ECB’s 2 percent mediumterm price stability objective—raising risks of a
+protracted period of low inflation.
+In China, growth slowed to 7.3 percent in the fourth
+quarter, bringing 2014 growth to 7.4 percent, broadly in
+line with the government’s target.
+
+2
+
+INTERNATIONAL MONETARY FUND
+
+U.S.: Capacity Utilization and Employment
+(percent)
+
+Capacity utilization
+Change in total nonfarm employment
+(sa; thousands; 6-month moving
+average, RHS)
+
+90
+85
+
+600
+400
+200
+
+80
+
+0
+
+75
+
+-200
+-400
+
+70
+
+-600
+
+65
+Dec. 14
+
+60
+00
+
+02
+
+04
+
+06
+
+08
+
+10
+
+12
+
+14
+
+Source: Haver Analytics.
+Euro Area: Inflation
+(percent change from a year earlier)
+Harmonized CPI
+5y5y inflation linked swap rate
+2y2y inflation linked swap rate
+
+8
+
+2%
+inflation
+target
+
+6
+4
+2
+0
+
+-2
+Dec. 14
+
+-4
+08
+
+09
+
+10
+
+11
+
+12
+
+13
+
+14
+
+Sources: Bloomberg, L.P.; and Haver Analytics.
+
+-800
+-1000
+
+2.
+In a major development, oil prices have declined by about 55 percent since
+September.1 The decline is partly due to unexpected demand weakness in some major
+economies, in particular emerging economies—also reflected in
+Commodity Prices
+(index; January 1, 2014 = 100)
+declines in metal prices. But the much larger decline in oil prices
+Metals
+Crude oil 1/
+suggests an important contribution of oil supply factors, 120
+including the decision of the Organization of the Petroleum 100
+Exporting Countries (OPEC) to maintain current production
+80
+60
+levels despite the steady rise in production from non-OPEC
+40
+producers, especially the United States. Oil futures contracts
+1/30
+20
+point to a partial recovery in oil prices in coming years,
+Jan-14
+Apr-14
+Jul-14
+Oct-14
+Jan-15
+Source: Bloomberg, L.P.
+consistent with the expected negative impact of lower prices on
+1/ Simple average of three spot prices; U.K. Brent,
+West Texas Intermediate, and Dubai Fateh.
+investment and future capacity growth in the oil sector.
+3.
+Market volatility has increased and there have been adjustments in credit and
+currency markets. Risk-off behavior in emerging economies led to currency depreciations not
+only for oil exporters but also for some importers, and volatility has increased, though from low
+levels. In the context of a downward shift in inflation expectations and bolder actions in terms of
+monetary policy—notably, further easing by the euro area’s and Japan’s central banks—long-term
+government bond yields have declined, but spreads have increased for high yield issuers—
+especially in the oil and gas sectors—as well as for some emerging economy sovereigns led by
+big oil exporters (e.g., Russia, Venezuela and Ecuador). Equity prices in the energy sector have
+fallen since mid-2014. Amid foreign debt loads built by corporations in emerging economies over
+the last years, currency depreciations, output price declines, and the increase in spreads may raise
+concerns over their capacity to meet debt payments (Box 1).
+Financial Market Volatility
+
+Exchange Rate in Emerging Markets
+
+(index; January 3, 2011 = 100)
+
+30
+
+140
+120
+
+25
+
+100
+
+20
+
+80
+
+15
+
+60
+
+10
+
+40
+
+5
+0
+Jan-13
+
+1/30
+Jul-13
+
+Jan-14
+
+Source: Bloomberg, L.P.
+
+Advanced Economies: Exchange Rate
+
+(per US $; 1/1/2010 = 100)
+
+VIX
+G7 FX volatility
+Emerging market FX volatility
+MOVE (RHS)
+
+Jul-14
+
+Jan-15
+
+20
+0
+
+260
+240
+220
+200
+180
+160
+140
+120
+100
+80
+Jan-13
+
+Mexico
+Russia
+India
+Poland
+
+(index; Aug. 2014 = 100; cpi-based)
+Colombia
+Brazil
+Indonesia
+Turkey
+
+U.S.
+Japan
+
+U.K.
+Euro area
+
+110
+105
+100
+95
+
+90
+1/30
+Jul-13
+
+Jan-14
+
+Source: Bloomberg, L.P.
+
+Jul-14
+
+Jan-15
+
+85
+Aug-14
+
+Sep-14
+
+Oct-14
+
+Nov-14
+
+Dec-14
+
+Source: IMF, Global Data Source.
+
+4.
+With more marked growth divergence across major economies, the U.S. dollar has
+appreciated. In real effective terms, the dollar has appreciated by about 9 percent relative to the
+October WEO (as of the third week of January). In contrast, the euro and the yen have depreciated
+by about 6 and 7 percent, respectively, and many emerging market currencies have weakened,
+particularly those of commodity exporters.
+
+1
+
+For an analysis about the impact of the sharp decline of oil prices on the global economy, see the Special Topic
+to the G-20 Surveillance Note, “Impact of Oil Price Decline on the Global Economy.”
+
+INTERNATIONAL MONETARY FUND
+
+3
+
+Box 1. Financial Developments in the Context of the Oil Shock
+Financial market volatility has increased—although from low levels compared to historical averages—
+and there have been adjustments in credit and currency markets. Recent developments in financial
+markets can be summarized as follows:
+Tightening financial conditions in corporate bond markets and emerging economy sovereign bonds. A
+significant number of U.S. high yield bond issuers are energy companies, which also account for a
+significant share in the global corporate bond index. Spreads in the U.S. high yield market have risen by
+65 basis points since early-December, and the corporate emerging markets bond index (CEMBI) has
+increased by about 165 basis points over the last six months, pushed by oil and gas companies. This
+takes place amid weak balance sheets—i.e., interest coverage ratios below 2—in many energy sector
+companies in emerging economies. Also, over the last six months, the global EMBI spread has widened
+from 281 to 402 basis points, pushed to a large extent—but not only—by higher spreads in oil
+exporting countries like Russia, Venezuela, and Ecuador, which likely reflects in part the fact that many
+large EM oil corporates are state-owned.
+Currency depreciation. The currencies of several oil producers in emerging economies have depreciated
+sharply since end-June and there was an increase in volatility in bond, equity and currency markets.
+Risk-off behavior in several emerging economies led to currency depreciations even for some oil
+importers. This may create balance sheet tensions in some emerging economies, especially in the
+context of substantial foreign debt loads build by corporations over the last years.
+Pressure on corporate earnings. Prospects for lower earnings have already been reflected in equity
+prices for companies in the oil and gas sectors, which fell by 24 percent over the last six months.
+Emerging Market Bond Spread
+Emerging Market Corporate Bond Spread
+Accordingly, a significant decline in
+(basis points)
+(basis points)
+corporate earnings in energy sector
+CEMBI oil & gas
+EMBIG
+800
+Russia
+4000
+550
+CEMBI composites
+companies is likely to take place.
+India
+700
+3500
+Turkey
+Venezuela (RHS)
+
+500
+
+further implications:
+Banking sector. The exposure of some
+global banks to oil and gas companies
+is substantial—between 2 to 8 percent
+of total assets for some banks—and an
+increase in non-performing loans
+would have an impact on the balance
+sheet of those banks.
+Capital flows. As earnings from oil
+corporations in emerging market
+exporters decline, equity inflows are
+likely to fall. Mutual fund flows to
+emerging markets have fallen during
+the last six months.
+
+4
+
+INTERNATIONAL MONETARY FUND
+
+3000
+
+500
+
+2500
+
+400
+
+2000
+
+300
+
+1500
+
+300
+
+200
+
+1000
+
+250
+
+100
+
+400
+350
+
+1/30
+
+200
+Jan-14
+
+Apr-14
+
+Jul-14
+
+Oct-14
+
+1/30
+
+0
+Jan-14
+
+Jan-15
+
+Source: Bloomberg, L.P.
+
+500
+0
+
+Apr-14
+
+Jul-14
+
+Oct-14
+
+Jan-15
+
+Source: Bloomberg, L.P.
+
+Stock Prices: Oil and Gas
+
+Balance Sheet Exposure to Oil and Gas
+
+(index; January 1, 2014 = 100)
+
+(% of group exposure; latest reported date)
+8
+
+120
+
+7
+
+6
+
+110
+
+5
+4
+
+100
+
+3
+2
+
+90
+
+1
+
+0
+
+80
+1/30
+
+70
+Jan-14
+Apr-14
+Jul-14
+Oct-14
+Jan-15
+Source: Bloomberg, L.P.
+Note: Average of 40 oil and gas companies quoting in
+the U.S. stock exchange.
+
+DNB
+StanChart
+Citygroup
+SocGen
+SEB
+ING
+Sber
+RBS
+Nordea
+Morgan Stanley
+Bank of America
+JP Morgan
+Swed
+BOI
+KBC
+Danske
+Lloyds
+
+The above developments may have
+
+600
+
+450
+
+Source: Bloomberg, L.P.
+
+5.
+While the decline in oil prices will boost global growth, the positive impact will be
+more than offset by negative factors, notably sluggish investment. The decline in oil prices—
+which is expected to reverse only gradually and partially—will support the global recovery by
+lifting private demand. The impact is expected to be stronger in advanced economy oil importers
+as the pass-through to end-user prices would be higher than in other importers—where part of
+the windfall gains from lower prices are expected to accrue to governments in the form of lower
+energy subsidies. However, the boost from lower oil prices is expected to be more than offset by
+other factors in most major economies other than the United States—mainly associated with weak
+investment as expectations about medium term growth are being reassessed. At 3.5 and
+3.7 percent, respectively, global growth projections for 2015–16 have been marked down by a
+quarter percentage point relative to the October 2014 WEO (Table 1).
+6.
+In advanced economies, the strong rebound in the United States points to an
+increasingly divergent cyclical position vis-à-vis the euro area and Japan.
+In the United States, prospects for demand over the near term are solid, underpinned by
+strong employment growth. There are no major wage inflation pressures, which should give
+the Federal Reserve room for maneuver in normalizing rates. Growth is projected to exceed
+3 percent in 2015–16, with domestic demand supported by lower oil prices, more moderate
+fiscal adjustment, and continued support from monetary policy despite the projected gradual
+rise in interest rates. The recent dollar appreciation, though, is projected to reduce net
+exports.
+In the euro area, the economic outlook has deteriorated, and falling oil prices may put
+downward pressure on already declining inflation expectations. Activity will be supported by
+lower oil prices, further monetary policy easing (with the recent expansion of the asset
+purchase program going beyond what was anticipated in financial markets), a more neutral
+fiscal policy stance, and the recent euro depreciation. But these factors will be offset by
+sluggish investment, reflecting the impact of weaker growth in emerging market economies
+on the export sector, as well as crisis legacies and weaker expected growth. Prospects are also
+uneven across the euro area. Improving labor markets will support domestic demand in
+Germany, and the gradual recovery of demand in Spain is expected to continue. The
+recoveries in Italy and France will be more gradual.
+In Japan, policy responses—additional quantitative and qualitative monetary easing and the
+delay in the second consumption tax rate increase—are expected to support a gradual
+rebound in activity and, together with the oil price boost and yen depreciation, will strengthen
+growth to above trend by 2016. Japan is trying to strike a balance between supporting growth
+and maintaining fiscal sustainability through a commitment to proceed with the delayed 2015
+consumption tax increase in April 2017 and achieve a zero primary balance by 2020.
+7.
+The outlook for emerging economies is now weaker than envisaged in October.
+Revisions to the October 2014 WEO reflect lower growth in China, a much weaker outlook for
+Russia, and downward revisions to potential growth in Latin America and commodity exporters.
+
+INTERNATIONAL MONETARY FUND
+
+5
+
+In China, with investment growth falling—consistent with rebalancing—growth is expected to
+moderate further as greater weight is placed on reducing vulnerabilities from the recent rapid
+credit and investment growth. This slowdown will have regional consequences, reflected in
+downward revisions to growth in much of emerging Asia.
+In India, the growth forecast is broadly unchanged as weaker external demand is offset by the
+boost to the terms of trade from lower oil prices and a pickup in industrial and investment
+activity after policy reforms.
+In Russia, growth has been revised downward as a result of the economic impact of sharply
+lower oil prices and sanctions, both through direct and indirect effects. Russia’s sharp
+slowdown and ruble depreciation have also severely weakened the regional outlook, in
+particular for other economies in the Commonwealth of Independent States (CIS).
+Commodity exporters face challenges ahead. The projected rebound in growth is now weaker
+as the impact of lower oil and other commodity prices on terms of trade and real incomes
+would take a heavier toll on medium-term growth. In particular, the growth forecast for Latin
+America has been reduced. Although some commodity exporters, notably Saudi Arabia, are
+expected to use fiscal buffers, the room for monetary or fiscal policy support in some other
+exporters is more limited (e.g., South Africa).
+8.
+Risks are more balanced compared to the October WEO. The risks from shifts in
+sentiment in financial markets are being compounded by uncertainty about the oil price path,
+which depends on the underlying drivers of the price decline. Stagnation and low inflation in the
+euro area and Japan remain a concern, and geopolitical risks continue to be high.
+The main upside risk to the global recovery is associated with lower oil prices. Amid further
+declines in oil prices since early January, the boost to global demand from lower oil prices
+could be greater than it is currently factored into the projections, especially in advanced
+economies. But oil prices could also have overshot on the downside and could rebound earlier
+or more than expected if the supply response to lower prices is stronger than expected.
+Downside risks associated with shifts in sentiment and volatility in global financial markets
+remain, and lower oil prices may have introduced new risks for emerging market economies. In
+global financial markets, risks related to shifts in markets and bouts of volatility are still
+elevated, especially given the current compression in the term premium. Potential triggers
+could be surprises in activity in major economies or surprises in the path of monetary policy
+normalization in the United States in the context of a continued uneven global expansion.
+Emerging market economies are particularly exposed, as they could face a reversal in capital
+flows. With the sharp fall in oil prices, these risks have risen in oil exporters, where external
+and balance sheet vulnerabilities have increased, while oil importers have gained buffers from
+lower prices. The abandoning of the exchange rate floor by the Swiss National Bank may also
+increase pressure in markets with loan portfolios in Swiss francs, but global spillovers should
+be contained.
+
+6
+
+INTERNATIONAL MONETARY FUND
+
+Geopolitical risks are expected to remain high, although related risks of global oil market
+disruptions have been downgraded in view of ample net flow supply.
+Risks to activity from low inflation and prospects of low potential growth over the medium term
+remain high. Recent data releases showing deflation and medium term inflation expectations
+well below the ECB’s price stability objective in the euro area suggest that, given the zero
+lower bound, adverse shocks—domestic or external—could still lead to persistently lower
+inflation or sustained deflation. In some advanced economies, there are still downside risks to
+prospective potential output, which would feed into weak prospects for near-term demand,
+hampering the recovery and increasing debt burdens. As for emerging economies, several
+years of slowing growth prospects continue to point to the risk that potential growth could
+disappoint further.
+
+POLICIES: STRONG ACTION IS NEEDED TO RAISE ACTUAL
+AND POTENTIAL GROWTH AND MITIGATE RISKS
+Advanced economies should maintain supportive policies, given still substantial output gaps and
+below-target inflation. Fiscal policy should be growth friendly, including by increasing infrastructure
+investment. In many emerging market economies, macroeconomic policy space to support growth
+remains limited, but lower oil prices will alleviate inflationary pressures, allowing for a more gradual
+tightening of monetary policy. For oil exporters, the need to adjust fiscal stance would depend on the
+scope of savings from past higher prices of oil and exchange rate regimes. For countries with less
+policy space, exchange rate flexibility will be a critical buffer to the shock. Lower oil prices offer an
+opportunity to reform energy subsidies and taxes in both oil exporters and importers. There is an
+urgent need for structural reforms to raise potential output in both advanced and emerging
+economies.
+
+DESPITE LOWER OIL PRICES, ADVANCED ECONOMIES NEED TO KEEP SUPPORTIVE POLICIES
+9.
+While lower oil prices should boost domestic demand, accommodative monetary
+conditions remain essential in most advanced economies, given still sizable output gaps. In
+most advanced economies, output gaps are still substantial, inflation is below target, and
+monetary policy remains constrained by the zero lower bound. The boost to demand from lower
+oil prices is thus welcome. Central banks should be mindful that further declines in inflation, even
+if temporary, may lead to additional downdraft in inflation expectations and rising real interest
+rates. This suggests that central banks should be particularly vigilant to signs of pass-through
+from oil prices to core inflation, which may require early action in economies with already low
+inflation. The unbalanced recovery across economies suggests that low inflation would pose
+challenges to central banks, although to a different degree.
+In the United States, lower oil prices contribute positively to the recovery and there is a strong
+case to abstract from the effects of temporary oil supply shocks unless they translate into
+second round effects in wage and price settings (e.g. a persistent decline in longer term
+inflation expectations)﴿. The Fed’s employment and inflation objectives should guide policy
+INTERNATIONAL MONETARY FUND
+
+7
+
+decisions and the beginning of normalization of the monetary policy stance, which is
+currently expected around mid-2015.
+In the euro area, given rising risks of a protracted period of low inflation amid further declines
+in inflation and inflation expectations, the ECB’s recent announcement of an asset purchase
+program (APP) is welcome. The APP (monthly purchases of €60 billion for 19 months) will
+include private and public securities. Also, the interest rate on future TLTRO facilities was
+lowered.
+In Japan, the implementation of the Bank of Japan’s (BoJ) October announcement of
+expanded Quantitative and Qualitative Monetary Easing (QQE) framework by accelerating
+purchases of JGBs (and extending their maturity) and tripling the purchases of private assets
+remains critical to support domestic demand. These monetary measures need to be
+supplemented by progress on ‘third arrow’ structural reforms.
+10.
+Fiscal policy should be growth friendly. The pace and composition of fiscal
+consolidation should be designed to support both the recovery and long-term growth, including
+by enhancing infrastructure investment in economies with identified needs, output gaps, and
+relatively efficient investment processes (e.g., Germany, the United States). Where there is space,
+supportive fiscal stance can bring forward the growth benefits of structural reform by helping
+offset short-term adverse effects. In the euro area, flexibility within the fiscal governance
+framework should be used to support key structural reforms and public investment. Finally,
+credible medium-term consolidation plans remain needed in Japan and the United States.
+11.
+Macro-prudential tools should be the first line of defense against financial stability
+risks. Following a long period of low rates, excessive risk-taking may have built in some sectors—
+credit booms in a number of smaller advanced economies and the underpricing of risks in certain
+segments of U.S. financial markets. Deploying macro-prudential tools to limit financial risks—
+which in some cases may require changes to regulatory and legal structures—can reduce the
+need for monetary policy response to financial stability concerns. It will also make systemic
+institutions more resilient, help contain pro-cyclical asset price and credit dynamics, and cushion
+the consequences of liquidity squeezes if volatility spikes. International cooperation is needed to
+achieve more orderly resolution across borders and consistent regulatory frameworks and
+supervision.
+
+POLICY NEEDS ACROSS EMERGING ECONOMIES DIFFER
+12.
+In many emerging economies macroeconomic policy space to support growth
+remains limited. Policy response will vary depending on whether countries are net oil importers
+or exporters—and for the latter, on buffers accumulated during periods of high commodity prices.
+In some emerging economies, lower oil prices may alleviate inflationary pressures and reduce
+vulnerabilities. This would allow for monetary policy to be tightened more gradually or by less
+than otherwise required. The scope to do so will require credible macroeconomic policies and
+frameworks, which has proven essential in coping with volatile financial conditions in the past.
+
+8
+
+INTERNATIONAL MONETARY FUND
+
+Nonetheless, some economies (e.g., Turkey) that rely heavily on private external financing will
+need to proactively further adjust policies. Some economies (Brazil, India, South Africa, Turkey)
+need to maintain the course of fiscal consolidation, given large fiscal deficits and high inflation
+in some cases, and high external borrowing that has increased exposure to external funding
+risks in others.
+For oil exporters, the optimal policy response to the sharp decline in prices will depend on the
+buffers accumulated during the years of high oil revenue and exchange rate regimes. Many
+exporters for which oil receipts typically contribute to a sizable share of fiscal revenues are
+experiencing large shocks in proportion to their economies. In some economies that have
+accumulated substantial savings from past higher prices and have fiscal space can let fiscal
+deficits increase temporarily and draw on these funds to allow for a more gradual adjustment
+of public spending (e.g., Saudi Arabia). In economies where adjustment is unavoidable,
+allowing exchange rate depreciation will be a critical buffer to cushion the impact of the shock
+(e.g., Russia), which highlights the challenges faced by oil exporters with fixed exchange rate
+regimes (e.g., Venezuela, Ecuador). Some will have to strengthen their monetary frameworks
+to avert the possibility that depreciation will lead to persistently higher inflation and further
+depreciation, and to adapt to the prospects of a protracted deterioration in terms of trade.
+Efforts to increase revenue mobilization and improve expenditure prioritization should
+continue.
+Similar to advanced economies, and with the same caveats, infrastructure investment is
+needed to ease supply bottlenecks in some emerging economies (e.g., Brazil, India, South
+Africa).
+13.
+Lower oil prices offer an opportunity to reform energy subsidies and taxes in both
+oil exporters and importers. In some countries—either exporters or importers—lower oil prices
+offer an opportunity to reform energy subsidies and taxes. Through the deregulation of diesel
+prices and the raising of energy excises duties, India and Indonesia have taken initial steps for the
+elimination of these subsidies. The removal of general energy subsidies should be used toward
+more targeted transfers and to lower budget deficits where relevant.
+
+POLICIES FOR STRONGER AND MORE BALANCED GROWTH CONTINUE TO BE CRITICAL
+14.
+There is an urgent need for structural reforms to achieve the G-20 objective of
+raising collective output by 2 percent above the October 2013 WEO baseline. Weaker
+projected global growth for 2015–16 further underscores that increasing actual and potential
+output should be a policy priority in most economies, as discussed in previous surveillance notes;
+fresh momentum needs to be injected in global trade dialogue (Annex 1). Specifically:
+Structural reforms to improve the functioning of product markets are needed in Japan, euro
+area countries, and emerging economies. Reforms to enhance productivity, remove
+infrastructure bottlenecks in the energy sector (India, South Africa), improve education,
+enhance labor and product markets (Brazil, China, India, South Africa), and ease limits on trade
+and investment and improve business conditions (Brazil, Indonesia, Russia) could boost
+productivity and support growth prospects.
+INTERNATIONAL MONETARY FUND
+
+9
+
+Labor market reforms in advanced economies undergoing population aging (e.g., Japan,
+Korea, and the United States), to raise labor force participation, including of women and/or
+older workers. Actions to increase labor demand and remove impediments to employment,
+including reducing duality in labor markets where relevant, are key where a large fraction of
+the population remains unemployed (euro area economies, South Africa).
+Given the deterioration in the inflation and economic outlook and risks of stagnation, the need
+for a comprehensive strategy to boost growth is particularly relevant in the euro area and Japan.
+The recent additional monetary easing is welcome, and further progress is needed in
+addressing structural weaknesses and improving the quality of fiscal adjustment. Sustaining
+the recovery will require structural reforms to raise potential growth along with demand
+support.
+15.
+Global current account imbalances have narrowed in 2013–14, but they remain
+somewhat larger than desirable and policy action is needed to reduce them. Systemic risk
+associated with global imbalances has decreased. Nonetheless, in many countries external and
+internal rebalancing are essential to sustainable growth. Policy actions vary across the G-20
+economies, but include medium-term fiscal consolidation, limiting financial excesses, and
+structural reforms to facilitate adjustment in deficit economies. In some surplus economies,
+policies that support stronger domestic demand would help, including moving toward more
+market-based exchange rates, and reducing capital account restrictions. Overall, joint policy
+actions on both sides of excess imbalances would benefit growth and reduce financial risks.
+
+10
+
+INTERNATIONAL MONETARY FUND
+
+Table 1. Real GDP Growth
+(Percent change)
+Year over Year
+Est.
+
+Projections
+
+Deviations
+
+(from Jan. 2015)
+
+(from Oct. 2014)
+
+2012
+
+2013
+
+2014
+
+2015
+
+2016
+
+2014
+
+2015
+
+2016
+
+World 1/
+Advanced economies
+Euro area
+Emerging market and developing countries 2/
+Advanced G-20
+Emerging G-20
+
+3.4
+1.2
+-0.7
+5.1
+1.6
+5.4
+
+3.3
+1.3
+-0.5
+4.7
+1.6
+5.3
+
+3.3
+1.8
+0.8
+4.4
+1.8
+5.0
+
+3.5
+2.4
+1.2
+4.3
+2.5
+4.6
+
+3.7
+2.4
+1.4
+4.7
+2.5
+4.8
+
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+
+-0.3
+0.1
+-0.2
+-0.6
+0.1
+-0.6
+
+-0.3
+0.0
+-0.3
+-0.5
+0.0
+-0.6
+
+G-20 3/
+Argentina 4/
+Australia
+Brazil
+Canada
+China
+France
+Germany
+India 5/
+Indonesia
+Italy
+Japan
+Korea
+Mexico
+Russia
+Saudi Arabia 6/
+South Africa
+Spain 7/
+T urkey
+United Kingdom
+United States
+European Union
+
+3.5
+0.8
+3.6
+1.0
+1.9
+7.8
+0.3
+0.6
+4.7
+6.3
+-2.3
+1.8
+2.3
+4.0
+3.4
+5.4
+2.2
+-2.1
+2.1
+0.7
+2.3
+-0.3
+
+3.5
+2.9
+2.1
+2.5
+2.0
+7.8
+0.3
+0.2
+5.0
+5.8
+-1.9
+1.6
+3.0
+1.4
+1.3
+2.7
+2.2
+-1.2
+4.1
+1.7
+2.2
+0.1
+
+3.4
+-0.4
+2.7
+0.1
+2.4
+7.4
+0.4
+1.5
+5.8
+5.1
+-0.4
+0.1
+3.5
+2.1
+0.6
+3.6
+1.4
+1.4
+3.0
+2.6
+2.4
+1.3
+
+3.6
+-1.3
+2.7
+0.3
+2.3
+6.8
+0.9
+1.3
+6.3
+5.2
+0.4
+0.6
+3.7
+3.2
+-3.0
+2.8
+2.1
+2.0
+3.4
+2.7
+3.6
+1.6
+
+3.7
+0.0
+2.9
+1.5
+2.1
+6.3
+1.3
+1.5
+6.5
+5.5
+0.8
+0.8
+3.9
+3.5
+-1.0
+2.7
+2.5
+1.8
+3.4
+2.4
+3.3
+1.8
+
+0.0
+1.3
+-0.2
+-0.2
+0.2
+0.0
+0.0
+0.1
+0.1
+-0.1
+-0.3
+-0.8
+-0.3
+-0.3
+0.3
+-1.0
+0.0
+0.1
+0.0
+-0.6
+0.3
+-0.1
+
+-0.3
+0.2
+-0.2
+-1.1
+-0.1
+-0.3
+-0.1
+-0.2
+-0.1
+-0.3
+-0.5
+-0.2
+-0.3
+-0.3
+-3.5
+-1.6
+-0.2
+0.3
+0.4
+0.0
+0.5
+-0.2
+
+-0.3
+0.0
+-0.2
+-0.7
+-0.3
+-0.5
+-0.2
+-0.3
+0.0
+-0.3
+-0.5
+-0.1
+-0.1
+-0.3
+-2.5
+-1.7
+-0.3
+0.0
+-0.3
+-0.1
+0.3
+-0.2
+
+Source: IMF, World Economic Outlook January 2015.
+1/ The quarterly estimates and projections account for 90 percent of the world purchasing-power-parity weights.
+2/ The quarterly estimates and projections account for approximately 80 percent of the emerging market and developing countri es.
+3/ G-20 aggregations exclude European Union.
+4/ The data for Argentina are officially reported data as revised in May 2014. On February 1, 2013, the IMF issued a declarat ion of censure, and in
+December 2013 called on Argentina to implement specified actions to address the quality of its official GDP data according to a specified timetable.
+On December 15, 2014, the Executive Board recognized the implementation of the specified actions it had called for by end-September 2014 and the
+steps taken by the Argentine authorities to remedy the inaccurate provision of data. The Executive Board will review this iss ue again as per the
+calendar  specified   in  December   2013  and  in  line  with  the  procedures   set  forth  in  the  Fund’s  legal  framework.
+5/ For India, data and forecasts are presented on a fiscal year basis and output growth is based on GDP at market prices. Corresponding growth rates
+for GDP at factor cost are 4.7, 5.6, 6.3, and 6.5 percent for 2013/14, 2014/15, 2015/16, and 2016/17, respectively.
+6/ For Saudi Arabia, the revisions to the growth forecasts for 2015-16 partly reflect a rebasing of the national accounts to 2010, which resulted in a
+higher share of the oil sector in the economy and a downward revision of estimated actual growth in 2013 and 2014.
+7/ Permanent invitee.
+
+INTERNATIONAL MONETARY FUND
+
+11
+
+ANNEX 1. TRADE AS KEY PILLAR OF A GLOBAL NEW MOMENTUM
+Given the slowdown in global trade growth in recent years, trade is an essential component of the
+global policy agenda. There are potentially important gains for both advanced and developing
+countries from further trade integration in traditional and new areas (services, regulations,
+investment) and further expansion of global supply chains. Coherence among preferential and
+multilateral efforts is needed to avoid fragmenting the global trading system, even as efforts are
+made to prop and retool its governance.
+Growth in global trade has slowed as the benefits of past reforms and integration trends
+have matured and new reforms have languished. Trade grew more rapidly than global growth
+in the last few decades, contributing to higher growth and productivity by allowing countries to
+integrate and specialize. But over the last few years global trade has slowed, as trade liberalization
+momentum has faded and global value chains (GVCs) in several regions have matured. Trade
+volumes grew about 3 percent in 2012–14, substantially lower than the pre-crisis average of 7.1
+percent (1987 to 2007). Earlier, WTO membership allowed countries, most notably China, to
+rapidly integrate into the global trading system even as supply chains were built in Asia, Europe
+and North America.
+Trade is an essential component of the global policy agenda to bolster growth, requiring a
+commitment to focus on trade policy. A new momentum is needed in policies amid heightened
+risks to global growth and concerns over a “new mediocre.” At a country and global level, trade
+reforms can complement and augment the benefits of other structural reforms, including by
+increasing external competition, forming a key element of infrastructure investment, and
+supporting the strengthening of policy and institutional frameworks. Reinvigorating global trade
+requires the adoption of more granular commitments on trade policy beyond the oft-repeated
+standstill on protectionism.
+There are potentially important gains to be made from further trade integration and
+expansion of global supply chains. These gains come from traditional liberalization in many
+countries (in particular low-income countries and many emerging market economies) and sectors
+(e.g., agriculture) including via unilateral efforts; from lowering barriers in new trade policy
+frontiers (services, regulations, investment); and from additional expansion of GVCs, particularly to
+regions and countries that have missed out on these opportunities in the past (e.g., Africa, South
+America and South Asia).
+For most advanced countries a key issue will be the implications of their efforts to pioneer and
+advance the new trade policy frontiers, opening services markets and making their regulatory
+systems more coherent, with large potential gains to themselves and to others if these
+initiatives minimize fragmentation and are eventually multilateralized.
+Many emerging market economies, for example in South Asia and Latin America, can still
+benefit greatly from integrating via traditional liberalization, including on a unilateral basis,
+
+12
+
+INTERNATIONAL MONETARY FUND
+
+and by anchoring their economies to GVCs, moving away from import-substitution policies
+that have failed in the past and avoiding protectionism through the use of non-tariff barriers.
+Low-income countries need trade and integration to GVCs as a central plank of their
+development and growth strategy, for which trade facilitation is critical. Access to advanced
+economies’ markets through preferential agreements such as the Economic Partnership
+Agreements (EPA) of the EU will provide new export opportunities and reduce trade costs that
+would support intra-regional trade, most notably in Africa. In addition, LICs can benefit by
+removing forms of protectionism that hinder job creation and export growth. For these
+economies, addressing traditional trade barriers, such as upgrading poor trade infrastructures,
+and improving economic institutions are still crucial.
+Reigniting global trade integration would require an open architecture that allows different
+speeds and depths, but also coherence among preferential and multilateral efforts. The
+finalization of the Bali agreement is welcome, but earlier impasses as well as the longstanding
+difficulties to advance the Doha Round have emphasized the need to buttress the governance of
+the multilateral trading system. With the fulcrum of trade policy moving to regional and
+plurilateral deals, new trade liberalization initiatives should seek to avoid fragmenting trade, even
+as renewed efforts are made to prop and retool the governance of the multilateral system, with
+the WTO at its center. The challenges and priorities ahead include:
+New liberalization arrangements should ultimately avoid fragmenting the global trading
+system. Trade liberalization efforts are currently taking place mainly via preferential (e.g.,
+Trans-Pacific Partnership (TPP) and Transatlantic Trade and Investment Partnership (TTIP)) and
+plurilateral negotiations (e.g., Trade in Services Agreement (TISA) and Information Technology
+Agreement (ITA)), which can help advance liberalization in new trade areas. To avoid
+fragmenting the trading system these efforts need to be pursued openly and transparently
+and foster eventual multilateralization. Over time, arrangements based on these principles can
+maximize the benefits of deals and ignite reciprocal opening efforts from non-members.
+Advancing integration in new trade areas (services, regulations, investment) may take new paths
+but also require retooling the global governance of trade. These initiatives have large potential
+benefits but also intersect with legitimate national policies and regulatory concerns, making
+the process very different and much more complex than past trade negotiations that mainly
+focused on lowering tariffs. Moreover, the eventual multilateralization of these agreements
+would have major implications for the global governance of the trading system.
+Traditional trade liberalization such as tariff liberalization and trade facilitation is still needed. It
+is important for many low-income countries as well as a swathe of emerging market
+economies, as tariffs remain higher than in advanced economies. Reducing trade costs for
+low-income countries also requires a sustained effort to improve trade facilitating
+infrastructures and economic institutions.
+Heightened and coordinated vigilance will be needed to avoid both old and new forms of
+protectionism. The WTO has been effective in evidencing and limiting traditional protectionism
+through higher tariffs and other border measures but there is a risk that protectionism will
+increase through diverse non-tariff measures such as undue regulatory barriers, for which
+large data gaps exist.
+
+INTERNATIONAL MONETARY FUND
+
+13
+
+This is a crucial juncture of the trade and trade policy landscape. With the traditional
+multilateral processes at an impasse until recently, it is essential to step back and think broadly on
+how to reignite the momentum for global trade integration, and how preferential and multilateral
+efforts should fit now and in the future.
+
+14
+
+INTERNATIONAL MONETARY FUND
+
+GROUP OF TWENTY
+
+IMPACT OF OIL PRICE DECLINE ON THE GLOBAL ECONOMY
+Special Topic to the G-20 Surveillance Note
+G-20 Finance Ministers and Central Bank Governors Meeting
+February 9–10, 2015
+Istanbul, Turkey
+
+Prepared by Staff of the
+I N T E R N A T I O N A L M O N E T A R Y F U N D*
+*Does not necessarily reflect the views of the IMF Executive Board.
+
+SUMMARY
+
+1
+
+Oil prices have plunged recently, affecting everyone: producers, exporters, governments, and
+consumers. Overall, the supply related decline in oil prices together with improved efficiency is a
+shot in the arm for the global economy. This note focuses on the impact of the supply related
+decline of oil prices on the global economy. Based on simulations, and bearing in mind that they
+do not represent a forecast of the state of the global economy, the analysis suggests a gain for
+world GDP between 0.3 and 0.7 percent in 2015, compared to a scenario without the drop in oil
+prices. There is, however, much more to this complex and evolving story. This note provides a
+short summary of the oil market now and in the future, the implications for various groups of
+countries as well as for financial stability, and how policymakers should address the impact on
+their economies. The key findings are:
+The decline of oil prices over the past several months has been driven by both demand and
+supply factors. There is, however, substantial uncertainty about the evolution of supply and
+demand factors ahead and the relative contribution of demand and supply factors to the
+observed price decline.
+While the impact of the drop varies across countries, there are some common traits: oil
+importers stand to benefit from higher household income, lower input costs, improved
+external positions, and improved fiscal positions from lower fuel subsidies and higher fuel
+taxes. Oil exporters will take in less revenue, and their budgets and external balances will be
+under pressure.
+Risks to financial stability have increased, but remain limited. Currencies in emerging
+economies have depreciated not only oil exporting countries but also in some oil importers.
+If sustained, the decline in oil prices could have a material impact on banks with high dollar
+and energy sector exposures, particularly in emerging economies where depreciations have
+already been substantial. Given global financial linkages, these developments demand
+increased vigilance all around.
+Oil exporters that have accumulated substantial funds should smooth out the adjustment by
+not curtailing fiscal spending abruptly. For those without savings funds and strong fiscal rules,
+budgetary and exchange rate pressures may, however, be significant. Without the right
+monetary policies, this could lead to higher inflation and further depreciation.
+The fall in oil prices provides an opportunity for many countries to decrease energy subsidies.
+The savings should be used toward more targeted transfers, and for some to increase energy
+taxes and lower other taxes.
+
+1
+
+This note draws extensively on the IMF Blog “Seven Questions about the Recent Oil Price Slump” by Arezki and
+Blanchard.
+
+RECENT DEVELOPMENTS AND PROSPECTS
+1.
+Oil prices have fallen about 55 percent since September 2014, driven by both
+demand and supply factors. While other commodity prices have fallen as well, the decline has
+been much smaller, pointing to factors beyond weaker demand. Indeed, on the demand side,
+revisions of International Energy Agency forecasts of oil demand between June and December,
+combined with estimates of the short run elasticity of oil supply, suggest that unexpectedly
+weaker demand during this period can only partly explain the
+Commodity Price Indices
+(index; January 1, 2014 = 100)
+sharp oil price decline. On the supply side, the evidence points
+Metals
+Crude oil 1/
+Food
+to a number of factors, including surprise increases in oil
+120
+production. This is in part due to faster than expected
+100
+recovery of oil production in some OPEC members, but a
+80
+major factor is the announced intention of Saudi Arabia—the
+60
+biggest OPEC oil producer—not to counter the steadily
+40
+increasing supply of oil from both other OPEC and non-OPEC
+1/30
+20
+Jan-14
+Apr-14
+Jul-14
+Oct-14
+Jan-15
+producers, and the subsequent November 2014 decision by
+Source: Bloomberg, L.P.
+1/ Simple average of three spot prices; U.K. Brent,
+OPEC to maintain their collective production ceiling of
+West Texas Intermediate, and Dubai Fateh.
+30 million barrels a day in spite of a perceived glut.
+2.
+Available information suggests that speculation has had little impact on the sharp
+fall of oil prices over the past several months. Beyond traditional demand and supply factors,
+“financialization”—oil and other commodities considered by financial investors as a distinct asset
+class—and “speculation” do not appear to have affected the recent rapid oil price decline.
+According to the latest report from the International Energy Agency, oil inventories have reached
+their highest level in two years, suggesting expectations of price increases, not price declines.
+3.
+The impact of the oil price decline on global growth depends on the persistence of
+the shock. The more persistent the decline of oil prices, the more will consumers and firms
+adjust consumption and production, hence bigger the boost to global growth. The persistence of
+this supply shift depends on two factors:
+The willingness of OPEC, and in particular Saudi Arabia, to cut production in the future. This in
+turn depends in part on the motives behind such strategy, e.g., the relative importance of
+geopolitical and economic factors. One hypothesis is that Saudi Arabia has found it too
+costly, in the face of steady increases in non-OPEC supply, to be the swing producer and
+maintain a high price. If so, and unless the pain of lower revenues leads other OPEC
+producers and Russia to agree to share cuts more widely in the future, the shift in strategy is
+unlikely to change soon. Another hypothesis is that it may be an attempt by OPEC to reduce
+profits, investment, and eventually supply by non-OPEC suppliers, some of whom face much
+higher costs of extraction than the main OPEC producers.
+
+2
+
+INTERNATIONAL MONETARY FUND
+
+EF Oil
+Niobrara- Wattenberg
+EF Condensate
+PRB Tight Oil
+Bakken- ND
+Wolfcamp (Delaware)
+Bone Spring/Avaloan
+Woodford Cana
+Mississippian Lime
+Wolfcamp Midland
+Utica
+Bakken- MT
+Anadarko Tight Oil
+Wolfberry
+Wolfbone
+Niobrara- PRB
+
+The response of investment and in turn oil production to low oil prices. There is some evidence
+that capital expenditure on oil production has started to fall. According to Rystad Energy,
+overall capital expenditure of major oil companies is 7 percent lower for the third quarter of
+2014 compared to 2013. Available projections from the same source indicate that capital
+expenditures will fall markedly throughout 2017. For
+Average WTI Breakeven Oil Price by Play
+(U.S. dollars per barrel)
+unconventional oil, such as shale, (which now accounts
+100
+for 4 million out of a world supply of 93 million barrels a 90
+80
+70
+day), the break-even price—the oil price at which it 60
+50
+becomes worthwhile to extract—of the main United 40
+30
+20
+States shale fields (Bakken, Eagle Ford and Permian) is 10
+0
+typically below $60 per barrel. With oil price below $50
+per barrel, rates of return will be significantly lower, and
+some highly leveraged firms that did not hedge against
+lower prices are already under financial stress and have
+Source: UCube, Rystad Energy Research and Analysis.
+been cutting their capital expenditure and laying off
+significantly.
+
+IMPLICATIONS FOR THE GLOBAL ECONOMY
+Real Sector
+4.
+The decline in oil prices due to supply factors will boost global growth. Given the
+considerable uncertainty about the impact of lower prices on future oil supply, two scenarios
+with different assumptions about the supply-related change in the oil price going forward are
+considered, with an average oil price decline of about 30 percent relative to the October 2014
+WEO baseline over the medium-term.2 In the first scenario,
+Global GDP
+60 percent of the decline in the oil price path throughout
+(percent difference)
+Scenario 1
+Scenario 2
+2019 relative to the October 2014 WEO baseline is attributed
+0.9
+to supply shifts. In the second scenario, the supply shift 0.8
+accounts for 60 percent of the price decline initially but its 0.7
+0.6
+contribution gradually declines to zero by 2019 due to the 0.5
+assumed higher contribution of demand to the long-run 0.4
+0.3
+decline of oil prices. Under the first scenario, the supply shift 0.2
+0.1
+lifts global GDP by 0.7 and 0.8 percent, respectively, in 2015–
+0
+13
+14
+15
+16
+17
+18
+19
+16. In the second scenario, the same initial supply shift
+Source: IMF staff calculations.
+implies an increase in global GDP of 0.3 percent in 2015 and
+0.4 percent in 2016 relative to what was expected with the oil price path used in the October
+WEO.
+2
+
+These simulations assume a 100 percent pass-through of international oil price declines into domestic oil prices,
+implying no fiscal savings. Given low pass-through during oil price declines, these fiscal savings can amount to
+1 percent of GDP for emerging and developing countries (see http://www.voxeu.org/article/energy-subsidiesdeveloping-countries).
+
+INTERNATIONAL MONETARY FUND
+
+3
+
+5.
+The net positive global effects of lower oil prices mask asymmetric effects across
+countries. Specifically:
+Oil importers will benefit from higher real incomes of consumers and lower costs in the
+production of final goods. Among importers, the simulations suggest GDP increases between
+0.3–0.7 percent in 2015 across countries, in line with varying oil intensity in consumption and
+production across countries. For many importers, the boost from lower oil prices—while
+sizable—is somewhat muted by the recent currency depreciation against the U.S. dollar,
+which implies a smaller oil price decline in domestic currency and by the lower pass-through
+to retail prices in some countries. Lastly, oil importers that are heavily dependent on what
+happens to oil exporters may experience negative spillovers.
+Oil exporters will suffer from generally declining real incomes and profits, but much will depend
+on whether governments, which typically accrue most of the oil revenue, will adjust spending.
+Unlike oil importers, oil exporters depend much more on oil. For example, energy accounts
+for 25 percent of Russia’s GDP, 70 percent of its exports, and 50 percent of federal revenues.
+2015 Fiscal Breakeven Oil Prices from
+Among MENA oil producers, the share of oil in
+Oct. 2014 REO
+government revenue is 63 percent. One way to illustrate 200 (U.S. dollars per barrel)
+the vulnerabilities of oil-exporting countries is to 160
+compute the so-called fiscal break-even prices—that is, 120
+the oil prices at which the governments of oil-exporting 80
+40
+countries balance their budgets. The breakeven prices
+0
+vary considerably across countries, ranging from $49 per
+barrel (Kuwait) to $157 (Yemen). In addition, the existence
+and size of accumulated fiscal buffers will also be critical
+parameters determining whether the fiscal shock can be
+Source: IMF, Regional Economic Outlook.
+smoothed over time.
+Financial Sector
+6.
+Declines in oil prices have financial implications, directly through the effects of oil
+prices themselves, and indirectly through the induced adjustment of exchange rates.
+Lower oil prices weaken the financial position of firms in the energy sector, especially those that
+have borrowed in dollars. As a result, the position of banks and other institutions with
+substantial claims on the energy sector weakens. The proportion of energy firms with an
+interest coverage ratio (the ratio of cash flows to interest payments) below 2 stands at
+31 percent in emerging market economies, indicating that some of these companies may
+indeed be at risk. CEMBI spreads, which reflect spreads on high yield emerging market
+corporates, have increased by 100 basis points since June.
+Lower oil prices may lead to an appreciation of oil importers’ currencies, and to a depreciation
+of those oil exporters’ currencies with flexible exchange rates, with balance sheet implications.
+The drop in oil price has contributed to an abrupt depreciation of currencies in a number of
+oil exporting countries, including Russia and Nigeria but also in some oil importers. While the
+decrease in the price of oil is only one of the reasons behind the fall of the ruble, the Russian
+currency depreciated by 50 percent since the beginning of last year. While controlled
+depreciations can help oil exporters adjust, they also exacerbate financial problems for those
+4
+
+INTERNATIONAL MONETARY FUND
+
+firms and governments whose debt is denominated in dollars. And, in countries where
+expectations are not well anchored, uncontrolled depreciations can quickly lead to very high
+inflation.
+7.
+If sustained, the oil price slump will thus have a concentrated and material impact
+on those bondholders and banks with high dollar and energy sector exposures. The
+exposure of the global banking system is likely not to be large enough to cause appreciable
+increase in provisioning requirements and should be partially offset by improving credit quality
+in oil importing countries and sectors. However, the exposure of some global banks to the oil
+and gas sectors significant in some cases, posing risks to balance sheets.
+
+POLICIES
+8.
+Lower oil prices provide monetary space in most oil importers. In most advanced
+economies, output gaps are still substantial, inflation is below target, and monetary policy
+remains constrained by the zero lower bound. The boost to demand from lower oil prices is thus
+welcome. But if the further declines in inflation, even if temporary, lead to additional downdraft
+in inflation expectations in major economies, monetary policy must stay accommodative through
+other means to prevent real interest rates from rising. In this regard, use of forward guidance to
+anchor medium run inflation expectations and avoid sustained deflation is crucial. In some
+emerging market economies, lower oil prices will alleviate inflation pressure and external
+vulnerabilities, thereby allowing central banks not to raise policy interest rates or to raise them
+more gradually.
+9.
+Oil exporters, for which oil receipts typically contribute to a sizable share of fiscal
+revenues, are experiencing larger shocks in proportion to their economies. Those that have
+accumulated substantial funds from past higher prices and have fiscal space can let fiscal deficits
+increase temporarily and draw on these funds to allow for a more gradual adjustment of public
+spending to the lower prices. For others, allowing fiscal adjustment and substantial exchange rate
+depreciation will be the main means available to others to cushion the impact of the shock on
+their economies. Some will have to strengthen their monetary frameworks to avert the possibility
+that depreciation will lead to persistently higher inflation and further depreciation. In general, all
+oil exporters should do more lasting fiscal reforms, including creating and broadening non-oil
+fiscal base and improving natural resource management.
+10.
+Lower oil prices also offer an opportunity to reform energy subsidies and taxes in
+both oil exporters and importers at low political cost. For example, many countries have been
+able to successfully decrease subsidies recently.3 The saving from the removal of general energy
+subsidies should be used toward more targeted transfers, to lower budget deficits where
+relevant, and to increase public infrastructure if conditions are right. In a number of advanced
+economies and emerging market economies (such as South Africa), this might also be an
+opportunity to increase energy taxes, using the savings to reduce other taxes, such as labor
+taxes.
+3
+
+These include Angola, Bahrain, Cameroon, Cote d’Ivoire, Egypt, Haiti, India, Indonesia, Jordan, Kuwait, Malaysia,
+Mauritania, Morocco, Sudan, Thailand, Tunisia, U.A.E., and Yemen.
+INTERNATIONAL MONETARY FUND
+
+5
+
+

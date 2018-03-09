@@ -1,0 +1,2169 @@
+GROUP OF TWENTY
+
+GLOBAL PROSPECTS AND POLICY CHALLENGES
+Meetings of G-20 Finance Ministers and Central Bank Governors
+February 22–23, 2014
+Sydney, Australia
+
+Prepared by Staff of the
+I N T E R N A T I O N A L M O N E T A R Y F U N D*
+*Does not necessarily reflect the views of the IMF Executive Board.
+
+EXECUTIVE SUMMARY
+Global activity has picked up, largely on account of advanced economies. Growth firmed in 2013H2, driven
+largely by stronger outturns in advanced economies as final demand expanded broadly as expected. In many
+emerging markets, despite a boost to output from stronger exports, domestic demand has been weaker than
+expected, reflecting in part tighter financial conditions.
+A new bout of financial volatility has affected emerging market economies as markets reassess their
+fundamentals. While the pressures were relatively broad-based, emerging economies with relatively high inflation
+and high current account deficits saw the largest asset price declines initially. Markets are showing signs of stabilizing
+recently, although they are still fragile, on the back of actions by key emerging economies to shore up confidence and
+strengthen their policy commitments. This episode, however, underscores vulnerabilities and the challenging
+environment for many emerging economies. The rapid jump in global risk aversion had also driven down advanced
+economy equity prices.
+The outlook remains broadly as projected in the January WEO, assuming that the impact of the recent
+financial volatility is short lived. In advanced economies, less fiscal consolidation and relaxed financial conditions
+will support growth this year, while near-term prospects for emerging economies are broadly unchanged. Thus, global
+growth is projected to increase to about 3¾ percent in 2014 (from 3 percent in 2013) and 4 percent in 2015, similar to
+the January 2014 WEO Update.
+However, the recovery is still weak and significant downside risks remain. Capital outflows, higher interest rates,
+and sharp currency depreciation in emerging economies remain a key concern and a persistent tightening of financial
+conditions could undercut investment and growth in some countries given corporate vulnerabilities. A new risk stems
+from very low inflation in the euro area, where long-term inflation expectations might drift down, raising deflation
+risks in the event of a serious adverse shock to activity.
+Further action and cooperation are needed to promote financial stability and robust recovery. Specifically:
+
+
+Advanced economies should avoid premature withdrawal of monetary accommodation as fiscal balances continue
+consolidating. Given still large output gaps, very low inflation, and ongoing fiscal consolidation, monetary policy
+should remain accommodative in advanced economies. There is scope for better cooperation on unwinding UMP,
+including through wider central bank discussions of exit plans. In the euro area, repairing bank balance sheets
+remains critical to monetary policy transmission. Finally, fiscal consolidation should proceed at a measured pace,
+while preserving the long-run growth potential of the economy.
+
+
+
+In emerging market economies, credible macroeconomic policies and frameworks, alongside exchange rate
+flexibility, are critical to weather turbulence. Further monetary policy tightening in the context of strengthened
+policy frameworks is necessary where inflation is still relatively high or where policy credibility has come into
+question. Priority should also be given to shoring up fiscal policy credibility where it is lacking; subsequently
+buffers should be built to provide space for counter-cyclical policy action. Exchange rate flexibility should
+continue to facilitate external adjustment, particularly where currencies are overvalued, while FX intervention—
+where reserves are adequate—can be used to smooth excessive volatility or prevent financial disruption.
+
+
+
+Further policy actions are needed to reduce unemployment and strengthen medium-term growth, while making it
+more balanced. Key policies to boost potential include competition-enhancing product market reforms,
+infrastructure investment, and labor participation reforms, while further action is needed to avoid a resurgence of
+global imbalances as the recovery proceeds and ensure sustainable medium-term growth.
+
+_____________________________________________________________________________________________________________________________ _______________________________________________________________________
+
+Prepared by a team from the IMF’s Research Department, led by Hamid Faruqee, Emil Stavrev, and Florence Jaumotte, and including Patrick
+Blagrave, Eric Bang, Gabi Ionescu, and Ava Yeabin Hong.
+
+DEVELOPMENTS, OUTLOOK, AND RISKS
+Global growth has strengthened as expected in recent months, largely driven by advanced
+economies, where easier financial market conditions and gradually improving consumer and
+business confidence have supported growth. While emerging economies have benefited from the
+stronger external demand, domestic demand has remained weaker than expected in many of them,
+reflecting in part tighter financial conditions. Many emerging markets have come under renewed
+market pressure recently. While the trigger is difficult to identify, events are occurring against the
+backdrop of weakening emerging economy sentiment, including on China, increased risk aversion,
+and continued UMP tapering. While global growth is projected to continue increasing, the recovery
+is uneven and fragile and significant downside risks remain.
+1.
+Global activity has picked up in recent months, largely on account of advanced
+economies. Following a strong expansion in 2013Q2, global growth was 3.6 percent in the third
+quarter. The recent uptick in growth has been concentrated in advanced economies, China, and
+India. Final demand in advanced economies has expanded broadly as expected, and much of the
+upward surprise in growth can be attributed to higher inventory demand. In emerging
+economies, activity has been largely driven by exports, while domestic demand has generally
+been weaker than expected as financial conditions tightened. Looking across regions:
+
+
+
+
+2
+
+The underlying momentum in the United States
+appears solid, amidst strong contributions from
+consumption,
+investment,
+and
+inventory
+accumulation. Steady job creation and higher equity
+and home prices are supporting consumption, while
+non-residential investment continues to improve.
+Other developments in the housing market have
+been mixed, as higher mortgage rates feed into
+weaker mortgage applications and pending home
+sales.
+The euro area is turning the corner from recession
+to a weak recovery that remains uneven and
+fragile. Growth resumed in the second quarter of
+2013, and recent indicators suggest that activity
+will continue to expand at a very modest pace.
+Euro area growth has been largely export-led,
+while domestic demand turned positive for the
+first time since the recession for the area as a
+whole as well as several major members. Germany
+has continued to expand at a solid pace, output in
+France has expanded by more than expected, and
+Spain is tentatively exiting recession. However, the
+INTERNATIONAL MONETARY FUND
+
+United States: Contributions to GDP
+(q/q; saar)
+Government
+Exports
+Investment
+
+Imports
+Inventories
+Priv. Consumption
+
+5
+4
+3
+2
+1
+0
+-1
+
+-2
+-3
+-4
+12Q1 12Q2 12Q3 12Q4 13Q1 13Q2 13Q3 13Q4
+Source: Haver Analytics.
+
+Euro Area: PMI Composite New Orders
+(50+=expansion; sa)
+Euro Area
+France
+Italy
+
+Germany
+Spain
+
+65
+60
+
+55
+50
+45
+40
+35
+10
+
+11
+
+12
+
+Source: Haver Analytics.
+
+13
+
+Jan. 14
+14
+
+recovery will remain fragile, as balance sheet repair and financial fragmentation continue
+to weigh on economic activity notwithstanding stronger export performance. Despite a
+modest revival of activity, inflation is currently well below the ECB’s medium-term price
+stability target and has slowed further in recent months.
+
+
+In Japan, growth remained firm in the second half of 2013—albeit with a moderation
+from the early part of the year—supported in part by the front-loading of spending
+ahead of the consumption tax hike in April. Inflation has begun to rise in recent months
+and is becoming more broad-based. The economy, however, remains in a stimulus-driven
+recovery with wages and private investment yet to rise decisively.
+
+
+
+In emerging economies, stronger export growth has coincided with the slow-but-steady
+acceleration of activity in advanced economies, providing a much-needed boost.
+Domestic demand in many of these countries has remained weaker than expected,
+reflecting to varying degrees tighter financial conditions and policy stances, as well as
+policy or political uncertainty and bottlenecks. In China, with firming domestic demand in
+the second half of the year, growth picked up and hit 7.7 percent for the year. India also
+saw some increase in growth, as a result of a favorable monsoon season and higher
+export growth. In Brazil activity weakened in the third quarter as investment growth
+turned negative amid waning business confidence.
+
+EM Domestic Demand Indicators
+
+Merchandise Exports
+(percent; 3 month moving avg annualized)
+
+PMI services (50+=expansion; sa; lhs)
+Retail sales (yoy; rhs)
+
+60
+
+22
+
+20
+
+56
+
+18
+
+54
+
+16
+
+52
+
+14
+
+0
+
+50
+
+12
+
+-20
+
+48
+
+10
+
+-40
+
+8
+
+-60
+
+6
+
+-80
+
+Jan. 14
+
+44
+07
+
+08
+
+09
+
+10
+
+11
+
+12
+
+13
+
+Sources: IMF, Global Data Source; and Haver
+Analytics.
+
+14
+
+Emerging
+
+60
+
+58
+
+46
+
+Advanced
+
+80
+
+40
+20
+
+Dec.13
+
+05
+
+06
+
+07
+
+08
+
+09
+
+10
+
+11
+
+12
+
+13
+
+Source: IMF, Global Data Source.
+
+2.
+A new bout of volatility in emerging economies has occurred against a confluence
+of factors. Many emerging markets came under renewed financial pressure in the second half of
+January—equities fell, spreads rose, and currencies of major economies depreciated. Markets
+appear to be reassessing emerging market fundamentals as global conditions change. While the
+pressures were relatively broad-based, countries with higher inflation and current account
+deficits were amongst the most affected (Brazil, Indonesia, Turkey, and South Africa). The sell-off
+came against the backdrop of several negative factors in some countries and weakening
+sentiment toward emerging economies. Specifically, China’s shadow banking and weaker-thanexpected PMI data, continued or rising political tensions (Thailand, Turkey, South Africa, and
+Ukraine), and Argentina’s depreciation all contributed to the negative sentiment against the
+broader context of continued Fed tapering. Nonetheless, it is difficult to pinpoint a predominant
+INTERNATIONAL MONETARY FUND
+
+3
+
+cause, as factors’ role may vary by country. While market sentiment recovered somewhat recently
+as key emerging economies took steps to shore up confidence and strengthen their commitment
+to policy objectives, this latest episode of financial market instability underscores the
+vulnerabilities of EMs. In advanced economies, financial conditions have eased since the release of
+the October 2013 WEO, despite significant recent falls in equity markets on the back of the rapid
+jump in global risk aversion. Long-term bond yields are generally lower than the post-taper highs
+and risk premia on government debt of crisis-hit euro area economies have declined noticeably.
+However, financial fragmentation persists in the euro area and private sector credit is still
+contracting.
+Equity Performance
+
+Government 10-year Bond Yields
+
+(January 2, 2010 = 100)
+
+(percent)
+
+170
+
+Emg. Asia
+
+160
+
+Emg. Europe
+
+150
+
+Latin America
+
+140
+
+Emerging Markets
+
+130
+
+U.S. (S&P 500)
+
+Fed
+tapering
+talk
+
+120
+110
+100
+90
+80
+70
+Jan-10
+
+Jan-11
+
+Jan-12
+
+Jan-13
+
+Source: Bloomberg, L.P.
+
+2/11
+Jan-14
+
+U.S.
+Japan
+India
+
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
+0
+
+Euro area
+China
+Brazil
+
+Fed
+tapering
+talk
+
+10
+
+11
+
+12
+
+Source: Haver Analytics.
+
+13
+
+14
+2/7
+
+3.
+The outlook is for a further strengthening in the recovery, broadly as projected in
+the January WEO, assuming the impact of recent volatility is short-lived. In advanced
+economies, the 2014 stimulus package offsetting the drag from the consumption tax increase in
+Japan, less fiscal consolidation in the United States and the euro area, as well as easing financial
+conditions will support growth. In emerging economies, growth in China is expected to moderate
+slightly in 2014–15, in part because of policy measures aimed at slowing credit growth and
+raising the cost of capital. In India, growth should firm up further, thanks to project approvals by
+the Cabinet Committee on Investment. Elsewhere, growth remains sluggish on account of weak
+domestic demand, including in Brazil, Indonesia, Russia, and South Africa, although in most cases
+it is still expected to increase this year and next. For some economies, notably those who raised
+policy rates given market pressure, growth is likely to be revised downward. However, the global
+outlook is broadly as in the January WEO Update, with global growth projected to increase from
+3 percent in 2013 to about 3.7 percent in 2014 and 4 percent in 2015.
+4.
+The recovery is still fragile, and significant downside risks (old and new) remain. In
+emerging economies, increased financial market and capital flow volatility remains a key concern
+as the Federal Reserve continues unwinding unconventional monetary policy measures and
+market conditions start to normalize. Concerns about the withdrawal from UMP in the United
+States have already provoked sharp price movements in emerging markets. Market normalization
+will lead to portfolio reallocation and capital outflows in emerging economies, with risks for
+lower investment and potentially financial disruptions, notably in those with domestic
+weaknesses. Vulnerabilities related to built-up positions, including a substantial increase in
+foreign holdings of domestic sovereign bonds and higher leverage, both in the form of more
+4
+
+INTERNATIONAL MONETARY FUND
+
+direct FX borrowing by corporations and a rapid increase in domestic credit, could amplify the
+impact of shocks. A new risk to activity stems from very low inflation in advanced economies,
+especially the euro area, which, if below target for an extended period, could de-anchor longerterm inflation expectations. Low inflation raises the likelihood of a deflation in case of a serious
+adverse shock to activity. In the euro area, low inflation also complicates the task in the periphery
+where the real burden of both public and private debt would rise as real interest rates increased.
+
+POLICIES FOR A SUCCESSFUL RECOVERY
+Monetary policy should remain accommodative in advanced economies, as output gaps are large
+and fiscal consolidation will continue. Emerging economies need to rebuild policy space and in
+some cases address domestic imbalances and vulnerabilities to prepare for tighter financial
+conditions. Further actions, including structural reforms, and cooperation are needed across the
+membership to lay the foundations for stronger and more balanced medium-term growth.
+Advanced Economies
+5.
+Monetary policy should continue supporting demand given the still-large output
+gaps and ongoing fiscal consolidation. With prospects improving, it will be critical to avoid a
+premature withdrawal of monetary policy accommodation, including in the United States. There
+is scope for better cooperation on unwinding UMP, especially through wider central bank
+discussions of exit plans.
+
+
+In the United States, continued asset purchases over the next several months, albeit at a
+lower rate, and strengthened Fed forward guidance on interest rates should help keep
+expected short-term rates low for some time, and moderate the pace of any increases in
+long-term rates. Looking forward, the Fed will need to gradually adjust the pace and
+composition of asset purchases to reflect evolving economic conditions, while continuing
+its careful policy communication to mitigate the risk of excessive market volatility.
+
+
+
+In the euro area, more monetary easing is needed to raise the prospects of achieving the
+ECB’s inflation objective, including by supporting demand, given the weak and fragile
+growth, large output gaps and very low inflation. Further actions could include longerterm LTROs (possibly targeted to SMEs), and further rate cuts, including mildly negative
+deposit rates, to support demand and reduce fragmentation. But it would be critical to
+repair bank balance sheets to reduce financial
+Core Consumer Price Index
+(y/y percent change)
+fragmentation, improve the monetary transmission
+4
+U.S.
+Euro area
+Japan
+mechanism, and allow for a sustained recovery in
+investment. A sound execution of the AQR and
+3
+stress tests will be a key step toward reducing
+2
+uncertainty about the health of banks and enabling
+1
+balance sheet repair. In order to enhance the
+0
+credibility of the exercise and make it easier to raise
+-1
+private capital, greater clarity is needed on the
+Dec.13
+-2
+availability of public backstops as safety nets.
+03 04 05 06 07 08 09 10 11 12 13 14
+National authorities should commit to provide
+Source: IMF, Global Data Source.
+INTERNATIONAL MONETARY FUND
+
+5
+
+sufficient national backstops, while the establishment of a common backstop (ESM direct
+recapitalization) remains crucial to sever sovereign-bank links in countries where debt
+dynamics are a concern and fiscal space is limited. Completing the banking union is also
+critical to reducing financial fragmentation. In particular, a Single Resolution Mechanism
+(SRM) based on an independent centralized authority, with efficient resolution powers—
+supported by a single resolution fund—would be necessary to ensure least cost and
+timely resolution. The recent Council agreement on the SRM is a step forward but the
+process appears complex, and may cause delays in decision making. A quicker transition
+period for the mutualization of national contributions to the single resolution fund and a
+clearer decision on a common backstop and its timing are required to adequately break
+sovereign-bank links.
+
+
+In Japan, much has been done by the BoJ. Inflation and inflation expectations have
+picked up, and there does not appear to be a need for further easing at the moment.
+However, should it become clear that progress toward the 2 percent inflation target has
+reversed or stalled, the BoJ should ease further, together with action the other two
+arrows of Abenomics, structural reform (to boost investment, employment, and
+productivity) and fiscal consolidation.
+
+6.
+Fiscal consolidation should continue at a gradual pace, while preserving the longterm growth potential of the economy. While debt ratios should start declining from 2015
+onward, fiscal deficits remain high relative to pre-crisis levels and there is still some way to go to
+rebuild policy buffers and bring debt ratios to prudent levels. Fiscal consolidation should
+continue at a gradual pace, within the framework of concrete medium-term plans (notably in
+Japan and the United States). At the same time, past fiscal consolidation has been heavily
+focused on tax increases and wage and public investment cuts, exacerbating the trend decline in
+public capital stocks. Going forward, the design of fiscal policy should be careful to support the
+long-run growth potential of the economies, including by enhancing infrastructure investment,
+which will also boost demand. Consolidation should rely on a more balanced distribution of
+spending cuts, where revenue ratios are already high; where there is scope to raise revenues, the
+emphasis should be on broadening the tax base. Specifically:
+Annual Change in Cyclically Adjusted
+Primary Balance
+(percent of potential GDP)
+2.5
+
+Adjustment 2009–2013
+Illustrative adjustment over 2013–2020 1/
+
+Advanced Economies: Government Debt
+(percent of GDP)
+GDP-weighted
+
+Simple average
+
+120
+2.0
+
+110
+
+1.5
+
+100
+
+1.0
+
+90
+80
+
+0.5
+
+70
+0.0
+
+60
+
+-0.5
+
+50
+Spain
+
+U.K.
+
+U.S. Germany Italy France Japan
+
+Sources: October 2013 Fiscal Monitor; and IMF staff
+calculations.
+1/ Adjustment to achieve illustrative 60 percent of
+GDP gross debt ratio target in 2030 (net debt of 80
+percent of GDP for Japan).
+
+6
+
+INTERNATIONAL MONETARY FUND
+
+2019
+
+40
+
+00 02 04 06 08 10 12 14 16 18
+Source: IMF, World Economic Outlook.
+
+
+
+In the United States, the December 2013 budget agreement was an encouraging example
+of bipartisanship and provided partial relief from the sequester. However, it remains
+essential to reduce uncertainty surrounding the conduct of fiscal policy, by raising the
+debt limit in a more durable manner and adopting a balanced and comprehensive
+medium-term fiscal plan (including entitlement and tax reforms) that puts public debt on
+a downward path.
+
+
+
+In Japan, the decision to implement the first phase of the consumption tax increase sent
+a strong signal about the government’s resolve to tackle the country’s fiscal imbalances.
+However, much more is needed to put the debt ratio on a downward path; the recent
+fiscal stimulus package increased the urgency of a concrete medium-term consolidation
+plan. The implementation of the second stage of consumption tax rate increase in 2015 is
+of great importance, and should go ahead. If, however, growth slows considerably, fiscal
+measures could be considered in the context of a credible consolidation strategy.
+
+
+
+In the euro area, the overall fiscal stance planned for 2014 is neutral, although a number
+of countries are still tightening, even if at a slower pace. This is broadly appropriate.
+However, if low growth persists and monetary policy options are depleted, the flexibility
+in the current fiscal framework may need to be used to respond in these circumstances.
+Further progress is also needed in improving national fiscal governance in the context of
+recent fiscal institutions reforms in the euro area.
+
+Emerging Economies
+7.
+Credible macroeconomic policies and frameworks, alongside exchange rate
+flexibility are needed to weather the turbulence. Emerging economies face both near-term
+and medium-term challenges to support growth. In the near term, priorities include:
+(i) weathering the current turbulence and capital outflows and (ii) choosing counter-cyclical
+policy to close output gaps where possible, or the unavoidable pro-cyclical policies for those
+lacking policy space/credibility. The strengthening of the recovery and unwinding of
+accommodative monetary policy in advanced economies will lead to tighter external financing
+conditions and could generate further bouts of volatility in capital flows. As recent turbulences
+have shown, economies with deteriorating macroeconomic imbalances, larger external funding
+requirements (relative to reserves) and lower policy credibility see more volatility. And when risk
+sentiment changes against EMs indiscriminately, having the policy space and credibility to react
+has been critical. Policy priorities are thus for a coherent macroeconomic policy mix with a
+credible nominal anchor and good communication. Specifically:
+
+
+On the fiscal front, emerging market economies need to ensure policy credibility,
+subsequently buffers should be built to provide space for counter-cyclical policy action.
+The urgency for action varies across economies and is especially high in economies with
+large deficits, high debt levels and/or more sensitive to increases in U.S. rates. Some
+countries (Brazil and China) also need to reduce quasi-fiscal activity, which has increased
+contingent risks to public finances, and improve the transparency of these operations.
+
+INTERNATIONAL MONETARY FUND
+
+7
+
+
+
+
+
+On the monetary front, economies where inflation
+is still relatively high, or where policy credibility
+has come into question, need to continue
+tightening monetary policy in the context of
+strengthened policy frameworks (India and
+Turkey).
+Exchange rates should be allowed to adjust in
+response to changing fundamentals. In several
+emerging economies, the depreciation of the real
+exchange rate is helping correct the currency
+misalignment and should contribute to reduce
+the relatively large current account deficits.
+However, when the ability to depreciate is
+constrained by balance sheet mismatches and
+other financial fragilities and the risk of igniting
+inflation, policymakers might need to consider
+tightening macroeconomic policies. At the same
+time, where very rapid flows lead to financial
+market disruption and sound macroeconomic
+policies fail to stabilize the tensions, liquidity
+provision and exchange market interventions,
+where reserves are adequate, can be used to
+smooth excessive volatility or prevent financial
+disruption.
+
+Core Consumer Price Index
+(percent change from year earlier)
+
+18
+16
+14
+12
+10
+8
+6
+4
+2
+0
+-2
+-4
+
+China
+Brazil
+
+India
+Indonesia
+
+Dec.13
+03 04 05 06 07 08 09 10 11 12 13
+Source: IMF, Global Data Source.
+
+Nominal Effective Exchange Rate
+(percent change from Jun. 3, 2013 to Feb. 10, 2014)
+8
+4
+0
+-4
+-8
+-12
+-16
+-20
+-24
+-28
+-32
+-36
+
+GBR
+KOR
+Euro
+DEU
+CHN
+ITL
+USA
+FRA
+JPN
+MEX
+CAN
+AUS
+RUS
+IND
+BRA
+ZAF
+TUR
+IDN
+ARG
+
+
+
+Source: IMF, Global Data Source.
+
+Macro-prudential and financial stability measures also have an important role to play.
+There is a need to strengthen capital and provisioning requirements to provide greater
+buffers in sudden stop or slow-growth scenarios; ensure that banks address credit quality
+and profitability problems, which may result from previous rapid credit growth or lower
+capital inflows; contain and monitor foreign exchange and credit exposures; and finally,
+control the growth of inadequately regulated shadow banking activities, and overall
+credit growth rates where these do not appear to be sustainable.
+
+Rebalancing and Structural reforms
+8.
+Further action across the membership and cooperation are needed to promote
+financial stability and ensure sustainable medium-term growth. Progress on global
+rebalancing and making growth more sustainable has been mixed. External imbalances have
+declined appreciably since the crisis. This reflects in part healthy adjustments but weaker demand
+in advanced deficit economies has played a substantial role. Accordingly, in a number of surplus
+countries, further reforms are needed to boost domestic demand or modify its composition. In
+China, the desired rebalancing toward consumption can be achieved through steadfast
+implementation of the recently announced reform blueprint, especially through improving
+financial intermediation, allowing more flexibility in the exchange rate by reducing intervention
+8
+
+INTERNATIONAL MONETARY FUND
+
+over time, and strengthening the social safety net. Germany needs to boost investment, both
+public infrastructure and private investment, through tax and financial system reform and
+services sector liberalization. In a number of deficit economies, structural reform is needed to
+improve competitiveness (France, Italy, South Africa, Spain, and U.K.) and remove supply
+bottlenecks to strengthen exports (India and South Africa).
+9.
+Product and labor market reforms are also needed across the membership to lay
+the foundations for stronger medium-term growth. The crisis has caused important losses in
+productivity, employment, and investment relative to longer-term trends, especially in advanced
+economies (see Annex). While these partly reflect still large output gaps, potential output also
+got hit. At the same time, key emerging economies (Brazil, India, and China), which were a main
+engine of global growth in recent years, are experiencing slower potential growth, despite still
+large catch-up needs. In Brazil and India, the slowdown reflects infrastructure and regulatory
+bottlenecks, while in China it is due to excess capacity created by the credit and investment
+boom. Most members have considerable scope to improve the functioning of product markets.
+In surplus economies (China, Germany, Japan, and Korea), action should be mostly focused on
+liberalizing domestic services and other non-tradable sectors, though in Japan agriculture also
+needs liberalization. In deficit countries, reforms are generally needed in both tradable and nontradable sectors. Many emerging economies also have scope to improve the business
+environment. Labor market reforms, especially to raise participation by women and/or older
+workers, are important in many members, but especially in advanced economies undergoing
+population aging (Germany, Japan, and Korea) or where an important fraction of the population
+remains underemployed. Finally, infrastructure needs are high in emerging economies, especially
+those that are experiencing supply bottlenecks (e.g. Brazil, India), while some advanced
+economies would benefit from a modernization of their infrastructure (e.g. Germany, the United
+States).
+10.
+Strengthened and cooperative policy actions have substantial gains in terms of
+lowering financial risks and increasing growth (Annex). Scenario simulations suggest that
+reforms would raise world growth by about 0.5 percentage point per year over the next five years
+(boosting global output by about 2¼ trillion dollars). Product market reforms have the largest
+growth pay-off, followed by labor participation reforms and infrastructure investment. While the
+gains stem mostly from policies that countries need to implement for their own good, joint
+action could produce beneficial growth spillovers in the longer term. Even more importantly,
+joint action can reduce risks of renewed turmoil in the global economy, both by reducing
+external imbalances and the associated internal distortions and by improving market confidence.
+
+INTERNATIONAL MONETARY FUND
+
+9
+
+Table 1. Real GDP Growth
+(Percent change)
+Year over Year
+Projections
+
+Deviations
+
+(as of Jan. 2014)
+
+(from Oct. 2013)
+
+2012
+
+2013
+
+2014
+
+2015
+
+2014
+
+2015
+
+World 1/
+Advanced economies
+Euro area
+Emerging market and developing countries 2/
+Advanced G-20
+Emerging G-20
+
+3.1
+1.4
+-0.7
+4.9
+1.7
+5.1
+
+3.0
+1.3
+-0.4
+4.7
+1.5
+5.2
+
+3.7
+2.2
+1.0
+5.1
+2.3
+5.5
+
+3.9
+2.3
+1.4
+5.4
+2.3
+5.7
+
+0.1
+0.2
+0.1
+0.0
+0.2
+0.1
+
+0.0
+-0.2
+0.1
+0.1
+-0.2
+0.0
+
+G-20 3/
+Argentina 4/
+Australia
+Brazil
+Canada
+China
+France
+Germany
+India 5/
+Indonesia
+Italy
+Japan
+Korea
+Mexico
+Russia
+Saudi Arabia
+South Africa
+T urkey
+United Kingdom
+United States
+European Union
+
+3.3
+1.9
+3.6
+1.0
+1.7
+7.7
+0.0
+0.9
+3.2
+6.2
+-2.5
+1.4
+2.0
+3.7
+3.4
+5.8
+2.5
+2.2
+0.3
+2.8
+-0.3
+
+3.2
+3.5
+2.5
+2.3
+1.7
+7.7
+0.3
+0.5
+4.4
+5.6
+-1.8
+1.7
+2.8
+1.2
+1.5
+3.8
+1.8
+4.1
+1.7
+1.9
+0.1
+
+3.8
+2.8
+2.6
+2.3
+2.2
+7.5
+0.9
+1.6
+5.4
+5.3
+0.6
+1.7
+3.7
+3.0
+2.0
+4.4
+2.8
+3.5
+2.4
+2.8
+1.4
+
+3.9
+2.8
+2.7
+2.8
+2.4
+7.3
+1.5
+1.4
+6.4
+5.8
+1.1
+1.0
+3.8
+3.5
+2.5
+4.2
+3.3
+3.7
+2.2
+3.0
+1.7
+
+0.1
+0.1
+-0.2
+-0.2
+0.1
+0.3
+0.0
+0.2
+0.2
+-0.2
+-0.1
+0.4
+0.0
+0.0
+-1.0
+0.0
+-0.1
+0.0
+0.6
+0.2
+0.2
+
+-0.1
+0.1
+-0.3
+-0.4
+-0.1
+0.2
+0.0
+0.1
+0.1
+-0.2
+0.1
+-0.2
+-0.2
+0.0
+-1.0
+-0.1
+0.0
+-0.6
+0.2
+-0.4
+0.1
+
+Source: IMF, World Economic Outlook January 2014.
+1/ The quarterly estimates and projections account for 90 percent of the world purchasing-power-parity weights.
+2/ The quarterly estimates and projections account for approximately 80 percent of the emerging market and developing countries.
+3/ G-20 aggregations exclude European Union.
+4/ The data for Argentina are officially reported data. The IMF has, however, issued a declaration of censure and called on
+Argentina to adopt remedial measures to address the quality of the official GDP data. Alternative data sources have shown
+significantly lower real growth than the official data since 2008. In this context, the IMF is also using alternative estimates of GDP
+growth for the surveillance of macroeconomic developments in Argentina.
+5/ Real GDP growth numbers are presented on a fiscal year basis and based on GDP at market prices. Corresponding growth
+forecasts for GDP at factor cost are 5.0, 4.6, 5.4, and 6.4 percent for 2012, 2013, 2014, and 2015, respectively.
+
+10
+
+INTERNATIONAL MONETARY FUND
+
+GROUP OF TWENTY
+
+POLICIES FOR GROWTH AND REBALANCING
+Annex to the G-20 Surveillance Note
+
+Prepared by Staff of the
+I N T E R N A T I O N A L M O N E T A R Y F U N D*
+*Does not necessarily reflect the views of the IMF Executive Board.
+
+SUMMARY
+The recovery has been disappointing, with G-20 output still below longer-term trend. Output
+losses have been especially large in advanced deficit economies, and reflect both cyclical and
+structural factors. They can be decomposed into losses in productivity, investment, and employment.
+External imbalances have narrowed alongside weak demand and hence lower imports in deficit
+countries, while adjustments toward desirable policies have been modest.
+Joint action is needed to boost output and to lower global risks substantially through more
+balanced growth. As the output losses reflect both lower potential growth and the output gap,
+demand and supply measures are needed. But as output gaps close, external imbalances may increase
+again, implying that further action on internal and external rebalancing is also required to ensure the
+sustainability of medium-term growth. Policies should aim at three goals: bringing output back to
+potential; raising potential; and rebalancing growth.
+ Bringing output back to potential. Monetary policy should remain accommodative in advanced
+economies given the still large output gaps and the ongoing fiscal consolidation. In emerging
+economies, credible macroeconomic policies and frameworks, alongside exchange rate flexibility,
+are critical to weather turbulences in a context of tighter external financing conditions. There is
+also scope for better cooperation on unwinding UMP, especially through wider central bank
+discussions of exit plans.
+ Raising potential. Strengthening medium-term growth requires action on structural policy gaps,
+including product market reforms, labor market reforms, and in some economies, infrastructure
+investment. Most members have considerable scope to improve the functioning of product
+markets. Some members also need to make their labor markets more job-friendly, while many can
+boost employment and output by removing disincentives to participation in the labor market for
+women, older workers, and youth. Finally, infrastructure needs are high in emerging markets,
+especially those experiencing supply bottlenecks, while some advanced economies would benefit
+from a modernization of their infrastructure.
+ Rebalancing growth. Further action and cooperation are needed to avoid a resurgence of global
+imbalances as the recovery proceeds and ensure sustainable medium-term growth. In a number
+of surplus countries, reforms are needed to boost domestic demand or rebalance demand from
+investment to consumption. In a number of deficit countries, reforms should boost
+competitiveness and remove supply bottlenecks to strengthen exports.
+Strengthened and cooperative policies would deliver stronger, more balanced, and sustainable
+medium-term growth while reducing risks of renewed global turmoil. Simulations of a plausible
+reform scenario suggest that desirable product and labor market reforms, together with rebalancing
+policies in key external deficit and surplus economies would raise world output by 2¼ trillion dollars
+by 2018 (about 0.5 percentage point higher growth per year), while reducing substantially global
+imbalances and lowering public debt ratios. While most of the gains are attributable to domestic
+policies, joint action could produce beneficial growth spillovers in the medium to long term. Even
+more importantly, joint action can also reduce risks of renewed global turmoil both by reducing
+external imbalances and internal distortions and by strengthening market confidence.
+
+RECOVERY FROM THE GREAT RECESSION: STOCKTAKING
+The recovery has been disappointingly weak, with G-20 output still far below longer-term trend,
+reflecting both cyclical and structural factors, and large output losses, notably in advanced deficit
+economies. At the same time, progress on internal and external rebalancing has been limited.
+1.
+The recovery from the Great Recession has been disappointing, with G-20 output
+still below longer-term trend. Global activity strengthened during the second half of 2013 on
+account of firming activity in advanced economies, and global output growth is projected to
+increase from 3 percent in 2013 to around 3¾ percent in 2014 and 4 percent in 2015. However,
+five years since the Great Recession, output remains far below the longer-term trend level,
+especially in advanced economies.1 In 2013, (per capita) output losses relative to trend amounted
+to 8 percent for the G-20 as a whole, with a higher loss in advanced deficit economies (11
+percent). Trade volumes (real exports and imports) remain well below trends as well. Notably, the
+recovery has also been much slower than was anticipated in the wake of the crisis: the G-20’s
+2013 real GDP level was 2 percent below the downside scenario projection prepared for the 2010
+Mutual Assessment Process. The strong growth projected in 2010 was based on an expected
+rapid decline in unemployment, accompanied by a strong crowd-in of private demand, which did
+not materialize.
+G-20: Output Losses from Trend 1/
+
+G-20 Real GDP Level
+
+(percent of trend)
+
+4
+
+Advanced surplus
+Advanced deficit
+Emerging surplus
+Emerging deficit
+G-20
+
+2
+
+(2005=100)
+135
+
+2010 Oct MAP baseline
+
+130
+
+2010 Oct upside scenario
+
+125
+
+2010 Oct downside scenario
+Current WEO
+
+0
+
+120
+
+-2
+-4
+
+115
+
+-6
+
+110
+
+-8
+
+105
+
+-10
+
+100
+
+-12
+-1 0 1 2 3 4 5 6 7 8 9 10
+(2008)
+Sources: IMF, World Economic Outlook; Penn World
+Table, and IMF staff calculations.
+1/ Coumputed using GDP per capita and changing
+PPP weights.
+
+95
+
+04 05 06 07 08 09 10 11 12 13 14
+Sources: IMF, World Economic Outlook; and IMF
+staff calculations.
+
+2.
+Below trend output levels across the G-20 reflect both cyclical and structural
+factors. Output gaps remain significantly negative in advanced deficit countries, suggesting that
+the demand shortfall is the binding constraint to growth in the short-term. However, potential
+output was also damaged following the Great Recession in many economies. Importantly, going
+forward, the WEO baseline projections for the medium term suggest permanent crisis-related
+output losses for the G-20 as a whole, driven by large losses for advanced economies where
+potential growth is envisaged to remain generally weak. At the same time, potential growth in
+1
+
+Trend growth is calculated over the period 1998–2005, excluding the boom years just before the crisis. Using an
+even longer trend (1988–2005) yields qualitatively similar conclusions.
+
+2
+
+INTERNATIONAL MONETARY FUND
+
+emerging surplus economies, which have been a major engine of world growth in the recent
+past, is expected to decline (as reflected in growing output losses relative to longer-term trend).
+This slowdown likely reflects various factors, some of which may be desirable, including policy
+efforts in China to steer demand away from investment and towards consumption underpinned
+by the reform blueprint.
+3.
+Output losses can be decomposed into losses in investment, productivity, and
+employment. To better understand the sources of these losses, actual per capita output and its
+(demand and supply) components are compared with the level they would have reached had
+they followed their longer-term trend.
+G-20: Supply Side Decomposition 1/
+
+
+A demand-side decomposition of output losses shows
+that investment in the G-20 remains well below longerterm trend, by 18 percent. The losses are especially large
+for advanced deficit economies but also significant in
+advanced surplus and emerging deficit economies. For
+the G-20 as a whole, consumption is only mildly below
+trend; however, this masks regional variation, with
+consumption depressed in advanced deficit economies
+and above trend in emerging economies.
+
+(percentage pts; contribution to output losses from trend)
+Total factor productivity
+Capital labor ratio
+Employment rate
+Labor force participation
+Output loss 2/
+Investment 3/
+2
+
+0
+-2
+
+-4
+-6
+-8
+-10
+
+
+
+-1 0 1 2 3 4 5 6 7 8 9 10
+A supply-side decomposition of output losses shows that
+(2008)
+Sources: IMF, World Economic Outlook; Pann World Table,
+for the G-20 as a whole the main driver has been
+and IMF staff calculations.
+1/ Excludes Argentina, Saudi Arabia and India.
+productivity losses, followed by labor force participation
+2/ Computed using GDP per capita and changing PPP weights.
+3/ Investment contribution to output losses is based on a
+demand-side decomposition; excludes Russia.
+and employment losses. Weak total factor productivity
+explains about 5 percentage points of the output losses
+G-20 Analytical Group: Supply Side Decomposition 1/
+(percentage pts; contribution to output losses from trend; 2013)
+in all analytical groups, while labor force participation
+Labor force participation
+Employment rate
+and employment rates account each for 1 percentage
+Capital labor ratio
+Total factor productivity
+10
+point and are an issue mostly for advanced deficit
+Output loss 2/
+economies.2 While the capital-labor ratio appears to have
+5
+recovered to trend on average in the G-20, this masks a
+0
+strong slowing of capital accumulation in line with the
+-5
+employment losses, and consistent with the large
+investment losses implied by the demand side
+-10
+decomposition. The capital-labor ratio also shows
+-15
+G20
+Advanced Advanced Emerging Emerging
+worrisome developments from the perspective of
+surplus
+deficit
+surplus
+deficit
+rebalancing demand, as it has been above trend in
+Sources: IMF, World Economic Outlook; Penn World
+Table, and IMF staff calculations.
+1/ Excludes Argentina, Saudi Arabia and India.
+emerging surplus countries (where in key members
+2/ GDP per capita.
+investment has been too high) and below trend in
+advanced surplus countries (where investment is deemed too weak) .
+
+2
+
+Employment is above longer-term trend in the other groups, while labor force participation has been above
+trend in emerging deficit economies and close to trend in surplus economies.
+
+INTERNATIONAL MONETARY FUND
+
+3
+
+4.
+Slower productivity growth and capital accumulation undermine long term growth
+prospects. While they may partly reflect the weak demand after the global financial crisis,
+measured TFP losses (relative to trend) are significant and projected to be persistent in the
+medium term. One could argue that the pre-crisis boom and productivity hike were not
+sustainable and that the underlying output gaps and TFP losses are smaller than currently
+estimated. But calculating the trend over a longer period yields similar TFP losses. These losses
+suggest that the scarring effect of the crisis (for instance difficult-to-reverse misallocation of
+capital over pre-crisis booms, reductions in research and development spending) may have
+dominated its cleansing effect (the fact that the least productive firms are forced first out of
+business). The slowdown in capital accumulation will also affect potential growth negatively. In
+contrast, labor inputs have been relatively resilient—with the exception of advanced deficit
+economies—and they are projected to return to their trend in the medium term.
+5.
+The narrowing of external imbalances has occurred alongside compressed demand
+in advanced deficit economies. External imbalances have declined appreciably since the crisis
+reflecting in part healthy adjustments, such as a rebound in low private saving and, more
+recently, improvements in fiscal balances in external-deficit economies and resilient domestic
+demand in key emerging surplus economies. However, a sizable part of the narrowing of
+imbalances also reflects weaker demand in advanced deficit economies, while adjustments
+toward desirable policies over the medium term have been modest in general and played only a
+small role in reducing global imbalances so far. Against this background, there remains a risk that
+global imbalances may re-emerge when advanced deficit economies close their output gaps,
+especially if desirable policy adjustments are not taken.3 On the fiscal front, despite sizable
+consolidation efforts, imbalances remain large in advanced economies, partly on account of slow
+growth. Fiscal deficits are still above their pre-crisis levels, and public debt is projected to
+stabilize only at very high levels—too high to rebuild needed policy space or to deal with future
+challenges such as aging.
+
+Advanced Economies: Government Debt
+GDP weighted
+
+Simple average
+
+120
+
+2.5
+
+110
+
+Current Account Balance
+
+Annual Change in Cyclically Adjusted
+Primary Balance
+
+(percent of GDP)
+
+(percent of world GDP)
+
+Adjustment 2009–2013
+Illustrative adjustment over 2013–2020 1/
+
+2.0
+
+100
+
+1.5
+
+3
+
+1.0
+
+2
+
+0.5
+
+1
+
+90
+80
+70
+
+0.0
+
+60
+
+0
+
+-0.5
+
+50
+2019
+
+40
+
+00 02 04 06 08 10 12 14 16 18
+Source: IMF, World Economic Outlook.
+
+ROW deficit
+ROW surplus
+G-20 large oil exporters
+G-20 emg. deficit
+G-20 adv. deficit
+G-20 emg. surplus
+G-20 adv. surplus
+G-20
+World sum
+
+Spain
+
+U.K.
+
+U.S. Germany Italy France Japan
+
+Sources: October 2013 Fiscal Monitor; and IMF staff
+calculations.
+1/ Adjustment to achieve illustrative 60 percent of
+GDP gross debt ratio target in 2030 (net debt of 80
+percent of GDP for Japan).
+
+-1
+-2
+-3
+05 06 07 08 09 10 11 12 13 14 15 16 17 18
+Source: IMF, World Economic Outlook.
+
+3
+
+See IMF (2013): “Imbalances and Growth: Update of Staff Sustainability Assessments for Selected G-20
+Members”: https://www.imf.org/external/np/g20/pdf/map2013/map2013.pdf.
+
+4
+
+INTERNATIONAL MONETARY FUND
+
+POLICIES FOR GROWTH AND REBALANCING
+For a successful recovery, advanced economies should continue supporting their still weak demand,
+while emerging economies should prepare for tighter external financing conditions. Bringing output
+back to potential though is unlikely to be enough to deliver a robust recovery. In both advanced
+and emerging economies, structural reforms are also needed to lay the foundations for stronger
+medium-term growth. Moreover, further progress on internal and external rebalancing is needed in
+surplus and deficit economies to ensure sustainable medium-term growth. The beneficial spillovers
+from joint action could be sizable.
+6.
+Joint action is needed to achieve the G-20 shared objectives of strong, sustainable
+and balanced growth. Policies should aim at three goals: getting output back to potential;
+increasing potential; and further rebalancing growth, focusing on external demand in deficit
+countries and internal demand in surplus countries. The relative weights on these three
+objectives should depend on the relative contributions of output gaps and weaker potential to
+output losses. If (current and projected) output losses largely reflect weaker potential, then
+policies should focus on increasing potential output, and the need for rebalancing policies may
+be less—as the observed narrowing of imbalances would be more durable. In contrast, if the
+output gap is larger, then getting output back to potential while further rebalancing growth
+should be a priority. While there is an inherent uncertainty in estimating output gaps (as
+potential output is unobservable), the above analysis suggests that output losses reflect both
+large output gaps and weaker potential.
+
+Bringing Output Back to Potential
+7.
+Monetary policy should continue supporting demand in advanced economies in
+view of the still large output gaps and ongoing fiscal consolidation. With prospects
+improving, it will be critical to avoid a premature withdrawal of monetary policy accommodation,
+including in the United States. In the euro area, more monetary easing is needed to raise the
+prospects of achieving the ECB’s inflation objective, complemented with further repair of banks’
+balance sheets and efforts to complete the banking union. In Japan, the BoJ should watch
+carefully for risks of a loss of momentum in inflation expectations. Should it become clear that
+progress toward the 2 percent inflation target has reversed or stalled, the BoJ should ease
+further, together with action on the other two arrows of Abenomics, structural reform to boost
+investment, employment, and productivity, and strong medium-term fiscal consolidation plans.
+Fiscal consolidation is still needed in most countries but should remain gradual and anchored in
+credible and concrete medium-term plans (see below). Consolidation should rely on a more
+balanced distribution of spending cuts and tax revenues, where revenue ratios are already high;
+where there is scope to raise revenues, the emphasis should be on broadening the tax base.
+8.
+Meanwhile, in emerging economies, credible macroeconomic policies and
+frameworks, alongside exchange rate flexibility, are needed to weather the turbulence. The
+strengthening of the recovery and future unwinding of accommodative monetary policy in
+advanced economies will result in tighter external financial conditions, lower capital inflows, and
+INTERNATIONAL MONETARY FUND
+
+5
+
+possibly further bouts of volatility in capital flows for emerging economies. In economies where
+inflation is still relatively high, or where policy credibility has come into question, further
+monetary policy tightening in the context of strengthened policy frameworks is necessary. On
+the fiscal front, emerging economies need to ensure policy credibility; subsequently buffers
+should be built to provide space for counter-cyclical policy action. Exchange rate flexibility
+should continue to facilitate external adjustment, particularly where currencies are overvalued,
+with FX intervention—for countries with adequate reserves—targeted to smooth excessive
+exchange rate volatility or prevent financial disruption. Finally, prudential policies should ensure
+that financial institutions address credit quality and profitability problems, which may have
+resulted from the recent rapid credit growth or lower capital inflows, while containing excessive
+leverage and foreign exposure.
+
+Laying the Ground for Stronger and More Balanced Medium-term Growth
+9.
+Gradual fiscal consolidation should proceed in the medium term, while better
+supporting long-run growth. It should be anchored in concrete and credible medium-term
+plans, which are notably lacking in the United States and Japan. Moreover, past fiscal
+consolidation in advanced economies has been heavily focused on wage cuts and public
+investment, exacerbating the trend decline in public capital stocks. Going forward, the design of
+fiscal policy should be careful to support the long-run growth potential of these economies,
+including by enhancing infrastructure investment, which will also boost demand. In India, there is
+a need for sustainable fiscal consolidation and reorientation of spending toward investment and
+social sectors, requiring subsidy reform and an overhaul of taxation. In Brazil, strengthening the
+fiscal framework to rebuild fiscal buffers and bolster confidence would entail adherence to a
+primary balance that puts gross debt firmly on a downward path and more fully recognizing
+contingent fiscal risks.
+10.
+Further action and cooperation are needed to avoid a resurgence of global
+imbalances as the recovery proceeds and ensure sustainable medium-term growth. Making
+growth more balanced and sustainable requires boosting internal demand in surplus countries
+and shifting from internal to external demand in deficit countries. In a number of surplus
+countries, reforms are needed to increase domestic demand or modify its composition.
+Specifically, in China, steadfast implementation of the recently announced reform blueprint is
+required to achieve desired rebalancing toward consumption through (i) improving financial
+intermediation; (ii) strengthening social safety nets; (iii) fostering competition by opening up the
+services sector and leveling the playing fields; and (iv) allowing more flexibility in the exchange
+rate by reducing intervention over time. In Germany, policy should focus on boosting domestic
+demand, especially investment, through tax and financial system reform, but also services sector
+liberalization and higher public investment (see below). In a number of deficit economies,
+structural reform is needed to improve external competitiveness (France, Italy, South Africa,
+Spain, and U.K.) and remove supply bottlenecks to strengthen exports (India and South Africa). In
+some cases (e.g. China), the implementation of rebalancing reforms could somewhat slow nearterm growth, but they are vital in containing vulnerabilities and achieving sustainable growth. In
+
+6
+
+INTERNATIONAL MONETARY FUND
+
+other cases, structural reforms can contribute to both rebalancing and stronger growth (see
+below).
+11.
+Structural reforms can boost medium-term growth substantially, though with
+uncertain impact on rebalancing. Country desks’ assessments suggest policy gaps in three
+main areas which, if addressed, have the potential to boost medium-term growth and
+employment: product markets, labor market reforms, and in some cases infrastructure
+investment. These policies can boost growth by addressing the gaps in productivity,
+employment, and investment identified above. Action on one gap may also help close the others:
+for instance, increases in productivity will likely lead to increased investment and employment,
+while higher employment will require additional capital accumulation to accommodate the new
+workers. The specific reform priorities are as follows:
+
+
+Product market reforms can boost productivity by increasing competition and/or
+improving the business environment. Most members have scope to improve the
+functioning of product markets. In surplus countries where productivity has been
+concentrated in the tradable sector (China, Germany, Japan, and Korea), the focus of
+reforms should be on strengthening productivity in domestic services and other nontradable sectors to generate more balanced growth, though in Japan agriculture also
+needs liberalization. In deficit countries, improvements are generally needed in both
+tradable and non-tradable sectors.
+
+
+
+Labor market reforms can also boost output substantially by increasing employment.
+Some countries (France, South Africa, and Spain) need to make their labor market
+institutions more job-friendly to lower a high natural rate of unemployment and improve
+competitiveness. Reforms to remove disincentives to female and older workers’
+participation in the labor market are needed to maintain or increase labor supply in
+advanced countries undergoing population aging (especially Germany, Japan, and Korea)
+or where an important fraction of the population remains underemployed.
+
+
+
+Finally, infrastructure investment can boost medium-term growth by increasing private
+investment productivity. Infrastructure investment needs are high in emerging
+economies, especially those that are experiencing supply bottlenecks (e.g. Brazil, India),
+while infrastructure modernization would also boost growth in some advanced
+economies (e.g. Germany and the U.S.). Quality of infrastructure investment is key to
+ensure that resources are used effectively and boost the productivity of private
+investment. Countries could also foster higher involvement of the private sector in the
+provision of infrastructure services, including through PPPs, although this would also
+often call for a strengthening of the related regulatory and transparency framework.
+
+INTERNATIONAL MONETARY FUND
+
+7
+
+12.
+Model simulations suggest that the above reforms would deliver stronger mediumterm growth. A plausible reform scenario is simulated with the IMF Research Department G-20
+model to illustrate the medium-term impact of these policy actions on the shared growth
+objectives.4 The model is calibrated using the 2012 OECD estimates of the impact of product and
+labor market reforms on productivity and employment. The specific policy assumptions for each
+country are based on IMF desks’ assessments of policy gaps across six reform areas—fiscal,
+rebalancing, labor supply, other labor market reforms, product market reforms, and infrastructure
+investment (see Box 1), which are used to scale the OECD estimates for the impact of reforms.
+The policies assumed in the scenario raise world real GDP by about 2¼ percent (or 2¼ trillion
+U.S. dollars) in 2018 (relative to the October 2013 WEO baseline), implying 0.5 percentage point
+higher growth over the next five years. Such gains would be sustained over a longer horizon until
+all the effects of the reforms have played out. World output gains stem largely from productivity
+increases, with substantial contributions from higher employment and capital accumulation.5
+Product market reforms contribute the most to the higher growth, followed by labor
+participation reforms and infrastructure investment.
+Real GDP Level
+
+Real GDP Level 2018: Supply Side Decomposition
+
+(percent; deviation from baseline)
+
+(percent; contribution to GDP deviation from baseline)
+
+Effect of Reforms on TFP, Capital and Labor’s
+Contributions to Real GDP 2018
+(percent; contribution to GDP deviation from baseline)
+
+8
+
+2023
+
+2018
+
+Capital
+
+Labor
+
+TFP
+
+Real GDP level
+
+Increasing public infrastructure expenditure
+
+7
+
+3.5
+
+3.0
+
+Product market reforms
+
+6
+
+3.0
+
+2.5
+
+Fiscal reforms
+
+5
+
+2.5
+
+2.0
+
+4
+
+2.0
+
+3
+
+1.5
+
+2
+
+1.0
+
+1
+
+0.5
+
+Other labor market reforms
+1.5
+1.0
+
+Labor participation reforms
+Rebalancing
+Total contribution
+
+0.5
+
+0
+World
+
+Advanced Advanced Emerging Emerging
+surplus
+deficit
+surplus
+deficit
+
+Source: IMF staff calculations.
+
+0.0
+
+0.0
+Advanced
+surplus
+
+Advanced
+deficit
+
+Emerging
+surplus
+
+Source: IMF staff calculations.
+
+Emerging
+deficit
+
+-0.5
+Capital
+
+Labor
+
+TFP
+
+GDP
+
+Source: IMF staff calculations.
+
+13.
+Policies aimed at boosting domestic demand in surplus economies and shifting it
+from internal to external demand in deficit economies, lower sizably global imbalances.
+Current Account: 2018
+The assumptions about surplus and deficit economies in this
+(percent of GDP; deviation from baseline)
+scenario are as follows: (i) China—reduction in private saving 1.0
+rate, higher overall cost of capital due to better pricing of risks 0.8
+0.6
+and liberalizing interest rates, gradual shift towards more 0.4
+productive investment, and increase in government transfers to 0.2
+0.0
+strengthen social safety nets; (ii) Germany—a boost in -0.2
+investment and a small economy-wide increase in productivity -0.4
+driven by services; (iii) United States—increase in saving rate. -0.6
+-0.8
+While rebalancing policies do not contribute much to medium- -1.0
+Advanced
+surplus
+
+Advanced
+deficit
+
+Emerging
+surplus
+
+Source: IMF staff calculations.
+
+4
+
+The scenarios are based on observed and thus achievable magnitude of reforms in countries that have
+reformed over the past 10 years.
+5
+
+In line with what would be desired, the contribution from capital is more important in advanced surplus
+countries, while the employment contribution is more important in advanced deficit countries.
+
+8
+
+INTERNATIONAL MONETARY FUND
+
+Emerging
+deficit
+
+term growth (except in advanced surplus countries where they boost investment), they are
+needed to reduce risks to the sustainability of growth arising from domestic and external
+imbalances, including risks of financial crises. Specifically, the reform scenario policies reduce
+current account imbalances by ½ to 1 percentage point of GDP for each analytical group, except
+emerging deficit countries.
+14.
+While the gains stem mostly from policies that countries need to implement for
+their own good, joint action could produce large beneficial spillovers in the longer term.
+The reform scenario suggests that most of the gains stem from policies that are beneficial from
+the country’s own perspective. However, about 1/3 of the world output gains in the medium
+term stem from positive productivity spillovers between
+World GDP Level 2018: Upside Scenario
+(percent; deviation from baseline)
+members, the main source of growth spillovers. Productivity
+with spillover
+without spillover
+increases in the home country lead to productivity spillovers 3.5
+in trade partners through technology diffusion, the more so 3.0
+the higher the capacity of the recipient country to adopt 2.5
+technological innovations.6 Product market reforms and 2.0
+infrastructure investment, to the extent that they increase 1.5
+1.0
+productivity, are the strongest sources of growth spillovers.
+0.5
+Finally, labor market reforms which increase the domestic 0.0
+World
+Adv. Adv. deficit Emg.
+Emg.
+supply of labor do not generate productivity spillovers;
+surplus
+surplus
+deficit
+however, they can create positive welfare spillovers, if
+Source: IMF staff calculations.
+consumers in other countries benefit from cheaper
+imported goods.
+15.
+Even more importantly, cooperative action can reduce the risk of renewed global
+turmoil. Cooperative policies that raise growth, reduce global external imbalances and the
+internal distortions that give rise to them, would improve market confidence and reduce risks.
+Demonstrated commitment to these joint actions would send a strong signal to market
+participants about the importance that global policymakers attach to the objective of reducing
+global risks through policy cooperation.
+
+6
+
+Productivity spillovers are higher for countries closer to the technological frontier which moves further out
+under the reform scenario.
+
+INTERNATIONAL MONETARY FUND
+
+9
+
+Box 1. Policy Assumptions for the Reform Scenario
+The reform scenario consists of six layers: (i) fiscal consolidation over the medium term;
+(ii) rebalancing reforms in China, Germany, and the United States; (iii) product market reforms;
+(iv) labor participation reforms; (v) other labor market reforms; and (vi) infrastructure investment.
+Specifically:
+Fiscal Reforms. Fiscal consolidation is based on the country desks’ estimate of the gap between
+the 2013 cyclically-adjusted fiscal balance and the desirable future fiscal balance. An attempt is
+made to ensure consistency with the desirable fiscal balances underlying the External Balance
+Assessment and the External Sector Report, though these numbers are still subject to revisions.
+The fiscal consolidation is phased in progressively over 5 years, except for Japan where it is
+phased in over 10 years.
+Rebalancing Reforms. In China, additional reforms to education, healthcare, and pensions raise
+public transfers by 1.1 percent of GDP and reduce private savings by 1 percent of GDP over
+5 years. Financial sector reforms help better pricing of risks, raising the cost of capital to tradable
+sector firms by 50 basis points after 5 years. The financial sector reforms also result in a shift to
+higher quality investment, implying a reduction in the private capital depreciation rate of 50 basis
+points after 5 years. These policies are accompanied by a fully flexible exchange rate. In Germany,
+reforms are implemented to increase economy-wide productivity by 1 percent after 5 years. In
+the United States, reforms encourage an increase in private saving by about ½ percent of GDP
+after 5 years.
+Labor and Product Market Reforms. Three types of structural reforms are considered: product
+market reforms, labor participation reforms and job-friendly labor market reforms. Product
+market reforms (PMR) and labor market reforms to ease overly restrictive employment protection
+legislation (EPL) boost productivity. Reforms that increase the labor force participation rate
+include increases in childcare spending (CHILDC) and pension reforms (PENTOT). Finally, other
+labor market policies cover active labor market policies (ALMP) and in some cases reductions in
+unemployment benefit average replacement rates (ARR). The magnitude of reforms is based on
+OECD inputs and scaled by IMF country desk priorities. For instance, PMR reform is defined as a
+20 per cent reduction in the degree of regulation in services industries, based on the average
+decline observed in OECD countries that have made reforms over the past 10 years. Similarly, EPL
+reform corresponds to a 20 per cent reduction in the strictness of employment protection
+legislation based on the magnitude of observed reforms in OECD countries over the past 10
+years. If the reform is ranked as first priority by desks, the full OECD shock is implemented. For
+second priority reforms, 75% of the OECD shock is implemented, and if the reform is ranked as
+low priority, 50% of the OECD shock is implemented. Product market reforms are phased in
+gradually and the productivity shocks become fully credible in 2018 (see Table 1 below for
+impact in 2018).
+Infrastructure Investment. The reform scenario includes a permanent increase in public
+investment of ½ percentage point of baseline GDP in the United States, Germany, Brazil, India,
+and Indonesia. The increase takes place gradually over two years and is financed by a reduction
+in general transfers.
+10
+
+INTERNATIONAL MONETARY FUND
+
+Table 1. Impact of Reforms
+Impact on Productivity
+(in percent)
+
+Argentina
+Australia
+Brazil
+Canada
+China
+France
+Germany
+India
+Indonesia
+Italy
+Japan
+Korea
+Mexico
+Russia
+Saudi Arabia
+South Africa
+Turkey
+United Kingdom
+United States
+Other Euro Area
+Other European Union
+
+Impact on Participation rate
+(in percentage points)
+
+PMR
+
+Priority
+rank
+
+EPL
+
+Priority
+rank
+
+1.22
+0.54
+1.34
+1.03
+1.48
+1.16
+0.69
+1.77
+1.79
+1.25
+1.10
+0.85
+0.89
+1.44
+0.64
+2.33
+2.00
+0.50
+0.41
+0.30
+...
+
+1.0
+3.0
+1.0
+2.0
+2.5
+1.0
+2.0
+1.0
+1.0
+1.0
+1.0
+1.0
+3.0
+1.0
+3.0
+1.0
+1.5
+3.0
+3.0
+1.0
+…
+
+...
+0.03
+0.12
+0.03
+0.13
+0.10
+0.07
+0.13
+0.15
+0.10
+0.10
+0.16
+0.06
+0.10
+...
+0.12
+0.18
+0.03
+...
+0.04
+...
+
+...
+3
+1
+3
+3
+1
+3
+1
+1
+2
+1
+1
+3
+2
+2
+1
+1
+3
+3
+...
+...
+
+CHILDC Priority
+rank
+
+...
+0.24
+...
+0.68
+0.67
+0.12
+0.52
+0.67
+...
+0.23
+0.56
+0.89
+...
+0.67
+0.67
+...
+0.67
+...
+0.43
+0.15
+...
+
+...
+3
+...
+3
+2
+3
+1
+2
+3
+2
+1
+1
+3
+2
+2
+3
+2
+3
+2
+...
+...
+
+Impact on Unemployment rate (-)
+(in percentage points)
+
+PENTOT Priority
+rank
+
+...
+0.06
+...
+0.05
+...
+0.51
+0.12
+...
+0.07
+0.05
+0.27
+0.06
+...
+0.09
+...
+...
+0.04
+0.07
+0.07
+0.04
+...
+
+...
+3
+...
+3
+3
+1
+1
+3
+2
+3
+1
+2
+3
+1
+3
+3
+2
+3
+2
+...
+...
+
+ALMP
+
+Priority
+rank
+
+...
+...
+...
+0.22
+...
+0.08
+0.05
+0.21
+0.21
+0.16
+...
+0.21
+...
+0.21
+0.16
+0.21
+...
+0.15
+0.25
+0.06
+...
+
+...
+3
+...
+1
+3
+1
+3
+1
+1
+1
+1
+1
+3
+1
+2
+1
+3
+2
+1
+...
+...
+
+ARR Priority
+rank
+
+...
+...
+...
+...
+...
+0.59
+0.17
+...
+...
+0.20
+...
+...
+...
+...
+...
+...
+...
+...
+...
+0.17
+...
+
+...
+3
+...
+3
+3
+1
+3
+3
+...
+3
+3
+3
+3
+2
+...
+3
+3
+3
+3
+...
+...
+
+Source: IMF staff calculations, with inputs from the OECD.
+
+INTERNATIONAL MONETARY FUND
+
+11
+
+

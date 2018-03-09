@@ -1,0 +1,1093 @@
+Group of Twenty
+
+G-20 Leaders Summit
+September 24, 2009
+Pittsburgh, U.S.A.
+
+Global Economic Prospects and Policy Challenges1
+
+Prepared by Staff of the International Monetary Fund
+
+1
+
+This note summarizes the more in-depth analysis provided in the report circulated for the meeting of G-20 Ministers
+and Deputies, held in London on September 3-4, 2009.
+
+Key Messages
+Global economic outlook
+
+
+The global economy is beginning to grow again, but the recovery is likely to be sluggish
+and policy support needs to be sustained until the expansion is firmly established.
+
+
+
+Financial conditions have continued to improve, but the global financial system is far
+from normal, and many markets remain dependent on public support. Banking systems
+are still undercapitalized and saddled with impaired assets, suggesting that deleveraging
+pressures will remain a constraint on bank credit for some time.
+
+
+
+The overarching risk to the outlook is that the recovery stalls, either because of a
+premature exit from accommodative macroeconomic policies or because measures to
+restore health to bank balance sheets are not fully implemented. Fiscal sustainability
+issues are also coming to the fore.
+
+Policy implementation and effectiveness
+
+
+Bold and wide-reaching policy measures implemented by G-20 economies have helped
+stabilize confidence, limit the threat of further financial instability, and provided an
+impetus to economic growth.
+
+
+
+Policymakers must, however, avoid becoming complacent, and should move rapidly to
+implement policies already proposed. Most notably, greater progress needs to be made in
+recapitalizing viable banks as needed.
+
+
+
+Considerable fiscal stimulus remains in the pipeline through 2010 for the G-20 as a
+whole, and should be implemented expeditiously to maximize the impact on growth and
+employment.
+
+Exit strategies
+
+
+The key challenges involve mapping a course between unwinding public interventions
+too early and too late, and maintaining market confidence in the sustainability of public
+finances. Clear communication of exit strategies will be critical.
+
+
+
+Central banks will eventually need to unwind their extraordinary liquidity and credit
+support, but may need to start tightening their monetary stance well before balance sheets
+are fully restored.
+
+
+
+Fiscal support should be maintained while the recovery is still fragile. Eventual
+adjustment will need to be large, particularly for advanced economies where public debts
+are rising rapidly, underpinned by a major reform of entitlements.
+
+1
+I. RECENT DEVELOPMENTS, PROSPECTS, AND RISKS
+1.
+The global economy is beginning to grow again, but the recovery is uneven and
+remains dependent on policy support. Following a sharp decline in the first quarter of
+2009, output increased modestly in the second quarter. Real GDP expanded in some
+advanced economies—notably France, Germany, and Japan—while it has fallen at a much
+more modest pace elsewhere, including the United States. Emerging economies, notably in
+Asia, are turning around even more strongly. Recent data also suggest that the recovery is
+spreading, although the advanced economies continue to lag as consumers remain cautious
+(Figure 1). That said, the recent uptick in activity and the arrest of decline in private
+demand is largely driven by policy stimulus, including measures such as the cash-forclunkers program, and a turn in the inventory cycle.
+Figure 1: Assessing Growth Momentum 1/2/3/4/
+Sep-08 Oct-08 Nov-08 Dec-08 Jan-09 Feb-09 Mar-09 Apr-09 May-09 Jun-09 Jul-09 Aug-09
+Western Hemisphere
+United States
+Canada
+Mexico
+Brazil
+Argentina
+Asia Pacific
+Japan
+Australia
+Korea
+China
+Indonesia
+India
+European
+Germany
+France
+Italy
+United Kingdom
+Turkey
+Russia
+African
+South Africa
+
+4
+5
+5
+2
+2
+
+5
+4
+5
+4
+2
+
+5
+4
+5
+5
+4
+
+5
+5
+5
+5
+4
+
+5
+5
+5
+5
+4
+
+4
+5
+5
+4
+4
+
+4
+4
+4
+3
+4
+
+4
+4
+4
+3
+4
+
+4
+3
+4
+3
+3
+
+4
+3
+4
+2
+3
+
+4
+3
+4
+3
+2
+
+3
+0
+0
+2
+2
+
+5
+4
+2
+3
+4
+3
+
+4
+4
+5
+4
+5
+4
+
+4
+5
+5
+4
+5
+5
+
+5
+4
+5
+4
+5
+5
+
+5
+4
+5
+4
+3
+4
+
+5
+4
+4
+3
+3
+4
+
+5
+3
+3
+3
+2
+3
+
+4
+4
+2
+2
+2
+3
+
+4
+4
+2
+2
+2
+3
+
+3
+3
+2
+2
+3
+2
+
+2
+3
+2
+1
+3
+2
+
+2
+0
+2
+1
+0
+2
+
+4
+4
+5
+5
+4
+3
+
+4
+5
+5
+4
+5
+5
+
+4
+5
+5
+4
+5
+5
+
+5
+5
+5
+4
+5
+5
+
+5
+4
+4
+4
+4
+5
+
+5
+5
+5
+4
+4
+5
+
+4
+4
+4
+4
+3
+4
+
+4
+4
+4
+4
+4
+4
+
+4
+4
+4
+4
+3
+4
+
+3
+3
+4
+3
+2
+3
+
+3
+3
+4
+3
+2
+3
+
+3
+2
+0
+2
+2
+3
+
+4
+
+4
+
+5
+
+4
+
+4
+
+4
+
+4
+
+5
+
+4
+
+4
+
+4
+
+3
+
+Expansion and level at or above trend (mean)
+Expansion but level below trend (mean)
+Moving sideways
+Contraction at a moderating rate
+Contraction at a increasing rate
+Data not available
+Sources: Global Data Source; Haver Analytics; Bloomberg L.P.; and staff calculations.
+1/ The above chart is based on the four economic indicators, including industrial production (IP), real retail sales (RS),
+merchandise exports (EX), and purchasing managers index (PMI).
+2/ Some of the ratings—particularly for recent months—are based on both actual data as well as projections of the underlying
+variables.
+3/ Saudi Arabia is not included because there is no available data.
+4/ Retail sales and IP are based on real data, whereas, exports are based on nominal data and PMI on survey data.
+
+2
+2.
+Financial market conditions have continued to improve, but the global financial
+system is far from normal, with many markets remaining heavily dependent on public
+support.
+
+
+The unprecedented response of both financial and macroeconomic policies has
+reduced the risk of systemic collapse, which when combined with brightening growth
+prospects has contributed to restoring market confidence and a pick-up in risk
+appetite. At the same time, however, banking systems remain undercapitalized and
+saddled with impaired assets—particularly in Western Europe—suggesting that
+deleveraging pressures will remain a constraint on bank credit for some time.
+Securitization activity also remains limited to where it has been supported by the
+public sector. Moreover, large public interventions have transferred risk to sovereign
+balance sheets, raising market concerns.
+
+
+
+Financial pressures have receded in emerging economies. That said, economies with
+large current deficits—notably in Europe—remain vulnerable to deleveraging in
+mature markets and the associated decline in cross-border bank flows. The Fund’s
+new Flexible Credit Line and resource expansion have, however, helped curtail
+concerns about sudden stops. By contrast, some emerging economies, notably in
+Asia, are experiencing rapidly rising equity prices on the back of renewed large
+capital inflows, raising concerns of a possible resurgence of asset price booms.
+3.
+Going forward, the global economic
+recovery is expected to be sluggish. Policy
+Global Growth
+(Percent; quarter over quarter annualized)
+support and the turn in the inventory cycle—which
+15
+Real GDP
+are driving the recovery at the moment—will
+Emerging
+10
+gradually lose impetus. At the same time, a
+Wo rld
+sustained rebound in advanced economy private
+5
+demand is likely to be held back for some time by
+0
+limited credit availability, household desire to
+rebuild balance sheets, and still rising
+-5
+A dvanced
+unemployment. The Fund’s assessment remains
+10Q4
+-10
+that the recovery will be gradual, particularly in the 05
+06
+07
+08
+09
+10
+So urce: IM F, Glo bal Data So urce and IM F staff estimates.
+advanced economies. In particular, the October
+2009 World Economic Outlook projects that global
+activity will contract by 1.1 percent in 2009, before expanding by about 3.1 percent in 2010
+(Table 1).
+
+
+
+Activity in the advanced economies is projected to decline by just under 3½ percent in
+2009, followed by a modest rebound in 2010. Projected quarterly growth rates in 2010
+still fall short of potential until late in the year, implying continuing increases in
+unemployment.
+
+3
+
+
+Activity in emerging and developing economies is projected to continue gaining
+momentum during the second half of 2009 and 2010, albeit with notable differences
+across regions. Overall, growth in these economies is projected at about 1¾ percent
+in 2009 before rebounding to around 5 percent in 2010. The recovery is being led by
+the strong rebound in Asian economies, fueled mainly by China and India.
+
+4.
+Output gaps will continue to widen and inflation will remain low. Given the
+sluggish recovery, output gaps are projected to widen through the end of 2010, even after
+taking into account reductions in potential output as a result of the crisis. As a result,
+unemployment is likely to continue to rise in the advanced economies well into 2010 and
+inflation pressures should remain subdued, notwithstanding the recent upturn in commodity
+prices.
+5.
+Downside risks to the recovery are receding gradually but remain a key
+concern. The overarching risk is that the recovery stalls, either because of a premature exit
+from accommodative monetary and fiscal policies or because financial strains persist in the
+event that efforts to restore bank balance sheets to health are not forcefully implemented.
+Other risks relate to rising market concerns about fiscal sustainability in the face of
+widening deficits and surging public debt, which could contribute to rising long-term bond
+yields and limit countries’ ability to pursue countercyclical fiscal policies. In the case of
+emerging economies, while external financing pressures have largely abated, there is a risk
+that banks in advanced countries continue to further reduce their cross-border positions,
+leading to a “sudden stop” of capital inflows.
+
+4
+Table 1. Overview of World Economic Outlook Projections 1/
+(Percent change)
+Year over Year
+Projections
+2009 2010
+
+Difference from July
+2009 WEO Projections
+2009
+2010
+
+Q4 over Q4 2/
+Projections
+2009
+2010
+
+2007
+
+2008
+
+World output 3/
+Advanced economies
+Euro area
+Emerging and developing economies 4/
+
+5.2
+2.7
+2.7
+8.3
+
+3.0
+0.6
+0.7
+6.0
+
+-1.1
+-3.4
+-4.2
+1.7
+
+3.1
+1.3
+0.3
+5.1
+
+0.3
+0.4
+0.6
+0.2
+
+0.6
+0.7
+0.6
+0.4
+
+0.8
+-1.3
+-2.5
+3.8
+
+3.2
+1.7
+0.9
+5.5
+
+G-20 2/
+Argentina
+Australia
+Brazil
+Canada
+China
+France
+Germany
+India
+Indonesia
+Italy
+Japan
+Korea
+Mexico
+Russia
+Saudi Arabia
+South Africa
+T urkey 5/
+United Kingdom
+United States
+European Union
+
+5.0
+8.7
+4.0
+5.7
+2.5
+13.0
+2.3
+2.5
+9.4
+6.3
+1.6
+2.3
+5.1
+3.3
+8.1
+3.3
+5.1
+4.7
+2.6
+2.1
+3.1
+
+2.8
+6.8
+2.4
+5.1
+0.4
+9.0
+0.3
+1.2
+7.3
+6.1
+-1.0
+-0.7
+2.2
+1.3
+5.6
+4.4
+3.1
+0.9
+0.7
+0.4
+1.0
+
+-1.0
+-2.5
+0.7
+-0.7
+-2.5
+8.5
+-2.4
+-5.3
+5.4
+4.0
+-5.1
+-5.4
+-1.0
+-7.3
+-7.5
+-0.9
+-2.2
+-6.5
+-4.4
+-2.7
+-4.2
+
+3.3
+1.5
+2.0
+3.5
+2.1
+9.0
+0.9
+0.3
+6.4
+4.8
+0.2
+1.7
+3.6
+3.3
+1.5
+4.0
+1.7
+3.7
+0.9
+1.5
+0.5
+
+0.2
+-1.0
+1.2
+0.6
+-0.2
+1.0
+0.6
+0.9
+0.0
+0.5
+0.0
+0.6
+2.0
+0.0
+-1.0
+0.0
+-0.7
+-1.4
+-0.2
+-0.1
+0.5
+
+0.5
+0.8
+0.7
+1.0
+0.5
+0.5
+0.5
+0.9
+-0.1
+0.3
+0.3
+0.0
+1.1
+0.3
+0.0
+0.1
+-0.6
+2.2
+0.7
+0.7
+0.6
+
+1.1
+-5.4
+1.4
+2.2
+-1.5
+10.1
+-0.9
+-2.9
+5.1
+4.2
+-3.2
+-1.3
+4.3
+-4.1
+-2.7
+…
+-2.1
+0.7
+-2.5
+-1.1
+-2.5
+
+3.5
+6.0
+2.8
+3.5
+3.0
+9.2
+1.4
+0.8
+7.0
+5.4
+0.8
+1.4
+3.5
+3.4
+-0.9
+…
+2.9
+2.7
+1.3
+1.9
+1.1
+
+No te: Real effective exchange rates are as s umed to remain co ns tant at the levels prevailing during J uly 30-Augus t 27, 2009. Co untry weights us ed
+to co ns truct aggregate growth rates fo r gro ups o f co untries were revis ed.
+1/ Octo ber 2009 Wo rld Eco no mic Outlo o k.
+2/ G-20 yearly projectio ns exclude Euro pean Unio n and quarterly pro jectio ns exclude Saudi Arabia and Euro pean Unio n.
+3/ The quarterly es timates and pro jectio ns acco unt for 90 percent o f the wo rld purchas ing-po wer-parity weights .
+4/ The quarterly es timates and pro jectio ns acco unt for appro ximately 77 percent o f the emerging and develo ping eco no mies .
+5/ Fo r Turkey, the pro jectio ns repo rted in the J uly 2009 Wo rld Eco no mic Outlo ok were prepared prio r to the releas e o f the J une 30 Q1data.
+
+II. POLICY IMPLEMENTATION AND EFFECTIVENESS
+G-20 economies have implemented bold and wide-ranging measures to address the financial
+crisis and global recession, yielding tangible benefits. With the recovery still at an early
+stage, policy support will need to remain in place longer, and further strengthened in some
+key areas. However, to safeguard price and financial stability and the soundness of public
+finances, policymakers will need to form credible and coherent exit strategies from
+extraordinary short-term support toward sustainable medium-term policies.
+Financial Sector Policies
+6.
+Policy responses to the global crisis have helped stabilize confidence and limit
+the threat of further financial instability. Financial sector policies have reduced
+counterparty concerns and eased liquidity pressures. Significant public injections of capital
+into financial institutions have been critical in shoring up confidence and reducing extreme
+
+5
+financial stress. At the same time, bank liability guarantees have helped to reassure creditors
+that their claims on financial institutions would be protected.
+7.
+Nonetheless, restoring the financial system to full health will require additional
+policy actions aimed at diagnosing the condition of banks and recapitalizing them as
+needed. Bank stress tests in the United States and the United Kingdom have been helpful in
+identifying capital needs and reducing uncertainty. The priority is now to ensure that losses
+are fully recognized and capital cushions rebuilt. In the euro area, the ongoing stress test
+assessments should also be used as a base to ensuring capital meets identified needs. Banking
+systems in other emerging economies generally appear less vulnerable, but authorities should
+still assess their soundness in the context of the deep economic downturn.
+8.
+Policies to deal with impaired assets have had limited success so far. The
+European Union, Germany, the United States, the United Kingdom, and Korea have all
+announced plans for dealing with impaired assets, but implementation has been slow. Further
+progress in this area will be needed to reduce balance sheet vulnerability and help pave the
+way for banks to increase lending.
+Monetary Policy
+9.
+Major central banks have been effective in supporting economic activity and
+credit creation, albeit using different approaches. Most major advanced economy central
+banks have reduced policy interest rates to close to zero and signaled that they are likely to
+remain low for an extended period. Central banks have also used a range of instruments,
+tailored to the circumstances of their economies, to support financial intermediation and
+encourage credit flows. Policy actions, including forceful monetary easing and interventions
+aimed at enhancing credit and liquidity support, have helped ease financial stress and
+improved the functioning of money, foreign exchange, and commercial paper markets.
+Securitization activity, however, remains largely limited to where it has been supported by
+the public sector, and needs to be rebuilt to deliver on its promise to transfer and disperse
+credit risks from the banking system to capital markets.
+10.
+In emerging economies, there remains scope to cut policy rates if needed to
+support demand. That said, in some countries, notably in Asia, rising asset prices and a
+vigorous turnaround in economic activity suggest that policy may need to be tightened. In
+China, for instance, the monetary expansion has fed through to the domestic economy and
+there may be a need to curtail sharply rising credit growth. In countries where financing
+conditions are easing and exchange rates have appreciated, there may be scope for limited
+policy easing to support a resumption of growth.
+Fiscal Policy
+11.
+G-20 countries have provided substantial fiscal stimulus, which when fully
+implemented will have a sizeable impact on growth. Planned crisis-related discretionary
+
+6
+measures are estimated at 2 percent of GDP in 2009 and 1.6 percent of GDP in 2010.1 A full
+progress report on implementation of fiscal stimulus packages in G-20 countries to date is
+difficult, given operational challenges in reporting and limited specific information.2 In
+general, however, implementation rates are reported to be higher for revenue measures and
+social transfers and lower for infrastructure projects. This contributes to cross-country
+variation in overall implementation, as the composition of stimulus differs by country. The
+crisis is, however, having a substantial impact on fiscal positions in G-20 countries, with
+overall deficits projected to increase by 5.6 percentage points and 5.3 percentage points of
+GDP in 2009 and 2010, respectively, from pre-crisis levels.
+12.
+Considerable fiscal stimulus remains in the pipeline through 2010 for the G-20
+as a whole, and should be implemented expeditiously to maximize the impact on
+growth and employment. The stimulus measures implemented most rapidly—tax breaks
+and transfer payments—typically have lower multipliers. Implementation of higher
+multiplier items is likely to pick up in the second half of 2009, particularly in infrastructure,
+suggesting that growth and employment impacts could increase during the remainder of the
+year. Estimated growth impacts range from 1.2 to 4.5 percentage points in 2009 and from
+zero to 0.8 percentage points in 2010, both with respect to the previous year.3
+13.
+Governments and central banks have also continued to provide direct support
+to the financial and other sectors, which has been both broadly effective and
+considerably less costly than originally announced.4 The latter reflects a variety of factors
+including the precautionary nature of initial announcements, increasing stability and bank
+liquidity, and mixed progress in implementing recapitalization and asset purchase programs.
+Upfront government financing needs connected with financial support operations are
+estimated at around 5½ percent of GDP for the advanced G-20 countries and about
+½ percent of GDP for the emerging G-20 countries.
+
+1
+
+Assuming phased implementation of stimulus spending initiated this year and carryover of tax provisions.
+
+2
+
+Only a few G-20 countries report stimulus spending systematically. Challenges include lack of a standard
+definition for implementation, especially for spending (e.g., transfers to agencies or subnational governments,
+commitment and payment stages), stimulus measures that do not involve new or separate budget items, and lags
+in reporting or provision (e.g., due to tax filing schedules).
+
+3
+
+These estimates include spillovers to other countries (via imports) and reflect the impact of the full fiscal
+expansion and not only the discretionary stimulus.
+4
+
+For example, advanced economies for which data are available allocated 3½ percent of GDP on average for
+capital injections, but the amount utilized so far has been just over two-fifths of that (1½ percent of GDP).
+Purchases of assets and treasury lending is even lower, at less than one fifth of the allocated amount.
+
+7
+III. EXITING FROM EXTRAORDINARY PUBLIC ACTIONS
+Policymakers will need to bridge from extraordinary short-term support to medium-term
+policy requirements through credible and coherent exit strategies. The key challenge is to
+map a course between unwinding public interventions too early, which would jeopardize
+progress in securing financial stability and economic recovery, and withdrawing them too
+late, which would distort private incentives and create new risks. Clear communication of
+exit strategies is essential.
+Financial Sector Support
+14.
+Additional policy actions are still needed to help restore financial sector health,
+but policymakers should begin to lay the groundwork and clearly communicate the
+strategies for eventual exits. Plans will need to be tailored to specific policy areas to assure
+markets that exits consistent with medium-term policy goals can be achieved without shortterm disruptions. Restarting healthy intermediation of credit will also depend on prudential
+framework reform to ensure stronger risk management. International coordination will also
+be essential to securing a level playing field and preventing destabilizing cross-border
+capital flows as a result of regulatory differences.
+15.
+Exits from financial sector policies will need to be gradual and in line with
+market developments. To the extent possible, priority should be given to exiting from
+programs that have the greatest distortionary impact on financial market decisions and/or
+involve considerable contingent liabilities to the government.
+
+
+Healthy banks should be encouraged to repay public capital injections, issue nonguaranteed debt, and end recourse to asset guarantees as a signal of their viability.
+This process should be encouraged by gradually reducing public subsidies and
+tightening access terms, particularly with respect to reducing banks’ reliance on
+guaranteed debt. Chronically weak institutions should be resolved expeditiously,
+rather than kept on life support.
+
+
+
+Governments that have purchased impaired assets to help banks cleanse their
+balance sheets may need to hold them for an extended period. Disposal of these assets
+may need to be a slow process, especially given that investor appetite for complex
+and illiquid assets may not return for some time. Priority should be given to ensuring
+that assets are well-managed and their value maximized.
+
+Central Bank Support
+16.
+Credible exit strategies for unwinding monetary policy support need to be
+prepared and communicated now, for swift implementation, once recovery is firmly
+underway. Interest rates should be raised as economies recover and output gaps narrow, but
+the path should take account of the withdrawal of fiscal support. To ensure transmission of
+
+8
+tighter monetary conditions to the real economy, central banks should ready instruments to
+reabsorb liquidity at the appropriate time, including by engaging in reverse repurchase
+operations, raising interest rates on deposits to banks, or issuing their own paper.
+17.
+Interest rate hikes will likely be needed sooner in emerging than advanced
+economies, given more favorable growth outlooks and attendant inflation pressures.
+
+
+In advanced G-20 economies, central banks can afford to maintain low interest rates
+for an extended period, as underlying inflation is expected to remain very low. The
+risk of inflation and excessive risk taking is limited over the near term, as weak
+balance sheets are likely to weigh on credit availability. Nonetheless, once a recovery
+is firmly underway, as signaled by recovering employment, monetary policy will
+need to be tightened.
+
+
+
+The situation is more varied across emerging G-20 economies, but monetary
+accommodation will likely need to be withdrawn sooner. A number of these
+economies, notably in Asia, are already enjoying relatively vigorous rebounds of
+activity, significant asset price increases, and robust credit growth in response to low
+interest rates. Some emerging economies should consider prudential actions to limit
+excessive credit creation.
+
+18.
+Conventional monetary tightening will need to be accompanied by steps to
+offset the impact of large central bank balance sheets. The composition of central bank
+assets will in part determine the approach to be taken.
+
+
+For central banks that have relied on short-term instruments to expand their balance
+sheets, excess reserves can be absorbed by simply letting these instruments mature.
+This unwinding has already started to some degree as funding markets improve and
+banks reduce demand for precautionary excess reserves.
+
+
+
+Selling assets associated with credit easing operations in specific markets may prove
+to be more difficult and would need to depend on the state of these markets. There
+may be scope to reduce central bank holdings of government securities since markets
+are quite liquid, but the disposal of private or quasi-sovereign financial instruments
+may be more problematic.
+
+Fiscal Support
+19.
+Despite a gradual expected reduction in fiscal deficits over the medium term,
+public debt is expected to rise sharply in advanced G-20 economies. A revival of tax
+revenues and a phasing out of discretionary spending initiatives may be expected when
+conditions improve, but some of the revenue base may have been lost permanently due to
+the crisis. Overall fiscal deficits under current policies are projected to remain higher in
+2014, compared with 2007, in both advanced and emerging G-20 economies. In advanced
+
+9
+G-20 economies, debt levels are projected to rise to close to 120 percent of GDP, up from
+about 80 percent before the crisis on account of higher deficits and weak economic growth.
+In emerging G-20 economies, debt levels are expected to decline slightly after the initial
+post-crisis peak, reflecting smaller deficits and relatively stronger projected economic
+performance. However, the outlook for debt would be far worse if global growth recovers
+more slowly.
+Outlook for Public Finances
+(Percent of GDP)
+2
+
+140
+
+Fiscal Balance
+
+0
+
+120
+
+-2
+
+100
+
+-4
+
+80
+
+-6
+
+60
+G-20
+
+-8
+
+40
+
+G-20 (Advanced)
+
+-10
+
+Government Debt
+
+G-20
+G-20 (Advanced)
+G-20 (Emerging)
+
+20
+
+G-20 (Emerging)
+
+0
+
+-12
+00
+
+02
+
+04
+
+06
+
+08
+
+10
+
+12
+
+14
+
+00
+
+02
+
+04
+
+06
+
+08
+
+10
+
+12
+
+14
+
+Source: IMF, World Economic Outlook.
+
+20.
+The increase in fiscal deficits and debt raises tradeoffs regarding the timing of
+stimulus withdrawal. Premature withdrawal of stimulus would undermine the recovery, but
+delayed withdrawal could fuel investor concerns about sustainability, leading to higher bond
+yields, undermining the recovery and worsening the debt dynamics. At this stage, fiscal
+adjustment is premature, but is projected to get underway by 2011 in most countries (earlier
+in some) as fiscal stimulus measures expire and output gaps narrow.
+21.
+Regardless of the timing of adjustment, its necessary scale will be large,
+particularly for high-debt advanced economies. Staff estimate that “high debt” advanced
+and emerging economies would need a further improvement in their general government
+primary balances from 2014 of 5½ percentage points and ¾ percentage point of GDP (on
+average for the subsequent fifteen years) to reduce debt-to-GDP ratios to 60 and 40 percent
+of GDP by 2029, respectively.
+22.
+Few G-20 countries have so far developed fully fledged medium-term fiscal
+adjustment strategies and consolidation policies have yet to be put in place. Some have
+announced medium-term targets or have extended the horizon of their fiscal projections, but
+detailed plans have not been specified. Where proposed, measures have focused on fuel tax
+increases, greater income tax progressivity, and restraining expenditures. Under current
+policies, however, spending on pensions and health care is projected to increase substantially
+over the next two decades, especially in the advanced economies.
+
+10
+23.
+Going forward, a strategy to ensure fiscal solvency should be articulated. This
+should be based on: (i) a firm commitment and a clear strategy to contain aging-related
+spending, especially in advanced economies; (ii) growth-enhancing structural reforms; and
+(iii) fiscal policies cast within medium-term fiscal frameworks (and supportive institutional
+arrangements) that envisage a gradual fiscal correction once economic conditions improve.
+Reforms in the these areas will play a key role by: directly improving prospects for the
+primary balance, thereby helping to contain the debt-to-GDP ratio; and bolstering confidence
+in fiscal sustainability, which should help to limit increases in bond yields.
+24.
+Comprehensive medium-term macroeconomic strategies should be announced as
+soon as is feasible, to anchor expectations in credible paths for debt and deficit
+reduction. During the crisis, countries with existing fiscal rules (e.g. the EU’s Stability and
+Growth Pact) have generally retained them—in some cases making use of escape clauses.
+The crisis has tested their resilience and highlighted the importance of built-in flexibility.
+Entitlements reforms need to be put in place now to underpin fiscal sustainability.
+
+

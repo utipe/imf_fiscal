@@ -1,0 +1,358 @@
+index,sentence,subsentence_detail,score_detail,fiscal_stance,fiscal_analysis,economic_condition,monetary_policy,other_policies,risk,no_topic,fiscal_stance_dum
+20120518_1_2,"We agree on the importance of a strong and cohesive Eurozone for global stability and recovery, and we affirm our interest in Greece remaining in the Eurozone while respecting its commitments","└── agree 0.0 0.0 other_policies
+    ├── recovery 0 0 fiscal_stance,other_policies//
+    └── affirm 0.0 0.0 //
+        └── respect 0 0.0 //
+","{'degree': [], 'polarity': [('strong', 1)]}",0.0,0.0,0,0.0,0.0,0,0,0.0
+20120518_1_3,We all have an interest in the success of specific measures to strengthen the resilience of the Eurozone and growth in Europe,"└── have 0.0 0.0 fiscal_analysis
+    └── strengthen 0.0 0.0 //
+        └── growth 0 0.0 fiscal_analysis,economic_condition//
+","{'degree': [], 'polarity': [('strengthen', 1)]}",0.0,0.0,0,0.0,0.0,0,0,0.0
+20120518_1_4,"We support Euro Area Leaders’ resolve to address the strains in the Eurozone in a credible and timely manner and in a manner that fosters confidence, stability and growth","└── address 0.0 0.0 fiscal_analysis,other_policies//
+    └── foster 0.0 0.0 fiscal_analysis,other_policies
+        ├── stability 0 0.0 other_policies//
+        └── growth 0 0.0 fiscal_analysis,economic_condition//
+","{'degree': [], 'polarity': [('support', 1), ('strain', -1), ('confidence', 1)]}",0.0,0.0,0,0.0,0.0,0,0,1.0
+20120518_1_7,"With an emphasis on mutual accountability and improved governance, building on the Kabul Process and Bonn Conference outcomes, our countries will take steps to mitigate the economic impact of the transition period and support the development of a sustainable Afghan economy by enhancing Afghan capacity to increase fiscal revenues and improve spending management, as well as mobilizing non-security assistance into the transformation decade.","├── emphasis 0.0 0.0 other_policies
+│   └── improve 0.0 0.0 fiscal_analysis
+│       ├── building 0 0.0 fiscal_analysis//
+│       └── outcome 0 0.0 other_policies//
+└── support 2.0 0.0 other_policies//
+    ├── increase 1 1 fiscal_stance,fiscal_analysis//
+    │   └── improve 0 1 fiscal_stance//
+    └── mobilize 0 0.0 fiscal_analysis//
+","{'degree': [], 'polarity': [('improve', 1), ('support', 1), ('mitigate', -1), ('sustainable', -1), ('increase', 1), ('improve', 1), ('spending', 1)]}",0.0,0.0,0,0.0,2.0,0,0,1.0
+20120518_1_6,"We commit to fiscal responsibility and, in this context, we support sound and sustainable fiscal consolidation policies that take into account countries’ evolving economic conditions and underpin confidence and economic recovery","└── commit 0.0 0 fiscal_stance
+    ├── commit 0 0.0 //
+    └── support 0.0 0.0 
+        └── take 0.0 0.0 other_policies
+            └── underpin 0.0 0.0 fiscal_analysis,other_policies//
+                └── recovery 0 0.0 //
+","{'degree': [], 'polarity': [('support', 1), ('sustainable', -1), ('consolidation', -1), ('evolve', 1), ('confidence', 1)]}",0.0,0.0,0,0.0,0.0,0,0,1.0
+20120518_1_1,"We welcome the ongoing discussion in Europe on how to generate growth, while maintaining a firm commitment to implement fiscal consolidation to be assessed on a structural basis","└── implement 0.0 -1 fiscal_stance,fiscal_analysis//
+    └── assess 0 0.0 other_policies//
+","{'degree': [], 'polarity': [('consolidation', -1)]}",-2.0,-2.0,0,0.0,0.0,0,0,1.0
+20120518_1_5,"We agree that all of our governments need to take actions to boost confidence and nurture recovery including reforms to raise productivity, growth and demand within a sustainable, credible and non-inflationary macroeconomic framework","└── need -2.0 1 fiscal_stance
+    └── nurture 0.0 -2 fiscal_stance//
+        ├── growth 0 0.0 fiscal_analysis,economic_condition//
+        └── demand 0 0.0 other_policies//
+","{'degree': [], 'polarity': [('boost', 1), ('confidence', 1), ('reform', -1), ('raise', 1), ('sustainable', -1)]}",0.0,0.0,0,0.0,0.0,0,0,1.0
+20150607_1_4,We reaffirm our existing G7 exchange rate commitments.,"└── reaffirm 0 0.0 other_policies
+","{'degree': [], 'polarity': []}",0.0,0.0,0,0.0,0.0,0,0,0.0
+20150607_1_1,We agree to deliver on past reform commitments in these areas which will increase confidence and lift sustainable growth,"└── increase 0.0 0.0 fiscal_analysis
+    └── lift 0 0.0 //
+","{'degree': [], 'polarity': [('reform', -1), ('increase', 1), ('confidence', 1), ('sustainable', -1)]}",0.0,0.0,0,0.0,0.0,0,0,1.0
+20150607_1_2,"We will continue to implement our fiscal strategies flexibly to take into account near-term economic conditions, so as to support growth and job creation, while putting debt as a share of GDP on a sustainable path","└── continue 0.0 0 fiscal_stance
+    └── take 0.0 0.0 //
+        ├── support 0 0.0 fiscal_analysis//
+        └── put 0 0.0 //
+","{'degree': [], 'polarity': [('support', 1), ('sustainable', -1)]}",0.0,0.0,0,0.0,0.0,0,0,1.0
+20150607_1_3,We concur that monetary policies should maintain price stability and support economic recovery within the mandate of central banks,"├── maintain 0 0.0 monetary_policy
+└── support 0 0.0 monetary_policy//
+","{'degree': [], 'polarity': [('support', 1)]}",0.0,0.0,0,0.0,0.0,0,0,1.0
+20100625_1_1,None,,"{'degree': [], 'polarity': []}",0.0,0.0,0,0.0,0.0,0,0,1.0
+20130617_1_16,"We will act to restore confidence in the fairness and effectiveness of our international tax rules and practices, and to ensure that each country is able to collect taxes owing and that developing countries are also able to secure the benefits of progress made on this agenda.","└── act 0.0 0.0 fiscal_analysis
+    └── restore 0.0 0 fiscal_stance
+        ├── effectiveness 0 0.0 fiscal_analysis//
+        ├── practice 0 0.0 //
+        └── ensure 0.0 0.0 fiscal_stance//
+            └── able 1 -1 fiscal_stance
+                └── able 0 1 fiscal_stance//
+","{'degree': [], 'polarity': [('confidence', 1), ('tax', -1), ('tax', -1), ('progress', 1)]}",0.0,0.0,0,0.0,0.0,0,0,0.0
+20130617_1_13,Fiscal policy should allow for near-term flexibility to accommodate economic conditions including through focusing on the structural deficit as appropriate,"└── allow 0.0 0.0 fiscal_analysis
+    └── focus 0.0 0.0 other_policies//
+        └── appropriate 0 0.0 fiscal_analysis,other_policies//
+","{'degree': [], 'polarity': [('deficit', 1)]}",0.0,0.0,0,0.0,0.0,0,0,0.0
+20130617_1_11,"We reaffirm our commitment to cooperate to achieve a lasting reduction in global imbalances, which surplus and deficit countries must address","└── reaffirm 0.0 0.0 other_policies
+    └── address 0 0.0 fiscal_analysis
+","{'degree': [], 'polarity': [('reduction', -1), ('imbalance', -1), ('deficit', 1)]}",0.0,0.0,0,0.0,0.0,0,0,0.0
+20130617_1_14,The pace of fiscal consolidation should be differentiated for our different national economic circumstances,"└── differentiate 0 -1 fiscal_stance,fiscal_analysis
+","{'degree': [], 'polarity': [('consolidation', -1)]}",-2.0,-2.0,0,0.0,0.0,0,0,1.0
+20130617_1_9,• Decisive action is needed to nurture a sustainable recovery and restore the resilience of the global economy,"└── need 0.0 -1 fiscal_stance,other_policies
+    └── restore 0 0.0 other_policies//
+","{'degree': [], 'polarity': [('sustainable', -1)]}",-2.0,0.0,0,0.0,-2.0,0,0,1.0
+20130617_1_8,"Russia is experiencing low unemployment and a favourable fiscal position, but more moderate global growth and volatile commodity prices will be a challenge","└── experience 0.0 0.0 other_policies
+    ├── position 0 0.0 fiscal_analysis//
+    └── challenge 0 0.0 other_policies//
+","{'degree': [('moderate', 0.5)], 'polarity': [('challenge', -1), ('volatile', -1)]}",0.0,0.0,0,0.0,0.0,0,0,0.0
+20130617_1_15,"As we strive to maintain fiscal sustainability and to secure jobs and growth for our citizens, we commit to playing our part in developing global solutions to the problems of tax evasion and tax avoidance","├── strive 0.0 0.0 //
+│   └── maintain 0.0 0.0 fiscal_analysis
+│       └── secure 0.0 0.0 //
+│           └── growth 0 0.0 fiscal_analysis,economic_condition//
+└── play 0.0 0 fiscal_stance//
+    └── develop 0.0 0.0 other_policies//
+        └── avoidance 0 0.0 fiscal_analysis//
+","{'degree': [], 'polarity': [('sustainability', -1), ('problem', -1), ('tax', -1), ('tax', -1)]}",0.0,0.0,0,0.0,0.0,0,0,1.0
+20130617_1_4,The US recovery is continuing and the deficit is declining rapidly in the context of a continuing need for further progress towards balanced medium-term fiscal sustainability and targeted investments to enhance growth,"└── decline 0.0 3.0 fiscal_stance
+    ├── continue 0 0 fiscal_stance
+    └── target 0.0 0.0 //
+        └── enhance 0 0.0 other_policies//
+","{'degree': [('rapidly', 2.0), ('further', 2.0), ('medium-term', 0.5)], 'polarity': [('decline', -1), ('deficit', 1), ('progress', 1), ('sustainability', -1), ('balanced', 1), ('investment', 1)]}",6.0,0.0,0,0.0,0.0,0,0,1.0
+20130617_1_3,"Fiscal sustainability and restoring financial stability need to go hand in hand with well-designed growth strategies, including growth-oriented structural reforms","└── sustainability 0.0 -1 fiscal_stance
+    └── go 0 0.0 other_policies//
+","{'degree': [], 'polarity': [('sustainability', -1), ('reform', -1)]}",-2.0,0.0,0,0.0,0.0,0,0,1.0
+20130617_1_5,"Japan's growth will be supported by its near-term fiscal stimulus, bold monetary policy and recently announced strategy for promoting private investment","└── support 0.0 0.0 fiscal_analysis
+    └── announce 0 0.0 //
+","{'degree': [], 'polarity': [('support', 1), ('stimulus', 1), ('investment', 1)]}",0.0,0.0,0,0.0,0.0,0,0,0.0
+20130617_1_10,"Advanced economies need to balance supporting domestic demand with reforms to tackle structural weaknesses that weigh on growth, while implementing credible fiscal plans","└── need -0.5 0.0 other_policies
+    └── tackle -0.5 0.0 other_policies//
+        └── weigh -1 0.0 fiscal_analysis
+            └── implement 0 -1 fiscal_stance//
+","{'degree': [], 'polarity': [('support', 1), ('reform', -1), ('weakness', -1), ('weigh', -1)]}",0.0,0.0,0,0.0,-0.5,0,0,0.0
+20130617_1_7,"Some of our central banks have continued to use highly accommodative monetary policy to support their domestic economies, including through unconventional means such as quantitative easing","└── continue 0.0 0.0 monetary_policy
+    ├── support 0 0.0 other_policies//
+    └── means 0 0.0 //
+","{'degree': [('highly', 2.0)], 'polarity': [('accommodative', 1), ('support', 1), ('ease', -1)]}",0.0,0.0,0,0.0,0.0,0,0,0.0
+20130617_1_2,"Additional strengthening of the architecture of the European Economic and Monetary Union, including through the development of the agreed elements of a banking union, is strongly needed to contribute to further reducing financial fragmentation, and continued strengthening of banks' balance sheets","└── strengthening 0 0.0 monetary_policy//
+","{'degree': [('strongly', 2.0), ('further', 2.0)], 'polarity': [('strengthening', 1), ('reduce', -1), ('strengthening', 1)]}",0.0,0.0,0,0.0,0.0,0,0,1.0
+20130617_1_6,"However, it will need to address the challenge of defining a credible medium-term fiscal plan","└── need 0 -1.5 fiscal_stance
+","{'degree': [('medium-term', 0.5)], 'polarity': [('challenge', -1)]}",-3.0,0.0,0,0.0,0.0,0,0,1.0
+20130617_1_1,"Downside risks in the euro area have abated over the past year, but it remains in recession","└── abate 0.0 0.0 fiscal_analysis
+    └── remain 0 0.0 other_policies//
+","{'degree': [], 'polarity': [('abate', -1), ('downside', -1), ('recession', -1)]}",0.0,0.0,0,0.0,0.0,0,0,0.0
+20130617_1_12,• Restoring medium-term fiscal sustainability remains a priority,"└── remain 0 -1.0 fiscal_stance
+","{'degree': [('medium-term', 0.5), ('priority', 2.0)], 'polarity': [('sustainability', -1)]}",-2.0,0.0,0,0.0,0.0,0,0,1.0
+20110526_1_2,"The United States will put in place a clear and credible medium-term fiscal consolidation framework, consistent with considerations of job creation and economic growth","└── put 0.0 -0.5 fiscal_stance
+    └── growth 0 0.0 fiscal_analysis,economic_condition//
+","{'degree': [('medium-term', 0.5)], 'polarity': [('consolidation', -1)]}",-1.0,0.0,0,0.0,0.0,0,0,1.0
+20110526_1_1,"Europe has adopted a broad package of measures to deal with the sovereign debt crisis faced by a few countries, and it will continue to address the situation with determination and to pursue rigorous fiscal consolidation alongside structural reforms to support growth","└── adopt 0.0 0.0 fiscal_analysis
+    ├── deal 0 0.0 fiscal_analysis//
+    └── continue 0.0 0.0 //
+        └── address 0.0 0.0 fiscal_analysis
+            └── pursue 0.0 0.0 //
+                └── support 0 0.0 //
+","{'degree': [], 'polarity': [('crisis', -1), ('consolidation', -1), ('reform', -1), ('support', 1)]}",0.0,0.0,0,0.0,0.0,0,0,0.0
+20110526_1_3,"In Japan, while providing resources for the reconstruction after the disaster, the authorities will also address the issue of sustainability of public finances.","└── address 0.0 0.0 fiscal_analysis
+    └── provide 0 0.0 fiscal_analysis,other_policies//
+","{'degree': [], 'polarity': [('sustainability', -1)]}",0.0,0.0,0,0.0,0.0,0,0,0.0
+20170526_1_6,"In doing so, we agree on the importance of improving the quality of public finances, including by prioritizing high-quality investment, such as in infrastructures","└── agree 1 0.0 fiscal_analysis
+    ├── do 0 0 fiscal_stance//
+    └── prioritize 0 1 fiscal_stance//
+","{'degree': [], 'polarity': [('improve', 1), ('investment', 1)]}",0.0,1.0,0,0.0,0.0,0,0,0.0
+20170526_1_2,Our top priority is to raise global growth to deliver higher living standards and quality jobs,"└── be 0.0 2.0 fiscal_stance
+    └── deliver 0.0 0.0 //
+        └── job 0 0.0 //
+","{'degree': [('priority', 2.0)], 'polarity': [('raise', 1), ('higher', 1)]}",4.0,0.0,0,0.0,0.0,0,0,1.0
+20170526_1_7,"We remain committed to advancing structural reforms to boost productivity and potential output, while ensuring these are appropriately coordinated with macroeconomic policies","└── remain 1.0 0.0 other_policies
+    ├── advance 1.0 0.0 other_policies//
+    │   └── boost 0.0 1 fiscal_stance//
+    │       └── output 0 0.0 other_policies//
+    └── coordinate 0 0.0 other_policies//
+","{'degree': [('potential', 0.5)], 'polarity': [('advance', 1), ('reform', -1), ('boost', 1)]}",0.0,0.0,0,0.0,1.0,0,0,0.0
+20170526_1_5,"We concur that fiscal policy should be used flexibly to strengthen growth and job creation, while also enhancing inclusiveness and ensuring that debt as a share of GDP is on a sustainable path","├── use 0 1 fiscal_stance,fiscal_analysis
+├── enhance 0 0.0 other_policies//
+│   └── ensure 0 0 fiscal_stance//
+└── path 0 0.0 //
+","{'degree': [], 'polarity': [('strengthen', 1), ('sustainable', -1)]}",2.0,2.0,0,0.0,1.0,0,0,1.0
+20170526_1_10,"We commit to tackling all forms of corruption and tax evasion, as a means of reinforcing public trust in governments and fostering sustainable global growth.","└── foster 0 0.0 other_policies//
+","{'degree': [], 'polarity': [('tax', -1), ('sustainable', -1)]}",0.0,0.0,0,0.0,0.0,0,0,1.0
+20170526_1_4,"In particular, monetary policy should continue to support economic activity and ensure price stability, consistently with central banks' mandate","└── continue 0.0 0.0 monetary_policy
+    ├── particular 0 0.0 fiscal_analysis//
+    └── ensure 0 0.0 other_policies//
+","{'degree': [], 'polarity': [('support', 1)]}",0.0,0.0,0,0.0,0.0,0,0,0.0
+20170526_1_3,"To this end, we reaffirm our commitment to use all policy tools – monetary, fiscal and structural – individually and collectively to achieve strong, sustainable, balanced and inclusive growth","└── reaffirm 0.0 0.0 monetary_policy
+    ├── fiscal 0 0 fiscal_stance,fiscal_analysis//
+    ├── structural 0 0.0 other_policies//
+    └── achieve 0 0.0 other_policies//
+","{'degree': [], 'polarity': [('strong', 1), ('sustainable', -1), ('balanced', 1)]}",0.0,0.0,0,0.0,0.0,0,0,0.0
+20170526_1_1,"Global recovery is gaining momentum, yet growth remains moderate and GDP is still below potential in many countries, with the balance of risks tilted to the downside","└── gain 0.0 0.0 other_policies
+    ├── remain 0 0.0 //
+    └── potential 0 0.0 //
+","{'degree': [('moderate', 0.5), ('tilted', 0.5)], 'polarity': [('below', -1), ('downside', -1)]}",0.0,0.0,0,0.0,0.0,0,0,0.0
+20170526_1_9,We will strive to reduce excessive global imbalances and in a way that supports global growth,"└── strive 0.0 0.0 other_policies
+    └── support 0 0.0 other_policies
+","{'degree': [], 'polarity': [('reduce', -1), ('imbalance', -1), ('excessive', -1), ('support', 1)]}",0.0,0.0,0,0.0,0.0,0,0,0.0
+20170526_1_8,"We reaffirm our existing G7 exchange rate commitments, as agreed upon by Finance Ministers and Central Bank Governors at their meeting in Bari","└── governor 0 0.0 monetary_policy//
+","{'degree': [], 'polarity': []}",0.0,0.0,0,0.0,0.0,0,0,1.0
+20160526_1_24,"We call on the international community to continue to support the government of Iraq, including by extending humanitarian assistance and supporting stabilization efforts in areas liberated from ISIL/Da'esh","└── call 0.0 1 fiscal_stance
+    └── extend 0.0 0.0 //
+        └── support 0 0.0 //
+","{'degree': [], 'polarity': [('support', 1), ('support', 1), ('stabilization', 1)]}",2.0,0.0,0,0.0,0.0,0,0,1.0
+20160526_1_1,"We reiterate our commitments to using all policy tools monetary, fiscal and structural individually and collectively, to strengthen global demand and address supply constraints, while continuing our efforts to put debt on a sustainable path","└── reiterate 0.0 0 fiscal_stance
+    ├── use 0.0 0.0 monetary_policy//
+    │   ├── fiscal 0 0 fiscal_stance,fiscal_analysis//
+    │   └── structural 0 0.0 other_policies//
+    └── strengthen 0.0 0.0 other_policies//
+        └── address 0.0 0.0 other_policies//
+            └── continue 0 0.0 //
+                └── put 0 0 fiscal_stance//
+","{'degree': [], 'polarity': [('strengthen', 1), ('sustainable', -1)]}",0.0,0.0,0,0.0,0.0,0,0,1.0
+20160526_1_9,"We reaffirm the important role of mutually-reinforcing fiscal, monetary and structural policies, the three pronged approach, to buttress our efforts to achieve strong, sustainable, and balanced growth","└── achieve 0.0 0.0 other_policies//
+    ├── sustainable 0 0.0 other_policies//
+    └── growth 0 0.0 fiscal_analysis//
+","{'degree': [], 'polarity': [('strong', 1), ('sustainable', -1), ('balanced', 1)]}",0.0,0.0,0,0.0,0.0,0,0,1.0
+20160526_1_15,"We commit to ensuring that our fiscal and structural policies support sustainable social security services, which contribute to addressing our common demographic challenges","└── ensure 0.0 0.0 fiscal_stance//
+    └── support 0.0 0.0 other_policies
+        └── contribute 0.0 0.0 fiscal_analysis,other_policies
+            └── address 0 0.0 fiscal_analysis//
+","{'degree': [], 'polarity': [('support', 1), ('sustainable', -1), ('challenge', -1)]}",0.0,0.0,0,0.0,0.0,0,0,1.0
+20160526_1_5,"We commit to further investment in areas conducive to economic growth, such as environment, energy, digital economy, human resource development, education, science and technology","└── commit 0.0 0.0 fiscal_analysis
+    ├── energy 0 0.0 fiscal_analysis//
+    ├── economy 0 0.0 other_policies//
+    ├── development 0 0.0 other_policies//
+    ├── education 0 0.0 //
+    ├── science 0 0.0 //
+    └── technology 0 0.0 other_policies//
+","{'degree': [('further', 2.0)], 'polarity': [('investment', 1)]}",0.0,0.0,0,0.0,0.0,0,0,0.0
+20160526_1_11,"We concur on the importance of strengthening our efforts in a cooperative manner to implement our fiscal strategies flexibly to strengthen growth, job creation and confidence, while enhancing resilience and ensuring debt as a share of GDP on a sustainable path, as well as to advance structural reforms decisively","└── concur 0.0 0.0 other_policies
+    └── implement 0.0 0 fiscal_stance//
+        └── strengthen 0.0 0.0 //
+            ├── creation 0 0.0 fiscal_analysis//
+            ├── confidence 0 0.0 other_policies//
+            └── enhance 0.0 0.0 other_policies//
+                └── ensure 0 0.0 //
+","{'degree': [], 'polarity': [('strengthen', 1), ('strengthen', 1), ('confidence', 1), ('sustainable', -1), ('advance', 1), ('reform', -1)]}",0.0,0.0,0,0.0,0.0,0,0,0.0
+20160526_1_2,"We reaffirm the important role of mutually-reinforcing fiscal, monetary and structural policies, the three pronged approach, to buttress our efforts to achieve strong, sustainable, and balanced growth","└── achieve 0.0 0.0 other_policies//
+    ├── sustainable 0 0.0 other_policies//
+    └── growth 0 0.0 fiscal_analysis//
+","{'degree': [], 'polarity': [('strong', 1), ('sustainable', -1), ('balanced', 1)]}",0.0,0.0,0,0.0,0.0,0,0,1.0
+20160526_1_3,"We concur on the importance of strengthening our efforts in a cooperative manner to implement our fiscal strategies flexibly to strengthen growth, job creation and confidence, while enhancing resilience and ensuring debt as a share of GDP on a sustainable path, as well as to advance structural reform decisively","└── concur 0.0 0.0 other_policies
+    └── implement 0.0 0 fiscal_stance//
+        └── strengthen 0.0 0.0 //
+            ├── creation 0 0.0 fiscal_analysis//
+            ├── confidence 0 0.0 other_policies//
+            └── enhance 0.0 0.0 other_policies//
+                └── ensure 0 0.0 //
+","{'degree': [], 'polarity': [('strengthen', 1), ('strengthen', 1), ('confidence', 1), ('sustainable', -1), ('advance', 1), ('reform', -1)]}",0.0,0.0,0,0.0,0.0,0,0,0.0
+20160526_1_25,"We also commit to provide, and expedite as appropriate, support for Iraq's efforts to address its fiscal challenge and strengthen its economy through reforms, in coordination with the IMF and other international financial institutions","└── expedite 0.0 0.0 fiscal_analysis//
+    ├── appropriate 0 0.0 fiscal_analysis,other_policies//
+    ├── strengthen 0 0.0 other_policies//
+    └── institution 0 0.0 other_policies//
+","{'degree': [], 'polarity': [('support', 1), ('challenge', -1), ('strengthen', 1), ('reform', -1)]}",0.0,0.0,0,0.0,0.0,0,0,1.0
+20160526_1_26,"It is critical that all Iraqis, including the Iraqi Kurdistan region, benefit from this support",,"{'degree': [], 'polarity': [('support', 1)]}",0.0,0.0,0,0.0,0.0,0,0,1.0
+20160526_1_7,We stand ready to deploy robust policy responses to bolster short and longer-term growth as necessary,"└── stand 0.0 0.0 other_policies
+    └── bolster 0.0 0.0 //
+        └── necessary 0 0.0 //
+","{'degree': [('robust', 2.0)], 'polarity': [('bolster', 1)]}",0.0,0.0,0,0.0,0.0,0,0,0.0
+20160526_1_6,"In light of this background, taking into account country-specific circumstances, we commit to strengthening our economic policy responses in a cooperative manner and to employing a more forceful and balanced policy mix, in order to swiftly achieve a strong, sustainable and balanced growth pattern","└── commit 0.0 1 fiscal_stance
+    ├── employ 0 0.0 other_policies//
+    └── achieve 0 0.0 other_policies//
+","{'degree': [], 'polarity': [('strengthen', 1), ('balanced', 1), ('strong', 1), ('sustainable', -1), ('balanced', 1)]}",2.0,0.0,0,0.0,0.0,0,0,1.0
+20160526_1_14,"We will consider the composition of our budget expenditures and revenues to support productivity, employment, inclusiveness and growth","└── consider 0.0 0 fiscal_stance
+    ├── revenue 0 0.0 fiscal_analysis,other_policies//
+    └── support 0.0 0.0 //
+        ├── employment 0 0.0 fiscal_analysis//
+        ├── inclusiveness 0 0.0 //
+        └── growth 0 0.0 fiscal_analysis,economic_condition//
+","{'degree': [], 'polarity': [('support', 1)]}",0.0,0.0,0,0.0,0.0,0,0,1.0
+20160526_1_20,We underscore the importance of all countries refraining from competitive devaluation,,"{'degree': [], 'polarity': []}",0.0,0.0,0,0.0,0.0,0,0,1.0
+20160526_1_10,"We remain committed to ensuring that growth is inclusive and job-rich, benefitting all segments of our societies","└── ensure 0.0 0.0 fiscal_stance//
+    └── inclusive 0.0 0.0 
+        └── job-rich 0 0.0 fiscal_analysis//
+","{'degree': [], 'polarity': []}",0.0,0.0,0,0.0,0.0,0,0,1.0
+20160526_1_8,"We reiterate our commitments to using all policy tools monetary, fiscal and structural individually and collectively, to strengthen global demand and address supply constraints, while continuing our efforts to put debt on a sustainable path","└── reiterate 0.0 0 fiscal_stance
+    ├── use 0.0 0.0 monetary_policy//
+    │   ├── fiscal 0 0 fiscal_stance,fiscal_analysis//
+    │   └── structural 0 0.0 other_policies//
+    └── strengthen 0.0 0.0 other_policies//
+        └── address 0.0 0.0 other_policies//
+            └── continue 0 0.0 //
+                └── put 0 0 fiscal_stance//
+","{'degree': [], 'polarity': [('strengthen', 1), ('sustainable', -1)]}",0.0,0.0,0,0.0,0.0,0,0,1.0
+20160526_1_18,We reaffirm our existing exchange rate commitments to market determined exchange rates and to consult closely in regard to actions in foreign exchange markets,,"{'degree': [], 'polarity': []}",0.0,0.0,0,0.0,0.0,0,0,1.0
+20160526_1_27,"In this context, the G7 is mobilizing more than 3.6 billion USD in bilateral assistance and other financial support to complement support from the international financial institutions.","└── mobilize 0.0 0 fiscal_stance
+    └── support 0 0.0 other_policies//
+","{'degree': [], 'polarity': [('support', 1), ('support', 1)]}",0.0,0.0,0,0.0,0.0,0,0,1.0
+20160526_1_4,"We are committed to advancing structural reforms to boost growth, productivity and potential output and to leading by example in addressing structural challenges","└── commit 0.0 0.0 other_policies
+    ├── boost 0 0.0 //
+    └── lead 0.0 0.0 //
+        └── address 0 0.0 other_policies//
+","{'degree': [('potential', 0.5)], 'polarity': [('advance', 1), ('reform', -1), ('boost', 1), ('challenge', -1)]}",0.0,0.0,0,0.0,0.0,0,0,0.0
+20160526_1_22,"We commit our continued support for the unity, sovereignty and territorial integrity of Iraq and the Iraqi people, as well as the Iraqi government's efforts to accelerate political and economic reforms and enhance national reconciliation","└── commit 0.0 0.0 other_policies
+    ├── people 0 0.0 other_policies//
+    │   └── effort 0 0 fiscal_stance//
+    ├── accelerate 0 0.0 //
+    └── enhance 0 0.0 other_policies//
+","{'degree': [], 'polarity': [('support', 1), ('accelerate', 1), ('reform', -1)]}",0.0,0.0,0,0.0,0.0,0,0,0.0
+20160526_1_19,We reaffirm that our fiscal and monetary policies have been and will remain oriented towards meeting our respective domestic objectives using domestic instruments and that we will not target exchange rates,"└── be 0.0 0.0 monetary_policy
+    ├── remain 0.0 0.0 other_policies//
+    │   └── meet 0.0 0.0 other_policies//
+    │       └── use 0 0.0 fiscal_analysis,other_policies//
+    └── target 0 0.0 other_policies//
+","{'degree': [], 'polarity': []}",0.0,0.0,0,0.0,0.0,0,0,1.0
+20160526_1_23,We commend Iraqi forces' efforts in their fight against ISIL/Da'esh,"└── commend 0 0.0 fiscal_analysis
+","{'degree': [], 'polarity': []}",0.0,0.0,0,0.0,0.0,0,0,0.0
+20160526_1_17,"We commit to further investment in areas conducive to economic growth, such as environment, energy, digital economy, human resource development, education, science and technology","└── commit 0.0 0.0 fiscal_analysis
+    ├── energy 0 0.0 fiscal_analysis//
+    ├── economy 0 0.0 other_policies//
+    ├── development 0 0.0 other_policies//
+    ├── education 0 0.0 //
+    ├── science 0 0.0 //
+    └── technology 0 0.0 other_policies//
+","{'degree': [('further', 2.0)], 'polarity': [('investment', 1)]}",0.0,0.0,0,0.0,0.0,0,0,0.0
+20160526_1_16,"We intend to ensure an appropriate level of public investment as well as promote quality infrastructure investment to address shortfalls, including through effective resource mobilization in partnership with the private sector","└── intend 1.0 0.0 fiscal_analysis,other_policies
+    └── promote 0.0 1 fiscal_stance//
+        ├── address 0 0.0 //
+        └── mobilization 0 0.0 other_policies//
+","{'degree': [], 'polarity': [('investment', 1), ('investment', 1), ('shortfall', -1)]}",0.0,1.0,0,0.0,1.0,0,0,0.0
+20160526_1_21,We reiterate that excess volatility and disorderly movements in exchange rates can have adverse implications for economic and financial stability,"└── have 0 0.0 other_policies
+","{'degree': [], 'polarity': [('volatility', -1), ('excess', -1), ('adverse', -1)]}",0.0,0.0,0,0.0,0.0,0,0,1.0
+20160526_1_13,"We are also making tax policy and public spending as growth-friendly as possible, including by prioritizing expenditure in favor of high-quality investment","└── make 1.0 -1 fiscal_stance
+    ├── spending 0 0.0 fiscal_analysis//
+    ├── growth-friendly 0 0 fiscal_stance//
+    ├── possible 0 0.0 //
+    └── prioritize 0 1 fiscal_stance//
+","{'degree': [('possible', 0.5)], 'polarity': [('tax', -1), ('spending', 1), ('investment', 1)]}",-1.0,0.0,0,0.0,0.0,0,0,1.0
+20160526_1_12,This will also allow us to respond to emerging risks and urgent social and humanitarian needs,"└── need 0 0 fiscal_stance,other_policies//
+","{'degree': [], 'polarity': []}",0.0,0.0,0,0.0,0.0,0,0,1.0
+20140604_1_3,"We will continue to implement our fiscal strategies flexibly to take into account near-term economic conditions, so as to support economic growth and job creation, while putting debt as a share of GDP on a sustainable path.","└── continue 0.0 0 fiscal_stance
+    └── take 0.0 0.0 //
+        └── support 0.0 0.0 fiscal_analysis//
+            └── creation 0 0.0 fiscal_analysis//
+","{'degree': [], 'polarity': [('support', 1), ('sustainable', -1)]}",0.0,0.0,0,0.0,0.0,0,0,1.0
+20140604_1_1,"We will take further steps to support strong, sustainable and balanced growth, with a common goal of increasing the resilience of our economies","└── support 0 0.0 other_policies//
+","{'degree': [('further', 2.0)], 'polarity': [('support', 1), ('strong', 1), ('sustainable', -1), ('balanced', 1), ('increase', 1)]}",0.0,0.0,0,0.0,0.0,0,0,1.0
+20140604_1_2,"We will present ambitious and comprehensive growth strategies at the GSummit in Brisbane, to include action across a broad front including in the areas of investment, small and medium enterprises, employment and participation of women, and trade and innovation, in addition to macroeconomic policies","└── include 0.5 0.0 other_policies//
+    └── area 0.0 0.5 fiscal_stance//
+        ├── employment 0.0 0.0 fiscal_analysis//
+        │   └── participation 0 0.0 //
+        └── trade 0.0 0.0 //
+            ├── innovation 0 0.0 fiscal_analysis//
+            └── policy 0 0.0 other_policies//
+","{'degree': [('small', 0.5)], 'polarity': [('investment', 1)]}",0.0,0.0,0,0.0,0.5,0,0,1.0
+20090708_1_10,"We will take the lead in accelerating the transition towards a low-carbon economy based on green, sustainable growth, reflecting the need to lower dependence on traditional energy sources","└── take 0.0 0.0 other_policies
+    └── accelerate 0.0 0.0 other_policies//
+        └── growth 0 0.0 other_policies//
+","{'degree': [], 'polarity': [('accelerate', 1), ('sustainable', -1)]}",0.0,0.0,0,0.0,0.0,0,0,0.0
+20090708_1_11,"We reiterate the commitment made at the London Summit to make the best possible use of our fiscal stimulus programmes, also in light of the deliberations of the G8 Environment Ministerial in Siracusa and the G8 Energy Ministerial in Rome, and will ensure that such packages will contribute substantially towards building new, cleaner economies that will create new jobs and bring about a green and sustainable recovery","└── reiterate 0.0 0.5 fiscal_stance
+    ├── energy 0 0.0 other_policies//
+    └── ensure 0.0 0.0 //
+        └── contribute 0.0 0.0 fiscal_analysis
+            └── build 0.0 0.0 other_policies//
+                └── create 0.0 0.0 fiscal_analysis
+                    └── bring 0 0.0 other_policies//
+","{'degree': [('possible', 0.5), ('substantially', 2.0)], 'polarity': [('stimulus', 1), ('sustainable', -1)]}",1.0,0.0,0,0.0,0.0,0,0,1.0
+20090708_1_12,We call upon other countries to join us in this endeavour.,"└── call 0 0.0 fiscal_analysis
+","{'degree': [], 'polarity': []}",0.0,0.0,0,0.0,0.0,0,0,0.0
+20090708_1_1,The emergency response to the economic crisis should not overlook the opportunity to facilitate a global green recovery putting our economies on a path towards more sustainable and resilient growth,"└── overlook 0 0.0 other_policies
+","{'degree': [], 'polarity': [('crisis', -1), ('opportunity', 1), ('sustainable', -1)]}",0.0,0.0,0,0.0,0.0,0,0,0.0
+20090708_1_7,"In this light, we call for a reduction of subsidies that artificially encourage carbon-intensive energy consumption","└── encourage 0 0.0 fiscal_analysis
+","{'degree': [], 'polarity': [('reduction', -1), ('subsidy', 1), ('encourage', 1)]}",0.0,0.0,0,0.0,0.0,0,0,1.0
+20090708_1_8,"We emphasise the paramount importance of technology development and diffusion on a global scale in meeting these challenges and accelerating the economic recovery, while moving towards a low-carbon society","└── emphasise 0.0 0.0 other_policies
+    ├── diffusion 0 0.0 //
+    ├── accelerate 0 0.0 //
+    └── move 0 0.0 other_policies//
+","{'degree': [], 'polarity': [('challenge', -1), ('accelerate', 1)]}",0.0,0.0,0,0.0,0.0,0,0,0.0
+20090708_1_6,"At the same time, we will ensure proper regulatory and other frameworks facilitating transition towards low-carbon and resource efficient growth","└── ensure 0 0.0 other_policies
+","{'degree': [], 'polarity': []}",0.0,0.0,0,0.0,0.0,0,0,0.0
+20090708_1_9,"It is indispensable to encourage efficient markets, competitive frameworks and consistent public policies, to enhance investments in energy efficiency, clean technologies and renewable energies, which will in turn create opportunities for businesses worldwide","└── indispensable 0.0 0.0 other_policies
+    ├── technology 0 0.0 other_policies//
+    ├── energy 0 0.0 fiscal_analysis//
+    ├── will 0 0.0 
+    └── create 0 0.0 fiscal_analysis//
+","{'degree': [], 'polarity': [('encourage', 1), ('investment', 1), ('opportunity', 1)]}",0.0,0.0,0,0.0,0.0,0,0,0.0
+20090708_1_3,"These include energy efficiency measures, investment in public transportation infrastructure, incentives for fuel-efficient vehicles, research in alternative sources of energy, support for renewable energy technologies, as well as in enhanced CO2 reduction, recycling and disposal such as Carbon Capture and Storage","└── include 0.0 0.0 other_policies
+    ├── disposal 0 0.0 //
+    └── storage 0 0.0 //
+","{'degree': [], 'polarity': [('investment', 1), ('support', 1), ('reduction', -1)]}",0.0,0.0,0,0.0,0.0,0,0,0.0
+20090708_1_4,We remain committed to enhance the environmental dimension of budgetary measures and to reinforce efforts to promote clean energy and energy efficiency,"└── remain 0.0 0.0 other_policies
+    └── reinforce 0 0.0 //
+","{'degree': [], 'polarity': []}",0.0,0.0,0,0.0,0.0,0,0,0.0
+20090708_1_5,"Along with the ongoing WTO negotiations on the liberalization of environmental goods and services, we will intensify efforts to make progress on the reduction or elimination of trade barriers on a voluntary basis on goods and services directly linked to addressing climate change, as agreed at the Toyako Summit","├── service 0 0.0 fiscal_analysis,other_policies//
+├── elimination 0 0.0 //
+├── service 0 0.0 fiscal_analysis,other_policies//
+├── address 0 0.0 fiscal_analysis//
+└── agree 0 0.0 //
+","{'degree': [], 'polarity': [('progress', 1), ('reduction', -1)]}",0.0,0.0,0,0.0,0.0,0,0,1.0
+20090708_1_2,"Our fiscal stimulus packages are increasingly investing in measures encouraging the creation of green jobs and low-carbon, energy efficient and sustainable growth","└── invest 0 0.0 fiscal_analysis
+","{'degree': [], 'polarity': [('stimulus', 1), ('encourage', 1), ('sustainable', -1)]}",0.0,0.0,0,0.0,0.0,0,0,0.0

@@ -1,0 +1,3852 @@
+0
+
+G R O U P of T W E N T Y
+
+Meetings of G-20 Finance Ministers and Central Bank Governors
+February 18–19, 2011
+Paris, France
+
+Global Economic Prospects and Policy Challenges
+
+Prepared by Staff of the International Monetary Fund
+
+I N T E R N A T I O N A L
+
+M O N E T A R Y
+
+F U N D
+
+EXECUTIVE SUMMARY
+The global economic recovery is advancing, albeit at an uneven pace. Global GDP increased at a
+stronger-than-expected annualized rate of over 3½ percent in 2010Q3.
+
+
+In G-20 advanced economies, activity has moderated less than expected, but growth remains
+subdued and insufficient to significantly reduce still-high unemployment.
+
+
+
+In G-20 emerging economies, growth remains robust, buoyed by strong domestic demand and the
+recovery of global trade, still-accommodative policy stances, and resurgent capital flows. However,
+inflationary pressures are building, and there are emerging signs of overheating in some economies.
+
+While financial turbulence has receded in recent weeks, underlying stresses in peripheral euro
+area economies remain unresolved and are linked to the core through financial exposures. Markets
+are looking for more capacity and flexibility of the current crisis management facilities and clarification
+about the permanent European Stability Mechanism (ESM). ECB intervention and strengthening of
+national policy actions in countries under pressure have led to some recent positive market
+developments, including the successful bond issuance by the European Financial Stability Facility
+(EFSF). Nonetheless, banks face continued funding strains and many remain reliant on ECB liquidity
+support, while banking and sovereigns risks remain closely intertwined.
+In line with the two-speed recovery, downside risks remain elevated in advanced economies, while
+overheating risks are growing in emerging economies. Intensification and broadening of financial
+sector strains resulting from sovereign and banking sector risks in the euro area periphery is a
+significant risk to the recovery in the region and possibly beyond. Overheating and building inflationary
+pressures in some emerging economies, exacerbated by large capital flows and rising commodity prices
+(with adverse consequences for lower income countries), and a potentially steep correction of property
+prices in China have emerged as pertinent risks to the recovery. Another downside risk stems from
+insufficient progress in developing medium-term fiscal consolidation plans, especially in the United
+States and Japan.
+Cooperative and well-timed policy initiatives across the G-20 are critical to sustain the global
+recovery, while reducing global imbalances.
+
+
+In G-20 advanced economies, the most urgent requirements are for comprehensive and rapid actions
+to overcome sovereign and financial stresses in the euro area and accelerate progress in developing
+medium-term fiscal consolidation plans. Rapid progress in the repair and reform of financial
+systems—critical to the normalization of credit conditions— would help reduce the burden on
+monetary and fiscal policy to support the recovery, and potentially help stem volatile capital flows
+to emerging economies.
+
+
+
+In G-20 emerging economies, the key policy challenge is to keep overheating pressures in check and
+respond appropriately to capital inflows. In key surplus economies, overheating pressures can be
+alleviated by permitting currency appreciation, facilitating a healthy rebalancing from external to
+internal demand.
+
+2
+Global Economic Prospects and Policy Challenges1
+The global economic recovery is advancing. However, the recovery remains uneven, with
+downside risks in advanced economies remaining elevated, while overheating risks are growing
+in emerging economies. Financial sector strains resulting from sovereign and banking sector
+fragilities in the euro area periphery represent a significant risk to recovery in the region and
+possibly beyond. Another downside risk stems from insufficient progress in developing medium-term
+fiscal consolidation plans in the United States and Japan. Rising overheating pressures in some
+emerging economies, exacerbated by large capital flows and rising commodity prices, and a
+potentially steep correction in property prices in China have also surfaced as pertinent concerns.
+I. A TWO-SPEED RECOVERY IS ONGOING
+1.
+In G-20 advanced economies, the pace of growth in the second half of 2010 was
+somewhat stronger than expected, but insufficient to appreciably lower unemployment. The
+recovery in many advanced economies continues to be slow and sluggish, amid persistently high
+unemployment, significant excess capacity, and subdued private demand. In the United States,
+this has prompted further monetary and fiscal stimulus, notwithstanding an already challenging
+fiscal outlook. Meanwhile, in the euro area periphery, austerity measures prompted by market
+pressures continue to hamper growth in the short term.
+
+
+
+
+In the United States, data showed some
+strengthening of the recovery in the fourth
+quarter, owing to robust growth in private
+consumption and exports, and a sizable drop
+in imports. Consumer durables posted
+particularly strong growth in the quarter, a
+tentative sign that households are becoming
+more positive about the economic outlook.
+However, looking ahead, continued
+weaknesses in employment and income
+growth, a sizable overhang in housing
+markets, and balance sheet repair are expected
+to remain a drag on private demand.
+
+U.S.: Growth Contributions
+8
+
+(percent of real GDP, qoq, saar)
+GDP growth
+(saar)
+
+6
+4
+2
+0
+-2
+-4
+
+Net Exports
+Inventories
+Private Fixed Investment
+Private Consumption
+Public Expenditure
+
+-6
+-8
+
+10Q4
+
+-10
+08Q1
+
+09Q1
+
+10Q1
+
+In Japan, after a strong third quarter, the recovery likely hit a temporary soft patch at the
+
+end of the year, reflecting mainly the withdrawal of policy stimulus. Recent indicators
+point to a resumption of the recovery this year supported by growing exports, especially
+to the rest of the region. Private demand is expected to recover gradually due to the
+sluggish labor market and subdued business sentiment.
+1
+
+Prepared by a team from the IMF’s Research Department—led by Emil Stavrev, and including Troy Matheson,
+Eric Bang, Chanpheng Fizzarotti, and Nese Erbil, with contributions from Mitali Das, Prachi Mishra, Shaun Roache,
+Joong Shik Kang, and Marina Rousset and input from the Monetary and Capital Markets Department.
+
+3
+
+
+Growth performance has varied substantially in the euro area, both within the core and
+across the countries in the periphery. Data suggest that output in the euro area as a whole
+expanded at about 1½ percent annualized in the second half of 2010. However, while
+growth in Germany has remained robust,
+Euro Area Growth
+recoveries in other core economies,
+(Percent; year over year)
+15
+France
+Germany
+including France and Italy, have been more
+Italy
+Spain
+subdued, reflecting limited bounce-back in
+Portugal
+Ireland
+10
+investment and sluggish export growth. In
+peripheral euro area economies most
+5
+affected by financial market strains, austerity
+0
+measures continue to weigh on domestic
+demand. So far, intra-regional trade has
+-5
+provided limited impetus to growth in these
+countries due to sluggish activity in trading
+11Q4
+-10
+partners and slow progress being made
+00Q1 02Q1 04Q1 06Q1 08Q1 10Q1
+towards restoring competitiveness.
+Source: IMF, World Economic Outlook.
+
+2.
+In many G-20 advanced economies, high unemployment and balance sheet strains
+continue to be a drag on a private-sector-led recovery, and core inflation remains low.
+
+
+In several key G-20 advanced economies, unemployment rates have persisted at high
+levels, paralleling their subdued recoveries. Persistent weakness in labor markets is a
+concern not only due to the economic impact, but also for the large human and social
+costs of high long-term unemployment. In
+Unemployment Rate
+the United States, the unemployment rate
+(Percent)
+14
+U.S.
+dropped to 9 percent in January 2011, but
+U.K.
+Germany
+12
+businesses remain reluctant to hire, given
+Euro area
+G20 Advanced
+uncertainties about the strength and
+10
+sustainability of the recovery. Labor
+8
+markets in the euro area are mixed,
+6
+reflecting the size, nature, and persistence
+of crisis-related shocks and divergences in
+4
+paths of recovery. The unemployment rate
+10Q4
+2
+has fallen to its lowest level in nearly two
+05
+06
+07
+08
+09
+10
+Sources:
+IMF,
+World
+Economic
+Outlook
+and
+Haver
+Analytics.
+decades in Germany, while it has persisted
+at high levels in other countries (e.g.,
+Ireland and Spain). While core inflation has generally remained low in G-20 advanced
+economies, reflecting still-large output gaps and moderate recoveries, headline inflation
+rates have been edging up recently in response to rising commodity prices.
+
+4
+Consumer Headline Price Inflation
+
+Consumer Core Price Inflation
+
+(Percent; year over year)
+8
+
+(Percent; year over year)
+4
+
+U.S
+U.K.
+Germany
+Euro Area
+G20 Advanced
+
+6
+4
+
+U.S
+Germany
+G20 Advanced
+
+3
+
+U.K.
+Euro Area
+
+2
+
+2
+1
+
+0
+-2
+
+10Q4
+
+-4
+
+10Q4
+-1
+
+05
+
+06
+
+07
+
+08
+
+09
+
+10
+
+05
+
+Sources: IMF, Global Data Source and staff estimates
+
+
+
+0
+
+06
+
+07
+
+08
+
+09
+
+10
+
+Sources: IMF, Global Data Source and staff estimates.
+
+Private sector balance sheets remain under stress in a number of advanced G-20
+economies, as households and banks seek to reduce debt and deleverage. While the scope
+and intensity of such stress varies across the advanced economies, on-going balance-sheet
+repair and weaknesses in employment and income growth represent a significant drag on
+private demand and recovery prospects.
+
+3.
+Growth in G-20 emerging economies remains robust, but signs of overheating are
+emerging in some economies. Robust domestic demand and the recovery of global production
+continue to power the expansion in emerging economies. Strong growth in key emerging
+economies—China, India, Indonesia, and Turkey—and growing intra-regional trade, particularly
+in Asia, is offsetting weaker demand from advanced economies. Among G-20 emerging
+economies, with some exceptions (e.g., Mexico and South Africa), unemployment has been
+trending downward as the expansions have gathered momentum. Output gaps have been closing
+rapidly, and some countries have begun to experience excess demand. This, combined with
+rising food and commodity prices, and in some cases strong capital flows, is fueling inflationary
+pressures in many emerging economies, including Brazil, China, India, Indonesia, and Russia.
+Unemployment Rate 1/
+12
+
+Consumer Headline Price Inflation
+
+(Percent)
+
+(Percent; year over year)
+
+China
+Brazil
+Russia
+Mexico
+G-20 Emerging
+
+10
+
+25
+20
+
+China
+
+Brazil
+
+Russia
+
+Mexico
+
+G-20 Emerging
+
+15
+
+8
+
+10
+
+6
+
+5
+
+4
+0
+
+2
+05
+
+06
+
+07
+
+08
+
+Source: IMF, World Economic Outlook.
+1/ Excludes India due to data unavailability.
+
+09
+
+10
+
+10Q4
+
+-5
+05
+
+06
+
+07
+
+08
+
+09
+
+10
+
+Sources: IMF, Global Data Source and Haver Analytics.
+
+5
+4.
+Commodity prices have risen sharply in 2010, largely due to unexpectedly strong
+cyclical demand and commodity-specific supply developments, and are foreseen to remain
+high in the near term. Upward price pressures from these factors should ease somewhat
+through 2011, with the prospect of ongoing supply constraints representing a key risk. The IMF
+commodity price index has now recovered more than half of the decline from the cyclical peak in
+July 2008.
+
+
+
+
+Food price gains, driven mostly by weatherrelated supply shocks, have been particularly
+prominent and, as a group, food is now within
+touching distance of 2008 peaks. The recent
+Middle East social unrest may place further
+upward pressure on food prices, if large grain
+importers step-up their purchases to ensure
+domestic stability and restrain prices in
+domestic food markets.
+
+(January 2002=100)
+
+700
+Energy
+
+(Percent)
+
+600
+500
+400
+
+Metals
+
+300
+Beverage
+
+200
+
+Food
+
+100
+
+Agricultural raw
+materials
+
+05
+06
+07
+08
+09
+The increase in oil prices and raw materials
+Source: IMF, Commodity Price System.
+was largely driven by stronger-thananticipated demand growth,
+Accounting for Oil Price Shocks
+notably in China and OECD
+4
+countries. Supportive monetary
+3
+policies have kept interest rates
+2
+(and inventory financing costs)
+1
+low, with a depreciation of the
+0
+dollar also contributing to higher
+-1
+prices. The short-term price
+outlook is mainly dependent
+upon prospects for ongoing
+Source: IMF, International Energy Agency.
+recovery in global activity and
+1/ Forecast of 2010Q4 over 2010Q2.
+the supply response to recent
+commodity-specific developments.
+Global
+demand
+growth (pct)
+
+
+
+Selected Commodity Price Indices
+
+10
+
+0
+11
+
+Unanticipated demand and
+its sources (ppt)
+
+Price forecast
+revision
+
+Supply-side changes (ppt)
+
+In the January 2011 WEO update, oil prices for 2011 were projected to be around
+13 percent higher than forecast in the October 2010 WEO ($79 a barrel), largely due to
+unanticipated demand growth. In recent weeks, social unrest in the Middle East has
+increased concerns about oil supply disruptions and pushed prices higher, although until
+now, actual supplies have remained unaffected. Robust oil demand growth in excess of
+non-OPEC supply growth is expected to increase the call on OPEC capacity from 2011.
+OPEC producers’ decisions will play a key role in price dynamics. They are widely
+expected to use their capacity more elastically with prices at $100 or above, especially as
+inventory-to-use ratio are approaching average levels of the cycle, and preliminary
+
+13.2%
+$10.3
+per
+barrel
+
+6
+estimates of OPEC production in December and January seem to corroborate this view.
+Nevertheless, there is uncertainty about OPEC producers’ price targets. Reflecting these
+developments, the IMF’s current baseline petroleum price projection for 2011 is now for
+$94.75 a barrel, up from $89.50 in the January 2011 WEO update.
+5.
+Financial turbulence has receded in recent weeks, but underlying stresses in
+peripheral euro-area economies remain unresolved and are linked to the core through
+financial exposures.
+
+
+Markets are anticipating that European policymakers will significantly strengthen their
+response to the ongoing crisis. They are looking for more capacity and flexibility of the
+current crisis management facilities and clarification about the permanent European
+Stability Mechanism (ESM), in particular about the extent of private sector participation,
+the application of collective action clauses, and the status of existing sovereign debt
+holders. ECB intervention early in the year and strengthening of national policy action in
+countries under pressure have led to some recent positive market developments, including
+the successful bond issuance by the European Financial Stability Mechanism (EFSM)
+and European Financial Stability Facility (EFSF).
+
+
+
+Nonetheless, banks face continued funding strains, especially those dependent on
+wholesale funding and subject to market concerns relating to their risk exposure and asset
+values in countries that experienced real estate bubbles. Many banks remain reliant on
+ECB liquidity support. Banking and sovereigns risks are closely intertwined, as
+evidenced by CDS spreads.
+Sovereign 5yr CDS Spreads
+
+Banks: 5yr CDS Spreads
+
+(Basis points)
+1000
+
+Italy
+Portugal
+Belgium
+France
+
+800
+
+5/10
+
+600
+
+Ireland
+Spain
+Germany
+Greece (RHS)
+7/23
+
+11/28
+
+400
+200
+
+1600
+1400
+
+Germany (Deutsche Bank)
+
+France (BNP Paribas)
+
+Greece (Alpha)
+
+Italy (Unicredit)
+
+Ireland (Bank of Ireland)
+
+Portugal (Bank Espiriito)
+
+Spain (BBVA)
+
+1200
+
+5/10
+
+7/23
+
+0
+Jan-10
+
+Apr-10
+
+Jul-10
+
+Source: Bloomberg, L.P.
+
+Oct-10
+
+Jan-11
+
+1400
+1200
+
+11/28
+
+1000
+
+1000
+
+800
+
+800
+
+600
+
+600
+
+400
+
+400
+200
+
+200
+2/22
+
+1600
+
+2/22
+
+0
+
+Jan-10
+
+Apr-10
+
+Jul-10
+
+Oct-10
+
+0
+
+Jan-11
+
+Source: Bloomberg, L.P.
+
+6.
+Longer-maturity sovereign yields and equity prices in the United States have risen
+as growth prospects have improved. The recent run of positive economic data have brightened
+market perceptions of U.S. growth prospects. Despite concerns about medium-term debt
+sustainability, the December fiscal package does not seem to have contributed much to recent
+
+7
+rises in bond yields. The rise of about ¾ of a percentage point in 10-year Treasury yields since
+early November appears largely due to higher real interest rates, with break-even inflation
+expectations (inferred from inflation-indexed bonds) remaining little changed since a rise
+following Chairman Bernanke’s speech at Jackson Hole, which hinted that a second round of
+quantitative easing may be necessary. However, further rises in bond yields due to fiscal
+concerns remain a key risk to the U.S. fiscal outlook and global growth, particularly if a credible
+consolidation plan is not expedited.
+7.
+Capital flows to emerging markets are continuing but volatility has increased
+somewhat. During the three months through October 2010, emerging market equity prices
+increased by almost 9 percent, while foreign currency-denominated bond spreads tightened by
+30 basis points, with gains shared broadly across regions. Recently, equity markets have been
+less buoyant, while fixed income volatility has generally increased and ex-post returns to
+emerging market bonds turned negative, according to JPMorgan’s Emerging Market Bond Index.
+In contrast to the bond-heavy allocations during the first nine months of 2010, emerging market
+debt and equity mutual fund contributions since October suggest more balanced portfolio capital
+inflows.
+8.
+There have been regional divergences in exchange rate responses to net capital
+inflows. In particular:
+Some major economies in Latin America,
+Emerging Asia and Latin America: Real
+Exchange Rates and Reserves
+notably Brazil, and South Africa have
+(Feb. 2009=100)
+130
+seen their currencies appreciate
+Nov-10
+125
+substantially in nominal effective terms
+Emerging Asia
+120
+(excl. China)
+since early 2009, boosting real-exchange
+Nov-10
+115
+110
+rates to levels that are looking
+China
+105
+Feb-09
+Feb-09
+increasingly overvalued from a mediumNov-10
+Feb-09
+100
+term perspective. Meanwhile, some major
+95
+Latin America
+Asian central banks have accumulated
+90
+85
+reserves and kept currencies undervalued,
+10
+20
+30
+40
+50
+60
+70
+80
+contributing to continuing significant
+Gross reserves (percent of GDP) 2/
+1/ Index Feb. 2009=100. Weighted average using market GDP.
+exchange rate misalignments relative to
+2/ Gross international reserves as a share of 2006–08 average
+GDP. Weighted average using market GDP.
+fundamentals, and hampering progress
+towards global rebalancing. For instance, the Chinese renminbi continues to remain
+substantially undervalued in real effective terms.
+
+
+
+Countries in emerging Asia generally compete more directly with China in third markets
+than Latin American countries, and the fear of being ‘priced out’ of these markets in Asia
+is providing a strong incentive to limit appreciation against the Chinese renminbi. In
+contrast, several Latin American countries as well as South Africa have benefited from
+
+Real effective exchange rate 1/
+
+
+
+8
+strong gains in commodity prices over the past year. These gains have supported export
+incomes and offered more room to allow currencies to appreciate.
+
+
+The real effective values of the euro and the Japanese yen are broadly in line with
+medium-term fundamentals, while the U.S. dollar remains on the strong side of
+fundamentals. Some further real effective depreciation of the U.S. dollar would help
+ensure a sustained decline of the U.S. current account deficit towards a level more
+consistent with medium-term fundamentals, helping to support more balanced growth.
+Table 1. G-20: Assessment of Real Effective Exchange Rate 1/ 2/
+(Percent deviation from medium-term equilibrium valuation)
+
+Advanced
+Asia
+Latin America
+Other
+
+MB
+
+ERER
+
+ES
+
+5.3
+-15.0
+8.6
+4.4
+
+2.5
+-6.8
+-0.2
+10.7
+
+4.8
+-12.9
+4.2
+13.6
+
+Source: IMF staff estimates.
+1/ Advanced (U.S., E.U., Japan, U.K., Canada and Australia); Asia (China, Korea,
+Indonesia and India); Latin America (Brazil, Mexico and Argentina); Other (Russia,
+Turkey and South Africa). Estimates based on data up to August 2010.
+2/ A negative number means the REER is undervalued and a positive number means
+the REER is overvalued, based on three approaches used by staff to assess
+misalignments: Macroeconomic Balance (MB), Equilibrium Real Exchange Rate
+(ERER) and External Sustainability (ES).
+
+II. PROSPECTS AND RISKS
+Prospects are for a continuing recovery, albeit with limited rebalancing
+9.
+Financial stress is assumed to be only a modest drag on the global recovery,
+although global financial stability remains vulnerable. Policy actions are expected to keep the
+financial turmoil and its real effects contained in the
+Global Growth
+periphery of the euro area, resulting in only a
+(Percent; year over year)
+12
+modest drag on the global recovery. This view
+G-20 Advanced
+10
+G-20 Emerging
+reflects the limited financial spillovers observed so
+World
+8
+far across financial markets and regions, as well as
+6
+the fact that policy responses following the Greek
+4
+crisis helped limit its impact on the global recovery
+2
+in the second half of 2010.
+0
+
+
+
+The recovery is projected to continue in
+G-20 advanced economies, but it is
+generally expected to remain moderate.
+Growth in the U.S. will benefit from the
+additional fiscal support in the first half of
+
+-2
+-4
+-6
+00Q1
+
+11Q4
+02Q1
+
+04Q1
+
+06Q1
+
+08Q1
+
+10Q1
+
+Sources: IMF, Global Data Source; and IMF staff estimates.
+
+9
+2011 and improving domestic demand, while the effects of the inventory cycle fade. The
+most likely prospect in the euro area is for a continued, moderate recovery in 2011, with
+weakening public demand and still-sluggish private demand. Despite support from fiscal
+stimulus, Japan is expected to have a modest pace of recovery in 2011, reflecting ongoing
+weakness in domestic demand.
+
+
+Growth in G-20 emerging economies is expected to remain buoyant. Domestic demand
+will remain strong, underpinning growth as demand from G-20 advanced economies
+remains subdued. However, activity in these economies, particularly in export-oriented
+Asia, will remain linked to demand in advanced economies.
+
+10.
+Under the baseline projection, financial conditions in the private sector are expected
+to improve across most regions, but risks and challenges remain. Financial conditions in
+most advanced economies remained broadly stable or improved during the second half of 2010,
+and the trend is expected to continue in 2011.
+
+
+Bank lending surveys in the major advanced economies show that credit standards have
+continued to gradually ease, including for
+Lending Conditions
+(Net percentage of domestic respondents
+small- and medium-sized firms. The recovery
+tightening standards for loans)
+100
+in private credit in G-20 advanced economies
+Tighter lending conditions
+has also continued, although growth remains
+80
+U.S.
+very subdued in the major economies. Several
+Euro area
+60
+U.K.
+important risks remain that could hamper the
+40
+normalization of credit conditions going
+20
+forward, including the heavy refinancing
+0
+schedule facing European banks through the
+early part of 2011, the threat of financial
+-20
+Dec. 10
+04
+05
+06
+07
+08
+09
+10
+sector spillovers from the euro area to other
+Sources: Lending surveys by the Bank of England, European
+Central Bank, and the U.S. Federal Reserve for households
+regions, and the still-high exposure of small
+and corporates; and IMF staff estimates.
+and medium-sized U.S. banks to commercial real estate.
+
+
+
+Bond issuance by nonfinancial corporates, notably in the United States, made a strong
+rebound in the second half of 2010, spurred by historically low borrowing costs. The
+outlook for U.S. Treasury yields is uncertain, with an improving growth outlook pushing
+up yields and quantitative easing holding them back. The sluggish recovery in the U.S.
+and continued high saving in key emerging Asian economies look set to keep U.S. real
+yields close to historical lows through 2011.
+
+
+
+Securitization markets remain impaired in the U.S., with issuance of mortgage-backed
+securities continuing to be weak and heavily reliant on government-sponsored entities.
+Asset-backed-securities linked to consumer credit products saw weak sales volumes,
+reflecting tight credit conditions. Securitization volumes in Europe remained soft in 2010,
+
+10
+and lower than the previous year, in sharp contrast to the strong rebound in covered bond
+issuance over the same period.
+11.
+External rebalancing is expected to remain modest. Global imbalances declined with
+the collapse in global trade during the crisis, but have increased somewhat during 2010 and are
+foreseen to remain elevated over the medium term. Surpluses of oil-exporting countries are
+expected to narrow marginally, and balances of other emerging surplus and advanced deficit
+economies are expected to widen. Importantly, many of the distortions underlying the large precrisis imbalances remain—including undervalued exchange rates in key emerging surplus
+economies and insufficient domestic saving in advanced deficit economies. Without policies
+targeted at correcting these underlying distortions, global imbalances will not narrow on a
+durable basis, and threaten global growth prospects.
+Global Imbalances
+
+Net Foreign Assets
+
+(Percent of World GDP)
+US
+
+JPN
+
+CHN
+
+(Percent of World GDP)
+EUR
+
+OIL
+
+EMA
+
+ROW
+
+U.S.
+
+JPN
+
+CHN
+
+EUR
+
+OIL
+
+EMA
+
+ROW
+
+3
+
+25
+20
+
+2
+
+15
+
+1
+
+10
+5
+
+0
+
+0
+
+-1
+
+-5
+-10
+
+-2
+
+Discrepancy
+
+-15
+
+Discrepancy
+-3
+
+00
+
+02
+
+04
+
+06
+
+Source: IMF staff estimates.
+
+08
+
+10
+
+12
+
+14
+
+-20
+04
+
+06
+
+08
+
+10
+
+12
+
+14
+
+Source: IMF staff estimates.
+
+Downside risks remain elevated in advanced economies
+12.
+Tensions in the euro area periphery pose a significant risk to the recovery in the
+region and possibly beyond. The risk is exacerbated by inadequate progress in the repair of
+financial institutions in the euro area. Markets are concerned that adverse spillovers between the
+banking and sovereign sectors in the periphery may affect the banks in the core, given their
+exposure to the euro area periphery.
+
+
+BIS banking statistics suggest that national banks’ foreign claims on euro area economies
+facing varying degrees of market pressure is sizeable. As of 2010Q3, on a consolidated
+basis (netting out claims between parent and affiliate banks located in host countries),
+estimates indicate that foreign claims on Greece, Ireland, Portugal, and Spain by banks in
+
+11
+the rest of the euro area are around 10 percent of the region’s GDP and around 80 percent
+of its banks’ equity, with claims on Greece and Ireland accounting for about 40 percent.
+
+
+While there are backstops in place through the ECB and the EFSF and proposals have
+been tabled for a permanent crisis management mechanism (ESM), a more
+comprehensive approach is necessary to deal with the sovereign and financial turbulence
+and secure a durable exit from the crisis. This will require a decisive action on an
+expedited basis.
+
+13.
+Another downside risk stems from insufficient progress in developing medium-term
+fiscal consolidation plans in the United States and Japan. The stimulus measures
+implemented recently in the United States and Japan make it more challenging to ensure
+medium-term fiscal sustainability.
+
+
+In the United States, the recent fiscal measures are expected to deliver only a modest
+increase in growth, while coming at a significant fiscal cost. The U.S fiscal deficit is now
+projected to be 10¾ percent of GDP in 2011 (more than double that of the euro area), and
+gross government debt is projected to exceed 110 percent of GDP in 2016. Achieving the
+Toronto commitment of halving deficit by 2013 appears highly unlikely, requiring a very
+large adjustment—roughly 5 percentage points of GDP in primary structural terms.
+Meanwhile, a continued absence of a credible medium term fiscal strategy threatens to
+eventually drive up U.S. interest rates, disrupt financial markets, and adversely affect
+global growth prospects.
+
+
+
+In Japan, the overall deficit is only expected to narrow modestly (by a ¼ percentage
+point) to 9.1 percent of GDP in 2011, reflecting some recently-approved expenditure
+increases. A deficit reduction of only about 1 percent of GDP is projected for 2012.
+Recently, Standard and Poor’s downgraded Japan’s sovereign credit rating to AA-,
+highlighting increasing concerns over medium-term fiscal sustainability.
+
+Risks of a hard landing are rising in emerging markets
+14.
+In emerging economies, the key risks pertain to overheating, a rapid rise of
+inflationary pressures, and the risk of a hard landing.
+
+
+Inflationary pressures are building in emerging economies, albeit with some
+differentiation across and within regions. With rapidly-rising food and commodity prices,
+headline inflation is already above target in some Latin American countries and is rising
+fast in some countries in Asia and Eastern Europe. Central Banks recognize the threat of
+escalating inflation, but some appear to be signaling that policy settings will remain
+accommodative in the near term. The People’s Bank of China, for example, announced
+that the inflation target will be raised from 3 percent to 4 percent.
+
+12
+
+
+Meanwhile, the expectation of low interest rates in advanced economies for an extended
+period of time will continue to contribute to capital flows to emerging economies. While
+capital inflows could promote rebalancing from external to domestic demand in emerging
+economies, large and volatile capital inflows could also pose policy challenges. If
+countries do not use existing policy levers, large capital flows may contribute to risks of
+overheating, a deterioration of current account deficits beyond what is already assumed in
+the baseline in some countries (e.g., Brazil, India, South Africa, and Turkey), and asset
+price bubbles that could undermine economic prospects.
+
+
+
+If left unchecked, rising inflationary pressures could become ingrained in inflation
+expectations, threatening central bank credibility and macro stability. Inflationary
+concerns will be exacerbated further if commodity prices continue to rise over the short
+to medium term, notably for countries with a poor record of keeping inflation in check.
+
+
+
+Under the above circumstances, if economic growth continues to gain momentum and
+inflationary pressures continue to build, it could set the stage for a hard landing across
+many of these economies.
+
+15.
+In addition to well-known downside risks associated with real estate in major
+advanced economies, an emerging risk to the global recovery stems from a potentially steep
+price correction in Chinese property markets. Residential real estate prices in some of China's
+larger cities have risen rapidly since the crisis, spurred initially by stimulative policies aimed at
+easing restrictions on real estate lending and subsequently by strong income growth, high
+savings, and limited alternate investment vehicles. Over the past year, the authorities have
+stepped up efforts to rein in property prices, recently announcing a range of measures, including
+raising the minimum down-payment for second-home buyers and enforced a 5½ percent business
+tax on properties sold within 5 years. Given the government guarantees in place, financial sector
+risks threaten the fiscal outlook. While it is difficult to predict how significant the stress from
+potential property price correction would be, if these risks are realized, there could potentially be
+global ramifications.
+III. POLICY CHALLENGES
+Cooperative and well-timed policy initiatives—to reduce vulnerabilities and rebalance growth—
+are needed to sustain the global recovery. In the advanced economies, the most urgent tasks are
+to alleviate financial stresses in the euro area, develop credible fiscal consolidation plans, boost
+job creation, and accelerate financial reforms. The key policy challenge in emerging economies
+is to keep overheating pressures in check and respond appropriately to capital inflows. In key
+surplus economies, overheating pressures can be alleviated by permitting currency appreciation,
+facilitating a healthy rebalancing from external to internal demand.
+16.
+Addressing risks in the euro area will require further comprehensive, rapid, and
+decisive policy action by Europe’s leaders. In particular:
+
+13
+
+
+Euro-area-wide mechanisms to support member countries need to be strengthened to
+durably bolster market confidence. This requires: (i) further national action aimed at
+securing fiscal sustainability, bank soundness, and growth; and (ii) ensuring that the
+structure of the EFSM and EFSF, and the envisioned ESM, has the ability to quickly raise
+sufficient resources at low interest rates and flexibly deploy them to address funding and
+liquidity problems, under proper conditionality, with a view to support fiscal
+sustainability.
+
+
+
+The transition to the permanent crisis management mechanism (ESM) needs to be
+managed carefully with further clarification of the specifics of how it will operate,
+including the extent of private sector participation, the application of collective action
+clauses, and the status of existing sovereign debt holders.
+
+
+
+Repair and reform of financial systems—critical to the normalization of credit conditions
+in several countries and to prevent contagion—needs to be accelerated. Concern about
+asset values and risky exposures should be addressed by forcing banks to build capital
+buffers, while unviable business models need to be unwound. This would help reduce the
+burden on monetary and fiscal policy to support the recovery, and minimize the real
+consequences of deleveraging. In this context, the new round of EU-wide stress test
+should be transparent, sufficiently stringent, and accompanied by contingent plans for
+quick recapitalization or resolution of banks to reassure markets.
+
+
+
+Further strengthening of the economic governance of the euro area to prevent future
+crises would greatly enhance confidence. Building on current proposals, the preventive
+arm of the Stability and Growth Pact should be enhanced and the procedure to correct
+imbalances made more binding. Similarly, to decouple banking and sovereign risks and
+make financial integration safer, a pan-European crisis management and resolution
+framework for financial institutions with an EU-wide fiscal backstop and a more
+centralized approach to supervision should be established. This should go a step beyond
+current plans to foster better cooperation and coordination among national authorities.
+
+17.
+Greater commitment is needed to ensure that fiscal policies will restore mediumterm debt sustainability in advanced economies. The vulnerability of some sovereigns
+emphasizes the urgency of formulating credible, medium-term fiscal consolidation plans—not
+just for countries in the euro periphery, but also for other advanced economies. In the near term,
+a solidifying of the recovery and diminishing deflationary risks in many large advanced
+economies creates room for current fiscal consolidation plans to be accelerated. Given recent
+stimulus measures, the United States and Japan need to strengthen their adjustment credentials
+by specifying the measures they intend to adopt to honor their commitments to reduce deficits
+and debt. Those advanced economies that came under renewed market pressure should
+underscore their commitment to their deficit targets and set up contingency plans to ensure that
+adjustment goals are met.
+
+14
+
+
+The recently announced tax cuts in the U.S. are projected to only have a modest impact
+on growth outcomes, but have a large budgetary cost. It has thus become even more
+important to articulate a credible fiscal consolidation plan, including entitlement reforms,
+caps on discretionary spending, higher revenues through reforms of the tax system, and
+the establishment or strengthening of fiscal institutions. Plans should build on
+constructive ideas from the Fiscal Commission and others.
+
+
+
+Successful fiscal adjustment will require medium-term consolidation plans to be
+accompanied by structural reforms that increase competitiveness, particularly in the euro
+area and Japan. These policies would raise potential growth and help to support fiscal
+solvency in the long term. Reforms are particularly needed in the areas of labor and
+product and services markets, such as those that facilitate greater competition (and lower
+markups), lower hiring costs, reduce long-term unemployment (by facilitating re-entry),
+encourage job search, matching, and mobility, and eliminate dual labor markets.
+
+18.
+With inflationary expectations well anchored, accommodative monetary policy in
+major advanced economies remains appropriate for now. High unemployment and large
+output gaps are keeping wages and inflation expectations in the major advanced economies in
+check, notwithstanding large increases in food and energy prices. Continuing monetary policy
+accommodation is thus the right policy from a domestic perspective, considering also that the
+recovery is expected to remain sluggish going forward. From an external perspective, however,
+there is concern that quantitative easing in the United States could result in a flood of capital. In
+economies where recovery is already well established, policymakers will need to pay increasing
+attention to building inflationary pressure. Central banks should continue to stand ready to
+address liquidity problems in the banking sector, particularly in the euro area.
+19.
+Sharp food price increases pose a particular challenge for many emerging and
+developing economies. The recent food price increases come in the wake of the deepest crisis
+since the Great Depression, when countries are more vulnerable and have, in general, less fiscal
+space. In addition to the inflationary implications, the rapid increase in food prices may have
+adverse social implications, particularly in low income countries (LICs). To minimize the social
+and economic costs from rapid food price increases, policymakers would need to: (i) avoid
+discretionary policies, such as export bans and taxes and price controls, that seek to insulate
+domestic markets, as such actions can increase world food price volatility; (ii) accommodate
+first-round effects, but be ready to tighten policies to avoid second-round effects that could result
+in persistent inflation; and (iii) ensure that the poor are protected, ideally through targeted and
+cost effective social safety net programs. The IMF also stands ready to boost its financial support
+to LICs and other member countries to help them stem the adverse effects of rapid food price
+increases.
+20.
+The macroeconomic policy stance in major emerging economies will need to
+increasingly reflect rising inflation and overheating pressures. The appropriate policy stance
+
+15
+will need to reflect both individual country circumstances and the intensity of these pressures.
+For instance, in G-20 emerging economies with flexible exchange rate regimes, and notably
+where real-exchange rates are at levels that look increasingly overvalued from a medium-term
+perspective, greater emphasis may need to be placed on fiscal tightening (e.g., Brazil) or
+monetary as well as fiscal tightening (e.g., India). In other emerging G-20 economies, greater
+emphasis will need to be placed on allowing exchange rates to appreciate. For instance, in China,
+a nominal appreciation of the renminbi would both promote the transition to medium-term
+rebalancing and help contain inflationary pressures.
+21.
+Many emerging economies will continue to face policy challenges in managing large
+and volatile capital flows. Capital flows should be viewed as an opportunity, since they allow
+emerging economies to borrow at lower interest rates from the rest of the world and can help
+these economies rebalance. Capital flows to emerging economies are to a significant extent a
+longer-term phenomenon, driven by fundamentals, and financial development and structural
+reforms will be important in helping absorb these flows productively. That said, they could also
+pose challenges. Capital flows can threaten macro stability and financial stability, by leading to
+excessive credit growth and localized asset bubbles. In response to these concerns, countries
+should fully utilize macroeconomic and prudential tools. However, there is no “one-size-fits-all”
+approach to the choice of policy instruments to manage capital flows, and the appropriate
+response needs to reflect country-specific circumstances. If capital inflows raise macro- and
+financial-stability concerns, macroeconomic policies (e.g., adjusting the fiscal-monetary policy
+mix, exchange rate appreciation, and some accumulation of reserves) may need to be
+complemented with strengthened prudential measures (e.g., loan to value ratios, funding
+composition restrictions). Temporary capital controls can also be used in some cases, but they
+should not be a substitute for the necessary macroeconomic and prudential policies.
+
+16
+APPENDIX TABLES
+Table 1. Real GDP Growth 1/
+(Percent change)
+Year over Year
+
+Q4 over Q4 2/
+
+2009
+
+Est.
+2010
+
+Projections
+2011
+2012
+
+World 3/
+Advanced economies
+Euro area
+Emerging and developing economies 4/
+Advanced G-20
+Emerging G-20
+
+-0.6
+-3.4
+-4.1
+2.6
+-3.4
+3.5
+
+5.0
+3.0
+1.8
+7.1
+3.0
+8.3
+
+4.4
+2.5
+1.5
+6.5
+2.5
+7.4
+
+4.5
+2.5
+1.7
+6.5
+2.4
+7.3
+
+4.5
+2.6
+1.2
+7.0
+2.5
+7.4
+
+4.4
+2.5
+2.0
+6.8
+2.6
+7.3
+
+G-20 2/
+Argentina
+Australia
+Brazil
+Canada
+China
+France
+Germany
+India
+Indonesia
+Italy
+Japan
+Korea
+Mexico
+Russia
+Saudi Arabia
+South Africa
+T urkey
+United Kingdom
+United States
+European Union
+
+-0.5
+0.9
+1.3
+-0.6
+-2.5
+9.2
+-2.5
+-4.7
+5.7
+4.5
+-5.0
+-6.3
+0.2
+-6.1
+-7.9
+0.6
+-1.7
+-4.7
+-4.9
+-2.6
+-4.1
+
+5.3
+8.5
+2.6
+7.5
+2.9
+10.3
+1.6
+3.6
+9.7
+6.0
+1.0
+4.3
+6.1
+5.2
+3.7
+3.4
+2.8
+8.2
+1.7
+2.8
+1.8
+
+4.7
+4.6
+3.2
+4.5
+2.3
+9.6
+1.6
+2.2
+8.4
+6.2
+1.0
+1.6
+4.5
+4.2
+4.5
+4.5
+3.4
+4.5
+2.0
+3.0
+1.7
+
+4.6
+2.6
+3.2
+4.1
+2.7
+9.5
+1.8
+2.0
+8.0
+6.5
+1.3
+1.8
+4.2
+4.8
+4.4
+4.4
+3.8
+4.3
+2.3
+2.7
+2.0
+
+4.6
+3.7
+4.1
+5.1
+2.7
+9.5
+1.5
+1.2
+7.9
+6.1
+1.2
+1.4
+5.1
+5.0
+4.6
+…
+3.4
+4.1
+1.5
+3.2
+1.4
+
+4.7
+2.3
+2.9
+4.0
+2.6
+9.4
+1.9
+2.7
+8.0
+6.0
+1.4
+2.4
+3.7
+4.5
+4.3
+…
+4.1
+4.4
+2.6
+2.7
+2.2
+
+Projections
+2011
+2012
+
+1/ IMF, World Economic Outlook, January 2011.
+2/ G-20 aggregations exclude European Union and quarterly projections exclude Saudi Arabia and European Union.
+3/ The quarterly estimates and projections account for 90 percent of the world purchasing-power-parity weights.
+4/ The quarterly estimates and projections account for approximately 77 percent of the emerging and developing
+economies.
+
+17
+Table 2. Inflation 1/
+(Percent)
+Year over Year
+2009
+
+Est.
+2010
+
+World
+Advanced economies
+Euro area
+Emerging and developing economies
+Advanced G-20
+Emerging G-20
+
+2.5
+0.1
+0.3
+5.2
+0.1
+4.4
+
+3.7
+1.5
+1.5
+6.3
+1.5
+6.1
+
+3.7
+1.6
+1.6
+6.0
+1.5
+5.3
+
+3.2
+1.6
+1.5
+4.8
+1.5
+4.3
+
+G-20 2/
+Argentina
+Australia
+Brazil
+Canada
+China
+France
+Germany
+India
+Indonesia
+Italy
+Japan
+Korea
+Mexico
+Russia
+Saudi Arabia
+South Africa
+T urkey
+United Kingdom
+United States
+European Union
+
+1.9
+6.3
+1.8
+4.9
+0.3
+-0.7
+0.1
+0.2
+10.9
+4.8
+0.8
+-1.4
+2.8
+5.3
+11.7
+5.1
+7.1
+6.3
+2.1
+-0.3
+0.9
+
+3.5
+10.6
+2.9
+5.0
+1.8
+3.5
+1.6
+1.0
+13.2
+5.1
+1.6
+-0.7
+3.0
+4.2
+6.8
+5.5
+4.3
+8.6
+3.3
+1.6
+1.9
+
+3.2
+10.6
+3.0
+5.6
+2.0
+3.8
+1.8
+1.3
+7.1
+6.1
+1.8
+-0.1
+3.4
+3.2
+8.5
+5.3
+4.5
+8.6
+3.0
+1.4
+2.0
+
+2.8
+11.0
+3.0
+4.7
+1.9
+2.5
+1.7
+1.5
+5.5
+5.6
+1.8
+0.1
+3.0
+3.0
+7.3
+4.5
+5.1
+6.4
+2.0
+1.5
+1.8
+
+1/ IMF, World Economic Outlook, January 2011.
+2/ G-20 aggregations exclude European Union.
+
+Projections
+2011
+2012
+
+18
+Table 3. Fiscal Balance
+(Percent of GDP; general government net lending/borrowing; excludes policy lending)
+Est.
+
+Projections
+
+2009
+
+2010
+
+2011
+
+2012
+
+World
+Advanced economies
+Euro area
+Emerging and developing economies
+Advanced G-20
+Emerging G-20
+
+-7.3
+-8.6
+-6.3
+-4.2
+-9.4
+-4.3
+
+-6.2
+-7.8
+-6.4
+-3.2
+-8.4
+-3.4
+
+-5.4
+-7.0
+-4.7
+-2.3
+-7.8
+-2.7
+
+-3.9
+-5.1
+-3.9
+-1.8
+-5.6
+-2.4
+
+G-20 1/
+Argentina
+Australia
+Brazil
+Canada
+China
+France
+Germany 2/
+India
+Indonesia
+Italy
+Japan
+Korea
+Mexico
+Russia
+Saudi Arabia
+South Africa
+T urkey
+United Kingdom
+United States
+European Union
+
+-8.0
+-3.7
+-4.1
+-3.1
+-5.5
+-3.1
+-7.6
+-3.0
+-10.2
+-1.6
+-5.2
+-10.1
+0.0
+-4.8
+-6.2
+-2.4
+-5.3
+-5.6
+-10.3
+-12.7
+-6.6
+
+-6.9
+-2.6
+-4.6
+-2.6
+-5.9
+-3.1
+-7.7
+-3.5
+-9.8
+-0.6
+-5.0
+-9.4
+1.9
+-3.5
+-4.2
+8.0
+-5.8
+-2.5
+-10.3
+-10.6
+-6.8
+
+-6.3
+-3.2
+-2.5
+-3.1
+-4.7
+-2.1
+-6.0
+-2.6
+-9.2
+-1.4
+-4.3
+-9.1
+2.4
+-2.4
+-2.9
+10.4
+-5.3
+-1.7
+-8.1
+-10.8
+-5.1
+
+-4.6
+-2.9
+-0.6
+-3.2
+-3.3
+-1.5
+-4.9
+-1.8
+-8.4
+-1.4
+-3.5
+-8.0
+2.7
+-2.5
+-3.0
+9.4
+-4.4
+-1.6
+-6.1
+-7.2
+-4.1
+
+Source: IMF, World Economic Outlook January 2011 update.
+1/ G-20 aggregations exclude European Union.
+2/ Germany fiscal balance numbers are based on estimates received after the January 2011 WEO
+update was published.
+
+19
+Table 4. Current Account Balance
+(Individual countries in percent of country GDP and aggregates in percent of world GDP)
+Est.
+
+G-20 1/
+
+Projections
+
+2005
+
+2006
+
+2007
+
+2008
+
+2009
+
+2010
+
+2011
+
+2012
+
+2013
+
+2014
+
+-0.7
+
+-0.7
+
+-0.3
+
+-0.5
+
+-0.1
+
+-0.2
+
+-0.1
+
+0.0
+
+0.1
+
+0.1
+
+The matic Grouping 2/
+0.5
+
+0.4
+
+0.5
+
+0.0
+
+0.1
+
+0.3
+
+0.2
+
+0.3
+
+0.3
+
+0.2
+
+Canada
+
+1.9
+
+1.4
+
+0.8
+
+0.4
+
+-2.8
+
+-3.7
+
+-3.8
+
+-2.9
+
+-2.3
+
+-2.0
+
+Euro area
+
+0.1
+
+-0.1
+
+0.1
+
+-1.4
+
+-0.6
+
+0.2
+
+0.4
+
+0.5
+
+0.5
+
+0.4
+
+Japan
+
+3.6
+
+3.9
+
+4.8
+
+3.2
+
+2.8
+
+3.2
+
+2.4
+
+2.4
+
+2.4
+
+2.3
+
+Korea
+
+2.2
+
+1.5
+
+2.1
+
+0.3
+
+3.9
+
+2.7
+
+2.4
+
+2.2
+
+2.1
+
+2.1
+
+G-20 Advanced Surplus
+
+0.4
+
+0.6
+
+0.7
+
+0.7
+
+0.5
+
+0.5
+
+0.6
+
+0.7
+
+0.8
+
+0.8
+
+Argentina
+
+2.6
+
+3.2
+
+2.3
+
+1.5
+
+2.0
+
+1.5
+
+1.4
+
+1.2
+
+1.1
+
+1.3
+
+China
+
+7.1
+
+9.3
+
+10.6
+
+9.6
+
+6.0
+
+5.0
+
+5.7
+
+6.3
+
+6.9
+
+7.4
+
+Indonesia
+
+0.1
+
+3.0
+
+2.4
+
+0.0
+
+2.2
+
+1.0
+
+0.6
+
+-0.6
+
+-1.3
+
+-1.9
+
+G-20 Emerging Surplus
+
+-1.9
+
+-1.9
+
+-1.5
+
+-1.2
+
+-0.8
+
+-0.9
+
+-0.8
+
+-0.8
+
+-0.7
+
+-0.7
+
+Australia
+
+-5.7
+
+-5.3
+
+-6.2
+
+-4.5
+
+-4.2
+
+-2.7
+
+-2.5
+
+-3.6
+
+-4.3
+
+-5.1
+
+United Kingdom
+
+-2.6
+
+-3.4
+
+-2.6
+
+-1.6
+
+-1.7
+
+-2.2
+
+-2.5
+
+-2.3
+
+-1.9
+
+-1.7
+
+United States
+
+-5.9
+
+-6.0
+
+-5.1
+
+-4.7
+
+-2.7
+
+-3.3
+
+-3.0
+
+-2.6
+
+-2.5
+
+-2.7
+
+G-20 Advanced Deficit
+
+-0.1
+
+-0.1
+
+-0.2
+
+-0.3
+
+-0.1
+
+-0.2
+
+-0.3
+
+-0.3
+
+-0.3
+
+-0.3
+
+Brazil
+
+1.6
+
+1.2
+
+0.1
+
+-1.7
+
+-1.5
+
+-2.4
+
+-2.8
+
+-3.1
+
+-3.4
+
+-3.5
+
+India
+
+-1.3
+
+-1.0
+
+-0.7
+
+-2.0
+
+-2.9
+
+-3.2
+
+-3.5
+
+-3.3
+
+-2.9
+
+-2.5
+
+Mexico
+
+-0.6
+
+-0.5
+
+-0.8
+
+-1.5
+
+-0.7
+
+-0.5
+
+-0.6
+
+-1.0
+
+-1.1
+
+-1.2
+
+South Africa
+
+-3.5
+
+-5.3
+
+-7.0
+
+-7.1
+
+-4.1
+
+-3.1
+
+-3.9
+
+-3.6
+
+-4.0
+
+-4.1
+
+T urkey
+
+-4.6
+
+-6.1
+
+-5.9
+
+-5.7
+
+-2.3
+
+-6.0
+
+-6.9
+
+-6.9
+
+-7.0
+
+-7.2
+
+EU (other)
+
+0.3
+
+-0.6
+
+-2.4
+
+-2.0
+
+1.4
+
+1.3
+
+0.6
+
+0.5
+
+0.3
+
+0.2
+0.1
+
+G-20 Emerging Deficit
+
+0.4
+
+0.4
+
+0.3
+
+0.4
+
+0.1
+
+0.2
+
+0.2
+
+0.1
+
+0.1
+
+Russia
+
+11.1
+
+9.5
+
+5.9
+
+6.2
+
+4.0
+
+5.4
+
+4.4
+
+2.1
+
+1.2
+
+0.6
+
+Saudi Arabia
+
+28.5
+
+27.8
+
+24.3
+
+27.8
+
+6.1
+
+8.5
+
+11.4
+
+10.0
+
+8.0
+
+8.9
+
+G-20 Large Oil Exporters
+
+Source: IMF, World Economic Outlook, January 2011.
+1/ G-20 consists of Argentina, Australia, Brazil, Canada, China, euro area, EU other, India, Indonesia, Japan, Korea, Mexico, Russia, Saudi Arabia, South
+Africa, Turkey, United Kingdom, and United States; EU other consists of European Union countries excluding euro area and U.K.
+2/ For the analysis of global imbalances, the euro area is treated as a whole given its common monetary and exchange rate policies. Accordingly, the
+advanced surplus economies in that case comprise Canada, euro area, Japan, and Korea, and advanced deficit economies include Australia, the United
+Kingdom, and the United States. Emerging surplus countries consists of Argentina, China, and Indonesia, major oil exporters includes Russia and Saudi
+Arabia, and emerging deficit countries comprises Brazil, India, Mexico, South Africa, Turkey, and other EU.
+
+Table 6. Shares of Real GDP 1/
+(Percent)
+Average
+
+Average
+
+Est.
+
+Projections
+
+2002-05
+
+2006-08
+
+2009
+
+2010
+
+2011
+
+2012
+
+2013
+
+2014
+
+Net Exports Other 2/
+
+Net Exports Other 2/
+
+Net Exports Other 2/
+
+Net Exports Other 2/
+
+Net Exports Other 2/
+
+Net Exports Other 2/
+
+Net Exports Other 2/
+
+Net Exports Other 2/
+
+G-20
+Argentina
+
+4.9
+
+95.1
+
+0.6
+
+99.4
+
+1.0
+
+99.0
+
+-0.7
+
+100.7
+
+-0.6
+
+100.6
+
+-0.9
+
+100.9
+
+-1.3
+
+101.3
+
+-1.2
+
+101.2
+
+Australia
+
+5.4
+
+94.6
+
+0.5
+
+99.5
+
+1.6
+
+98.4
+
+-0.1
+
+100.1
+
+-0.7
+
+100.7
+
+-1.1
+
+101.1
+
+-1.4
+
+101.4
+
+-1.7
+
+101.7
+
+Brazil
+
+3.2
+
+96.8
+
+1.8
+
+98.2
+
+0.6
+
+99.4
+
+-1.5
+
+101.5
+
+-2.5
+
+102.5
+
+-2.4
+
+102.4
+
+-2.3
+
+102.3
+
+-1.7
+
+101.7
+
+Canada
+
+1.5
+
+98.5
+
+-5.0
+
+105.0
+
+-6.4
+
+106.4
+
+-9.5
+
+109.5
+
+-9.5
+
+109.5
+
+-8.6
+
+108.6
+
+-8.0
+
+108.0
+
+-7.7
+
+107.7
+
+China
+
+5.7
+
+94.3
+
+8.8
+
+91.2
+
+5.0
+
+95.0
+
+5.2
+
+94.8
+
+6.1
+
+93.9
+
+6.6
+
+93.4
+
+7.1
+
+92.9
+
+7.7
+
+92.3
+
+France
+
+-0.2
+
+100.2
+
+-2.4
+
+102.4
+
+-3.2
+
+103.2
+
+-3.1
+
+103.1
+
+-3.2
+
+103.2
+
+-3.0
+
+103.0
+
+-2.9
+
+102.9
+
+-2.9
+
+102.9
+
+Germany
+
+4.2
+
+95.8
+
+7.0
+
+93.0
+
+4.3
+
+95.7
+
+4.9
+
+95.1
+
+5.6
+
+94.4
+
+6.2
+
+93.8
+
+6.7
+
+93.3
+
+7.0
+
+93.0
+
+India
+
+-1.1
+
+101.1
+
+-4.7
+
+104.7
+
+-5.9
+
+105.9
+
+-5.2
+
+105.2
+
+-6.1
+
+106.1
+
+-6.4
+
+106.4
+
+-6.5
+
+106.5
+
+-6.7
+
+106.7
+
+9.4
+
+90.6
+
+9.5
+
+90.5
+
+10.3
+
+89.7
+
+10.2
+
+89.8
+
+10.4
+
+89.6
+
+10.4
+
+89.6
+
+10.4
+
+89.6
+
+10.4
+
+89.6
+
+Italy
+
+-0.3
+
+100.3
+
+-0.4
+
+100.4
+
+-1.6
+
+101.6
+
+-1.7
+
+101.7
+
+-1.7
+
+101.7
+
+-1.7
+
+101.7
+
+-1.6
+
+101.6
+
+-1.5
+
+101.5
+
+Japan
+
+2.2
+
+97.8
+
+4.4
+
+95.6
+
+3.0
+
+97.0
+
+5.0
+
+95.0
+
+5.3
+
+94.7
+
+5.6
+
+94.4
+
+6.0
+
+94.0
+
+6.3
+
+93.7
+
+Korea
+
+1.1
+
+98.9
+
+3.6
+
+96.4
+
+7.5
+
+92.5
+
+7.2
+
+92.8
+
+8.0
+
+92.0
+
+8.3
+
+91.7
+
+8.5
+
+91.5
+
+8.5
+
+91.5
+
+Mexico
+
+-1.7
+
+101.7
+
+-3.0
+
+103.0
+
+-1.6
+
+101.6
+
+-2.7
+
+102.7
+
+-2.9
+
+102.9
+
+-2.9
+
+102.9
+
+-3.1
+
+103.1
+
+-3.5
+
+103.5
+
+Russia
+
+19.2
+
+80.8
+
+12.5
+
+87.5
+
+15.6
+
+84.4
+
+14.4
+
+85.6
+
+12.0
+
+88.0
+
+10.1
+
+89.9
+
+8.9
+
+91.1
+
+7.8
+
+92.2
+
+Saudi Arabia
+
+25.8
+
+74.2
+
+1.0
+
+99.0
+
+-11.5
+
+111.5
+
+-18.5
+
+118.5
+
+-18.7
+
+118.7
+
+-20.9
+
+120.9
+
+-24.4
+
+124.4
+
+-24.6
+
+124.6
+
+South Africa
+
+1.9
+
+98.1
+
+-3.8
+
+103.8
+
+-3.9
+
+103.9
+
+-3.5
+
+103.5
+
+-3.6
+
+103.6
+
+-3.5
+
+103.5
+
+-3.9
+
+103.9
+
+-3.7
+
+103.7
+
+T urkey
+
+-0.8
+
+100.8
+
+-3.6
+
+103.6
+
+0.0
+
+100.0
+
+-3.7
+
+103.7
+
+-4.7
+
+104.7
+
+-5.4
+
+105.4
+
+-6.1
+
+106.1
+
+-6.7
+
+106.7
+
+United Kingdom
+
+-3.1
+
+103.1
+
+-3.2
+
+103.2
+
+-2.1
+
+102.1
+
+-2.9
+
+102.9
+
+-2.5
+
+102.5
+
+-2.1
+
+102.1
+
+-1.5
+
+101.5
+
+-1.0
+
+101.0
+
+United States
+
+-5.3
+
+105.3
+
+-4.8
+
+104.8
+
+-2.8
+
+102.8
+
+-3.3
+
+103.3
+
+-3.3
+
+103.3
+
+-3.3
+
+103.3
+
+-3.4
+
+103.4
+
+-3.7
+
+103.7
+
+European Union
+
+1.3
+
+98.7
+
+1.4
+
+98.6
+
+0.8
+
+99.2
+
+1.4
+
+98.6
+
+2.1
+
+97.9
+
+2.5
+
+97.5
+
+2.9
+
+97.1
+
+3.1
+
+96.9
+
+Source: IMF, World Economic Outlook, January 2011.
+1/ Net Exports plus Other equals 100.
+2/ Sum of private consumption, investment, government consumption and residual.
+
+20
+
+Indonesia
+
+Table 5. Contributions to Real GDP Growth 1/
+(Percent)
+Average
+
+Average
+
+Est.
+
+Projections
+
+2002-05
+
+2006-08
+
+2009
+
+2010
+
+2011
+
+2012
+
+2013
+
+2014
+
+Net Exports Other 2/
+
+Net Exports Other 2/
+
+Net Exports Other 2/
+
+Net Exports Other 2/
+
+Net Exports Other 2/
+
+Net Exports Other 2/
+
+Net Exports Other 2/
+
+Net Exports Other 2/
+
+G-20
+Argentina
+
+0.8
+
+3.2
+
+-1.1
+
+9.1
+
+1.8
+
+-1.0
+
+-1.6
+
+10.1
+
+0.1
+
+4.5
+
+-0.4
+
+3.0
+
+-0.4
+
+3.4
+
+0.1
+
+2.9
+
+Australia
+
+-1.5
+
+5.1
+
+-1.4
+
+4.6
+
+2.8
+
+-1.4
+
+-1.7
+
+4.3
+
+-0.7
+
+3.8
+
+-0.4
+
+3.6
+
+-0.4
+
+3.7
+
+-0.3
+
+3.6
+
+Brazil
+
+0.9
+
+2.3
+
+-1.1
+
+6.1
+
+0.1
+
+-0.7
+
+-2.2
+
+9.8
+
+-1.1
+
+5.6
+
+-0.1
+
+4.2
+
+0.1
+
+4.0
+
+0.5
+
+3.7
+
+Canada
+
+-1.2
+
+3.9
+
+-1.6
+
+3.4
+
+0.2
+
+-2.7
+
+-2.5
+
+5.4
+
+0.1
+
+2.2
+
+0.9
+
+1.8
+
+0.6
+
+1.9
+
+0.4
+
+2.0
+
+China
+
+1.0
+
+9.1
+
+1.8
+
+10.4
+
+-3.7
+
+12.9
+
+0.8
+
+9.5
+
+1.5
+
+8.1
+
+1.1
+
+8.4
+
+1.2
+
+8.3
+
+1.3
+
+8.2
+
+France
+
+-0.6
+
+2.2
+
+-0.6
+
+2.2
+
+-0.2
+
+-2.4
+
+0.0
+
+1.6
+
+-0.1
+
+1.7
+
+0.1
+
+1.7
+
+0.0
+
+2.0
+
+0.0
+
+2.1
+
+Germany
+
+0.8
+
+-0.4
+
+0.9
+
+1.5
+
+-3.2
+
+-1.5
+
+0.8
+
+2.8
+
+0.8
+
+1.3
+
+0.7
+
+1.3
+
+0.6
+
+1.2
+
+0.4
+
+1.2
+
+India
+
+-0.7
+
+7.8
+
+-1.7
+
+10.4
+
+0.7
+
+4.9
+
+0.2
+
+9.5
+
+-1.4
+
+9.7
+
+-0.8
+
+8.8
+
+-0.7
+
+8.9
+
+-0.7
+
+8.8
+
+Indonesia
+
+0.4
+
+4.6
+
+0.8
+
+5.1
+
+1.2
+
+3.4
+
+0.5
+
+5.5
+
+0.8
+
+5.4
+
+0.7
+
+5.8
+
+0.7
+
+6.0
+
+0.7
+
+6.3
+
+Italy
+
+-0.4
+
+1.1
+
+0.1
+
+0.6
+
+-1.3
+
+-3.8
+
+-0.2
+
+1.2
+
+0.0
+
+1.1
+
+0.0
+
+1.3
+
+0.1
+
+1.3
+
+0.1
+
+1.2
+
+Japan
+
+0.6
+
+1.0
+
+0.7
+
+0.4
+
+-1.5
+
+-4.8
+
+2.2
+
+2.1
+
+0.3
+
+1.3
+
+0.5
+
+1.3
+
+0.5
+
+1.2
+
+0.4
+
+1.2
+
+Korea
+
+0.8
+
+3.9
+
+0.7
+
+3.5
+
+3.1
+
+-2.9
+
+0.1
+
+6.0
+
+1.1
+
+3.3
+
+0.7
+
+3.5
+
+0.6
+
+3.7
+
+0.4
+
+3.7
+
+Mexico
+
+0.0
+
+2.2
+
+-0.7
+
+4.0
+
+2.2
+
+-8.3
+
+-1.2
+
+6.4
+
+-0.4
+
+4.6
+
+-0.1
+
+4.9
+
+-0.3
+
+4.7
+
+-0.6
+
+4.7
+
+Russia
+
+-0.5
+
+6.9
+
+-2.8
+
+10.1
+
+5.2
+
+-13.1
+
+-1.6
+
+5.3
+
+-2.3
+
+6.8
+
+-1.6
+
+6.0
+
+-1.0
+
+5.3
+
+-0.9
+
+5.1
+
+-0.5
+
+5.1
+
+-8.9
+
+12.0
+
+-3.9
+
+4.5
+
+-7.6
+
+11.0
+
+-1.1
+
+5.6
+
+-3.1
+
+7.5
+
+-4.6
+
+9.1
+
+-1.3
+
+5.9
+
+South Africa
+
+-1.6
+
+5.7
+
+-1.3
+
+6.3
+
+0.1
+
+-1.8
+
+0.3
+
+2.4
+
+-0.3
+
+3.7
+
+0.0
+
+3.8
+
+-0.5
+
+4.7
+
+0.0
+
+4.4
+
+T urkey
+
+-2.3
+
+9.6
+
+0.1
+
+3.9
+
+2.7
+
+-7.4
+
+-4.0
+
+12.2
+
+-1.2
+
+5.7
+
+-1.0
+
+5.3
+
+-0.9
+
+5.0
+
+-0.9
+
+4.9
+
+United Kingdom
+
+-0.5
+
+3.0
+
+0.1
+
+1.7
+
+0.9
+
+-5.7
+
+-0.8
+
+2.5
+
+0.3
+
+1.7
+
+0.4
+
+1.9
+
+0.5
+
+1.9
+
+0.5
+
+2.1
+
+United States
+
+-0.5
+
+3.2
+
+0.6
+
+1.0
+
+1.3
+
+-3.9
+
+-0.6
+
+3.4
+
+-0.1
+
+3.1
+
+-0.1
+
+2.8
+
+-0.3
+
+3.1
+
+-0.3
+
+3.1
+
+European Union
+
+0.0
+
+1.4
+
+0.2
+
+1.9
+
+-0.7
+
+-3.4
+
+0.6
+
+1.2
+
+0.7
+
+0.8
+
+0.5
+
+1.2
+
+0.4
+
+1.4
+
+0.3
+
+1.5
+
+Source: IMF, World Economic Outlook, January 2011.
+1/ Net Exports plus Other equals annual Real GDP growth.
+2/ Sum of private consumption, investment, government consumption and residual.
+
+21
+
+Saudi Arabia
+
+

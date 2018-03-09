@@ -1,0 +1,1366 @@
+G R O U P of T W E N T Y
+Meeting of G-20 Finance Ministers and Central Bank Governors
+June 4-5, 2010
+Busan, Korea
+
+Global Economic Prospects and Policy Challenges
+
+Prepared by Staff of the International Monetary Fund
+
+INTERNATIONAL
+
+MONETARY
+
+FUND
+
+EXECUTIVE SUMMARY
+Financial market volatility has risen dramatically in recent weeks, funding costs have
+increased, and risky assets have been sold off across all regions. These developments
+reflect increased investor concern over fiscal and external sustainability in Europe; mounting
+policy uncertainty; and revised market expectations about the strength of economic recovery
+and future growth prospects.
+Unless promptly addressed by credible policy action, financial market stresses could
+have material effects on growth.
+
+
+Thus far, the recovery has been proceeding at different speeds across regions, as
+projected in the April 2010 World Economic Outlook. Macroeconomic developments
+in the United States, Japan, and the largest euro area economies have been consistent
+with expectations of a modest recovery. In particular, there have been encouraging
+signs of growth in private demand. Activity in emerging Asia and Latin America has
+been expanding strongly, driven by a rebound in trade.
+
+
+
+Recent financial market developments, however, pose a major downside risk to the
+global economy. They could have negative effects on private and sovereign funding
+rates; on bank balance sheets and credit conditions; and on capital flows and portfolio
+allocations. The ability of banking sectors to withstand funding shocks is of particular
+concern. Economies with large fiscal and/or external balances would feel the effects
+of such a shock the hardest. Greater-than-anticipated fiscal adjustment itself would
+have direct effects on aggregate demand.
+
+
+
+A prolonged period of heightened risk aversion could affect other asset types and
+regions, as capital is reallocated to safe assets. A downturn in growth in advanced
+economies, whether from financial stress or more aggressive fiscal retrenchment,
+would likely spill over to other G-20 economies.
+
+Urgent action is needed to restore policy confidence and address fiscal sustainability.
+The announcement of large-scale and unprecedented financial support in the euro area was
+timely, and has mitigated the immediate risk of a liquidity crisis. These measures are
+providing a window of opportunity for undertaking the more far-reaching reforms required to
+underpin a more resilient euro area economy.
+Fiscal consolidation needs to be anchored by a credible medium-term plan, with
+adjustment in the near-term depending on country circumstances, particularly the pace
+of recovery and the risk of a loss of fiscal credibility:
+
+
+It is of overarching importance that G-20 countries commit now to credible mediumterm fiscal adjustment plans, which could include legislation creating multi-year
+targets. In elaborating medium-term fiscal adjustment, legislating reforms to pension
+
+2
+entitlements and public health care systems, making permanent reductions in planned
+non-entitlement spending, and strengthening fiscal institutions would be imperative.
+
+
+From a near-term perspective, most G-20 advanced economies do not need to tighten
+before 2011, since this could undermine the fledgling recovery, but they should not
+add further stimulus. Although specifics will vary by country, current fiscal
+consolidation plans for this group of countries for 2011—which envisage, on average,
+an adjustment of about 1¼ percentage points of GDP in the cyclically adjusted
+balance—are broadly appropriate.
+
+
+
+Countries currently facing sovereign funding pressures have already begun to embark
+on immediate fiscal consolidation. For these countries, strong signals of commitment
+through upfront measures, even if politically difficult, are necessary. Countries that
+are unable to credibly commit to medium-term consolidation may find that adverse
+market reaction compels them to undertake significantly more front-loaded
+adjustment.
+
+
+
+Fast-growing advanced and emerging economies can start tightening policies now.
+For some countries, using fiscal policy to contain demand pressures may be
+preferable if tighter monetary conditions risk exacerbating pressures from capital
+inflows. Elsewhere, however, in some countries where debt levels are relatively low,
+monetary tightening and exchange rate adjustment would be more appropriate than
+fiscal tightening.
+
+Fiscal actions must be complemented by banking system reform and measures to
+enhance growth and competitiveness.
+
+
+A lesson from history is that strong growth is critically important for successful fiscal
+adjustment. All economies need to implement key structural reforms to improve
+growth prospects, especially fiscally-challenged economies that face competiveness
+problems.
+
+
+
+Authorities should work to reduce ongoing uncertainty about the regulatory
+environment and to implement long-awaited reforms. Banking systems remain
+fragile—more effort is required to ensure balance sheets are robust to future shocks.
+In particular, authorities should avoid unilateral measures which can have unintended
+consequences. These are more likely to be interpreted as uncoordinated and lacking
+cohesion rather than calming markets.
+
+3
+I. RECENT DEVELOPMENTS AND IMPLICATIONS FOR THE OUTLOOK1
+Financial market volatility has increased dramatically and risky assets have been sold off
+across all regions, reflecting, to varying degrees, increasing concern over fiscal and external
+sustainability, regulatory uncertainty, and medium-term growth prospects. Policymakers in
+Europe have provided substantial emergency funding, and countries facing stress have taken
+some corrective policy actions. But markets have not yet been assured about underlying
+concerns. Up until this point, macroeconomic developments in the United States, Japan, and
+the largest euro area economies have been consistent with expectations of a modest recovery.
+Activity in emerging Asia and Latin America has been expanding strongly, driven by a
+rebound in trade. Unless prompt and credible action is taken to address solvency concerns
+and address policy uncertainty, the recent financial shocks may dampen growth relative to
+WEO projections.
+1.
+Financial markets have seen renewed turbulence, reflecting market concerns
+about fiscal sustainability, policy uncertainty, and the strength of economic recovery
+and medium-term growth prospects.
+
+
+Concerns over fiscal positions and competitiveness in Greece and other southern
+European states had been escalating since the end of 2009, and have come to the fore
+during May. Greek, Portuguese and Spanish sovereign debt has been downgraded.
+Going forward, a more general reassessment of sovereign risk could affect other
+countries that have experienced material increases in government debt and deficit
+levels on the back of the financial crisis.
+
+
+
+Perceptions of risk have increased sharply and appetite for risky assets has decreased.
+Concerns over sovereign risks spilled over to the banking sector, with funding
+pressure reemerging in European markets. The contagion spread through interbank
+markets, leading to rises in funding spreads. Cross-currency swap bases widened to
+levels last seen in early 2009, as dollar funding became scarce. Bond and CDS
+spreads for a number of European economies widened rapidly and some eurodenominated assets were sold off.
+
+
+
+Assets in other regions, including emerging markets, have also experienced
+substantial sell-offs as risk appetite has waned. In addition to the global increase in
+risk aversion, the asset price falls may also reflect recognition of important financial
+and trade linkages with Europe. Market expectations of the rate of future growth have
+also been revised downward.
+
+1
+
+This report updates the assessment of the global conjuncture and policy challenges in the IMF Staff
+Surveillance Note prepared for the Meeting of G-20 Finance Ministers and Central Bank Governors, April 23,
+2010 (www.imf.org).
+
+4
+Sovereign CDS Spreads 1/
+
+Government Bond Spreads
+
+(Basis points)
+500
+
+(2-year yield spreads over German bunds; bps)
+1000
+
+Greece (RHS)
+Italy
+
+400
+
+800
+
+Ireland
+Portugal
+
+300
+
+600
+
+Spain
+
+2000
+
+600
+500
+400
+300
+
+200
+
+Greece (RHS)
+
+1800
+
+Italy
+
+1600
+
+Ireland
+
+1400
+
+Portugal
+
+1200
+
+Spain
+
+1000
+
+400
+
+800
+
+200
+100
+
+200
+
+0
+Jan-10
+
+5/28/2010
+Feb-10 Mar-10
+
+Apr-10
+
+0
+
+May-10
+
+600
+400
+
+100
+0
+Jan-10
+
+5/28/2010
+Feb-10 Mar-10
+
+Apr-10
+
+200
+0
+
+May-10
+
+1/ Five highest levels of euro area members, as of 28 May
+2010.
+
+Equity Implied Volatility
+
+Equity Indices
+
+(Jan. 1, 2010=100)
+
+120
+
+S&P 500
+
+(Percent)
+
+50
+
+EuroFirst 300
+
+U.S. (S&P 500)
+
+45
+
+TOPIX
+
+Emerging Markets (VXY)
+
+40
+
+110
+
+MSCI Emerging Markets
+
+35
+30
+25
+
+100
+
+20
+15
+
+90
+5/28/2010
+Jan-10
+
+Feb-10 Mar-10
+
+Apr-10
+
+80
+
+May-10
+
+Money Market Spreads
+
+Feb-10 Mar-10
+
+Apr-10
+
+5
+0
+
+May-10
+
+(Basis points)
+
+360
+EMBIG+
+
+28
+
+30
+320
+
+24
+
+28
+
+20
+
+26
+
+280
+
+LIBOR - OIS spread
+
+24
+
+EURIBOR - OIS spread (RHS)
+
+240
+
+22
+
+8
+4
+Jan-10
+
+Jan-10
+
+32
+
+32
+
+12
+
+5/28/2010
+
+Emerging Market
+Bond Spreads
+EMBIG+
+
+(Basis points)
+
+16
+
+10
+
+5/28/2010
+Feb-10 Mar-10
+
+Apr-10 May-10
+
+20
+
+5/28/2010
+Jan-10
+
+Feb-10 Mar-10
+
+Apr-10
+
+May-10
+
+200
+
+5
+2.
+
+Substantial policy measures have been announced in response.
+
+
+
+To alleviate market and financial sector strains, on May 9, the EU announced a bold
+package of measures. The package with a total commitment of up to €500bn consists
+of two components: (i) a European Financial Stabilization Mechanism of the
+European Union of up to €60bn; and (ii) a European Financial Stabilization Facility,
+consisting of a Special Purpose Vehicle of up to €440bn provided by all euro area
+members. On May 10, the ECB announced several measures to address severe
+tensions in certain dysfunctional market segments with a view to ensuring an
+appropriate functioning of the monetary policy transmission mechanism. This
+included sterilized intervention relating in the euro area public and private debt
+securities, the conduct of some longer-term refinancing operations with full allotment,
+and reactivation of dollar swap lines between central banks.2 The Fund would be
+expected to play its part when requested, on a country-by-country basis, through the
+range of instruments available.
+
+
+
+The Fund has provided Greece a three-year €30 billion Stand-By Arrangement in
+support of the authorities’ economic adjustment and transformation program. The
+SBA is part of a cooperative package of financing with the European Union
+amounting to €110 bn. The package is a multi-year program involving significant
+fiscal adjustment. Fiscal consolidation—on top of adjustment already under way—
+will total 11 percent of GDP over three years, with the adjustment designed to reduce
+the general government deficit to under 3 percent of GDP by 2014 (compared with
+13.6 percent in 2009).
+
+
+
+The Spanish authorities have announced new fiscal measures to reduce the deficit by
+an additional 0.5 percent of GDP in 2010 and 1 percent of GDP in 2011 (for a total
+frontloading of fiscal consolidation amounting to 1.5 percent of GDP), to 9.3 percent
+and 6 percent of GDP, respectively. Portugal has also presented an additional package
+of expenditure cuts and tax increases aimed at reducing the deficit to 7 percent of
+GDP in 2010 and 4.6 percent of GDP in 2011. Italy has announced an emergency
+€25bn deficit-cutting budget over the next two years, consistent with earlier
+announced policy objectives. Germany has confirmed previous intentions to meet the
+SGP target in 2013 and the national fiscal rule in 2016. France announced a freeze of
+nominal central government expenditures (excluding interest payments and pensions).
+The new U.K. government has announced measures to save £5-6bn in the current
+financial year, ahead of a formal budget later in 2010, and the formation of an Office
+for Budget Responsibility that would produce independent growth and public finance
+forecasts.
+
+2
+
+The German lower and upper houses have approved Germany’s €148bn contribution.
+
+6
+
+
+The European Commission has put forward bold proposals to strengthen the Stability
+and Growth Pact and expand surveillance to include developments in competitiveness
+and macroeconomic imbalances. Moreover, on the basis of the Commissions’
+proposals and contributions by Member States, governance reforms are currently
+being discussed and will be presented on the occasion of the European Council in
+October.
+
+3.
+Policy announcements have not calmed markets, however, and some
+uncoordinated measures may have further increased risk aversion. At the time of
+writing, the situation remains fragile, with markets looking for implementation of cohesive
+policies to address underlying solvency issues.
+
+
+Values of risky assets have fallen across markets and regions since the turbulence of 6
+and 7 May, and perceptions of market risk have increased. Sovereign bond spreads
+have fallen from the sharply increased levels of 6 May, but remain elevated in
+comparison to levels over the past few months, driven both by yields demanded on
+sovereigns perceived to be riskier and portfolio re-allocation to sovereigns perceived
+to be safe. Similarly, CDS spreads fell on news of plans by the ECB to conduct
+sterilized interventions in the euro-area public and private debt securities markets, but
+have since crept up. Crucially, concerns over funding continue in some interbank,
+cross-currency, and money markets— interbank markets display low activity levels,
+as evidenced by rising deposits at the ECB, while LIBOR levels and LIBOR-OIS
+spreads have continued to rise, reflecting fears about funding gaps by European
+banks, particularly in dollars. Although these rates are not yet at levels seen during
+late 2008, they are higher than those seen in recent months.
+
+
+
+The German financial regulator implemented a ban on naked short-selling (selling
+securities such as shares and bonds that are not owned or borrowed), effective
+immediately and lasting until the end of March next year, with a view to regulating a
+segment of the market that it considered insufficiently regulated. This unilateral
+decision has been perceived by many market participants as illustrating an
+unpredictable regulatory environment and has been associated with a further
+deterioration in market liquidity.
+
+7
+Exchange Rate Indices
+
+Commodity Price Indices
+
+(Jan. 1, 2010=100)
+
+120
+
+Euro
+Yen
+Renminbi
+Swiss Franc
+Sterling
+
+(Jan. 1, 2010=100)
+
+140
+
+Metals
+
+130
+
+Food
+
+110
+
+Raw Materials
+
+120
+
+Crude Oil (APSP)
+Gold
+
+100
+
+110
+100
+
+90
+90
+5/28/2010
+Jan-10
+
+Feb-10 Mar-10
+
+Apr-10
+
+May-10
+
+5/28/2010
+
+80
+Jan-10
+
+Feb-10 Mar-10
+
+Apr-10
+
+80
+
+May-10
+
+4.
+Exchange rates and commodity prices have also reflected risk aversion and
+concerns over demand.
+
+
+The financial market turmoil in May included a sharp depreciation of the euro against
+the dollar. The euro has continued to decline in value as dollar funding pressures have
+risen, even following the announcement of the stabilization package, and has now
+fallen 14 percent from the beginning of the year to 28 May. The depreciation has now
+brought the euro in line with its medium-term equilibrium value. Sterling has also
+depreciated, by nearly 11 percent over the same period, while the Swiss franc has
+appreciated due to “safe haven” effects.
+
+
+
+After substantial rises this year, prices of most metals, raw materials and crude oil
+fell substantially, owing, in part, to reduced expectations of global demand.
+
+5.
+Up to the time of writing, recent macroeconomic data have been consistent with
+expectations of a modest but steady recovery in most advanced economies and strong
+growth overall in emerging and developing economies.
+
+
+Advanced G-20 economies: In the United States, data have suggested that firms have
+begun to restock and are willing to invest in new fixed capital. Moreover, expenditure
+and confidence survey data have pointed to growing momentum in private
+consumption. In Japan, a modest recovery has been underway, driven in large part by
+a strong rebound in trade, although deflationary pressures have persisted. Growth in
+advanced European economies has been positive overall, albeit with notable
+differences. Data have indicated strong growth in Germany and, to a lesser extent,
+France, which together account for nearly half of euro area output. Growth in other
+euro area economies has not been as strong. Bank lending, which is particularly
+important for European economies, remains constrained.
+
+8
+Industrial Production
+
+Industrial Production
+
+(Index; January 2007=100)
+
+(Index; January 2007=100)
+180
+
+110
+
+Brazil
+
+105
+100
+95
+90
+85
+
+United States
+
+80
+
+Japan
+
+160
+
+China
+
+140
+
+Russia
+
+India
+
+120
+100
+
+Euro area
+
+75
+
+80
+
+70
+Apr. 10
+
+65
+07
+
+08
+
+09
+
+Apr. 10
+
+60
+07
+
+10
+
+08
+
+09
+
+10
+
+
+
+Emerging G-20 economies: Overall, production in Latin America has recovered to
+levels seen at the beginning of 2007, with larger economies rebounding more quickly
+than smaller economies. Growth in Brazil has been particularly strong. Output in
+Mexico has recovered too but not as strongly and remains substantially below its
+potential output level. Asian output has grown strongly and steadily, such that output
+is now well above pre-crisis levels. Although there are signs of a broader return to
+growth in Emerging Europe, CIS and Russia, there is considerable diversity among
+these economies, and output has generally not recovered to pre-crisis levels.
+
+
+
+Trade: External trade has been an important driver of the nascent recovery. In
+particular, Asian trade has rebounded strongly following the precipitous decline in
+2009, and is now at or above levels seen at the beginning of 2007. There are some
+signs that trade balances, having compressed during the recession, are returning to
+patterns seen before the crisis, with surpluses and deficits increasing. However, there
+may be limits to further expansions in trade unless private demand growth is
+sustained.
+Merchandise Exports
+
+Unemployment Rates
+
+(Index; January 2007=100)
+
+200
+
+(Percent)
+12
+
+180
+
+United States
+
+10
+
+160
+140
+
+Japan
+Euro area
+
+8
+
+120
+100
+
+6
+China
+
+80
+
+Japan
+
+60
+
+4
+
+Korea
+
+40
+
+India
+
+20
+
+2
+
+Indonesia
+
+Apr. 10
+
+0
+07
+
+08
+
+09
+
+10
+
+Apr. 10
+
+0
+07
+
+08
+
+09
+
+10
+
+9
+
+
+Labor markets: In advanced G-20 economies, high unemployment rates have
+remained broadly unchanged for some months. In particular, payrolls data indicate
+that firms in the United States have resumed hiring, although not yet at rates that
+imply rapid reductions in unemployment, as previously discouraged workers are
+looking for jobs again. High long-term unemployment and still-poor job prospects in
+the most hard-hit sectors of the economy (such as housing and finance) could also
+temper the employment recovery. In Germany, short-time work schemes have been
+successful in preventing large increases in unemployment as output fell, and
+employment shows signs of stabilizing. In emerging G-20 economies, unemployment
+rates have been decreasing.
+
+6.
+The latest financial shocks may dampen growth during the second half of the
+year relative to WEO projections, at least in some regions, possibly leading to revisions of
+the staff forecast.3
+
+
+Macroeconomic data through April are broadly consistent with the April 2010 World
+Economic Outlook. And data for 2009Q4–2010Q2 are in line with or stronger than
+WEO projections.
+
+
+
+However, the repercussions of financial stress in the third quarter of 2008 illustrate
+that developments in financial markets can have strong effects on economic activity.
+Persistent financial stress would likely have negative effects through higher private
+and sovereign funding rates, reduced lending and tighter credit conditions, reduced
+capital flows and reallocations of portfolios to safe assets, reduced incomes for
+commodity producers, and lower confidence. In such a case, economies with fiscal
+and/or external balances would be worst affected.
+
+
+
+The depreciation of the euro would tend to encourage net exports for the euro area.
+However, to the extent that the depreciation is driven by increased risk aversion, the
+net effect on growth could be negative.
+II. RISKS
+
+Downside risks have risen sharply. Downside scenarios could materialize from further rises
+in government bond spreads, leading to increases in other funding costs and likely banking
+system contagion; reduced credit availability; and repercussions on demand through trade
+and financial channels. Some emerging economies are potentially facing overheating.
+
+3
+
+The next World Economic Outlook update will be released in July.
+
+10
+7.
+Higher sovereign risk premia could lead to contagion through the banking
+system. Increases in sovereign risks are generally associated with increases in banking sector
+risks:
+Sovereign Risks and Banking Risks Move Together 1/
+Banks could face further markdowns on their holdings of euro area
+200
+Greece
+public debt as prices fall, and this
+Italy
+would affect European banks more
+150
+Spain
+Portugal
+than others. Hedging activity could
+Germany
+France
+100
+have the unintended consequence of
+United
+Kingdom
+Denmark
+increasing volatility in government
+Belgium
+50
+Ireland
+bond markets. Concerns about
+Norway
+Switzerland
+sovereign balance sheets could lead
+Netherlands
+Sweden
+Austria
+0
+to further credit ratings downgrades,
+-100
+0
+100 200 300 400 500 600
+and raise bank funding costs. The
+Percent change in sovereign CDS
+Sources: Bloomberg L.P.; Datastream; and IMF staff estimates.
+value of government bond collateral,
+1/ October 2009 to May 2010.
+used to obtain financing, would also
+fall. Bank capitalization remains low and has not increased much since the onset of
+the crisis in 2008. Hence, banks’ capacity to absorb higher funding costs and balance
+sheet losses is limited.
+
+
+
+The combination of pressures on bank assets and liabilities might lead counterparties
+to withdraw their funding of affected banking systems, thus further exacerbating
+strains. Contagion could spread through bank funding markets if institutions with
+exposures to affected banks find that investors cut back on their funding. Other assets
+could fall in value if there is a more widespread impact on market confidence.
+
+
+
+Even with some relief from the EU package, meeting gross sovereign funding needs
+for the remainder of 2010 through 2012 will require increased market confidence.
+Failed auctions or placement difficulties in bond markets could reignite contagion or
+have adverse implications for funding costs of other countries.
+
+Average percent change in local senior
+financial CDS
+
+
+
+8.
+Financial market disruption could also threaten credit supply, cross-border
+capital flows, and the nascent recovery in aggregate demand. “Real money” flows—
+portfolio allocations by institutional investors, rather than speculative flows—have increased
+out of Europe, as reflected in the sharp rise in dollar funding pressures.
+
+
+Shocks to European banks would further constrain credit supply and tighten lending
+conditions, which have only recently shown signs of some easing.
+
+
+
+Banks suffering losses from southern European exposures may attempt to compensate
+by withdrawing capital from emerging economies, particularly from those in
+emerging Europe and Latin America.
+
+11
+
+
+Financial sector risks are not confined to European banks. The recent turmoil has
+again demonstrated the susceptibility of banks worldwide to runs on wholesale
+funding.
+
+
+
+Capital flows to emerging economies could change direction quickly. Further
+increases in risk aversion could see large and rapid capital withdrawals. However, if
+emerging economies are reassessed as less risky destinations than many advanced
+economies, capital inflows could also surge. As a result, capital flows could go
+through a period of heightened volatility.
+
+9.
+Increased financial disruption and slowing aggregate demand would undermine
+global trade and commodity incomes. In particular, the effect of a reduction in European
+output would be significant: euro area GDP represents approximately 20 percent of world
+GDP (on a PPP-weighted basis).
+
+
+In terms of trade linkages, the euro area is most important for geographically
+proximate economies such as the United Kingdom, Norway, Sweden and emerging
+Europe. For Latin America, trade with Europe is less important than trade with other
+regions, but financial links with Europe are relatively strong. Asian economies are
+highly dependent on external demand—for many, Europe is at least as important a
+trading partner as the United States. Moreover, Asian exports are concentrated in
+cyclical medium- and high-tech goods, so the impact on trade and real GDP growth in
+Asia of a euro–area crisis could potentially be as disruptive as the impact of the U.S.
+subprime crisis.
+
+
+
+Commodity incomes of emerging economies could fall in anticipation of lower world
+growth. Europe is very important for commodity exporters in Asia and, especially,
+Latin America. Depreciation of the euro may help net trade of euro area economies, at
+the expense of exports from those economies that peg to the dollar. There could also
+be direct effects on world oil prices and, hence, the incomes of oil exporters.
+
+10.
+Markets appear to be concerned about risks from uncoordinated, unclear and
+ill-timed policy decisions. Uncertainty about how to interpret some regulatory changes has
+reduced liquidity in the short run, adding to strains in funding markets.
+11.
+Policy makers in emerging economies will have to manage gathering momentum
+in their economies. Some of the larger economies in emerging Asia and Latin America are
+now relatively far advanced in their cyclical recovery and face risks of overheating. The size
+of such risks will depend greatly on global financial market conditions and world commodity
+prices. Notwithstanding recent market turbulence, sovereign borrowing costs remain near
+historical lows for these economies, with moderate rises in spreads offset by falls in U.S.
+Treasury yields, and commodity prices remain high in historical terms.
+
+12
+III. POLICY CHALLENGES
+The recent turmoil in euro area debt markets highlights growing market sensitivity to
+sovereign risks. In most advanced G-20 economies, fiscal tightening will be required in 2011.
+The challenge for fiscal policy is to reduce public debt while also encouraging growth.
+Fiscal measures must also be complemented by measures to reduce the fragility of banking
+systems and by growth-enhancing structural reforms. Greater global policy coordination—
+especially on crisis resolution mechanisms—is needed to resolve the crisis on a durable
+basis.
+12.
+The recent turbulence in euro area government debt markets highlights growing
+market sensitivity to sovereign risks. Strong and urgent action is required on plans to
+achieve fiscal sustainability, reduce the fragility of banking systems, and encourage
+growth. The provision of substantial support in the euro area was timely and appropriate, and
+has mitigated the immediate risk of a liquidity crisis. But these measures should be thought
+of as having given a window of opportunity in which to solve underlying problems of
+sustainability and competitiveness. Moreover, the recent turbulence also highlights that
+banking systems remain fragile. Further balance sheet repair is necessary, coupled with
+reforms to strengthen the financial sector.
+13.
+The challenge for fiscal policy is to reduce high public debt to prudent levels
+while also encouraging growth. Fiscal consolidation needs to be anchored by a credible
+medium-term plan, with adjustment in the near-term depending on country circumstances,
+particularly the pace of recovery and the risk of a loss of fiscal credibility. In particular,
+authorities need to avoid both a loss of credibility arising from appearing unable or unwilling
+to address market concerns about the course of fiscal policy and an excessive tightening of
+fiscal policy in the near term, as either would have severe implications for growth.
+
+
+It is of overarching importance that G-20 countries commit now to credible mediumterm fiscal adjustment plans, which could include legislation creating multi-year
+targets. In elaborating medium-term fiscal adjustment, legislating reforms to pension
+entitlements and public health care systems, making permanent reductions in nonentitlement spending, and strengthening fiscal institutions would be imperative. For
+example, gradual increases in the age of eligibility for pensions would have
+immediate benefits for fiscal sustainability while allowing households time to adjust
+to longer expected working lives. Medium-term reforms should also include
+strengthening fiscal institutions (e.g., fiscal rules and medium-term fiscal
+frameworks) to support a durable fiscal effort.
+
+
+
+From a near-term perspective, most G-20 advanced economies do not need to tighten
+before 2011, since this could undermine the fledgling recovery, but they should not
+add further stimulus. Although specifics will vary by country, current fiscal
+consolidation plans for this group of countries for 2011—which envisage, on average,
+
+13
+an adjustment of about 1¼ percentage points of GDP in the cyclically adjusted
+balance—are broadly appropriate.
+
+
+Countries currently facing sovereign funding pressures have already begun to embark
+on immediate fiscal consolidation. Given market pressures, some economies in the
+euro area will need to tighten fiscal policies more aggressively than expected,
+including through upfront measures, even if politically difficult. The important
+consolidation steps taken by a number of these countries will need to be
+complemented with reform to the euro area fiscal framework, including deficit rules
+that have credible enforcement mechanisms. Countries that are unable to credibly
+commit to medium-term consolidation may find that adverse market reaction compels
+them to undertake significantly more front-loaded adjustment.
+
+
+
+Fast-growing advanced and emerging economies can start tightening policies now.
+For some countries, using fiscal policy to contain demand pressures may be
+preferable if tighter monetary conditions risk exacerbating pressures from capital
+inflows. Elsewhere, however, in some other countries where debt levels are relatively
+low, monetary tightening and exchange rate adjustment would be more appropriate
+than fiscal tightening.
+
+14.
+Structural reforms are especially needed to raise the trend level of growth and
+improve competitiveness in countries facing large fiscal adjustments.
+
+
+Fiscal sustainability in those European countries under duress is threatened not only
+by recent rises in funding costs, but also by low growth prospects and poor
+competitiveness. Hence, in addition to restoring budget balances to sustainable levels,
+key structural adjustments will be needed, particularly in product and labor markets.
+
+
+
+Revenue policies need to be reformed to maximize efficiency, including by shifting to
+taxes that encourage saving and investment and greater labor force participation.
+
+15.
+The recent increase in financial stress underscores the urgent need for financial
+sector reforms and measures to restore the health of banking systems. Although this has
+been an outstanding issue since 2008, material changes have been limited. Recent market
+turbulence may also reflect concerns over policy uncertainty and opacity, in addition to
+economic concerns.
+
+
+More progress is needed on bank recapitalization; bank consolidation, resolution, and
+restructuring; and regulatory reform. Larger capital buffers are required to absorb the
+ongoing and expected future deterioration in credit quality and to meet expected
+higher capital standards. Bank funding remains a concern, given upcoming debt
+rollovers.
+
+14
+
+
+Stress tests for banking systems directly exposed to higher funding costs and balance
+sheet losses on sovereign debt—notably those underway in Europe—can shed greater
+light on banks’ ability to absorb losses in worse-than-expected macroeconomic
+conditions. Greater disclosure of the outcomes, including a release to the public of
+bank-by-bank tests and credible plans to strengthen capital levels where needed,
+would enhance the credibility of the exercise and help improve market sentiment.
+
+
+
+Credible and consistent plans and timetables for implementing regulatory reform need
+to be developed and announced to reduce regulatory uncertainty. More effective
+bankruptcy procedures are required, especially cross-border resolution mechanisms in
+Europe, given the highly-interconnected nature of its banking system. Such measures
+would strengthen confidence in the resilience of banking systems to financial shocks.
+
+
+
+Inconsistency, delay, and lack of coordination on financial sector reform are key
+weaknesses, and may be responsible for some of the recent financial market
+turbulence.
+
+15
+Table 1. World Economic Outlook Output Projections 1/
+(Percent change)
+Year over Year
+Est.
+
+Projections
+
+2008
+
+2009
+
+2010
+
+2011
+
+World
+Advanced economies
+Euro area
+Emerging and developing economies
+
+3.0
+0.5
+0.6
+6.1
+
+-0.6
+-3.2
+-4.1
+2.4
+
+4.2
+2.3
+1.0
+6.3
+
+4.3
+2.4
+1.5
+6.5
+
+G-20 2/
+Argentina 3/
+Australia
+Brazil
+Canada
+China
+France
+Germany
+India
+Indonesia
+Italy
+Japan
+Korea
+Mexico
+Russia
+Saudi Arabia
+South Africa
+T urkey
+United Kingdom
+United States
+European Union
+
+2.9
+6.8
+2.4
+5.1
+0.4
+9.6
+0.3
+1.2
+7.3
+6.0
+-1.3
+-1.2
+2.3
+1.5
+5.6
+4.3
+3.7
+0.7
+0.5
+0.4
+0.9
+
+-0.5
+0.9
+1.3
+-0.2
+-2.6
+8.7
+-2.2
+-5.0
+5.7
+4.5
+-5.0
+-5.2
+0.2
+-6.5
+-7.9
+0.1
+-1.8
+-4.7
+-4.9
+-2.4
+-4.1
+
+4.6
+3.5
+3.0
+5.5
+3.1
+10.0
+1.5
+1.2
+8.8
+6.0
+0.8
+1.9
+4.5
+4.2
+4.0
+3.7
+2.6
+5.2
+1.3
+3.1
+1.0
+
+4.5
+3.0
+3.5
+4.1
+3.2
+9.9
+1.8
+1.7
+8.4
+6.2
+1.2
+2.0
+5.0
+4.5
+3.3
+4.0
+3.6
+3.4
+2.5
+2.6
+1.8
+
+1/ IMF, World Economic Outlook, April 2010 published.
+2/ G-20 yearly projections exclude European Union.
+3/ Private analysts are the view that real GDP growth has been lower than the official
+reports since the last quarter of 2008.
+
+16
+Table 2. World Economic Outlook Headline CPI Inflation Projections 1/
+(Percent change)
+Year over Year
+Est.
+
+Projections
+
+2008
+
+2009
+
+2010
+
+2011
+
+World
+Advanced economies
+Euro area
+Emerging and developing economies
+
+6.0
+3.4
+3.3
+9.2
+
+2.4
+0.1
+0.3
+5.2
+
+3.7
+1.5
+1.1
+6.2
+
+3.0
+1.4
+1.3
+4.7
+
+G-20 2/
+Argentina 3/
+Australia
+Brazil
+Canada
+China
+France
+Germany
+India
+Indonesia
+Italy
+Japan
+Korea
+Mexico
+Russia
+Saudi Arabia
+South Africa
+T urkey
+United Kingdom
+United States
+European Union
+
+5.0
+8.6
+4.4
+5.7
+2.4
+5.9
+3.2
+2.8
+8.3
+9.8
+3.5
+1.4
+4.7
+5.1
+14.1
+9.9
+11.5
+10.4
+3.6
+3.8
+3.7
+
+1.8
+6.3
+1.8
+4.9
+0.3
+-0.7
+0.1
+0.1
+10.9
+4.8
+0.8
+-1.4
+2.8
+5.3
+11.7
+5.1
+7.1
+6.3
+2.2
+-0.3
+0.9
+
+3.4
+10.1
+2.4
+5.1
+1.8
+3.1
+1.2
+0.9
+13.2
+4.7
+1.4
+-1.4
+2.9
+4.6
+7.0
+5.2
+5.8
+9.7
+2.7
+2.1
+1.5
+
+2.5
+9.1
+2.4
+4.6
+2.0
+2.4
+1.5
+1.0
+5.5
+5.8
+1.7
+-0.5
+3.0
+3.7
+5.7
+5.0
+5.8
+5.7
+1.6
+1.7
+1.5
+
+1/ IMF, World Economic Outlook, April 2010 published.
+2/ G-20 yearly projections exclude European Union.
+3/ Private analysts estimate that CPI inflation has been considerably higher. The authorities have
+established a board of academic advisors to assess these issues.
+
+

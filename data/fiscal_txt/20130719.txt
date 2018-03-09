@@ -1,0 +1,1166 @@
+                                                 
+1
+
+ 
+      G R O U P O F T W E N T Y
+
+GLOBAL PROSPECTS AND POLICY CHALLENGES 
+
+Meetings of G-20 Finance Ministers and Central Bank Governors
+July 19–20, 2013
+Moscow
+
+Prepared by Staff of the
+I N T E R N A T I O N A L M O N E T A R Y F U N D*
+*Does not necessarily reflect the views of the IMF Executive Board.
+
+EXECUTIVE SUMMARY
+The strength of the recovery disappointed once again and the outlook has weakened somewhat. Global
+growth improved from 2¼ percent (annual rate) in 2012Q4 to 2¾ percent in 2013Q1, but this was weakerthan-projected in the April WEO. The July WEO outlook is for lower growth in both 2013 and 2014, reflecting
+inter alia a (once again) delayed recovery in the euro area, as well as weaker growth in emerging economies.
+Market volatility has been higher and financial conditions have tightened. Higher volatility following a
+strong market rally may stem from several possible sources, including some asset re-pricing following strong
+gains, uncertainty about tapering of U.S monetary stimulus; and market reassessment of emerging economy
+fundamentals. After a bout of disappointing data on emerging markets activity and following Fed’s signals
+that quantitative easing could be tapered earlier than expected, volatility and bonds yields have increased;
+and emerging market equities and currencies have fallen sharply, alongside capital outflows and liquidity
+pressures. Emerging economies with poor fundamentals and strong previous capital inflows have been
+hardest hit. In advanced economies, longer-term interest rates and financial volatility have increased and
+sovereign spreads in the euro area periphery have been widening, following a period of continued declines.
+While tail risks have abated, important downside risks prevail. Although it is too soon to tell, the current
+market turbulence could continue and deepen. Growth could be lower than projected due to a protracted
+period of stagnation in the euro area, and risks of a longer slowdown in emerging markets have increased.
+Additionally, financial stability risks are a growing concern in both advanced and emerging economies. The
+eventual exit from low rates and unconventional monetary policy in advanced economies could pose
+challenges for emerging economies, especially if it proceeds too fast or is not well communicated.
+Progress on the policy front is crucial to achieve a stronger and lasting recovery, while safeguarding
+financial stability. Specifically:
+
+
+Advanced economies should pursue a policy mix that is more supportive of near-term growth than in the
+recent past, differentiated according to fiscal space, and anchored by a credible and concrete roadmap to
+achieve fiscal sustainability. Monetary policy should continue to play its supportive role, given low
+inflation and economic slack. Fiscal adjustment should proceed gradually, anchored by credible and
+detailed medium-term plans with emphasis on “growth-friendly” adjustment. Financial sector reforms are
+imperative, notably in Europe, where further progress in restructuring, resolving, and recapitalizing banks
+and completing the banking union is critical to allow a revival of credit to the real economy.
+
+
+
+Emerging economies now need to navigate carefully through more turbulent waters. Monetary easing can
+alleviate liquidity pressures and downside risks to growth but capital outflows may complicate actions.
+Policymakers should be ready to address possible financial stability risks where high credit growth has
+been prolonged, by strengthening oversight and macro-prudential policies. Risk of lower potential
+suggests less room for fiscal accommodation and policymakers should focus on rebuilding fiscal buffers,
+while addressing structural obstacles to continued high potential growth.
+
+
+
+Reducing global imbalances while supporting growth will require surplus economies to increase internal
+demand on a sustained basis and deficit economies to raise external competitiveness. Without policy
+progress on this front, the risks are that either global imbalances could widen again as output gaps in
+advanced economies are closed or global growth would remain sluggish.
+
+___________________________________________________________________________________________________
+Prepared by a team from the IMF’s Research Department, led by Hamid Faruqee, Emil Stavrev and Florence Jaumotte,
+and including Eric Bang, Gabi Ionescu, and Shuda Li.
+
+DEVELOPMENTS, OUTLOOK, AND RISKS
+Global growth has been weaker than expected. This reflects a delayed recovery in the euro area and
+a general loss of momentum in emerging economies due to both demand and supply factors.
+Accordingly, the outlook is weaker than projected in the April 2013 WEO and risks remain to the
+downside. Volatility in financial markets has also increased recently, especially in emerging
+economies, indicating the potential challenges that a faster-than-expected exit from low rates and
+unconventional monetary policy in advanced economies could pose.
+
+1.
+Global activity has disappointed, driven by developments in the euro area and
+emerging economies. Global growth increased from a 2¼ percent (annual rate) in the fourth
+quarter of 2012 to 2¾ percent in the first quarter of 2013, but has been weaker than projected in
+the April 2013 WEO. Recent indicators on manufacturing, industrial production, retail sales and
+trade suggest that global growth in the second half of 2013 will also be softer than earlier
+envisaged.
+Global Manufacturing PMI
+
+Merchandise Exports
+
+(index; >50 = expansion; sa)
+
+(percent; 3mma annualized)
+
+Advanced
+
+60
+
+Emerging
+
+Advanced
+
+80
+
+Emerging
+
+60
+
+55
+
+40
+50
+
+20
+
+45
+
+0
+-20
+
+40
+
+-40
+35
+
+-60
+May 13
+
+30
+05
+
+06
+
+07
+
+08
+
+09
+
+10
+
+11
+
+Source: IMF, Global Data Source.
+
+
+
+2
+
+12
+
+13
+
+May 13
+
+-80
+05
+
+06
+
+07
+
+08
+
+09
+
+10
+
+11
+
+12
+
+13
+
+Source: IMF, Global Data Source.
+
+Recession in the euro area periphery has been deeper than expected and is affecting the
+core, although some signs of stabilization have emerged recently. Deep fragmentation of
+financial markets, the need to repair private sector balance sheets, depressed confidence
+and tight fiscal conditions all continue to affect activity in the periphery. Low policy rates
+are not sufficiently passing through to bank funding and lending rates and credit
+continues to contract. The weakness has spilled over to core countries, also affected by
+the soft patch in non-EU countries. Heightened uncertainty about euro area prospects and
+policies is holding back private investment and durable consumption, even in the core.
+Fiscal consolidation also had a large impact in France.
+
+INTERNATIONAL MONETARY FUND
+
+Euro area Core Exports
+
+Euro area GDP vs. Core Investment
+
+(3 month moving avg/3 month moving avg)
+7
+6
+5
+4
+3
+2
+1
+0
+-1
+-2
+-3
+-4
+Jan-11
+
+Total
+
+Outside EU
+
+Inside EU
+
+20
+
+(percent change from year earlier)
+Euro area GDP
+France Gross Fixed Capital Formation
+Germany Gross Fixed Capital Formation
+
+15
+10
+5
+0
+-5
+-10
+
+Jul-11
+
+Jan-12
+
+Jul-12
+
+May 13
+Jan-13
+
+Source: Haver analytics.
+1/ Euro area core consists of Germany and France.
+
+13Q1
+
+-15
+06
+
+07
+
+08
+
+09
+
+10
+
+11
+
+12
+
+13
+
+Source: Haver analytics.
+
+
+
+Growth disappointed across most emerging economies. Activity has generally slowed across
+Asia and Latin America, reflecting both sluggish exports and revised income prospects
+that are weighing on domestic demand. In some countries (Brazil, China, India), supply
+factors also played a role. Growth in Emerging Asia fell to 4.8 percent (quarter-on-quarter
+seasonally adjusted at annual rate; qoq saar) in 2013Q1, with manufacturing growth
+weaker in China and India. Growth in Latin America slowed to 2.2 percent (qoq, saar) in
+2013Q1, with growth in Brazil continuing to disappoint, although investment is finally on
+the rise; and activity slowed more elsewhere (South Africa and most countries in Emerging
+Europe).
+
+
+
+In contrast, activity is expanding broadly as expected in the United States. Underlying
+growth has been resilient in the face of the sharp fiscal contraction thanks to improved
+private demand as the recovery in house and equity prices is strengthening household
+wealth and credit conditions have eased.
+
+
+
+Growth has surprised on the upside in Japan reflecting the new policy momentum. The new
+policy strategy aimed at exiting low growth and deflation has boosted private
+consumption through rising equity values and improving consumer confidence. At the
+same time, exports recovered from a significant decline in the second half of 2012,
+reflecting strong regional demand and a noticeably weaker yen (20 percent in real
+effective terms since late 2012). First-quarter growth was stronger than expected and
+inflation expectations have risen. However, investment and wages have yet to respond
+and market volatility has been relatively high.
+
+2.
+Accordingly, the global outlook is for weaker near-term growth than envisaged
+before. Growth is still expected to accelerate in H2 2013 but at a more gradual pace than
+expected in April. Activity is projected to expand at 3.1 percent in 2013 and 3.8 percent in 2014, a
+mark down of 0.2 percentage points in each year. These projections rest on the assumptions that
+supportive monetary policies gain increasing traction in Europe and Japan, fiscal consolidation in
+Europe and the United States are gradually de-emphasized and confidence improves. Reflecting
+
+INTERNATIONAL MONETARY FUND
+
+3
+
+the factors discussed above, prospects have deteriorated for emerging economies, where growth
+is expected to rebound but to more moderate levels than previously projected, and the euro area,
+which will remain in recession in 2013 and will grow at just under 1 percent in 2014, weaker than
+the April WEO forecast. The outlook for commodity exporters has also deteriorated, given the
+retreat in commodity prices which will keep domestic demand subdued, while the recovery will be
+protracted in MENA reflecting difficult political and economic transitions (particularly for oil
+importers). In the United States, prospects are also slightly weaker, as the budget sequester is now
+assumed to remain in place in 2014. Japan’s growth has been revised upward this year on
+stronger-than-expected Q1 growth but downward next year due to a weaker foreign
+environment.
+3.
+Market volatility has been higher and financial conditions have tightened recently,
+especially in emerging markets. Several factors may
+Eurodollar Interest Rate Futures
+(percent)
+have contributed to higher financial volatility
+1.8
+June 13, 2013
+following a strong rally in asset markets (e.g., year-to1.6
+June 21, 2013
+date equity returns have ranged from 6 to 40 percent
+1.4
+April 30, 2013
+for the euro area, the U.K., the U.S. and Japan). In
+1.2
+particular, market reassessments on the extent of U.S.
+1.0
+monetary stimulus going forward and the relative
+0.8
+0.6
+strength of emerging markets’ fundamentals on the
+0.4
+back of disappointing news seem highly relevant as
+0.2
+contributing factors.
+
+
+Some asset market repricing coincided with Fed
+remarks about tapering. Against the backdrop of
+improving fundamentals in the United States, bond
+yields increased (about 50 bps since May 22), as
+expectations of higher U.S. policy rates were brought
+forward. With inflation expectations stable, higher real
+rates implicitly are consistent with markets reassessing
+the future path of Fed policy tightening. For some,
+this may reflect a significant change or realization that
+quantitative easing may come to an end much sooner
+than expected.
+
+0.0
+Jun-13
+
+Mar-14
+
+Dec-14
+
+Sep-15
+
+Source: Bloomberg, L.P.
+
+Total Flows to Emerging Market
+(billions of U.S. dollars; mutual funds)
+8
+
+Bond
+Total
+
+Equity
+
+6
+4
+2
+0
+-2
+-4
+
+
+Sharp changes in asset prices in several
+-6
+-8
+emerging economies suggest some reassessment or
+7/1
+worries of their growth prospects may be an important -10
+07
+08
+09
+10
+11
+12
+13
+factor. Across most emerging economies, bond yields
+Source: Haver Analytics.
+rose and exchange rates depreciated alongside some
+capital outflows as U.S. interest rates increased. But there has also been differentiation across
+these markets with risk spreads rising and equity markets falling more in some. Emerging markets
+with poor fundamentals and/or strong previous capital inflows have been hardest hit. Local
+
+4
+
+INTERNATIONAL MONETARY FUND
+
+currency 10-year bond yields have increased substantially in several emerging economies (e.g., in
+Indonesia and Turkey by 250–300 basis points, in Brazil, Colombia, and South Africa by over 100
+basis points). The recent decline in equity prices has been particularly sharp in Turkey (where
+political events have played a role), and the South Africa Rand has weakened significantly. In
+response, some countries have started intervening in the foreign exchange market and unwinding
+capital flow management measures (e.g., Brazil). As U.S. interest rates continue to rise and
+monetary stimulus is gradually removed, pressures for capital outflows from emerging economies
+could continue.
+Equity Performance
+
+Currency Performance
+
+(January 1, 2010 = 100)
+Asia
+135
+Europe
+130
+Latin America
+Emerging Markets
+125
+
+(January 1, 2010 = 100)
+
+120
+115
+110
+105
+100
+95
+90
+85
+7/8
+
+80
+10
+
+11
+
+Source: Bloomberg, L.P.
+
+12
+
+13
+
+112
+110
+108
+106
+104
+102
+100
+98
+96
+94
+92
+90
+88
+86
+
+Asia
+
+Latin America
+
+7/8
+10
+
+11
+
+12
+
+13
+
+Source: Bloomberg, L.P.
+
+4.
+While tails risks have abated, downside risks to growth clearly dominate. Staff’s
+baseline assumes that the U.S. debt ceiling will be raised promptly and euro area authorities will
+do their part to preserve confidence (a stalled or incomplete delivery of policy commitments in
+the euro area could result in a re-intensification of adverse bank-sovereign-real loops). Downside
+risks revolve around three key areas:
+
+
+Economic Growth. There is a risk of stagnation in the euro area, especially in the
+periphery, which could materialize from large or more persistent adverse effects of public
+and private deleveraging, entrenched fragmentation, and delayed structural reforms
+beyond what is assumed in staff projections. With sizable output gaps, negative shocks
+could potentially spur adverse debt-deflation dynamics. Job skills could atrophy due to
+long unemployment spells, and investment would remain subdued, reducing potential
+growth. In emerging economies risks of a longer growth slowdown have risen. Activity
+could fail to accelerate as expected or undergo a further deceleration if structural
+problems turn out greater than expected, while capital outflows, if sustained, could weigh
+on growth. Recent turbulence, liquidity pressures, and risks of overshooting in financial
+markets have complicated matters although available policy space differs across countries.
+
+
+
+Financial stability. In advanced economies, the low interest rate environment creates
+risks that investors over-leverage or make excessively risky investments in search of yields.
+
+INTERNATIONAL MONETARY FUND
+
+5
+
+Financial stability risks are also a growing concern in some emerging countries (including
+China) and stem from years of buoyant credit growth and growing credit intermediation
+through non-banks, in some cases partly driven by spillovers from the exceptional
+monetary policy easing in advanced economies. At the same time, the eventual exit from
+low rates and unconventional monetary policy in advanced economies could pose
+important challenges as suggested by the recent increase in financial volatility.1 While the
+recent bout of market volatility follows a previous run-up in asset values, there is a risk
+that markets could over-react to initial steps by the Fed towards a normalization of
+monetary policy conditions, leading to sharp increases in long-term interest rates and
+financial market volatility, especially for countries with higher vulnerabilities.
+
+
+Fiscal balances. Finally, investors could reassess their risk perception of the United States
+and Japan in light of their long-run fiscal sustainability concerns, triggering financial
+turmoil with worldwide repercussions. In Japan, such a reassessment could be triggered by
+a lack of a convincing debt-reduction strategy to bring down debt, in particular if the
+government fails to deliver a complete package of policies including much needed
+concrete fiscal measures to bring down public debt and growth-enhancing reforms. Given
+the Japanese banks’ large domestic government bond holdings, an uncontrolled rise in
+yields could undermine not only fiscal but also financial sector stability.
+
+POLICIES FOR ROBUST GLOBAL GROWTH
+Macroeconomic policies should remain supportive in advanced economies, with fiscal consolidation
+proceeding gradually, anchored by credible and concrete medium-term plans. In a context where
+risks from UMP may become non-negligible, policymakers in advanced economies should use the
+breathing space from accommodation to implement decisively the difficult policies that will secure a
+solid return to growth. Bank balance sheet repair and progress toward a fuller banking union in
+Europe are urgently needed to revive credit and growth. Policymakers in emerging economies are
+facing increasingly challenging trade-offs, having to address growth and liquidity risks while
+containing building credit risk. They also should address structural obstacles to continued high
+growth while rebuilding fiscal buffers.
+5.
+In advanced economies, macroeconomic policies should support growth. Supporting
+growth and creating jobs is the main challenge in the major advanced economies. Broadly
+speaking, monetary policy accommodation should continue to play its supportive role, given low
+inflation and still large output gaps, and fiscal adjustment should be measured, while being
+anchored by a credible medium term roadmap for sustainability. Financial sector reforms also
+need to be urgently completed.
+
+1
+
+6
+
+For further discussion of risks from exiting UMP see the 2013 Spillover Report.
+
+INTERNATIONAL MONETARY FUND
+
+6.
+The pace and composition of fiscal adjustment should be calibrated carefully to
+avoid an excessive drag on growth and be anchored by credible and concrete medium-term
+plans. Despite sizable consolidation efforts, fiscal imbalances remain large in advanced economies
+due to weak growth and unfavorable initial fiscal positions with respect to sustainability. The
+growth disappointments in turn partly reflected the negative effect of fiscal adjustment on shortterm growth and the fact that in some countries (France, Spain, UK), private demand has not been
+picking up from public demand. Financial sector support measures also burdened fiscal accounts
+in some countries. In the United States, while private demand has gained momentum, this year’s
+large fiscal consolidation is excessive in light of the still nascent recovery. Similarly, in Japan,
+despite an expansionary fiscal stance this year, substantial consolidation is in the pipeline for the
+next two years as a result of the two-step increase in the consumption tax rate to 10 percent and
+the waning of stimulus and reconstruction spending. In the near term, a more gradual pace of
+fiscal adjustment would be preferable, but conditional on having a credible and specific medium
+term consolidation plan in place. Specifically:
+
+
+In the United States, the budget sequester should be replaced by a more balanced and
+gradual pace of fiscal consolidation in the short term, with more efficient and targeted
+spending cuts. The debt ceiling should be raised expeditiously and a multi-year
+consolidation plan that tackles entitlement and tax reforms should also be adopted to
+restore long-run fiscal sustainability.
+
+
+
+In Japan, the implementation of the planned consumption tax increase next year is critical
+to maintain confidence in the ability of the government to address the fiscal problem. An
+ambitious and concrete consolidation plan beyond 2015, based equally on revenue and
+spending, is also urgently needed. With such a plan in place, some fiscal space would be
+created to smooth the fiscal adjustment in 2014–15 should growth disappoint.
+
+
+
+In the euro area, the extension of the EDP deadlines and the assessment of adjustment in
+structural terms are welcome, but the extra space should be used to act decisively on fiscal
+and structural reforms. Consolidation should be based on an efficient and “growthfriendly” mix of expenditure and revenue measures, supported by appropriate structural
+reforms that enhance potential growth. Spain needs a credible and detailed medium-term
+plan, while France needs to rebalance adjustment toward expenditure containment. In the
+United Kingdom, it is important that fiscal policy supports the nascent recovery by
+pursuing fiscal measures that would alleviate supply-side constraints and also provide
+support for private demand—within the context of its medium-term fiscal framework.
+
+7.
+Monetary policy needs to remain accommodative until the recovery is well
+established, while containing potentially adverse side effects.
+
+
+More needs to be done in the euro area, where the growth outlook is very weak,
+unemployment is high, and inflation is projected well below the 2 percent target.
+Conventional monetary policy should be eased further. Targeted unconventional
+measures should play a role in addressing uncertainties about term funding availability for
+
+INTERNATIONAL MONETARY FUND
+
+7
+
+banks and the lack of credit for nonfinancial corporations, in particular SMEs. One such
+option could be a longer term LTRO combined with a review of current collateral policies,
+particularly on loans to SMEs. The recent forward guidance provided by the ECB to anchor
+interest rate expectations was a welcome step. The breathing space provided by
+exceptionally accommodative monetary policies should be used by authorities to tackle
+underlying issues that prevent a solid return to growth.
+Euro area Financial Conditions
+100
+80
+
+Euro Spreads: Non-fin Corp New Loans
+(1-5yrs) to Euro Swap Rate (3yrs)
+
+Tightening due to capital position,
+liquidity and market financing
+
+5.0
+
+Bank lending tightening
+
+4.5
+
+(percent )
+Core 1/
+Periphery 2/
+
+4.0
+
+60
+
+Euro area
+
+3.5
+3.0
+
+40
+
+2.5
+2.0
+
+20
+
+1.5
+1.0
+
+0
+
+0.5
+
+-20
+06
+
+07
+
+08
+
+09
+
+10
+
+11
+
+12
+
+13
+
+14
+
+07
+
+Source: IMF staff estimates.
+
+
+
+percent and the sweeping enhancements to the
+monetary framework are welcome. Despite some
+
+1.6
+
+Considerable uncertainty
+commitment
+
+of
+
+the
+
+1.4
+
+government to put in place the complete package
+
+1.2
+
+of policies required for a successful outcome.
+
+1.0
+
+While the recent cabinet decision on the fiscal and
+growth strategies is welcome, more concrete and
+decisive measures should be formulated in the
+near future.
+
+
+8
+
+11
+
+12
+
+13
+
+(percent; 5-year breakeven)
+
+yet
+
+the
+
+10
+
+2.0
+1.8
+
+about
+
+09
+
+Japan: Inflation Expectations
+
+signs of increasing inflation expectations, it is not
+remains
+
+08
+
+Source: Haver analytics.
+1/ Germany and France.
+2/ Italy and Spain.
+
+In Japan, the BoJ’s objective to raise inflation to 2
+
+well-entrenched.
+
+May 13
+
+0.0
+
+BoJ adopts
+2 percent
+inflation
+target
+
+May 22:
+Turning
+point?
+
+0.8
+0.6
+Dec-12
+
+7/8
+Feb-13
+
+Apr-13
+
+Jun-13
+
+Source: Bloomberg L.P.
+
+In the United States, while underlying growth has been relatively robust, there is still a long
+way to go on the labor market, as unemployment remains high and labor force
+participation below trends. The Fed’s policy should thus remain accommodative, including
+through its UMP, as benefits still outweigh the costs. At the same time, strong prudential
+oversight and supervision of the financial system is essential to address emerging
+vulnerabilities in both the bank and non-bank financial sector owing to ultra low interest
+rates. There are incipient signs of rising exposure to both interest rate and credit risk in
+regional banks that require increased vigilance, as low interest rates squeeze interest
+margins. Vulnerabilities may also be building in the non-bank financial sector, with a rapid
+
+INTERNATIONAL MONETARY FUND
+
+expansion of agency real estate investment trusts (REITs), weakening underwriting
+standards in the leveraged loan market (covenant-lite loans issuance has returned to precrisis levels), and higher credit and liquidity risks taken by pension funds and insurance
+companies. In the future, careful communication about the eventual exit from monetary
+stimulus will help reduce volatility in global financial markets.
+8.
+Financial sector reforms need to be urgently completed. Further progress in
+restructuring, resolving and recapitalizing banks and private sector balance sheets remains critical
+in Europe to allow a revival of credit to the real economy. A credible and comprehensive balance
+sheet assessment, with third party involvement, followed by stress tests will help identify problem
+assets and quantify capital needs, and the recent agreement on the framework for ESM direct
+recapitalization will help provide some backstop if implemented effectively. In parallel, the
+momentum to build a banking union and thereby address architecture gaps in the euro area
+needs to be maintained. Priorities include: adopting the legislation for the Single Supervisory
+Mechanism (SSM), reaching final agreement by the European Parliament on the Bank Resolution
+and Recovery Directive, making progress on the Deposit Guarantee Scheme Directive, and
+reaching consensus on a strong Single Resolution Authority with a centralized authority to trigger
+resolution and make decision on burden sharing. Elsewhere, commitments towards regulatory
+reform to enhance the stability of the financial system need to be upheld, including in the
+implementation of Basel III standards, while reducing the risk of international financial regulatory
+fragmentation.
+9.
+Policymakers in emerging economies are facing increasingly challenging trade-offs.
+They need to balance support for demand and containment of liquidity risks with action to
+address building credit risks. At the same time, they should rebuild fiscal space, while dealing with
+structural impediments. Country circumstances vary: some may need to focus on ensuring orderly
+market functioning while others will be better positioned to withstand any potential turbulence
+and focus on structural reforms.
+
+
+Monetary policy. Requirements differ across countries. Monetary easing can be the first
+line of defense against liquidity pressures and downside risks where inflation is firmly
+anchored, although capital flow reversals, external financing needs, and financial stability
+risks might constrain scope for action in some countries. Monetary policy should have
+some leeway to ease in emerging Asia, especially in 2014, as the output gap re-opens,
+core inflation falls, and inflation expectations are well anchored. Several countries have
+already cut policy rates in response to the recent weakness in activity (e.g., India, Korea). In
+Latin America, economies are operating close to speed limit, which restricts available
+policy room. In economies where monetary policy is still very accommodative and
+inflation above target, some monetary policy tightening may be needed to bring inflation
+back to target. Brazil continues to face a considerable inflation challenge, with inflation
+exceeding the upper limit of the inflation target band, which requires further monetary
+tightening.
+
+INTERNATIONAL MONETARY FUND
+
+9
+
+
+
+Prudential policies. Policymakers should be ready to address possible financial stability
+risks where high credit growth has been prolonged, by strengthening oversight and
+macro-prudential policies. Steps in that direction may include countercyclical capital
+requirements and dynamic provisioning. Economies faced with volatile capital flows and
+financial stability risks need to consider the full range of macroeconomic and macroprudential policies to avoid excessive financial and exchange rate volatility. In particular, in
+some economies, the authorities may have to ensure an orderly functioning of local bond
+markets. Authorities should stand ready to offer liquidity support to bond and foreign
+exchange markets, and consider the deployment of swap lines with other major central
+banks. Under certain circumstances, when large and sudden outflows cause financial
+instability risks or large inflows induce a sharp exchange rate appreciation or risk causing
+asset price bubbles, capital flow measures may be appropriate on a temporary basis.
+
+
+
+Fiscal and structural policies. Policymakers should also address structural obstacles to
+continued high growth while rebuilding fiscal policy buffers. Public debt is above precrisis-levels in most countries and structural issues and lower potential output point to
+lower fiscal space than previously estimated. Buffers should be rebuilt to create space for
+action should downside risks materialize. Priority should be given to fiscal consolidation
+(particularly in countries where current account deficits are widening), with monetary
+policy remaining the first line of defense. In some (e.g. India), the magnitude of fiscal
+problems requires an overhaul of tax and subsidy policies.
+
+10.
+Global imbalances have declined, mainly reflecting demand compression in
+advanced deficit economies but risks are they could widen again. External imbalances have
+narrowed since the crisis, in
+Current Account Balances
+(percent of world GDP)
+part
+durably,
+reflecting
+Japan
+Germany
+market corrections, but in
+China
+U.S.
+U.K.
+India
+large part reflecting demand
+France
+Total deficit (Apr 2011 WEO) 1/
+Total surplus (Apr 2011 WEO) 1/
+compression in advanced 2
+deficit economies. Policies
+have not contributed much 1
+to the rebalancing. In the 0
+United States, the deficit
+reduction was driven by -1
+market-led corrections of
+-2
+private demand (credit and
+00 01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17 18
+Source: IMF, World Economic Outlook July 2013.
+housing). In China, activity
+1/ Surplus countries consist of China, Germany, and Japan. Deficit countries consist of
+France, India, United Kingdom, and United States.
+reoriented somewhat toward
+internal demand in a context of weak external demand, though with an excessive reliance on
+investment. In contrast, the euro area current account is moving into a sizable surplus, reflecting
+much narrower deficits in the periphery, the German surplus has widened, as investment has
+remained very low. Accordingly, risks are that either external imbalances widen again or global
+growth remains sluggish—if output gaps in advanced deficit economies are closed mainly by
+
+10
+
+INTERNATIONAL MONETARY FUND
+
+internal demand; demand in key emerging economies weakens; the euro area slides into
+prolonged stagnation, or the policy to break with deflation fails in Japan.
+11.
+Accordingly, strengthened policy action is needed to further reduce imbalances
+while supporting growth. Policies need to increase internal demand on a sustained basis in
+surplus economies and raise external competitiveness in deficit economies.
+ Surplus economies need to increase internal demand or change its composition. In Germany,
+
+improving the productivity of the services sector and broadening sources of financial
+intermediation beyond bank-based channels could help strengthen internal demand
+(especially investment), while further reforms are needed to increase the labor force. In China,
+reforms to transition the economy to a more consumer-based and sustainable growth path
+include financial sector reforms, strengthening the social security system, moving to a more
+market-based exchange rate, opening markets to more competition, and raising resource
+prices. In Japan, growth-enhancing reforms should include deregulation in domestic services
+and agriculture, greater reliance on market-based financing for SMEs, and measures to reduce
+duality in the labor market.
+ Deficit countries should aim at increasing external competitiveness, while making further
+
+progress on fiscal consolidation. In France and Spain, continued labor and product market
+reforms would help further boost external competitiveness and narrow external deficits. In the
+United Kingdom, policies need to focus on improving physical and human capital, R&D and
+technology to increase the value added of exports.
+
+INTERNATIONAL MONETARY FUND
+
+11
+
+Table 1. Real GDP Growth
+(Percent change)
+Year over Year Averages
+Projections
+
+Deviations
+
+(as of July 2013)
+
+(from April 2013)
+
+2011
+
+2012
+
+2013
+
+2014
+
+2013
+
+2014
+
+World 1/
+Advanced economies
+Euro area
+Emerging market and developing countries 2/
+Advanced G-20
+Emerging G-20
+
+3.9
+1.7
+1.5
+6.2
+1.6
+7.1
+
+3.1
+1.2
+-0.6
+4.9
+1.5
+5.2
+
+3.1
+1.2
+-0.6
+5.0
+1.3
+5.6
+
+3.8
+2.1
+0.9
+5.4
+2.1
+5.9
+
+-0.2
+-0.1
+-0.2
+-0.3
+0.0
+-0.3
+
+-0.2
+-0.2
+-0.1
+-0.3
+-0.2
+-0.4
+
+G-20 3/
+Argentina 4/
+Australia
+Brazil
+Canada
+China
+France
+Germany
+India
+Indonesia
+Italy
+Japan
+Korea
+Mexico
+Russia
+Saudi Arabia
+South Africa
+T urkey
+United Kingdom
+United States
+European Union
+
+4.1
+8.9
+2.4
+2.7
+2.5
+9.3
+2.0
+3.1
+6.3
+6.5
+0.4
+-0.6
+3.7
+3.9
+4.3
+8.6
+3.5
+8.8
+1.0
+1.8
+1.7
+
+3.2
+1.9
+3.6
+0.9
+1.7
+7.8
+0.0
+0.9
+3.2
+6.2
+-2.4
+1.9
+2.0
+3.9
+3.4
+5.1
+2.5
+2.2
+0.3
+2.2
+-0.2
+
+3.3
+2.6
+2.8
+2.5
+1.7
+7.8
+-0.2
+0.3
+5.6
+5.8
+-1.8
+2.0
+2.8
+2.9
+2.5
+4.0
+2.0
+3.6
+0.9
+1.7
+-0.1
+
+3.9
+3.0
+3.0
+3.2
+2.2
+7.7
+0.8
+1.3
+6.3
+6.1
+0.7
+1.2
+3.9
+3.2
+3.3
+4.4
+2.9
+3.8
+1.5
+2.7
+1.2
+
+-0.2
+-0.1
+-0.2
+-0.5
+0.2
+-0.3
+-0.1
+-0.3
+-0.1
+-0.5
+-0.3
+0.5
+0.0
+-0.5
+-0.9
+-0.4
+-0.8
+0.2
+0.3
+-0.2
+-0.1
+
+-0.3
+-0.5
+-0.3
+-0.8
+-0.2
+-0.6
+0.0
+-0.1
+0.0
+-0.3
+0.2
+-0.3
+0.0
+-0.2
+-0.5
+0.2
+-0.4
+0.1
+0.0
+-0.2
+-0.1
+
+Source: IMF, World Economic Outlook July 2013.
+1/ The quarterly estimates and projections account for 90 percent of the world purchasing-power-parity weights.
+2/ The quarterly estimates and projections account for approximately 80 percent of the emerging market and developing countries.
+3/ G-20 aggregations exclude European Union.
+4/ The data for Argentina are officially reported data. The IMF has, however, issued a declaration of censure and called on
+Argentina to adopt remedial measures to address the quality of the official GDP data. Alternative data sources have shown
+significantly lower real growth than the official data since 2008. In this context, the IMF is also using alternative estimates of GDP
+growth for the surveillance of macroeconomic developments in Argentina.
+
+12
+
+INTERNATIONAL MONETARY FUND
+
+

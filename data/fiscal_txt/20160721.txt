@@ -1,0 +1,1233 @@
+       
+
+ 
+GROUP OF TWENTY
+
+GLOBAL PROSPECTS AND POLICY CHALLENGES  
+G-20 Finance Ministers and Central Bank Governors’ Meetings
+July 23–24, 2016
+Chengdu, China
+
+Prepared by Staff of the
+I N T E R N A T I O N A L M O N E T A R Y F U N D*
+*Does not necessarily reflect the views of the IMF Executive Board.
+
+EXECUTIVE SUMMARY
+“Brexit” marks the materialization of an important downside risk to global growth. The global
+outlook, set for a small upward revision prior to the U.K.’s referendum, has been revised downward
+modestly for 2016 and 2017, reflecting the expected macroeconomic consequences of a sizable increase
+in economic, political, and institutional uncertainty. But with “Brexit” still very much unfolding, more
+negative outcomes are a distinct possibility.
+This setback comes against a background of already weak underlying growth caused by a
+combination of persistent and interlinked forces. These include: (i) the pre-crisis trend of slowing total
+factor productivity growth, compounded by population aging; (ii) the crisis legacy of debt overhang in
+advanced economies and rising corporate leverage and pockets of excess capacity in emerging economies;
+and (iii) the scarring of productive capacity, following the crisis, caused by persistent low investment and
+high unemployment. Not only is growth low, in many cases it has also been shared unequally. This can
+create more challenges by undermining support for reform as well as for openness to trade and migration.
+Downside risks have become more salient, pointing to the critical importance of strong policies.
+Failure to achieve clarity about the future relationship between the U.K. and the European Union (E.U.)
+would add to uncertainty and weigh on confidence. This short-term risk could be severely heightened by
+a lack of decisive action to address the weakness in underlying growth. And, if not managed well, China’s
+transition could further raise volatility around the baseline path of the global economy. Against this
+background, insufficient rebuilding of policy buffers and tackling of corporate and financial weaknesses in
+emerging economies would leave them highly vulnerable to shocks.
+A broad-based policy effort is urgent to contain risk and reinvigorate growth both in the short and
+the longer term, including:
+
+
+
+Reducing uncertainty around “Brexit” and its repercussions. A smooth and predictable transition to a
+new relationship between the U.K. and E.U. that as much as possible preserves gains from trade is
+essential. While uncertainty about the outcome of negotiations remains, policymakers should stand
+ready to act decisively should financial market turbulence threaten the global outlook.
+
+
+
+Implementing effective macroeconomic support. Where demand is still falling short, this requires a
+broad-based approach that exploits policy synergies by combining structural and balance sheet
+reforms with continued monetary support and growth-friendly fiscal policies—including using
+available fiscal space, anchored by strong policy frameworks. Stronger domestic demand support,
+especially in creditor countries with policy space, would also help reduce external imbalances.
+
+
+
+Addressing debt overhangs. In many advanced economies, balance sheet repair remains critical to
+lift investment, contain vulnerabilities, and improve monetary transmission. Addressing corporate
+debt and other financial risks is also important in a number of emerging economies, and a key
+ingredient of China’s transition to a new growth model. In some cases, this might require the use
+of public sector resources.
+
+
+
+Lifting long-term growth and making it more inclusive. The G-20 can lead by encouraging strong
+implementation of the G-20 growth strategies, and prioritizing structural reforms that have a high
+short-term growth impact.
+
+
+
+Strengthening multilateral action. Reinvigorating trade integration remains crucial to boost global
+growth, as is making sure that the gains from trade are shared widely. And it remains important
+to strengthen global safety nets, including by monitoring geopolitical spillovers that could
+threaten the global recovery.
+
+____________________________________________________________________________________________________________________________________________
+Prepared by a team from the IMF’s Research Department led by Helge Berger, and including Florence Jaumotte, Eric Bang and Sung
+Eun Jung.
+
+RECENT DEVELOPMENTS, OUTLOOK AND RISKS
+Global growth remains weak and fragile, and “Brexit” marks the materialization of an important
+downside risk for the world economy. Growth is already being held back by a combination of persistent,
+interlinked forces—including unfavorable pre-crisis productivity trends, the legacy of high private and
+sovereign debt, and hysteresis problems. It could be even lower if the current increases in economic and
+political uncertainty continue and the attendant financial market repercussions take a toll on confidence.
+This possibility adds to downside risks from insufficient policy efforts to raise the trajectory of global
+growth, while managing emerging market transitions and vulnerabilities. Strong global growth will not
+return without decisive policy action.
+1.
+Even before the “Brexit” shock, global growth had been lackluster. The euro area started
+the year with stronger-than-expected momentum, helped by higher investment. However, the level
+of underlying growth remained weak, and inflation—now projected at just 0.2 percent in 2016—was
+still uncomfortably low. At the same time, first quarter GDP growth in the United States, at 1.1 percent,
+saar, was about half of what had been predicted, though a rebound is foreseen in the second quarter.
+In Japan, the preliminary estimates of first quarter growth suggested a modest rebound, but it
+remained very weak and headline inflation turned negative again. And, while emerging economies data
+pointed to somewhat better outcomes in the first part of the year, much of it was driven by renewed
+policy support in China—support that comes with further credit expansion and even higher corporate
+debt. Commodity prices have risen recently but remain low overall and continue to strain large
+economies such as Brazil, Russia, and Saudi Arabia.
+United States: Contributions to GDP Growth
+(q/q; saar)
+
+Global Manufacturing PMI
+(index; >50 = expansion; sa)
+55
+
+Advanced
+
+Emerging
+
+54
+53
+52
+51
+50
+49
+48
+Jun. 16
+47
+Jan-13
+Jan-14
+Jan-15
+Jan-16
+Source: IMF, Global Data Source.
+
+7
+6
+5
+4
+3
+2
+1
+0
+-1
+-2
+-3
+-4
+
+Government
+Exports
+Investment
+Real GDP
+
+12Q1
+13Q1
+14Q1
+Source: Haver Analytics.
+
+Imports
+Inventories
+Priv. Consumption
+
+15Q1
+
+16Q1
+
+2.
+Financial volatility increased following the “Brexit” vote. Financial and oil markets had
+started recovering around mid-February, together with a modest recovery in capital flows to emerging
+markets in the first quarter. Following the British referendum, however, financial markets reacted with
+a strong global flight from risk, forcing particularly sharp price declines in equities across the world,
+especially for European banks, and declining yields on safe assets. The pound plummeted while the
+
+2
+
+INTERNATIONAL MONETARY FUND
+
+yen and the U.S. dollar strengthened on safe haven flows. These adjustments reflected a downgrade
+to the growth outlook and uncertainty about the terms of the U.K.’s exit from the European Union.
+While the initial financial market reaction was severe, it was generally orderly. Since then, markets
+have stabilized and broad equity measures have recovered. However, financial sector stocks remain
+significantly lower than before the “Brexit” referendum, especially in Europe, and currency shifts
+continue.
+Major Currencies vs Dollar
+
+Financial Market Volatility
+
+240
+
+(indexed to June 23, 2016)
+
+(index; January 1, 2014=100)
+VIX
+G7 FX volatility
+Emerging market FX volatility
+
+108
+
+Yen
+
+Euro
+
+Sterling
+
+DXY 1/
+
+104
+
+200
+
+100
+
+160
+
+96
+
+120
+
+92
+
+80
+
+88
+
+40
+Jan-14 Jul-14
+
+7/15
+Jan-15 Jul-15
+
+Jan-16 Jul-16
+
+Source: Bloomberg, L.P.
+
+84
+6/23
+
+6/28
+
+7/03
+
+7/06
+
+7/12
+
+7/15
+
+Source: Bloomberg, L.P.
+1/ DXY index indicates the general international
+value of the dollar by averaging the exchange rates
+between the USD and major world currencies.
+
+Stock Market Index
+
+Stock Market Index
+
+(January 1, 2016 = 100)
+
+(percent change from June 23 to June 27, 2016)
+Overall
+
+stronger local currency
+
+Banking
+
+0
+
+120
+115
+110
+
+-5
+
+105
+
+S&P 500 Index
+EURO STOXX 50
+FTSE 250 1/
+Nikkei 225
+Emerging
+
+100
+
+-10
+
+95
+
+-15
+
+90
+85
+
+-20
+
+80
+
+-25
+S&P 500 EURO FTSE 100 Nikkei Emerging
+Index STOXX
+/1
+225
+markets
+50
+Source: Bloomberg, L.P.
+1/ Excluding HSBC Holdings plc.
+
+7/15
+75
+Jan-16
+Mar-16
+May-16
+Jul-16
+Source: Bloomberg, L.P.
+1/ Capitalization-weighted index of the 250
+most highly capitalized companies, outside of
+the FTSE 100, traded on the London Stock
+Exchange.
+
+3.
+These developments have added to the weakness of the outlook. Prior to the “Brexit”
+shock, the world economy seemed primed for a small improvement, reflecting primarily the upside
+surprises in first quarter growth in the euro area and Japan, and in emerging economies due to policy
+support in China and improved confidence and terms of trade in Brazil and Russia. As a result of the
+
+INTERNATIONAL MONETARY FUND
+
+3
+
+outcome of the U.K. vote, however, the global outlook for 2016–2017 has been revised downwards
+modestly, reflecting the expected macroeconomic consequences of a substantial increase in
+economic, political, and institutional uncertainty, especially in advanced European economies. The July
+2016 update of the Word Economic Outlook (WEO) foresees growth at 3.1 percent in 2016 and 3.4
+percent in 2017—lower by 0.1 percentage points than in the April projections in both years.1 The
+modest downward revisions reflect benign assumptions of a gradual reduction in uncertainty going
+forward, with arrangements between the E.U. and the U.K. avoiding a large increase in economic
+barriers, no major financial disruption, and limited political fallout from the referendum. More negative
+outcomes are a distinct possibility.
+4.
+In advanced economies, the recovery will continue to be modest, reflecting the continuing
+weakness in underlying growth and persistent uncertainty related to the outcome of the U.K.
+referendum. U.S. growth is forecast to be 2.2 percent in 2016 and 2.5 percent in 2017—down by 0.2
+percentage points in 2016 relative to the April WEO, reflecting further dollar appreciation and weaker
+global demand, and subdued non-residential investment. In the euro area, activity is expected to grow
+at 1.6 percent and 1.4 percent respectively in 2016 and 2017, as support from low oil prices, the ECB
+policies and a broadly neutral fiscal stance partly offset the immediate impact of uncertainty and weak
+confidence related to spillovers from “Brexit.” Delays in tackling legacy issues in the banking sector
+pose downside risks to the forecast. In the U.K., the large negative demand shock and heightened
+uncertainty will lead to a significant slowdown. Growth in Japan is expected to remain weak at 0.3
+percent this year and 0.1 percent next year, reflecting anemic consumption growth, lackluster
+investment, and the effects of the appreciating yen on net exports. There is, however, upside risk to
+this forecast from fiscal support expected to be provided by a supplementary budget for 2017.
+5.
+In emerging economies, growth prospects remain muted in historical perspective, due
+to the slowdown and rebalancing in China, low commodity prices, and distress in some large emerging
+market economies. In China, the government again resorted to boosting credit and infrastructure
+spending, supporting near-term growth but further raising vulnerabilities. As a result, the economy is
+expected to continue to grow strongly this year, at 6.6 percent, exceeding the IMF’s recommended
+range of 6–6½ percent, before slowing to 6.2 percent in 2017. India’s economy is on a recovery path,
+helped by lower oil prices, positive policy actions and improved confidence. Growth is projected at
+7.4 percent in both FY2016/17 and FY2017/18. But headwinds from weaknesses in India’s corporate
+and bank balance sheets, a decelerating pace of reforms, and sluggish exports will weigh on growth.
+Finally, conditions in Brazil and Russia are starting to improve gradually, with a return to positive
+growth expected for 2017.
+6.
+A number of persistent and interlinked problems explains the disappointing underlying
+growth performance. There are indications that productivity growth in advanced economies already
+weakened before the global financial crisis. However, the crisis and the consequent sluggish global
+recovery have added further headwinds, including high levels of (first) private and (then) sovereign
+debt, chronic investment deficiency, and skill erosion from prolonged high levels of unemployment,
+1
+
+4
+
+IMF, World Economic Outlook July 2016 Update.
+
+INTERNATIONAL MONETARY FUND
+
+with demographics adding further downward pressure. All these forces, and negative feedback loops
+between them, are reflected in stubbornly weak investment, which has been the Achilles heel of the
+recovery. More specifically, the factors at work include:
+G20 Labor Productivity Growth 1/
+
+Gross Capital Formation
+
+(percent; GDP-weighted; 5y moving average)
+5
+4
+
+Advanced 2/
+Emerging ex. China 2/
+China (rhs)
+
+13
+11
+
+3
+
+9
+
+2
+
+7
+
+1
+
+5
+
+0
+
+3
+
+-1
+
+1
+95 97 99 01 03 05 07 09 11 13 15
+Sources: IMF, World Economic Outlook; and IMF
+staff calculations.
+1/ Excludes EU and Saudi Arabia.
+2/ GDP-weighted using fixed weights.
+
+(percent of GDP)
+World
+50
+Advanced
+Emerging ex. China
+45
+China
+40
+35
+30
+25
+20
+15
+70 75 80 85 90 95 00 05 10 15
+Source: IMF, World Economic Outlook.
+
+
+
+Productivity trends: Empirical evidence suggests that potential growth in advanced economies had
+started to decline before the crisis, and, along with labor productivity, total factor productivity has
+been increasing at only modest rates across all major advanced economies. In part this may have
+reflected the fading impact of the ICT revolution. For example, G-20 advanced economies’ average
+labor productivity growth fell from around 1.8 percent for 1990–99 to just below 1 percent for
+2010–15. Moreover, the weakness of total factor productivity growth is compounded by the
+slowdown (or even decline) in labor input linked to population aging. In emerging markets,
+potential growth has suffered in the aftermath of the crisis on account of slowing total factor
+productivity growth, partly due to infrastructure bottlenecks.
+
+
+
+Crisis legacies: In a number of euro area countries, impaired banks’ balance sheets and the need
+to reduce high levels of debt—public, corporate, or household—continue to weigh on demand
+and growth. In emerging markets, going forward, increased private sector debt levels could have
+similar effects. And excess capacity in some sectors could cloud the outlook.
+
+
+
+Post-crisis problems: An extended period of low growth (such as in the euro area and Japan)
+reflecting persistently weak private demand can turn into lasting stagnation when the scarring of
+productive capacity from low investment and employment reduces potential growth. This comes
+at a time when in key advanced economies, interest rates even at longer maturities have already
+fallen to very low, or even negative levels.
+
+
+
+Negative feedback loops: Expectations of low growth lead to weak investment which, in turn, feeds
+even lower growth—both in the short and (via the scarring or hysteresis effects just described) in
+the longer term. This feedback loop can be reinforced by high levels of debt, as the need to
+deleverage will reduce demand and growth, which will ultimately slow the reduction of debt. In
+
+INTERNATIONAL MONETARY FUND
+
+5
+
+the euro area and Japan, these impediments could be compounded further by protracted low
+inflation.
+7.
+The fact that income is not only growing more slowly but is also shared less equally
+creates additional challenges. Measures of within-country income inequality, such as Gini
+coefficients and the income shares of top earners, have been on the rise since the early 1980s. At the
+same time, the share of produced income that accrues to workers has been on a declining trend in
+many advanced and emerging economies. This is a potentially significant development in a slow
+growth context when overall income might not rise fast enough to offset the declining labor income
+share, resulting in weakly growing or stagnating incomes for many. This dynamic opens the door to
+another negative feedback loop in which disappointing income growth can reduce the political
+support for certain necessary structural reforms or foster inward-looking policies on trade and
+migration—which will further diminish the outlook for long-term growth. In addition, inequality might
+impact short-term demand, as the propensity to consume out of income tends to be higher for the
+less well-off.
+8.
+Reflecting, in part, the different growth paths
+Real Effective Exchange Rates
+(index; Jan. 2013 = 100; cpi-based)
+of the larger advanced economies, external
+U.S.
+U.K.
+imbalances have widened moderately again. In 2015, 135
+Japan
+Euro area
+while the U.S. current account deficit increased, amid the
+China
+125
+relatively stronger U.S. outlook and the associated steep
+appreciation of the dollar, surpluses in Japan and the 115
+euro area grew, reflecting generally more subdued 105
+domestic demand and currency depreciation. In the
+95
+United States, the gains from better commodity terms of
+trade were more than offset by a decline in net exports, 85
+Jul-16
+further widening the deficit. In the euro area, while net 75
+Jan-13
+Jan-14
+Jan-15
+Jan-16
+exports worsened in real terms, the positive terms-ofSource:
+IMF,
+Global
+Data
+Source.
+trade shock led to an improvement in the current
+account. For 2015, the U.S. external position was
+“moderately weaker” than fundamentals while Japan’s external position has moved to “moderately
+stronger” than fundamentals.2 There was little adjustment among the larger surplus countries (e.g.,
+Germany, Korea), whose external positions remained “substantially stronger” than fundamentals. The
+widening imbalances in systemic economies during 2015 were largely offset by falling surpluses in
+large oil exporters as well as smaller deficits in vulnerable emerging markets and some euro area
+countries. Although market conditions remain fluid following the U.K. referendum, currency
+movements since early 2016 helped partially to reverse some of the trends observed last year—with
+sterling weakening, and the yen strengthening. The current account implications remain uncertain,
+and will likely depend on how the U.K.’s transition out of the E.U. is managed and on what new
+arrangements are adopted.
+
+2
+
+6
+
+IMF, 2016 External Sector Report.
+
+INTERNATIONAL MONETARY FUND
+
+9.
+The lack of progress on current accounts rebalancing is likely to lead to a further
+widening of stock imbalances and associated risks. Under current policies, this would likely lead to
+a further widening of imbalances in net foreign asset positions, with larger debtor positions (for
+instance, in the United States), rising creditor positions (in Japan and Germany), and still large negative
+net international investment positions (in countries like Spain and Turkey). Risks from large negative
+exposures are well-known, but ever-increasing creditor positions could also raise concerns, in
+particular valuation and default risks of holding assets from increasingly indebted countries.
+10.
+Downside risks to the global growth outlook have increased significantly following the
+“Brexit” vote. An important risk at the current juncture is an unnecessarily long period of political
+and economic uncertainty surrounding the U.K.’s exit from the European Union and the deterioration
+of financial conditions in some countries. This outcome could have severe macroeconomic
+repercussions, with advanced economies (particularly Europe) likely to be hit harder, including
+through the intensification of bank distress in vulnerable economies. Heightened uncertainty also
+makes it more likely that unforeseen negative shocks translate into global disruptions. That possibility
+adds to persistent downside risks inextricably linked to the poor longer-term prospects for the global
+economy. Specifically:
+
+
+Policymakers may not do enough to prop up growth in the short and long term. This could extend
+the already protracted period of stubbornly weak growth in advanced economies (e.g., in the euro
+area), which might be reinforced by negative feedback loops, including a surge in inward-looking
+policies.
+
+
+
+The continuing economic transition in China could add volatility around the baseline—for example
+because of an abrupt adjustment if unsustainable policies are maintained for too long, or owing
+to financial market uncertainties surrounding policy intentions.
+
+
+
+There is also a risk that emerging economies do not reduce vulnerabilities and rebuild buffers
+sufficiently before capital flow reversals materialize. Corporate leverage has increased significantly
+in emerging economies (e.g., Brazil, India, and Turkey), in domestic and foreign currency, against
+the background of ample global liquidity. A strong pullback of capital flows to emerging
+economies could tighten financial conditions and weaken their currencies, with the possibility of
+significant adverse corporate balance sheet effects and funding challenges, and significant
+repercussions for banking systems.
+
+
+
+Finally, risks of noneconomic origin also remain salient. Political divisions within advanced
+economies may hamper efforts to tackle important challenges, such as the long-standing
+structural problems and the refugee problem; and a shift toward protectionist policies is a distinct
+threat. Other ongoing concerns include geopolitical tensions, domestic armed strife, terrorism,
+climate related factors (e.g., the drought in East and Southern Africa), and diseases such as the
+Zika virus afflicting the Latin America and Caribbean region.
+
+INTERNATIONAL MONETARY FUND
+
+7
+
+AN URGENT AND BROAD-BASED POLICY EFFORT
+To lift growth and counter risks, G-20 policymakers will need to follow a broad-based approach that
+simultaneously provides better-balanced demand support where needed, addresses private sector
+balance sheet issues, and implements structural reforms. In emerging economies, the priority should be
+to rebuild policy buffers and implement sustainable macro policies.
+
+A MORE POTENT MACRO-ECONOMIC POLICY MIX
+11.
+Reducing uncertainties surrounding “Brexit” would help reduce the risk of a protracted
+tightening of financial conditions. It will be important to have clarity on the process and objectives
+that will guide discussions between the U.K. and the E.U. Of primary importance is a smooth and
+predictable transition to a new set of post-exit trading and financial relationships that as much as
+possible preserves gains from trade. Where required and feasible, more supportive macroeconomic
+policies can reduce the short-term impact on growth. Policymakers should stand ready to act more
+aggressively should the impact of financial market turbulence and higher uncertainty threaten to
+materially weaken the global outlook. In the euro area, policymakers should work together to
+demonstrate their continuing commitment to the E.U. and the monetary union including by agreeing
+on a common policy response to the refugee surge and securing external borders. Over the medium
+run, priority should be given to completing the banking union, strengthening the single market, and
+moving closer to a fiscal union.
+12.
+Short-term demand support still has an important part to play in advanced economies,
+but needs greater emphasis on growth-friendly fiscal policies. In a majority of advanced countries,
+output gaps remain negative, weak labor markets threaten to permanently scar especially the young
+in the workforce, and inflation is low and far off target. Where monetary policy is becoming overburdened, domestic policy coordination can help to make macroeconomic support effective. This
+requires a broad-based approach combining all available policy tools and strong policy frameworks,
+which anchor fiscal and monetary policy in the long run while allowing for effective demand
+management in the short run. Specifically:
+
+
+Monetary policy. Central banks should continue to use all available instruments to raise inflation,
+including negative interest rates, where appropriate, while carefully monitoring the potential
+impact on banks, pension funds and insurance companies as well as market functioning. In the
+United States, Federal Reserve policy should remain data dependent. There is a clear case for the
+Fed to proceed along a very gradual upward path for the fed funds rate, conscious of global
+disinflationary trends and confirming along the way that wage and price inflation are indeed
+maintaining their steady upward momentum.
+
+
+
+Fiscal policy. Where monetary policy space is narrowing and there is fiscal space, fiscal policy can
+help support demand and close output gaps—including through measures that will strengthen
+growth also in the medium and long term (e.g., Canada, Korea) or, where necessary, facilitate
+balance sheet repair. In most countries, it will be important to adjust expenditure priorities to
+
+8
+
+INTERNATIONAL MONETARY FUND
+
+finance reforms that increase potential output (e.g., Germany). For the euro area, the use of
+centralized investment funds to support infrastructure investment in countries without fiscal space
+would be appropriate. A coordinated use of fiscal space would be beneficial should the global
+outlook weaken materially.
+
+
+Income policies. Such policies can play a useful role in some countries—for example, in Japan,
+ambitious policies such as incentivizing profitable companies to raise wages through a “comply
+or explain” mechanism and raising administratively controlled wages are a priority to spur wageprice dynamics and raise inflation. In the United States, combining a further expansion of the
+Earned Income Tax Credit with a raise in the federal minimum wage, as well as upgrading social
+programs for the non-working poor will help reduce poverty. A more progressive personal income
+tax could help mitigate income polarization and assist the working poor.
+
+
+
+Policy frameworks. Strong fiscal frameworks that ensure sustainability over the longer term,
+coupled with fiscal reforms, help increase or safeguard policy space in the short run (e.g., United
+States, Japan). In the United States, achieving a sustained downward medium-term path for public
+debt would require a comprehensive reform of the tax system, pension reform, and further
+healthcare cost containment. In Japan, the pre-announcement of a gradual path of consumption
+tax hikes is needed. In the euro area, the priority is to make full use of the flexibility within existing
+rules. In the medium term, stricter enforcement and simplifying the Stability and Growth Pact will
+make it more effective. There is also a strong case for expanding centralized fiscal support.
+
+13.
+To avoid the risk of a hard landing and lower their exposure to capital flow reversals,
+emerging economies should rebuild policy buffers. In China, macro policies need to be adjusted
+for a moderate slowdown, allowing growth to settle at a sustainable level. This requires slowing credit
+expansion and switching from off-budget investment to more on-budget, pro-consumption
+measures. Strengthening transparency, especially in communicating policy objectives and enhancing
+data quality, will be key to minimize spillovers and financial volatility. In Brazil, the room for monetary
+policy easing is limited by underlying inflationary pressures and fiscal consolidation should continue
+to reduce large deficits. The new government should complement the proposed cap on federal
+noninterest spending with tax measures and address spending rigidities and unsustainable mandates,
+including in the pension system. The quality of fiscal consolidation in India should be improved
+through a comprehensive tax reform (such as introducing the goods and services tax and improving
+tax administration) and measures to further reduce subsidies. With shrinking fiscal buffers, many
+commodity exporters need to develop new growth models and tackle fiscal adjustment, including
+through reduced but more efficient public expenditures, stronger fiscal frameworks, and mobilizing
+new sources of revenues. Exchange rate flexibility can usefully cushion the impact of adverse external
+shocks, provided that the effects of currency depreciations on balance sheets and domestic inflation
+rates are contained. Even as vulnerabilities are addressed, emerging economies can continue to be a
+strong locomotive of global economic and trade growth through well-sequenced structural reforms
+that provide near-term demand support.
+
+INTERNATIONAL MONETARY FUND
+
+9
+
+ADDRESSING THE DEBT OVERHANG
+14.
+Tackling quickly and decisively remaining financial sector vulnerabilities is key to ensure
+resilience in periods of uncertainty and to lift investment. This is particularly relevant in many
+advanced economies, and especially in Europe. In the aftermath of “Brexit,” major European banks
+have seen large losses in their equity values, probably reflecting the continent’s still vulnerable
+banking systems. Bank balance sheet repair has been slow and high levels of nonperforming loans
+continue to undermine bank profitability and constrain new lending in many countries in Europe’s
+periphery. Many European countries also suffer from “overbanking,” which points to a need for further
+consolidation, restructuring, or the exit of nonviable banks. A comprehensive approach to accelerating
+the resolution of nonperforming loans (NPLs) is needed to help raise bank profitability, stimulate
+lending, and facilitate consolidation. It should include: stricter supervision, with more conservative
+provisioning and collateral valuation, capital surcharges, and aggressive time-bound NPL disposal
+targets; stronger and harmonized household and corporate insolvency frameworks, including shorter
+court procedures and out-of-court arrangements; and development of distressed debt markets to
+facilitate NPL disposals. In some cases, this might require the use of public sector resources.
+15.
+In China, the transition to a more sustainable growth requires addressing the corporate
+debt problem while improving resource allocation and guarding against financial risks. Creditfueled growth has resulted in a substantial increase of the corporate debt-to-GDP ratio by about 50
+percentage points after the global financial crisis, while corporate fundamentals, such as debtservicing capacity and profits are weakening against a backdrop of excess capacity, moderating
+domestic demand, weak external demand, and declining producer prices. A comprehensive plan and
+concrete action that entail restructuring or resolving weak firms are needed, requiring banks to
+recognize proactively and manage impaired assets, hardening budget constraints, facilitating market
+entry in services (such as telecom, utilities, and health care), and providing government assistance to
+handle costs of structural unemployment and worker dislocation. Actions are also required to guard
+against financial risks by boosting bank buffers, reining in shadow bank/product risks, dampening
+pockets of excessive housing price growth, and improving the supervisory framework.
+16.
+More generally, emerging economies will have to address corporate and financial
+vulnerabilities in preparation for an eventual rise in interest rates in advanced economies. The
+strong increase in corporate debt of nonfinancial firms across major emerging market economies and
+associated rising foreign currency exposures raise concerns because historically, many financial crises
+in emerging markets have been preceded by rapid leverage growth, which made these economies
+highly vulnerable to a rise in interest rates, dollar appreciation, and an increase in global risk aversion.
+It is critical to address possible vulnerabilities now. Required measures include monitoring vulnerable
+and systemically important firms, as well as banks and other sectors closely linked to them, and taking
+action where needed, including—where appropriate and available—the use of public resources.
+Policymakers should also limit a further buildup of foreign currency balance sheet exposures and
+contain excessive increases in corporate leverage, through the use of macro- and micro-prudential
+policies such as, for instance, higher capital requirements for foreign exchange exposures and caps
+on the share of such exposures on banks’ balance sheets. Finally, corporate insolvency regimes need
+
+10
+
+INTERNATIONAL MONETARY FUND
+
+to be strengthened in preparation for a higher future incidence of corporate failures as borrowing
+costs normalize.
+
+STRENGTHENING LONG-TERM GROWTH
+17.
+Given the challenges to long-term growth, the G-20 needs to step up its push for
+structural reforms. This year, under the Chinese presidency, the G-20 has enhanced its focus on
+structural reforms, by identifying critical reform areas and elaborating guiding principles. Countries
+are now working to update their growth strategies ahead of the Hangzhou Summit in September
+2016. While reaching the G-20’s original goal of increasing GDP by 2.1 percent by 2018 will be difficult,
+enhanced implementation of countries’ reform commitments is essential to support near-term growth
+and increase potential over the longer term. Where possible, measures should also be taken to
+address any adverse impacts such reforms may have on inclusiveness.
+18.
+Recent IMF work suggests that structural reforms are most effective when carefully
+prioritized and sequenced, based on each country’s position in the business cycle and its policy
+space (see Annex). Research on advanced economies shows that, while product market reforms tend
+to raise investment in the short as well as the medium term, the short-term impact of certain labor
+market reforms varies with cyclical conditions. For example, reductions in labor tax wedges and
+increases in public spending on active labor market policies have larger effects during periods of weak
+demand, in part because they usually entail some degree of fiscal stimulus. In contrast, reforms to
+employment protection arrangements and unemployment benefit systems, where they are excessive,
+have positive effects in good times but can exacerbate conditions during periods of slack. In some
+cases, structural reforms particularly critical for medium-term growth will have to be implemented as
+soon as feasible.
+19.
+Reforms in advanced economies can boost labor force participation and productivity,
+while making growth more inclusive. For instance:
+
+
+In the United States, expanding infrastructure investment and addressing the skills gap through
+better education and training would bolster productivity growth. At the same time, combining a
+further expansion of the Earned Income Tax Credit with a raise in the federal minimum wage, as
+well as an upgrading of social programs for the non-working poor would enhance the
+inclusiveness of growth. Together with specific trade-related programs, many of these policies can
+also help to ease adjustment to more open international trade.
+
+
+
+The euro area should prioritize product and labor market reforms, especially those that support
+near-term demand, including reducing business entry barriers in the retail and professional
+services sectors, improving public administration and insolvency regimes, integrating women,
+refugees, long-term unemployed and older workers into the labor force, and shrinking the labor
+tax wedge. In addition, reforms that complete the single market in services, energy, digital
+commerce and transport should be implemented as they would also promote infrastructure
+investment.
+
+INTERNATIONAL MONETARY FUND
+
+11
+
+
+
+In Japan, easing product market regulations will boost economic activity in the short-term.
+Harmonizing job protection will enhance long-term productivity growth and reduce inequality.
+Fostering the labor force participation of women and foreigners will help to address the
+demographic overhang.
+
+20.
+Emerging economies should focus on efficient public investment, as well as product and
+labor market reforms to improve their business environment. For example, China should pursue
+its plans to liberalize the economy further, while disentangling the still-pervasive web of market
+distortions. In particular, bolder reforms of state-owned enterprises (SOE), such as imposing hard
+budget constraints and opening up the SOE-dominated services sector to competition, are needed.
+In India, further steps to relax long-standing supply bottlenecks (especially in the energy, mining, and
+power sectors) as well as labor market reforms, are crucial to achieving faster and more inclusive
+growth. In Brazil, structural reforms to raise productivity and competitiveness, along with strong
+implementation of the infrastructure concessions program, are essential for boosting potential
+growth. In commodity exporters more generally, it is important to plan for and invest in new sectors
+and activities so as to diversify the economy. In many cases, emerging economies’ growth could
+receive an important boost by opening up domestic sectors, including in services, to foreign capital
+and technology.
+21.
+The right policies will also help to reduce external imbalances. More fiscal stimulus in
+advanced surplus economies with fiscal space, continuing monetary support and growth-friendly fiscal
+rebalancing in deficit economies, and structural reforms would contribute to external rebalancing. For
+instance, streamlining service or product sector regulations in surplus economies (e.g., in Japan, Korea,
+and Germany) will encourage domestic demand and relative price adjustments. Facilitating
+diversification and expansion of the non-commodity sector (in Brazil, Saudi Arabia and South Africa),
+and further labor market reform (e.g., in France, Spain, and South Africa) would boost productivity and
+competitiveness in economies with external positions weaker than fundamentals.
+
+STRENGTHENING MULTILATERAL ACTION
+22.
+Reinvigorating trade integration is a key component of the global policy agenda to
+boost growth. The pace of new trade policy initiatives at the global level has slowed notably. At the
+same time, new restrictions imposed since the global financial crisis have begun to weigh on global
+trade. Trade policy’s new frontiers such as services, regulatory cooperation, and policies toward FDI
+can bolster efficiency and productivity through greater investment, technology transfer, and
+integration into global value chains. Regulatory and other “frontier” trade matters are mostly
+negotiated outside the multilateral trading system, in a collection of bilateral and regional agreements
+that may lack coherence. With governments differing on whether to continue the World Trade
+Organization (WTO) Doha Round, there is an urgent need to identify a path forward for the global
+trading system and to begin to integrate into the WTO the many positive steps—e.g., in services, ecommerce, investment, and regulatory cooperation—currently being taken outside it.
+23.
+In the wake of heightened political risk, policymakers should revive the spirit of
+multilateralism and globalization, notably by ensuring the gains from globalization are shared
+
+12
+
+INTERNATIONAL MONETARY FUND
+
+widely. This means paying urgent attention to enhancing the gains of globalization, limiting its costs,
+taking mitigating measures for affected workers and making a positive case for integration to skeptical
+parts of the public. This will require the use of fiscal resources, for example for training, as well as a
+clear and persuasive communication strategy.
+24.
+Finally, multilateral efforts must also be made to strengthen the resilience of the global
+system in the face of shocks. These include:
+
+
+Further enhancing the global financial safety net. The risks from possible capital flow reversals
+would likely have spillovers on the global economy given the high interconnectedness of the
+international financial system. There is a case to design new financing mechanisms, for instance
+to address the risks faced by emerging markets with strong fundamentals but high vulnerability
+to spillovers. The Fund is also preparing a review of countries’ experiences in addressing
+macroeconomic and financial stability risks associated with volatile capital flows, including
+through macroprudential and capital flow management policies.
+
+
+
+Completing and implementing the global regulatory reform agenda. Both advanced economies and
+emerging market economies should continue to strengthen the regulation and supervision of
+rapidly expanding financial activities outside the banking system. Further implementation of
+agreed frameworks to resolve global systemically important banks and progress toward a
+framework for central counter parties would address key gaps in the foundation of a sound
+international financial architecture.
+
+
+
+Addressing possible geopolitical spillovers that could threaten the global recovery. Refugee flows
+triggered by geopolitical conflicts, and global epidemics initially affect some countries and
+regions, but, if left unchecked, could have significant spillover effects on the global economy. In
+such instances, a coordinated worldwide initiative to provide financial support to countries at the
+center of such shocks may be warranted.
+
+INTERNATIONAL MONETARY FUND
+
+13
+
+Table 1. Real GDP Growth
+(percent change)
+Year over Year
+Projections
+
+Deviations
+
+(from Jul. 2016)
+
+(from Apr. 2016)
+
+2014
+
+2015
+
+2016
+
+2017
+
+2016
+
+2017
+
+World 1/
+Advanced economies
+Euro area
+Emerging market and developing countries 2/
+Advanced G-20
+Emerging G-20
+
+3.4
+1.9
+0.9
+4.6
+1.8
+5.2
+
+3.1
+1.9
+1.7
+4.0
+1.9
+4.6
+
+3.1
+1.8
+1.6
+4.1
+1.7
+4.6
+
+3.4
+1.8
+1.4
+4.6
+1.8
+5.0
+
+-0.1
+-0.1
+0.1
+0.0
+-0.1
+0.1
+
+-0.1
+-0.2
+-0.2
+0.0
+-0.1
+0.0
+
+G-20 3/
+Argentina 4/
+Australia
+Brazil
+Canada
+China
+France
+Germany
+India
+Indonesia
+Italy
+Japan
+Korea
+Mexico
+Russia
+Saudi Arabia
+South Africa
+Spain 5/
+Turkey
+United Kingdom
+United States
+European Union
+
+3.6
+0.5
+2.7
+0.1
+2.5
+7.3
+0.6
+1.6
+7.2
+5.0
+-0.3
+0.0
+3.3
+2.2
+0.7
+3.6
+1.6
+1.4
+3.0
+3.1
+2.4
+1.6
+
+3.3
+2.1
+2.5
+-3.8
+1.1
+6.9
+1.3
+1.5
+7.6
+4.8
+0.8
+0.5
+2.6
+2.5
+-3.7
+3.5
+1.3
+3.2
+4.0
+2.2
+2.4
+2.0
+
+3.3
+-1.5
+2.8
+-3.3
+1.4
+6.6
+1.5
+1.6
+7.4
+4.9
+0.9
+0.3
+2.7
+2.5
+-1.2
+1.2
+0.1
+2.6
+3.8
+1.7
+2.2
+1.9
+
+3.6
+2.1
+2.8
+0.5
+2.1
+6.2
+1.2
+1.2
+7.4
+5.3
+1.0
+0.1
+3.0
+2.6
+1.0
+2.0
+1.0
+2.1
+3.2
+1.3
+2.5
+1.6
+
+0.0
+-0.5
+0.3
+0.5
+-0.1
+0.1
+0.4
+0.1
+-0.1
+0.0
+-0.1
+-0.2
+0.0
+0.1
+0.6
+0.0
+-0.5
+0.0
+0.0
+-0.2
+-0.2
+0.1
+
+0.0
+-0.7
+-0.2
+0.5
+0.2
+0.0
+-0.1
+-0.4
+-0.1
+0.0
+-0.1
+0.2
+0.1
+0.0
+0.2
+0.1
+-0.2
+-0.2
+-0.2
+-0.9
+0.0
+-0.3
+
+Sources: IMF, World Economic Outlook April 2016; and July 2016 Update.
+1/ The quarterly estimates and projections account for 90 percent of the world purchasing-power-parity weights.
+2/ The quarterly estimates and projections account for approximately 80 percent of the emerging market and developing countries.
+3/ G-20 aggregations exclude European Union.
+4/ The GDP data for Argentina before 2015 reflect official data, while for 2015 the data reflect IMF staff estimates. On February 1, 2013, the
+IMF issued a declaration of censure, and in June 2015 called on Argentina to implement additional specified actions to address the quality of
+its official GDP data according to a specified timetable. The new government that took office in December 2015 reviewed the methodology
+underlying the system of national accounts and released a new GDP series on June 29, 2016. The Managing Director will report to the
+Executive Board on this issue again by July 15, 2016, and the Executive Board will review the issue in line with IMF procedures at the end of
+August 2016.
+5/ Permanent invitee.
+
+ 
+
+14
+
+INTERNATIONAL MONETARY FUND
+
+Annex. Priorities for Structural Reforms in G-20 Countries3
+Structural reforms remain a critical element of a broad-based approach to bolster growth. G-20 countries
+need to step up the implementation of their G-20 growth strategies, and prioritize structural reforms
+with a high short-term impact on growth. Structural reforms are most effective when they reflect an
+economy’s structural policy gaps, its level of development, its position in the economic cycle, and its
+available policy space to support reforms.
+Given the complex interplay of supply and demand policies, the prioritization of structural
+reforms needs to be based on macroeconomic considerations. The larger a country’s output gap,
+the more it should prioritize structural reforms that will support growth in the short term and the
+longer term—such as product market deregulation, given their positive pay-off even under weak
+macroeconomic conditions, and infrastructure investment, given the larger fiscal multipliers in times
+of economic slack (as well as the lower borrowing costs).
+Macroeconomic support can help make reforms more effective. Where the short-term effect of
+reforms depends on the state of the business cycle, such support can enhance their impact. With the
+scope of monetary policy limited in many advanced economies at the zero lower bound, and given
+currency pressures and financial stability considerations in emerging economies, growth-friendly fiscal
+policy can play an important role. This is particularly important in cases where there are structural
+reforms that are so critical for medium-term growth that they should be implemented as soon as
+feasible.
+Where reforms come with fiscal costs but budget constraints are binding, the sequencing of
+reforms might have to be adjusted to favor lower- or no-cost measures with positive demand effects
+of their own, or budget-neutral reform packages. In contrast, where there is fiscal space, available
+resources should be used to offset any short-term costs of growth-friendly structural reforms. Fiscal
+space can also be enhanced by the elaboration of medium-term fiscal plans, which can bolster
+confidence in the long-term objectives of fiscal policy.
+Macroeconomic policy space differs considerably across the G-20. Within the G-20, some
+countries (like Canada and Korea) appear to have a reasonable degree of fiscal space to support
+structural reforms that increase potential output, based on indicators like public sector financing costs,
+the profile of public debt, and future financing needs. Other countries (such as Brazil and Italy) will
+need to advance fiscal consolidation, targeting to the extent possible growth-friendly adjustment
+measures, given their relatively high debt burden.
+Some structural reforms may themselves help to generate policy space—though it can depend
+on underlying economic conditions. New IMF staff analysis on advanced economies finds that past
+product market deregulation boosted output sufficiently to reduce the debt-to-GDP ratio by about 4
+percentage points on average, after five years. While job protection reforms were not found to affect
+the public debt-to-GDP ratio on average, they increased it when carried out at times of major slack,
+and lowered it during times of robust growth.
+With nearly all G-20 economies at below-potential output, the IMF is recommending measures
+that both boost near-term growth and raise potential growth over the long run.
+
+
+In advanced economies, these measures include shifting the composition of public spending
+toward infrastructure investment (e.g., Australia, Canada, Germany, U.S.), and promoting product
+and labor market, fiscal, and other reforms. Product market deregulation (particularly in services
+
+3
+
+This annex is a summary of a staff background paper for the G-20 Surveillance Note, “Priorities for Structural Reforms
+in G-20 Countries.”
+
+INTERNATIONAL MONETARY FUND
+
+15
+
+and network industries) is recommended in many countries (Australia, Canada, Germany, Japan,
+Korea, Italy), and especially where policy space is more limited as this will not generate budgetary
+costs in the short run. Further policy action is required to ensure a successful integration into the
+labor market of some groups with lower participation rates, such as women, refugees, and older
+workers (Canada, Germany, Japan, Korea, U.K., U.S.) and better match vocational training to market
+demand (Canada, U.K., U.S.). In Korea —where fiscal space is available—expanding benefits for
+non-regular workers and lowering employment protection for regular workers is desirable when
+paired with fiscal support. A comprehensive skills-based immigration reform would have large
+effects on labor supply (U.S.). On the fiscal side, tax simplification and broadening measures can
+reduce inefficiencies, raising revenues to finance other high-payoff reforms (e.g., U.K., U.S.). Overall
+social spending reforms (e.g., France) and reforming the pension and health systems to contain
+future aging-related costs (U.K., U.S.) would help ensure fiscal sustainability and create space to
+support other high-payoff reforms. Other reform priorities include, for example, a more ambitious
+reform of the banking sector and the judiciary system to improve credit flow (Italy).
+
+
+Recommendations for emerging market economies focus on raising public investment
+efficiency (India, Saudi Arabia, South Africa) and product and labor market reforms. They also
+address trade and FDI impediments, governance of public institutions, and other institutional
+reforms. Where fiscal space is limited or consolidation is necessary, governments are encouraged
+to adjust the composition of fiscal policy to make it more growth-friendly. Promoting market entry
+and competition is highlighted (China, Saudi Arabia, South Africa), and in some cases, would give
+a quick boost to investment and productivity within tighter budgetary constraints particularly if
+done in conjunction with easing barriers to trade and FDI (Brazil, India, Indonesia). Advice on labor
+market reforms is focused on improving market flexibility (Indonesia, South Africa), and reducing
+skill mismatches through education and vocational training (Indonesia, Russia, Saudi Arabia, South
+Africa, Turkey). Institutional and regulatory reforms can provide foundational support to other
+reform initiatives. Priorities include strengthening SOE governance (China and South Africa) and
+hardening budget constraints (China). Implementing further subsidy and social spending reforms
+would create policy space to support other supply-side reforms (Argentina, China, India, Mexico,
+Russia). Areas also being emphasized include improving security, the rule of law, and the judiciary
+system (Mexico, Turkey, Russia) and strengthening the frameworks for public-private sector
+dispute settlement (Russia) and contract enforcement (India, Mexico, Saudi Arabia, South Africa).
+
+
+
+Some commodity exporting emerging economies (Brazil, Russia, Saudi Arabia, South Africa) are
+facing acute challenges, given a steep and protracted decline in commodity prices. These
+countries are performing significantly below potential and need to rebuild fiscal buffers. Reform
+strategies advocated by the Fund are targeted at supporting short-term growth and
+diversification, with more weight put on product market and legal reforms to improve the business
+climate and private investment; trade and FDI liberalization to help with diversification and ease
+balance of payments pressures; and financial deepening to facilitate credit flows.
+
+
+
+As important complements to reforms that bolster growth, IMF recommendations also aim
+to promote inclusiveness and macroeconomic resilience. To promote inclusiveness, Fund staff
+recommends a carefully targeted expansion of social spending toward vulnerable groups in
+Mexico, social spending for the elderly poor in Korea, and the upgrading of social programs for
+the nonworking poor in the United States. Recommendations to bolster macrofinancial resilience
+include expanding the housing supply (U.K.), resolving the corporate debt overhang (China,
+Korea), coordinating a national approach to regulating and supervising life insurers (U.S.), and
+reforming monetary frameworks (Argentina and China).
+
+16
+
+INTERNATIONAL MONETARY FUND
+
+

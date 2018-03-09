@@ -1,0 +1,1385 @@
+1
+
+GROUP OF TWENTY
+
+GLOBAL PROSPECTS AND POLICY CHALLENGES
+Meetings of G-20 Finance Ministers and Central Bank Governors
+November 4–5, 2012
+Mexico City
+
+Prepared by Staff of the
+I N T E R N A T I O N A L M O N E T A R Y F U N D*
+*Does not necessarily reflect the views of the IMF Executive Board.
+
+EXECUTIVE SUMMARY
+Recent policy actions have led to some easing in financial stress and economic conditions may be stabilizing.
+Following actions by major central banks and EU governments, financial markets have experienced welcome respite
+recently and there are signs that the pace of activity has picked up relative to the second quarter. Nonetheless, the
+global economy remains vulnerable to new setbacks. In the euro area, activity remains weak, implementation
+challenges are large, financial conditions remain fragile, and high funding costs in the periphery hinder their growth
+and adjustment. Political impasse on dealing with large fiscal imbalances in the United States and Japan also
+contributes to lack of clarity and weighs on business confidence. Meanwhile, activity in major emerging
+economies—a main driver of global growth—has decelerated on the back of spillovers from advanced economies
+and the unwinding of credit booms in some countries, but the extent is not fully known.
+The outlook for growth remains weak with appreciable downside risks. Prospects are for a modest
+reacceleration of global activity, provided policies are implemented decisively in the euro area and fiscal mistakes
+are avoided in the United States. But downside risks remain considerable. Despite strong ECB actions, a reescalation of the euro area crisis remains a threat. Major risks also originate in the United States from the ―fiscal
+cliff,‖ a looming debate on raising the debt ceiling, and the absence of an agreed-upon fiscal roadmap. Potential
+growth may disappoint going forward in both advanced and emerging economies, reflecting the legacy of the
+financial crisis in the former and the unwinding of credit booms in the latter. But growth could also be stronger if
+policymakers acted promptly to further strengthen policies.
+While progress has been made, resolving the euro area crisis will require timely and resolute policy
+implementation. Access to funding at reasonable costs is essential to allow economies to adjust successfully.
+Countries under pressure should implement adjustment plans and, if needed, request appropriate support from the
+EFSF/ESM. This would allow the ECB to intervene by using the newly-established OMT framework. Where financial
+conditions permit, automatic stabilizers should be allowed to operate. Anti-crisis measures should also be paired
+with a clearer roadmap toward banking union and greater fiscal integration to strengthen EMU. Such a union
+should rest on a single supervisory mechanism; a pan euro area resolution mechanism with common backstops; and
+a pan euro area deposit guarantee scheme. Finally, continued implementation of structural, fiscal and financial
+reforms, that will still take many years to complete, is essential.
+Fiscal consolidation in advanced economies should proceed in a sustained and gradual manner, while central
+banks should stand ready to do more if needed. Fiscal policy should adhere to cyclically-adjusted targets unless
+activity falls significantly short of projections, in which case adjustment should be smoothed in countries that can
+afford it. In the United States, the imperatives are to agree to and implement a credible medium-term fiscal
+adjustment roadmap. In Japan, the plan should be strengthened considerably, notwithstanding the recent approval
+of a timetable for consumption tax increase. Central banks should continue managing downside risks to growth
+while addressing factors that hinder the effectiveness of monetary transmission.
+Appropriate policy responses in emerging economies vary widely reflecting differing conditions. For those
+with low public debt or pursuing policies to move further from externally- to domestically-driven growth, placing
+consolidation on hold is appropriate in light of the weaker outlook. Others should rebuild fiscal room for maneuver
+over time. Where inflation is tame, monetary policy can remain on hold or be eased. However, monetary policy
+needs to be more cautious where inflationary pressures remain elevated and should be supported by macroprudential measures where credit growth and real estate prices are high.
+__________________________________________________________________________________________________________________________
+Prepared by a team from the IMF’s Research Department, led by Hamid Faruqee and Emil Stavrev and including Florence
+Jaumotte, Vladimir Klyuev, Eric Bang, Chanpheng Fizzarotti, and Anne Lalramnghakhleli Moses.
+
+2
+
+I. RECENT DEVELOPMENTS
+Recent developments point to some stabilization of financial markets and global growth,
+owing to policy actions of major central banks and EU governments. Despite these
+improvements, global recovery remains weak and fragile under the weight of lingering policy
+uncertainty, ongoing economic and fiscal adjustment in advanced countries, and the
+unwinding of credit booms in emerging economies. Notwithstanding recent improvements,
+levels of financial stress remain elevated in the euro area periphery, hindering growth and
+balance sheet repair.
+1.
+Financial markets have improved since September and global growth appears
+to be stabilizing. While the first half of 2012 was marked by a global loss of growth
+momentum and an intensification of financial and economic stress in the euro area (see
+IMF’s October 2012 World Economic Outlook), recent developments point to stabilization,
+following further policy actions:
+
+
+European equities are trading higher. Bond yields in Italy and Spain have come down
+significantly, though they remain at relatively high levels. Periphery bank CDS spreads
+have also fallen somewhat and there has been some pickup in bank debt issuance,
+especially by stronger institutions. There are some early indications that acute capital
+outflow pressures from the periphery may have begun to ease, as reflected by the
+slight narrowing of TARGET2 imbalances. In the United States, the announcement of
+QE3 led to a strong decline in MBS yields, which may help support the housing
+recovery, and a fall of short-term interest rate expectations due to the extension of
+the forward guidance.
+Euro Area: 10-year Bond Yields in
+Selected Countries
+(percent)
+8
+7
+
+Spain
+Belgium
+Germany
+
+Italy
+France
+
+Implied Equity Volatility
+(percent)
+LTRO
+
+60
+
+Draghi speech
+
+OMT
+
+QE3
+
+50
+
+6
+VSTOXX index;
+Euro Stoxx 50
+
+40
+
+5
+4
+
+30
+
+3
+20
+
+2
+
+11/6
+1
+10
+Jan-10 Jul-10 Jan-11 Jul-11 Jan-12 Jul-12
+May-11
+Source: Bloomberg L.P.
+
+
+
+VIX index;
+S&P500
+
+Sep-11
+
+Jan-12
+
+11/6
+
+May-12
+
+Sep-12
+
+Source: Bloomberg L.P.
+
+The latest high-frequency indicators suggest that global GDP growth might be
+stabilizing, albeit at a sluggish rate. Recent economic indicators have been stronger-
+
+3
+than-expected in the United States, as the recovery in the housing sector continued
+and consumer spending picked up, while in the euro area activity remains weak.
+However, unemployment remains unacceptably high in most advanced economies.
+There are signs that a broad recovery is underway in Brazil, as reflected in indicators
+of retail sales, industrial production, and confidence; India is benefitting from a
+financial markets rally after its announcement of reforms (to FDI and subsidies); and
+growth in China appears to be stabilizing. In contrast, growth in Russia has been
+decelerating since the second quarter of this year, amid weak external demand.
+2.
+Recent stabilization comes on the heels of further monetary policy easing and
+other supportive actions. Unconventional monetary policy has been at the heart of the
+policy response in advanced economies, while emerging markets have also eased
+considerably.
+
+
+The firewall of the euro area has been strengthened with the activation of the
+European Stability Mechanism (ESM). The introduction of the ECB’s Outright
+Monetary Transactions (OMT) expanded the policy armor in a significant way,
+allowing effective intervention in dislocated bond markets. Under the OMT, the ECB
+can purchase sovereign bonds in the secondary market without ex ante limit or
+seniority but under strict conditionality for countries with EFSF/ESM access. This is
+aimed at repairing the monetary policy transmission to the real economy throughout
+the euro area and addressing severe distortions in government bond markets
+originating from investor fears about EMU viability. EU leaders have also recently
+agreed on a single supervisory mechanism for euro area banks, which will open the
+possibility for the ESM to recapitalize banks directly, although complex issues still
+have to be resolved, including valuation of troubled assets. In the meantime,
+periphery countries are pressing ahead with significant fiscal adjustment and
+structural reform.
+
+
+
+Other major central banks have announced additional quantitative easing to support
+activity and demand. The Fed has announced it will start purchasing additional MBS
+at a pace of US$40 billion per month. It has also extended its forward guidance,
+noting that economic conditions are likely to warrant exceptionally low levels for the
+federal funds rate at least through mid-2015. The Bank of Japan recently further
+eased monetary policy through expanding its asset purchase program by about 2
+percent of GDP. The Bank of England has expanded its quantitative easing program
+and launched an innovative Funding for Lending Scheme to encourage credit flow to
+the nonfinancial private sector.
+
+
+
+In G-20 emerging economies, many central banks have postponed anticipated
+monetary tightening and some—including Brazil, China and South Africa—have cut
+
+4
+policy rates. Fiscal tightening was also postponed in several economies. In Russia,
+policy rates were raised in September, despite the growing signs of economic
+slowdown, to anchor inflation expectations amid rising headline inflation.
+3.
+Despite the latest improvements, recovery in advanced economies is being held
+back by lingering uncertainty about the course of policy, as well as tight financial
+conditions, balance sheet repair, and ongoing fiscal consolidation.
+
+
+Uncertainty about the policy course in major G-20 economies continues weighing on
+confidence, financial markets, and baseline growth. While the announcement of OMT
+has supported market confidence and
+Economic Policy Uncertainty
+300
+reduced convertibility risks within the euro
+U.S. policy uncertainty index 1/
+European policy uncertainty index 2/
+250
+area, uncertainties remain on its activation
+and further steps are needed toward 200
+establishing a banking union and greater 150
+fiscal integration. Moreover, market concerns 100
+remain
+heightened
+about
+economic
+50
+Oct. 12
+fundamentals and policy adjustment in
+0
+00
+02
+04
+06
+08
+10
+12
+periphery countries. This uncertainty has
+Source: http://www.policyuncertainty.com.
+resulted in high borrowing costs for both
+1/ The index is constructed from three types of
+underlying components: newspaper coverage of
+governments and private agents in several
+policy-related economic uncertainty, federal tax
+code provisions set to expire in future years, and
+countries (Box 1). Political impasse on fiscal
+disagreement among economic forecasters as a
+proxy for uncertainty.
+issues in the U.S. and Japan also creates
+2/ The index is constructed from two types of
+further uncertainty, affecting business
+underlying components: newspaper coverage of
+policy-related economic uncertainty and
+confidence. Critical decisions remain to be
+disagreement among economic forecasters as a
+proxy for uncertainty.
+taken on both the short-term and long-term
+path of U.S. fiscal policy, and in Japan, budget funding problems should be resolved.
+
+
+
+At the same time, still weak private and public balance sheets are weighing on
+demand. High household debt reduces creditworthiness and impels saving and
+caution with new borrowing, while banks maintain tight lending standards—partly in
+response to market and regulatory pressures to reduce leverage and strengthen
+capital buffers. As a result, both supply of and demand for credit are squeezed,
+depressing consumption and investment.
+
+
+
+In addition, growth is weaker because of ongoing fiscal adjustment, which seems to be
+having more pronounced effects than anticipated. This likely reflects multiple
+prevailing factors: policy rates are at or close to the zero bound in major advanced
+economies, limiting the space for monetary policy support to accompany
+consolidation; many countries are pursuing consolidation simultaneously, limiting
+
+5
+offsets from external demand; and ―crowding in‖ effects on other private spending
+may be weaker than otherwise, given uncertainty and balance sheet repair.
+4.
+Activity in emerging economies is also being held back—by spillovers from
+advanced economies and domestic factors. Weak external demand provides a challenging
+environment. In some cases, financial channels add to the pressure with international
+investors staying away from EM equity markets, though inflows into EM bonds continued
+through the year. At the same time, in a number
+Total Flows
+(billions of U.S. dollars; mutual funds)
+of emerging economies domestic demand has
+Bond
+Equity
+Total
+weakened, particularly investment. In some 20
+cases (e.g., in China) the key factor has been the
+15
+lagged effect of earlier policy tightening
+10
+undertaken in response to rising inflationary
+5
+pressures and threats of credit and asset price
+0
+bubbles. In other cases, waning business
+-5
+confidence also plays an important role in
+pulling down investment, reflecting for instance -10
+increased policy and regulatory uncertainty as -15
+Sep.12
+10
+11
+12
+well as binding infrastructural bottlenecks in
+Source: Haver Analytics.
+India. Recent steps toward reform in India are
+welcome in this respect.
+
+6
+
+Box 1: Financial Fragmentation in the Euro Area
+Despite some recent easing of capital outflows from the periphery and improved
+prospects, financial fragmentation in the euro area remains an issue.
+Euro area financial fragmentation intensified in the first half of 2012, as capital flowed
+from periphery to core and outside the euro area. Investors reduced their exposure to
+periphery countries and hedged against convertibility risk by matching their periphery
+assets and liabilities country by country. Capital outflows from Spain and Italy were
+sizeable in the past year, though they started abating for Italy in the second quarter of
+2012. Private capital outflows took the form of sharp reductions in cross-border bank
+lending, portfolio outflows (especially out of sovereign bonds but also corporate bonds in
+Spain) and deposit outflows from the periphery. Capital outflows gave rise to large
+TARGET2 (i.e., cross-border settlement) imbalances and private funding has been replaced
+mainly with periphery banks drawing on the Eurosystem through ECB liquidity operations.
+Financial fragmentation was also manifested in a large divergence of funding costs and
+CDS spreads for sovereigns, banks, and the non-financial corporate sector.
+Following the ECB’s announcement of OMT, there are early indications that capital
+outflow pressures in the periphery may have begun to ease—reflected in the latest data
+(i.e., narrower cross-border claims via the ECB under TARGET2). Sovereign and bank CDS
+spreads have also declined but remain elevated. This suggests financial fragmentation
+remains an issue and limits significantly the effectiveness of the common monetary policy
+and low policy rates.
+Periphery Minus Core Credit Default
+Swap Spreads
+
+Claims of euro area NCBs against
+the ECB
+(Billions of euros)
+
+500
+
+1000
+Spain
+
+800
+
+Italy
+
+(basis points)
+Sovereigns
+
+Banks
+
+Germany
+
+400
+
+600
+400
+
+300
+
+200
+
+200
+
+0
+-200
+
+100
+
+-400
+
+10/22
+
+-600
+
+Sep. 12
+
+-800
+Jul-11
+
+Oct-11
+
+Jan-12
+
+Source: Bloomberg.
+
+Apr-12
+
+Jul-12
+
+0
+Jan-11
+
+Jul-11
+
+Jan-12
+
+Jul-12
+
+Sources: Bloomberg, L.P.; and IMF staff estimates.
+Note: Sovereign index is weighted by GDP, the
+bank index is weighted by assets.
+
+7
+5.
+There have also been a number of supply shocks, leading food and energy
+prices to escalate in the third quarter. Setbacks to the global recovery, particularly in
+emerging markets, led to falling commodity
+IMF Daily Commodity Price Indices
+prices in the second quarter but the third quarter
+(Jan. 3, 2011 = 100)
+was marred by supply shocks. In oil, prices have 140
+130
+rebounded after Q2 as the market tightened
+120
+again. This reflected a decline in oil supply due to 110
+maintenance issues at major fields in the North 100
+Sea; and reduced exports from Iran, as U.S.
+90
+80
+sanctions and the EU oil embargo have come into
+Metals
+70
+effect. In food, weather-related supply disruptions
+Food
+60
+Agricultural raw materials
+for key crops (soybean, corn, and wheat) led to
+50
+Crude oil
+higher food prices, and despite some recent
+11/6
+40
+Jan-11
+Jul-11
+Jan-12
+Jul-12
+relief, risks are tilted to the upside. The sharp
+Source: Bloomberg L.P.
+increases in energy and food prices is denting
+purchasing power and complicating monetary and fiscal policy, especially in countries with
+large food and oil subsidies.
+6.
+Exchange rates have responded following recent central bank actions. Most
+notably, the euro has strengthened in real effective terms recently, indicating that ECB action
+has so far been successful in reducing market concerns about convertibility risk within the
+euro area. Partly reflecting a stronger euro, the U.S. dollar and the Japanese yen have
+reversed part of their appreciations earlier this year. So far the currencies of emerging
+economies do not appear to have been affected
+Real Effective Exchange Rates
+much by announced additional quantitative easing
+(Jan. 2012 = 100)
+measures by major central banks; however it may 112
+United States
+United Kingdom
+be too early to assess any direct implications on
+Euro area
+Japan
+108
+currencies (see Box 2 below). The currencies of
+Brazil and China have weakened somewhat in real 104
+effective terms recently, but some nominal
+appreciation pressures have reemerged in Brazil as 100
+the global financial market sentiment improved
+96
+and Brazil’s central bank has responded by
+Oct. 12
+intervening modestly. The Indian rupee has
+92
+Jan-12 Mar-12 May-12 Jul-12 Sep-12
+rebounded strongly but mostly on account of
+Source: IMF, Global Data Source.
+recent reform announcements. The Russian ruble
+has moved closely in line with oil prices, and the
+pickup in inflation also contributed to the recent considerable appreciation of the ruble in
+real effective terms.
+
+8
+
+II. OUTLOOK & RISKS
+The outlook is for a modest reacceleration of activity provided that major policy mistakes are
+avoided and efforts are made to further build on the commitments aimed at maintaining euro
+area integrity. Downside risks remain considerable, however. One risk is that policies are not
+implemented decisively enough in the euro area. Other risks stem from abrupt tightening of
+U.S. fiscal policy or uncertainty about raising the debt ceiling could hurt markets and growth.
+Risks also flow from the absence of sufficiently ambitious medium-term fiscal consolidation
+plans in the United States and Japan. Finally, potential output growth may have been
+overestimated in both advanced and emerging economies, and a reevaluation of future
+prospects could dampen current activity.
+7.
+A modest reacceleration of activity is expected, assuming policies are
+sufficiently supportive. Recent developments so far support staff’s projection of a slow
+reacceleration of growth. The WEO’s forecast of a pickup in activity is however predicated on
+two critical assumptions. The first is that policies are implemented decisively in the euro area
+to gradually restore confidence and ease financial conditions. The second assumption is that
+U.S. policymakers will effectively avoid the fiscal cliff and raise the debt ceiling. Absent such
+actions, the world could slide into another downturn, with deep recession in the euro area
+periphery, and contraction or stagnation in the core and other advanced economies.
+8.
+Global output is projected to modestly
+expand by 3.3 percent in 2012 and 3.6 percent
+in 2013. Both numbers are weaker than envisaged
+in April. G-20 advanced economies would only grow
+by 1.6 percent a year in both 2012 and 2013. G-20
+emerging economies will remain an engine of
+growth, but the rate of expansion is expected to
+drop to 5.6 percent this year from 7.1 percent in
+2011, before rebounding to 6.2 percent in 2013 in
+response to easier macroeconomic policies.
+However, growth could be much lower if either of
+the two critical policy assumptions is not satisfied.
+
+Global Real GDP Growth
+(percent; quarter over quarter annualized)
+15
+
+World
+
+Emerging
+
+Advanced
+
+10
+5
+
+0
+-5
+
+13Q4
+
+-10
+05
+
+06
+
+07
+
+08
+
+09
+
+10
+
+11
+
+12
+
+13
+
+Sources: IMF, Global Data Source; and IMF staff
+estimates.
+
+9.
+Inflation is expected to continue moderating. Core inflation has generally been
+subdued and steady in advanced economies at rates below target and has declined in
+emerging economies. There is concern, however, that swollen central bank balance sheets
+would ultimately lead to a significant rise of the money supply and thus inflation. Central
+banks though have sufficient tools to absorb the liquidity they create to forestall future
+inflation but will need to remain vigilant to such risks as economic slack diminishes. At the
+
+9
+current juncture, ample slack in many advanced economies and less pressure on capacity in
+emerging economies are likely to lead to further declines in inflation. However, this forecast
+is predicated on stable or declining commodity prices as predicted by futures markets. A
+reversal of food price increases is by no means guaranteed, partly due to low buffer stocks.
+Another important concern is the possibility of a sharp spike in oil prices triggered by
+geopolitical tensions (as discussed in the June 2012 Global Risk Analysis report).1
+10.
+Uncertainty about the outlook and downside risks remains considerable. While
+downside risks may have diminished somewhat lately, they still appear much higher than
+half a year ago. The probability of global growth falling below 2 percent in 2013—a number
+consistent with recession in advanced economies and a serious slowdown in emerging
+market and developing economies—stood at about 17 percent in September, up from about
+4 percent in April. Considerable threats to sustained recovery loom in different corners of the
+world.
+11.
+Financial conditions in the euro area remain fragile and implementation risks
+are present. While ECB action has taken some major tail risks off the table, political
+economy factors may prevent countries from requesting ESM programs and accessing the
+OMT in a timely fashion. Another risk is that austerity may become politically and socially
+untenable in periphery countries, as structural and fiscal reforms will still take years to
+complete. Moreover, the critical elements of establishing a banking union with common
+fiscal backstops will take some time to implement. A re-intensification of stresses would
+result in rising spreads and contracting credit, and governments under pressure would be
+forced to implement even further fiscal adjustment, resulting in larger GDP losses and
+significant spillovers on other economies.
+
+1
+
+http://www.imf.org/external/np/g20/pdf/map2012/annex1.pdf
+
+10
+12.
+U.S. fiscal policy is another major source of risk that is fast approaching. In
+particular:
+
+
+Current law implies automatic tax increases
+and spending cuts amounting to $700 billion
+in 2013—a tightening of around 4 ½ percent
+of GDP. If realized, this would push the
+country into a recession with large
+international spillovers. The severity of the
+economic effects would partly depend on the
+duration of the cliff. Even if the ―fiscal cliff‖
+were quickly unwound, the damage to the
+economy could be substantial, especially if
+consumers and businesses were faced with
+continued uncertainty about tax and
+spending policies.
+
+Composition of U.S. Fiscal Cliff
+5.0
+
+(percent of GDP)
+
+4.5
+
+Other spending 1/
+
+4.0
+
+Spending sequester
+
+3.5
+
+Spending:
+$120 bn
+
+Other revenues 2/
+
+3.0
+2.5
+2.0
+1.5
+1.0
+0.5
+0.0
+
+Total:
+$710
+bn
+
+Payroll tax cut
+Alternative
+Minimum Tax
+(AMT)
+Bush tax cuts (incl.
+interactions with
+AMT)
+
+Revenues:
+$590 bn
+
+Calendar Year 2013
+Sources: CBO and Fund staff estimates.
+1/ Emergency unemployment benefits, Medicare
+payments to physicians.
+2/ Bonus depreciation, health care reform, various
+tax credits.
+
+
+
+Moreover, the absence of a deal on raising
+the debt ceiling also conjures up the specter of a dramatic tightening or even
+technical default. Failing to do this in a timely fashion adds to risk of financial market
+volatility. While investors are treating such events as tail risks—as U.S. policymakers
+have in the past always been able to pull back from the brink—the shocks, if realized,
+will be very large.
+
+
+
+At the same time, U.S. debt dynamics are not sustainable over the long run. Failing to
+agree soon on a credible plan to put the federal debt on a sustainable path could
+exacerbate uncertainty and thereby detract from activity; over the medium to longterm, it could lead to a gradual erosion of the reserve currency status of the U.S.
+dollar and put upward pressure on Treasury bond yields.
+
+13.
+Japan’s fiscal situation is also unsustainable, despite the approval of the phased
+increase in the consumption tax rate. There are indications of investor concern about
+heightened exchange rate risk and interest rate volatility at longer horizons (even if current
+yields are at multi-year lows), given large holdings of public debt by the financial sector.
+Therefore, there is a risk of large and disorderly correction in market pricing of these risks.
+14.
+Potential growth may be lower in both advanced and emerging economies.
+Recent growth disappointments may be symptomatic of deeper problems.
+
+
+In advanced economies, the impact of the financial crisis and prolonged economic
+slump on investment, labor supply, human capital and technological progress—and
+hence on potential output—may be larger than already assumed. The high share of
+
+11
+long-term unemployed is losing valuable skills and attachment to the labor market.
+With growth in advanced economies expected to remain sluggish for some time and
+with risks of setbacks, this creates a very challenging environment for emerging and
+developing economies. Emerging Europe looks particularly vulnerable to spillovers
+from advanced economies given their limited policy space.
+
+
+In emerging economies, strong growth over the last few years may have been aided
+by favorable terms of trade, easy funding conditions, and difficult-to-sustain credit
+expansion, with actual growth getting ahead of underlying potential. Hence, with
+credit booms unwinding, domestic demand could be slowing fast and could be
+amplified by a reevaluation of medium-term growth prospects and risks, both via
+income expectations and because of heightened concerns about banks and the
+sustainability of adjustment efforts. Importantly, a slowdown in major emerging
+economies would have a noticeable impact on their trading partners as well as on
+commodity exporters.
+
+15.
+Growth could also be stronger—if policymakers act quickly to further
+strengthen policies. In the euro area, presenting a credible roadmap toward a banking
+union with greater fiscal integration followed promptly by implementation—such as putting
+in place a bank resolution mechanism with common backstops, or concrete measures
+toward fiscal integration—would help reverse capital outflows from the periphery. In this
+scenario, funding costs could normalize, credit channels would reopen, and economic
+growth would return to the periphery and pick up in the core. Most other parts of the world
+would also see a noticeable output increase relative to the baseline. In the United States,
+early agreement on raising the debt ceiling and dealing with the ―fiscal cliff‖—in a manner
+that does not postpone the problem—could help strengthen baseline policies. In the United
+States and Japan, durably addressing their fiscal challenges quickly would help lift global
+uncertainty and boost global growth prospects, while solidifying their position as safe
+havens.
+
+12
+
+III. POLICY IMPERATIVES
+The main challenge for policymakers is to act forcefully to address downside risks with strong
+policy implementation; durable medium-term fiscal adjustment; and targeted structural
+reform. In the euro area—building on OMT and ESM activation, further action is also needed to
+strengthen banks, address structural shortcomings and complete EMU. Circumstances vary
+across emerging markets, but many should act to restore fiscal buffers over time, use monetary
+policy to guard against downside risks, and rely on macro-prudential measures to safeguard
+financial stability. Continued demand rebalancing from deficit to surplus economies would
+strengthen global growth and, if done properly, would help resolve their internal imbalances.
+16.
+In the euro area, robust action and follow-through are required on multiple
+fronts. Sovereigns under stress need to continue to adjust and request appropriate
+EFSF/ESM support if needed; and support for them and their banks provided via the ESM
+would relieve funding pressures and break the adverse feedback loops between sovereigns
+and banks. Meanwhile, the ECB’s commitment to act on secondary markets via the OMT is
+critical to address elevated risk premia due to convertibility concerns within the euro area,
+while maintaining a very accommodative monetary policy should support demand. Anticrisis measures need to be anchored by a vision of—as well as a reasonably fast and tangible
+progress toward—a more complete monetary union, supported by a banking union and
+greater fiscal integration.
+
+
+Access to funding at reasonable costs is essential to allow economies to adjust
+successfully. While economies in the periphery must continue to adjust their fiscal
+balances at a pace they can bear, in the current fragile environment, putting in place
+the right policies may not be sufficient to fully restore the confidence of markets, not
+least because of implementation risks. Lower interest rates and easier financial
+conditions are key factors to facilitate balance sheet repair and support growth in the
+periphery. Common resources can be channeled via the ESM, and additional support
+should be provided through the OMT for eligible euro area members.
+
+
+
+Further repairing banks’ balance sheets while avoiding a pro-cyclical financial
+tightening are also crucial in the near term. While viable banks should be recapitalized,
+non-viable ones should be resolved, in a least-cost manner. Where recapitalization of
+banks threatens public debt sustainability and/or financial stability, direct equity
+injections into banks are instrumental for cutting adverse bank-sovereign loops and
+could be done through the ESM. Clarity on the specific terms of ESM bank
+recapitalization options is needed soon. For this to happen, common bank
+supervision—a precondition for ESM taking stakes in banks—should be established
+without delay. While the recapitalization exercise launched by the EBA in October
+2011 has helped strengthen the capital position of many European banks, they should
+
+13
+aim at further rebuilding of capital levels to restore market confidence, especially in
+periphery countries, where the sharp deteriorations of the outlook could further test
+the adequacy of capital buffers. For this, external support may be instrumental to
+avoid an even deeper credit crunch.
+
+
+An integrated regulatory and supervisory structure—a banking union—is indispensable
+for smooth functioning of integrated financial markets in EMU. Such a union should
+rest on a single supervisory-regulatory framework; a pan euro area resolution
+mechanism with common backstops; and a pan euro area deposit guarantee scheme.
+Some building blocks are already shaping up, but there can be no let up in the
+momentum to put in place the complete structure and reaching agreement on
+contentious but critical components. Also, agreement would be needed on
+governance arrangements and voice for non euro area EU members who may wish to
+opt into a banking union (given close financial ties and the potential benefits) but who
+do not necessarily adopt the euro.
+
+
+
+Fiscal integration would provide critical tools to backstop a banking union; help prevent
+idiosyncratic shocks from becoming systemic; and constrain imprudent policies. The
+immediate priority is to establish a common fiscal backstop and resolution framework
+for a banking union anchored by a single supervisory mechanism. Beyond that, larger
+fiscal buffers at the national level would go some way toward smoothing the impact
+of adverse country-specific shocks. But given their magnitude, and recognizing the
+greater political complexity of fiscal union, some form of risk sharing at the euro area
+level might also be warranted within the union. Greater fiscal integration would also
+help manage perceived default risks that have arisen from sovereign-bank stresses in
+economies under market pressure and their spillovers to other members. Crucially,
+mutual support needs to be complemented by stricter and more robustly enforced
+rules and greater coordination of national policies—including through swift approval
+and implementation of the Fiscal Compact (at the country level).
+
+17.
+Fiscal consolidation should be gradual and sustained. Considerable adjustment
+has already occurred, but many advanced economies still have a long way to go. On
+average, in advanced economies, the ratio of cyclically-adjusted general government
+balances to potential GDP is projected to improve by about ¾ percent of potential GDP in
+2012 and 1 percent in 2013. In emerging economies as a group, no substantial consolidation
+is envisaged for this year or next.
+
+
+It is essential to calibrate the pace of adjustment with both the state of the economy
+and funding pressures in mind. The amount of planned fiscal consolidation in
+advanced economies appears relatively sizable over the near term—consistent with
+high debt and the slight increase in economic growth projected in the WEO—
+although with significant differences across countries. Where financial conditions
+
+14
+permit, automatic stabilizers should be allowed to operate, and fiscal targets should
+be specified in cyclically-adjusted or structural terms. In case of large negative shocks
+or growth disappointments, the pace of consolidation should be smoothed in
+countries that can afford it.
+
+
+U.S. authorities should act early to avoid the fiscal cliff and raise the debt ceiling. While
+markets view a major disruption associated with these issues as a tail risk, the
+uncertainty about when and how they will be resolved may be weighing on demand.
+Importantly, a last minute deal that relies on suboptimal fixes or largely ―kicks the can
+down the road‖ may ultimately prove harmful. Moreover, if contrary to the
+expectations a resolution is not found, confidence in U.S. policymakers will erode—
+which could have large domestic and international ramifications.
+
+
+
+Fiscal adjustment must be anchored by concrete and ambitious medium-term
+consolidation plans. At the moment, the U.S. lacks agreement on such a plan, and
+Japan’s plan needs to be strengthened further despite the recent welcome approval
+of a timetable for doubling the consumption tax rate. Adjustments would be required
+on both expenditure and revenue sides of the ledger. It is important to move early to
+reduce the growth of aging-related expenditures—and while some measures have
+been enacted in Europe to reduce retirement costs, more can be done in all
+advanced economies, particularly to lower health-related spending. More robust
+fiscal frameworks would support the credibility of adjustment plans.
+
+
+
+Emerging markets are generally in better fiscal position but some still need to rebuild
+room for maneuver. On average, G-20 emerging economies have much lower public
+debt than advanced economies. However, historically, market tolerance though
+toward EM debt has also been lower, and fiscal buffers could thus be usefully
+restored over time. In particular, medium-term fiscal targets should be more
+ambitious in Russia (to reduce the non-oil deficit and improve intergenerational
+equity) and Turkey (to support external adjustment and reduce pressure on the
+central bank). India needs to adopt substantial fiscal reforms to anchor medium-term
+fiscal consolidation. While fiscal consolidation has stalled this year, a high level
+commission has presented a new medium-term road map. Recent steps to reduce
+fuel subsidies are also welcome. By contrast, economies that have sufficient fiscal
+space (e.g., China) can use discretionary fiscal stimulus with a view of promoting, or
+at least not hindering, the needed rebalancing of the economy towards consumption,
+should downside risks materialize.
+
+18.
+Monetary policy should continue to aid recovery. Central banks have been at the
+forefront of the policy response to the recent global slowdown, and should continue
+supporting the recovery, while managing risks to price stability (Box 2).
+
+15
+
+
+In advanced economies, monetary policy should remain very accommodative and
+central banks should stand ready to do more if needed.
+
+
+
+In Japan, further monetary easing may also be needed to reach the 1 percent inflation
+goal. The effectiveness of the easing in Japan would be enhanced by broadening
+asset purchases to include more equities and corporate bonds and government
+bonds with longer maturities and by simultaneously adopting broad structural and
+fiscal reforms to achieve a sustained recovery. In the U.S., improving the transmission
+of the monetary easing would require resolution of the household debt overhang. In
+the euro area, restoring the transmission channel requires addressing counterparty
+risk in the interbank market and the redenomination risk. Central banks should also
+carefully monitor unintended consequences their policies might have, for instance on
+sovereign-bank linkages, corporate leverage, and financial innovation as well as
+external spillovers.
+
+
+
+Policy requirements differ vastly among emerging economies, but many can afford to
+stay on hold or ease if downside risks materialize given the receding inflation pressures.
+Nevertheless, some countries in Asia and Latin America face late-cycle credit risks as
+nonperforming loans have started to turn up, which constrains space for financial
+policies. Some countries (e.g., Argentina and India) should remain watchful of
+inflationary pressures and cannot afford to lower interest rates further. In Brazil,
+policymakers should stand ready to start unwinding monetary stimulus as the
+recovery proceeds in order to securely anchor inflation expectations. Room for
+monetary easing may also be limited where a strong credit expansion continues or
+where currencies are undervalued. If needed to support demand, fiscal policy—
+provided space is available—may be the appropriate tool in such cases.
+
+16
+
+Box 2: Unconventional Monetary Policies—How Might They Work?
+Major central banks have announced new unconventional policy measures recently: the ECB’s Outright
+Monetary Transactions (OMT), the Fed’s QE3, the BOE's extension of its QE and new Funding for Lending
+Scheme (FLS), and the BOJ’s expansion of its asset purchase program. While broadly grouped under
+―unconventional monetary policy‖, they vary in design and rationale. For instance, in the United States, QE1
+was undertaken to intervene directly in specific dislocated segments of the credit markets (i.e., ―credit
+easing‖), but the purpose of QE2, Operation Twist (OT), and recent QE3 was mainly to lower long-term
+yields. Several ECB measures—SMP, LTROs, and the recent OMT—have aimed to remove multiple equilibria
+and reduce rollover or convertibility risks within the euro area as part of broader crisis management
+measures. The main goal of the BOJ’s monetary easing policies is to defeat deflation, and the BOE intends to
+ease bank credit conditions by intervening through its new FLS.
+Quantitative easing has aimed at stimulating demand and preventing a sharper deterioration in
+financial conditions since the onset of the crisis. Measures operate through various channels. By lowering
+the ―risk-free‖ rate, they may lead to asset reallocation toward risky assets and lower equilibrium risk
+premium (portfolio rebalancing effect). The corresponding rise in asset values can stimulate consumption
+through wealth effects and investment through a lower cost of capital (liquidity effect). They may also have
+signaling effect by anchoring market expectations that monetary stimulus will not be withdrawn until a
+durable recovery is in sight. Another channel is the exchange rate, though its strength is reduced when
+other central banks act at the same time. While there is a wide range of estimates, various studies have
+found that previous Fed’s policies—QE1, QE2, and OT—reduced the 10-year Treasury yields meaningfully.
+Forward guidance on the path of the policy rate over a longer period also helped to lower rates across the
+yield curve. Although growth effects are difficult to ascertain, the impact on yields in the case of QE1 is
+estimated to have boosted growth by ¼ to ½ percentage points over two years. Similarly, the BOE’s QE1 in
+2009 lowered sovereign yields significantly, boosting GDP by an estimated 1½ to 2 percent. The BOE’s QE2
+in 2011–12 brought more muted market reactions, partly due to market anticipation ahead of the actual
+announcement. Staff studies find that BOJ’s monetary easing through its new asset purchase program
+(currently totaling 17 percent of GDP), has been effective in supporting activity and inflation, lowering bond
+yields, and raising equity prices.
+While policy benefits are often the focus, unintended consequences should be monitored closely.
+Very low interest rates can adversely affect short-term money market functioning and delay needed balance
+sheet restructuring of financial institutions. Beyond possible untoward domestic effects including excessive
+risk taking and leverage, very accommodative monetary policies of advanced economies (AEs) have raised
+concerns in emerging economies (EMs) about surges in capital inflows and upward pressures on exchange
+rates, especially in those with more open capital accounts. Staff analysis suggests that unconventional
+easing in AEs can impart temporary appreciation pressures in some EMs1; however, stronger demand in AEs
+can benefit them through higher exports and broader confidence effects. Studies also emphasize as much a
+role of pull factors (e.g., better growth outlook in EMs) as that of push factors (low interest rates in AEs) in
+international spillovers. However, one has to acknowledge that there may be risks of global credit
+mispricing, reflected by excessive tightening in EM credit spreads for some, due to the combination of low
+yields in AEs and rigidity of exchange rate policies in some EMs.
+____________________________
+1
+
+See, for example, 2011 U.S. spillover report (http://www.imf.org/external/pubs/ft/scr/2011/cr11203.pdf)
+
+17
+19.
+Prudential authorities must control credit risks. In advanced economies, prudential
+authorities must continue to push balance sheet repair and, where necessary, impose losses
+on bank stakeholders and force recapitalization, which may require using public funds. In
+emerging economies, supervisory and macro-prudential measures should be employed to
+counter possible credit bubbles, such as for real estate; countries exposed to volatile capital
+flows should strengthen their macroprudential frameworks. Such measures could also be
+used to smooth volatile capital flows.
+20.
+For emerging economies, rising food prices present particular challenges, given
+their high weight in consumption, notably for poorer households. Central banks should
+not react to first-round effects of food price increases but should communicate clearly their
+intent to tighten if second-round pressures start building to prevent spillovers into core
+inflation, wages and expectations more generally. Vulnerable groups should be protected
+through targeted transfers rather than broad subsidies to contain fiscal costs, while meeting
+social objectives. Countries that face incipient trade pressures should access multilateral
+finance to support balance of payments needs. Food-exporting countries should avoid
+protective trade policies such as export bans and export taxes and quotas, which would
+further drive up food prices and volatility. International coordination of responses—
+including via G-20 initiatives—would help address the issue, if food prices continue to rise.
+21.
+The financial regulatory reform agenda has been advanced, but implementation
+is still in early stages and the global financial system is not appreciably safer than
+before the crisis. Risks related to delayed or inconsistent implementation across economies
+could create opportunities for regulatory arbitrage, gaps, or conflicts in regulation—which
+could undermine financial stability and ultimately harm members’ growth objectives. It is
+crucial to strike a proper balance between the necessary strengthening of the resilience of
+the financial system and the need to cushion the impact of the adjustment on economic
+activity. Key areas of attention for further progress include cross-border resolution and
+supervision, the too-important-to-fail issue, consistent implementation of the reforms in the
+over-the-counter derivatives market, and closing critical information gaps.
+22.
+Global imbalances have narrowed considerably, but largely on the back of
+slumping demand. Much of the adjustment in current accounts came from demand
+compression in crisis-stricken deficit economies. More constructive influences—from the
+point of view of supporting global growth—include more robust domestic demand in China
+(although stronger consumption would have been preferable to a boost to already very high
+investment) and more social spending by oil exporters, as well as depreciation in several EM
+deficit currencies. Imbalances have narrowed within the euro area as well, with the main
+driver being lower demand in the periphery. However, there has also been progress with
+relative unit labor cost (ULC) adjustment, as ULC declined in crisis economies (though in part
+
+18
+through apparent productivity gains arising from labor shedding) and increased in some
+surplus countries.
+Current Account Balances
+
+3
+
+(percent of world GDP)
+G-20 adv. surplus
+G-20 emg. deficit
+G-20 large oil exp.
+
+G-20 adv. deficit
+ROW surplus
+G-20
+
+G-20 emg. surplus
+ROW deficit
+
+2
+1
+0
+-1
+
+-2
+-3
+00
+01
+02
+03
+04
+Source: IMF staff estimates.
+
+05
+
+06
+
+07
+
+08
+
+09
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+16
+
+23.
+Policies that support growth and reduce domestic vulnerabilities would lead to
+a further reduction in imbalances. As deficit economies continue necessary fiscal
+consolidation, global growth should be supported by stronger demand from surplus
+economies. That demand can be promoted by boosting investment in advanced surplus
+economies (where it has been lagging), broadening social safety nets in certain emerging
+economies, and, where appropriate, cutting back on reserve accumulation and allowing
+more exchange rate flexibility. Over time, structural reforms would help improve
+competitiveness in deficit economies—including the euro area periphery—and increase the
+reliance of growth on domestic sources in surplus ones. Importantly, these adjustments
+would be in the individual interests of countries concerned (surplus and deficit economies
+alike) and effectively lower global imbalances and related vulnerabilities.
+Euro Area Current Account Balance
+
+Unit Labor Cost Changes in Euro Area
+(EA) Economies
+
+(percent of euro area GDP)
+EA surplus excl. Germany
+Germany
+Periphery 1/
+EA deficit 2/
+
+3
+
+3
+
+Euro area
+
+(percent; change from 2010Q1 to 2012Q1)
+
+2
+
+1
+
+2
+
+0
+-1
+
+1
+
+-2
+
+0
+
+(Arithmetic average)
+(PPP-weighted average)
+
+-3
+
+-1
+
+-4
+-5
+
+-2
+-3
+
+98
+
+00
+
+02
+
+04
+
+06
+
+08
+
+10
+
+12
+
+Source: IMF, World Economic Outlook.
+1/ Greece, Ireland, Italy, Portugal, Spain.
+2/ Excludes five periphery economies.
+
+14
+
+2017
+16
+
+EA economies with
+EA periphery economies
+"excessive" surpluses 2/
+1/
+Source: IMF, World Economic Outlook.
+1/ Greece, Ireland, Italy, Portugal, Spain.
+2/ Classifications based on the IMF Staff's Pilot External
+Sector Report (2012d).
+
+19
+
+Table 1. Real GDP Growth
+(Percent change)
+Year over Year Averages
+Projections
+
+Q4 over Q4
+Projections
+
+2010
+
+2011
+
+2012
+
+2013
+
+2012
+
+2013
+
+World 1/
+Advanced economies
+Euro area
+Emerging market and developing countries 2/
+Advanced G-20
+Emerging G-20
+
+5.1
+3.0
+2.0
+7.4
+2.9
+8.7
+
+3.8
+1.6
+1.4
+6.2
+1.5
+7.1
+
+3.3
+1.3
+-0.4
+5.3
+1.6
+5.6
+
+3.6
+1.5
+0.2
+5.6
+1.6
+6.2
+
+3.0
+1.1
+-0.5
+5.5
+1.2
+5.6
+
+4.0
+2.1
+0.8
+6.2
+2.1
+6.3
+
+G-20 3/
+Argentina 4/
+Australia
+Brazil
+Canada
+China
+France
+Germany
+India
+Indonesia
+Italy
+Japan
+Korea
+Mexico
+Russia
+Saudi Arabia
+South Africa
+T urkey
+United Kingdom
+United States
+European Union
+
+5.4
+9.2
+2.5
+7.5
+3.2
+10.4
+1.7
+4.0
+10.1
+6.2
+1.8
+4.5
+6.3
+5.6
+4.3
+5.1
+2.9
+9.2
+1.8
+2.4
+2.1
+
+4.0
+8.9
+2.1
+2.7
+2.4
+9.2
+1.7
+3.1
+6.8
+6.5
+0.4
+-0.8
+3.6
+3.9
+4.3
+7.1
+3.1
+8.5
+0.8
+1.8
+1.6
+
+3.4
+2.6
+3.3
+1.5
+1.9
+7.8
+0.1
+0.9
+4.9
+6.0
+-2.3
+2.2
+2.7
+3.8
+3.7
+6.0
+2.6
+3.0
+-0.4
+2.2
+-0.2
+
+3.8
+3.1
+3.0
+4.0
+2.0
+8.2
+0.4
+0.9
+6.0
+6.3
+-0.7
+1.2
+3.6
+3.5
+3.8
+4.2
+3.0
+3.5
+1.1
+2.1
+0.5
+
+3.2
+2.0
+2.3
+2.9
+1.7
+7.8
+0.0
+0.9
+5.5
+5.4
+-2.3
+1.6
+3.1
+3.2
+2.5
+…
+2.7
+3.1
+0.0
+1.7
+-0.2
+
+4.0
+3.5
+4.4
+3.8
+2.2
+8.1
+0.8
+1.4
+5.9
+6.6
+0.0
+2.1
+3.5
+4.1
+4.8
+…
+3.3
+3.6
+1.2
+2.5
+1.2
+
+Source: IMF, World Economic Outlook October 2012.
+1/ The quarterly estimates and projections account for 90 percent of the world purchasing-power-parity weights.
+2/ The quarterly estimates and projections account for approximately 80 percent of the emerging market and developing
+countries.
+3/ G-20 aggregations exclude European Union and quarterly projections exclude Saudi Arabia.
+4/ Figures on real GDP growth are based on official data. The IMF has called on Argentina to adopt remedial measures to
+address the quality of the official GDP. The IMF staff is also using alternative measures of GDP growth, including data
+produced by private analysts, which have shown significantly lower real GDP growth than the official data since 2008.
+
+
